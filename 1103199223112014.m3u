@@ -234,6 +234,9 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="Generalistas" tvg-name="Nor Selva TV",Nor Selva TV
 https://live.obslivestream.com/norselvatv/index.m3u8
 
+#EXTINF:-1 tvg-id="QUASSAR TELEVISIÓN" tvg-logo="https://i.postimg.cc/nh3vKq00/QUASSAR-TELEVISI-N.jpg" group-title="Generalistas" tvg-name="QUASSAR TELEVISIÓN",QUASSAR TELEVISIÓN
+https://gnstreammedia.com:19360/4000/4000.m3u8
+
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
