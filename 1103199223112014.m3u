@@ -276,6 +276,9 @@ http://200.48.184.156:1935/innovatv/innovatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Generalistas" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
+#EXTINF:-1 tvg-id="Nova TV Star" tvg-logo="https://i.postimg.cc/4N3bF8qp/Nova-TV-Star.png" group-title="Generalistas" tvg-name="Nova TV Star",Nova TV Star
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
