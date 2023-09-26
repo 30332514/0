@@ -312,9 +312,6 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="Miel TV" tvg-logo="https://i.postimg.cc/SNsrmVYV/Miel-TV.jpg" group-title="Generalistas" tvg-name="Miel TV",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
-#EXTINF:-1 tvg-id="Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="Generalistas" tvg-name="Inkavisión",Inkavisión
-https://ott1.hdlatam.tv/live_abr/INKAVISION/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DMJ Televisión" tvg-logo="https://i.postimg.cc/3xFQGtbh/dmj.png" group-title="Generalistas" tvg-name="DMJ Televisión",DMJ Televisión
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
@@ -323,6 +320,12 @@ https://tvdatta.com:3602/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Tele 2000" tvg-logo="https://i.postimg.cc/FHyZMY57/tele2000.png" group-title="Generalistas" tvg-name="Tele 2000",Tele 2000
 https://servilive.com:3126/live/tele2000live.m3u8
+
+#EXTINF:-1 tvg-id="Andes Televisión" tvg-logo="https://i.postimg.cc/Y0Wd9mS3/Andes-Televisi-n.jpg" group-title="Generalista" tvg-name="Andes Televisión",Andes Televisión
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="Generalistas" tvg-name="Inkavisión",Inkavisión
+https://ott1.hdlatam.tv/live_abr/INKAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Inka TV" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/foto-perfil-inkafacebook-scaled.jpg" group-title="Generalistas" tvg-name="Radio Inka TV",Radio Inka TV
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
@@ -359,9 +362,6 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w158464
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM" group-title="Generalistas" tvg-name="Extrema TV",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Presencia TV" tvg-logo="https://i.postimg.cc/k5rbYPzw/Presencia-TV.jpg" group-title="Religiosos" tvg-name="Presencia TV",Presencia TV
-https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
