@@ -33,6 +33,12 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/yYNGwDwm/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
 
+#EXTINF:-1 tvg-id="MINEDU IPTV CANAL 1" tvg-logo="https://i.postimg.cc/26fNdvq1/MINEDU-IPTV.png" group-title="Generalistas" tvg-name="MINEDU IPTV CANAL 1",MINEDU IPTV CANAL 1
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MINEDU IPTV CANAL 2" tvg-logo="https://i.postimg.cc/26fNdvq1/MINEDU-IPTV.png" group-title="Generalistas" tvg-name="MINEDU IPTV CANAL 2",MINEDU IPTV CANAL 2
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 
