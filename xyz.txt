@@ -11,7 +11,7 @@ http://www.iptvtools.net/?svc=check
 https://postimages.org/
 
 // Fuentes
-https://github.com/bodegaacuenta/Moyobambaastral
+https://github.com/bodegaacuenta/Moyobambaastral             -   Congreso TV, QUVO, DREAMWORKS
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
 https://github.com/jesaro15/iptv
 https://github.com/iptv-org/iptv/tree/master/streams
