@@ -738,6 +738,9 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tierra Mia" tvg-logo="https://i.postimg.cc/1R06hLh2/Tierra-Mia.jpg" group-title="Musicales" tvg-name="Tierra Mia",Tierra Mia
 http://170.81.240.10:8000/play/a00b/index.m3u8
 
+#EXTINF:-1 tvg-id="RITMO X" tvg-logo="https://i.postimg.cc/wMGDhGsc/RITMO-X.jpg" group-title="Musicales" tvg-name="RITMO X",RITMO X
+http://170.81.240.10:8000/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
 http://45.189.117.202:48000/play/a02s/index.m3u8
 
