@@ -1,3 +1,13 @@
+// Geolocalizador IP
+https://www.elhacker.net/geolocalizacion.html
+
+// Verificador stream
+https://streamtest.in/tools/stream-test
+
+// Verificador
+http://www.iptvtools.net/?svc=check
+
+//Fuentes
 https://github.com/bodegaacuenta/Moyobambaastral
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
 https://github.com/jesaro15/iptv
@@ -5,3 +15,4 @@ https://raw.githubusercontent.com/TUTVLATINA/Sept/main/Grup0
 https://github.com/brunochanrio/Listas-IPTV
 https://tgstat.com/uz/channel/@EXM3U
 http://sultanovic.net/forum/12-2339-350
+https://github.com/Moexin/IPTV/blob/Files/Adult.m3u
