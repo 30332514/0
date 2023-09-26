@@ -15,4 +15,6 @@ https://raw.githubusercontent.com/TUTVLATINA/Sept/main/Grup0
 https://github.com/brunochanrio/Listas-IPTV
 https://tgstat.com/uz/channel/@EXM3U
 http://sultanovic.net/forum/12-2339-350
+https://github.com/MoDz17/IPTV_MoDz
+https://github.com/MoDz17/IPTV_MoDz-Testing
 https://github.com/Moexin/IPTV/blob/Files/Adult.m3u
