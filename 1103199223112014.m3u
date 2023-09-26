@@ -171,6 +171,9 @@ https://ott1.hdlatam.tv/live/SRT_PiuraTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://stmv1.srvif.com/radiotvcatacaos/radiotvcatacaos/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CUMO TV" tvg-logo="https://i.postimg.cc/XJs71pcn/CUMOTV.png" group-title="Generalistas" tvg-name="CUMO TV",CUMO TV
+https://live.obslivestream.com/cumo/index.m3u8
+
 #EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
 
