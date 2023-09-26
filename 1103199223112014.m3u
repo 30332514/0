@@ -1212,6 +1212,9 @@ https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1018973113_b1896
 #EXTINF:-1 tvg-id="Jenny Live" tvg-logo="https://i.postimg.cc/43LWL6mV/jennylive.jpg" group-title="Entretenimiento" tvg-name="Jenny Live",Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/chunklist_w89101115_b1896000.m3u8
 
+#EXTINF:-1 tvg-id="Fashion TV 4K" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV 4K",Fashion TV 4K
+http://194.145.202.71:8087/udp/239.254.1.151:6060
+
 #EXTINF:-1 tvg-id="Fashion TV Midnight Haute" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV Midnight Haute",Fashion TV Midnight Haute
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
