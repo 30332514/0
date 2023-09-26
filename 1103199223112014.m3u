@@ -258,6 +258,9 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.postimg.cc/7L28Yv6v/megatvjaen.jpg" group-title="Generalistas" tvg-name="Mega TV",Mega TV
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
 #EXTINF:-1 tvg-id="Innova TV" tvg-logo="https://play-lh.googleusercontent.com/ZKYIGUiCEX1iPZmVTTjLyAwHPZCXmL60bkaTw1M5tg2ErI7yb21-J20nCTNJTTHRnwY=w2560-h1440-rw" group-title="Generalistas" tvg-name="Innova TV",Innova TV
 http://200.48.184.156:1935/innovatv/innovatv/playlist.m3u8
 
@@ -351,8 +354,8 @@ https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w13442
 #EXTINF:-1 tvg-id="Tropical TV" tvg-logo="https://pbs.twimg.com/media/FSNe1ybXIAAz2_e?format=jpg&name=small" group-title="Generalistas" tvg-name="Tropical TV",Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.postimg.cc/7L28Yv6v/megatvjaen.jpg" group-title="Generalistas" tvg-name="Mega TV",Mega TV
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="MEGA TV" tvg-logo="https://i.postimg.cc/XvyhXJYQ/MEGATV-AQP.jpg" group-title="Generalistas" tvg-name="MEGA TV",MEGA TV
+https://hls.servidor.stream/storage/megatv.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
