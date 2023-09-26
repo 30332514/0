@@ -159,6 +159,9 @@ https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMP TV",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 
+#EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+
 #EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
 http://170.81.240.10:8000/play/a00f/index.m3u8
 
