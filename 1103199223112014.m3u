@@ -321,7 +321,7 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="Tele 2000" tvg-logo="https://i.postimg.cc/FHyZMY57/tele2000.png" group-title="Generalistas" tvg-name="Tele 2000",Tele 2000
 https://servilive.com:3126/live/tele2000live.m3u8
 
-#EXTINF:-1 tvg-id="Andes Televisión" tvg-logo="https://i.postimg.cc/Y0Wd9mS3/Andes-Televisi-n.jpg" group-title="Generalista" tvg-name="Andes Televisión",Andes Televisión
+#EXTINF:-1 tvg-id="Andes Televisión" tvg-logo="https://i.postimg.cc/Y0Wd9mS3/Andes-Televisi-n.jpg" group-title="Generalistas" tvg-name="Andes Televisión",Andes Televisión
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="Generalistas" tvg-name="Inkavisión",Inkavisión
