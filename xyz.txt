@@ -11,6 +11,14 @@ http://www.iptvtools.net/?svc=check
 https://github.com/bodegaacuenta/Moyobambaastral
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
 https://github.com/jesaro15/iptv
+https://github.com/iptv-org/iptv/tree/master/streams
+https://github.com/iptv-org/iptv/blob/master/streams/pe.m3u
+https://github.com/iptv-org/iptv/blob/master/streams/es.m3u
+https://github.com/iptv-org/iptv/blob/master/streams/es_pluto.m3u
+https://github.com/iptv-org/iptv/blob/master/streams/es_rakuten.m3u
+https://github.com/iptv-org/iptv/blob/master/streams/es_samsung.m3u
+https://github.com/iptv-org/iptv/blob/master/streams/es_yowi.m3u
+https://tulistalatinam3u.blogspot.com/p/lista-iptvm3u-tv.html
 https://raw.githubusercontent.com/TUTVLATINA/Sept/main/Grup0
 https://github.com/brunochanrio/Listas-IPTV
 https://tgstat.com/uz/channel/@EXM3U
