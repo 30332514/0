@@ -753,6 +753,9 @@ http://170.81.240.10:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="RITMO X" tvg-logo="https://i.postimg.cc/wMGDhGsc/RITMO-X.jpg" group-title="Musicales" tvg-name="RITMO X",RITMO X
 http://170.81.240.10:8000/play/a00o/index.m3u8
 
+#EXTINF:-1 tvg-id="GALACTICA TV" tvg-logo="https://i.postimg.cc/SQ3LssCX/GALACTICA-TV.jpg" group-title="Musicales" tvg-name="GALACTICA TV",GALACTICA TV
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
 http://45.189.117.202:48000/play/a02s/index.m3u8
 
