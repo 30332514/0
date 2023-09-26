@@ -138,6 +138,9 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Doble C Televisión" tvg-logo="https://i.postimg.cc/kXJ81bQt/Doble-C-Televisi-n.jpg" group-title="Generalistas" tvg-name="Doble C Televisión",Doble C Televisión
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1226123915&_cdn_timestamp=1695679941&_cdn_token=eaca5a07ae62f02f9c18b7253b75a9607c6fc2b1
 
