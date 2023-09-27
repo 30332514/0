@@ -584,9 +584,10 @@ http://200.24.204.242:6020/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
 http://190.116.90.43:8000/play/a00i
+http://170.81.240.10:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://170.81.240.10:8000/play/a012/index.m3u8
+http://170.81.240.10:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://190.116.90.43:8000/play/a00z
@@ -595,13 +596,13 @@ http://190.116.90.43:8000/play/a00z
 http://170.81.240.10:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://181.119.67.75:16123/play/ch18
+http://45.170.225.212:58001/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://190.116.90.43:8000/play/a00h
+http://170.81.240.10:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://177.53.153.21:8001/play/a03a/index.m3u8
+http://170.81.240.10:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
 http://45.228.232.219:16000/play/a0me/index.m3u8
@@ -1435,7 +1436,7 @@ http://190.116.90.43:8000/play/a008
 http://170.81.240.10:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
-http://190.116.90.43:8000/play/a00w
+http://170.81.240.10:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
 http://170.81.240.10:8000/play/a01x/index.m3u8
@@ -1450,25 +1451,25 @@ http://45.71.252.67:8000/play/a0l7/index.m3u8
 http://170.81.240.10:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
-http://190.116.90.43:8000/play/a00p
+http://45.5.119.155:8000/play/a0go/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
 http://170.81.240.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://177.53.153.21:8001/play/a0aw/index.m3u8
+http://45.5.119.155:8000/play/a0kt/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.postimg.cc/bvP9NncZ/UNIVERSAL-CRIME.png" group-title="Películas" tvg-name="UNIVERSAL CRIME",UNIVERSAL CRIME
-http://177.53.153.21:8001/play/a09g/index.m3u8
+http://45.5.117.182:8000/play/a0ij/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://i.postimg.cc/SR9Gxfsz/UNIVERSAL-COMEDY.png" group-title="Películas" tvg-name="UNIVERSAL COMEDY",UNIVERSAL COMEDY
 http://45.170.225.212:58001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/WpSW3PW2/UNIVERSAL-REALITY.png" group-title="Películas" tvg-name="UNIVERSAL REALITY",UNIVERSAL REALITY
-http://45.170.225.212:58001/play/a037/index.m3u8
+http://45.5.119.155:8000/play/a0i3/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-logo="https://i.postimg.cc/SsxjHL3P/UNIVERSAL-PREMIERE.png" group-title="Películas" tvg-name="UNIVERSAL PREMIERE",UNIVERSAL PREMIERE
-http://45.170.225.212:58001/play/a035/index.m3u8
+http://45.5.119.155:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
 http://170.81.240.10:8000/play/a01l/index.m3u8
@@ -1480,16 +1481,16 @@ http://45.5.119.155:8000/play/a03s/index.m3u8
 http://170.81.240.10:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://45.228.232.219:16000/play/a0l9/index.m3u8
+http://45.5.119.155:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
 http://170.81.240.10:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT SERIES",TNT SERIES
-http://45.228.232.219:16000/play/a0ly/index.m3u8
+http://45.5.119.155:8000/play/a0km/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
-http://186.154.219.5:4022/play/a02s
+http://45.5.119.155:8000/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png" group-title="Drama" tvg-name="Baywatch – Los Vigilantes de la Playa",Baywatch – Los Vigilantes de la Playa
 https://d1fbbm0iugalh3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-61f2xc1h8wyl5/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
