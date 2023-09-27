@@ -1372,7 +1372,7 @@ http://170.81.240.10:8000/play/a01j/index.m3u8
 http://45.228.232.219:16000/play/a0m7/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
-http://45.228.232.219:16000/play/a0m5/index.m3u8
+http://45.5.119.155:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://45.5.119.155:8000/play/a0fv/index.m3u8
@@ -1468,7 +1468,7 @@ http://45.170.225.212:58001/play/a035/index.m3u8
 http://170.81.240.10:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://177.53.153.21:8001/play/a06i/index.m3u8
+http://45.5.119.155:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://170.81.240.10:8000/play/a01s/index.m3u8
