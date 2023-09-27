@@ -97,7 +97,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="Generalistas" tvg-name="TeleLima",TeleLima
-https://ott1.hdlatam.tv/live/Telelima/playlist.m3u8
+http://161.132.194.88:7076/play/a0ut/index.m3u8
 
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
 https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
