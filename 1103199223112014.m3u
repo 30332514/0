@@ -966,22 +966,22 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5550.ts
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5735.ts
 
-#EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas"" tvg-name="TeleMadrid",TeleMadrid
+#EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5736.ts
 
-#EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas"" tvg-name="Clan",Clan
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5580.ts
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5588.ts
 
-#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas"" tvg-name="Telecinco",Telecinco
+#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5734.ts
 
-#EXTINF:-1 tvg-id="laSexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas"" tvg-name="laSexta",laSexta
+#EXTINF:-1 tvg-id="laSexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="laSexta",laSexta
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5625.ts
 
-#EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas"" tvg-name="FDF",FDF
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5611.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/Pr3C0f1s/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
@@ -993,10 +993,10 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name="Canal Extremadura",Canal Extremadura
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5609.ts
 
-#EXTINF:-1 tvg-id="Mundotoro" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="Generalistas"" tvg-name="Mundotoro",Mundotoro
+#EXTINF:-1 tvg-id="Mundotoro" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="Generalistas" tvg-name="Mundotoro",Mundotoro
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/56010.ts
 
-#EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="Generalistas"" tvg-name="Torolé TV",Torolé TV
+#EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="Generalistas" tvg-name="Torolé TV",Torolé TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5740.ts
 
 #EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
@@ -1011,22 +1011,22 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5715.ts
 #EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/1X7BnWrD/HISTORIA.jpg" group-title="Generalistas" tvg-name="HISTORIA",HISTORIA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5618.ts
 
-#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas"" tvg-name="MEGA",MEGA
+#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5688.ts
 
-#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas"" tvg-name="Divinity",Divinity
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5599.ts
 
-#EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="Generalistas"" tvg-name="ENERGY",ENERGY
+#EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5603.ts
 
-#EXTINF:-1 tvg-id="BeMad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="Generalistas"" tvg-name="BeMad",BeMad
+#EXTINF:-1 tvg-id="BeMad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="Generalistas" tvg-name="BeMad",BeMad
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5561.ts
 
-#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Generalistas"" tvg-name="DMAX",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Generalistas" tvg-name="DMAX",DMAX
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5601.ts
 
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas"" tvg-name="DKISS",DKISS
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5600.ts
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.postimg.cc/pd4pPwGD/TCM.png" group-title="Generalistas"" tvg-name="TCM",TCM
@@ -1035,7 +1035,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5733.ts
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/15scxFNy/SY-FY.png" group-title="Generalistas" tvg-name="SYFY",SYFY
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5732.ts
 
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-logo="https://i.postimg.cc/d1DxFWQC/SUNDANCE-TV.png" group-title="Generalistas"" tvg-name="SUNDANCE TV",SUNDANCE TV
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-logo="https://i.postimg.cc/d1DxFWQC/SUNDANCE-TV.png" group-title="Generalistas" tvg-name="SUNDANCE TV",SUNDANCE TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5731.ts
 
 #EXTINF:-1 tvg-id="somos" tvg-logo="https://i.postimg.cc/nrbx49t3/somos.jpg" group-title="Generalistas"" tvg-name="somos",somos
@@ -1056,13 +1056,13 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5739.ts
 #EXTINF:-1 tvg-id="HWD HOLLYHOOD" tvg-logo="https://i.postimg.cc/RFbT5Cs6/HWD-HOLLYHOOD.png" group-title="Generalistas" tvg-name="HWD HOLLYHOOD",HWD HOLLYHOOD
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5619.ts
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas"" tvg-name="Paramount Channel",Paramount Channel
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Channel",Paramount Channel
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5727.ts
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Generalistas" tvg-name="Boing",Boing
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5565.ts
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas"" tvg-name=Disney Channel",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name=Disney Channel",Disney Channel
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5596.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
@@ -1071,7 +1071,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5721.ts
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nick Jr.",Nick Jr.
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5720.ts
 
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas"" tvg-name="Canal Cocina",Canal Cocina
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Cocina",Canal Cocina
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
 
 #EXTINF:-1 tvg-id="Distrito TV" tvg-logo="https://i.postimg.cc/x8ZykGRg/dtv.jpg" group-title="Generalistas" tvg-name="Distrito TV",Distrito TV
@@ -1089,7 +1089,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8
 #EXTINF:-1 tvg-id="IBEROAMERICA TV" tvg-logo="https://graph.facebook.com/iberoamericatv/picture?width=200&height=200" group-title="Generalistas" tvg-name="IBEROAMERICA TV",IBEROAMERICA TV
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas"" tvg-name="Tastemade Español",Tastemade Español
+#EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas" tvg-name="Tastemade Español",Tastemade Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFV en Español" tvg-logo="https://i.postimg.cc/pXc2b7dZ/afvespa-ol.jpg" group-title="Comedia" tvg-name="AFV en Español",AFV en Español
