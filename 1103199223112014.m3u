@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina tv" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&ping
+http://190.116.90.43:8000/play/a011
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
-http://170.81.240.10:8000/play/a003/index.m3u8
+http://190.116.90.43:8000/play/a010
 
 #EXTINF:-1 tvg-id="Panamericana tv" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-http://170.81.240.10:8000/play/a004/index.m3u8
+http://190.116.90.43:8000/play/a002
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+http://190.116.90.43:8000/play/a005
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+http://170.81.240.10:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/d0dBBRBW/la-tele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
 http://170.81.240.10:8000/play/a00j/index.m3u8
