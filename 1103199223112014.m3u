@@ -1002,6 +1002,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
 #EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5715.ts
 
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/1X7BnWrD/HISTORIA.jpg" group-title="Generalistas" tvg-name="HISTORIA",HISTORIA
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5618.ts
+
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas"" tvg-name="MEGA",MEGA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5688.ts
 
