@@ -127,7 +127,7 @@ https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 http://170.81.240.10:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+http://170.81.240.10:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
@@ -139,10 +139,10 @@ https://inliveserver.com:1936/19004/19004/playlist.m3u8
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="Generalistas" tvg-name="Like TV",Like TV
-https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
+http://170.81.240.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
-https://video2.lhdserver.es/asiritv/live.m3u8
+http://170.81.240.10:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -169,7 +169,7 @@ https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMP TV",USMP TV
-https://streamusmptv.ddns.net/live/stream.m3u8
+http://170.81.240.10:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
