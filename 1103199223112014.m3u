@@ -390,6 +390,9 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="Agro TV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Generalistas" tvg-name="Agro TV",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
+#EXTINF:-1 tvg-id="SURAM TV" tvg-logo="https://i.postimg.cc/y6yn0mHS/SURAMTV.jpg" group-title="Generalistas" tvg-name="SURAM TV",SURAM TV
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+
 #EXTINF:-1 tvg-id="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Generalistas" tvg-name="Agrotendencia TV",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
