@@ -996,6 +996,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5740.ts
 #EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5621.ts
 
+#EXTINF:-1 tvg-id="GALICIA" tvg-logo="https://i.postimg.cc/1RH7cNP4/Galicia-TV.png" group-title="Generalistas" tvg-name="GALICIA",GALICIA
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5742.ts
+
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Generalistas" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
 
@@ -1050,8 +1053,8 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5596.ts
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5721.ts
 
-#EXTINF:-1 tvg-id="GALICIA" tvg-logo="https://i.postimg.cc/1RH7cNP4/Galicia-TV.png" group-title="Generalistas" tvg-name="GALICIA",GALICIA
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5742.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nick Jr.",Nick Jr.
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5720.ts
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas"" tvg-name="Canal Cocina",Canal Cocina
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
