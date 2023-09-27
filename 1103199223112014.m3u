@@ -996,9 +996,6 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5740.ts
 #EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5621.ts
 
-#EXTINF:-1 tvg-id="GALICIA" tvg-logo="https://i.postimg.cc/1RH7cNP4/Galicia-TV.png" group-title="Generalistas" tvg-name="GALICIA",GALICIA
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5742.ts
-
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Generalistas" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
 
