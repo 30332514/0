@@ -673,6 +673,9 @@ http://138.59.177.34:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://138.59.177.34:8000/play/a024/index.m3u8
 
+#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name=Teen Nick",Teen Nick
+http://161.132.194.88:7076/play/a0qp/index.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
