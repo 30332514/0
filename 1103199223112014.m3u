@@ -846,6 +846,9 @@ http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.postimg.cc/nrnDFq3R/teleritmo.jpg" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
+http://170.81.240.10:8000/play/a00p/index.m3u8
+
 #EXTINF:-1 tvg-id="eSports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Musicales" tvg-name="eSports Max",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
