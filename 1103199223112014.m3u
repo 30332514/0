@@ -993,6 +993,15 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/56010.ts
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="Generalistas"" tvg-name="Torolé TV",Torolé TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5740.ts
 
+#EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5621.ts
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Generalistas" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
+
+#EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5715.ts
+
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas"" tvg-name="MEGA",MEGA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5688.ts
 
@@ -1019,12 +1028,6 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5730.ts
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Generalistas" tvg-name="MTV",MTV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5712.ts
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Generalistas" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
-
-#EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5715.ts
 
 #EXTINF:-1 tvg-id="ODISEA" tvg-logo="https://i.postimg.cc/nzxyj2pY/ODISEA.png" group-title="Generalistas" tvg-name="ODISEA",ODISEA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57248.ts
