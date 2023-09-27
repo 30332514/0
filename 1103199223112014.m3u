@@ -1047,6 +1047,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5727.ts
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas"" tvg-name=Disney Channel",Disney Channel
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5596.ts
 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5721.ts
+
 #EXTINF:-1 tvg-id="GALICIA" tvg-logo="https://i.postimg.cc/1RH7cNP4/Galicia-TV.png" group-title="Generalistas" tvg-name="GALICIA",GALICIA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5742.ts
 
