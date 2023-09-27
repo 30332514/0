@@ -45,9 +45,6 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1243261347&_cdn_timestamp=1696163007&_cdn_token=da4930e092d09a026261c37b98d95d2cc717610f
 
-#EXTINF:-1 tvg-id="NAZARENAS TV" tvg-logo="https://i.postimg.cc/K8McG2CF/NAZARENAS-TV.png" group-title="Generalistas" tvg-name="NAZARENAS TV",NAZARENAS TV
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.116.90.43:8000/play/a004
 
@@ -170,6 +167,9 @@ https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMP TV",USMP TV
 http://170.81.240.10:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="NAZARENAS TV" tvg-logo="https://i.postimg.cc/K8McG2CF/NAZARENAS-TV.png" group-title="Generalistas" tvg-name="NAZARENAS TV",NAZARENAS TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
