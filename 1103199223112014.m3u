@@ -1023,6 +1023,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5561.ts
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Generalistas"" tvg-name="DMAX",DMAX
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5601.ts
 
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas"" tvg-name="DKISS",DKISS
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5600.ts
+
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.postimg.cc/pd4pPwGD/TCM.png" group-title="Generalistas"" tvg-name="TCM",TCM
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5733.ts
 
