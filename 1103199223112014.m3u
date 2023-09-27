@@ -969,6 +969,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5735.ts
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas"" tvg-name="TeleMadrid",TeleMadrid
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5736.ts
 
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas"" tvg-name="Clan",Clan
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5580.ts
+
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5588.ts
 
