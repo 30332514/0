@@ -58,7 +58,7 @@ http://190.116.90.43:8000/play/a00a
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+http://170.81.240.10:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
 http://170.81.240.10:8000/play/a001/index.m3u8
