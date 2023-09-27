@@ -1316,7 +1316,7 @@ http://190.116.90.43:8000/play/a00q
 http://170.81.240.10:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo WILD" tvg-logo="https://i.postimg.cc/Y2mLJtPt/Nat-Geo-WILD.jpg" group-title="Documentales" tvg-name="Nat Geo WILD",Nat Geo WILD
-http://45.5.117.182:8000/play/a0jr/index.m3u8
+http://45.5.119.155:8000/play/a0kk/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery Channel",Discovery Channel
 http://190.116.90.43:8000/play/a00t
