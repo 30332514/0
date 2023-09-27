@@ -1026,6 +1026,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5731.ts
 #EXTINF:-1 tvg-id="somos" tvg-logo="https://i.postimg.cc/nrbx49t3/somos.jpg" group-title="Generalistas"" tvg-name="somos",somos
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5730.ts
 
+#EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5738.ts
+
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Generalistas" tvg-name="MTV",MTV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5712.ts
 
