@@ -822,6 +822,9 @@ https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
+#EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
+http://170.81.240.10:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="Radio Tropical" tvg-logo="https://i.postimg.cc/Jn4X0Q6B/tropicaltv.jpg" group-title="Musicales" tvg-name="Radio Tropical",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
