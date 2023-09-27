@@ -28,9 +28,6 @@ http://45.5.117.182:8000/play/a0ed/index.m3u8
 http://45.170.225.212:58001/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://45.5.117.182:8000/play/a0ed/index.m3u8
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://181.78.24.67:8010/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
