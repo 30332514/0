@@ -1014,6 +1014,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5618.ts
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas"" tvg-name="MEGA",MEGA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5688.ts
 
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas"" tvg-name="Divinity",Divinity
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5599.ts
+
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="Generalistas"" tvg-name="ENERGY",ENERGY
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5603.ts
 
