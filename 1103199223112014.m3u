@@ -88,7 +88,7 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-id="Best TV" tvg-logo="https://i.postimg.cc/L8cRVvGz/Best-TV.jpg" group-title="Generalistas" tvg-name="Best TV",Best TV
-https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=9dd78fc4bd624d39472dcbd0dab78d7af40d63aa-208402a85b6c0ad61711ff7d4cbaba44-1695929576-1695918776
 
 #EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
 https://video2.lhdserver.es/cableperu/live.m3u8
@@ -511,7 +511,7 @@ https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Best Cable Sports" tvg-logo="https://i.postimg.cc/DfXNrnnY/Best-Cable-Sports.jpg" group-title="Deportivos" tvg-name="Best Cable Sports",Best Cable Sports
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=c76ac993bb9d8f72307d75320f03880d8663823a-06ee89a8026785f0c2e210bc467c51c9-1695929829-1695919029
 
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
 http://45.71.252.67:8000/play/a0nv/index.m3u8
@@ -806,10 +806,10 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://servilive.com:3531/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Hatun TV" tvg-logo="https://i.postimg.cc/fRMQSTjt/hatuntv.png" group-title="Musicales" tvg-name="Hatun TV",Hatun TV
-https://ca2.inka.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=19d29cbe7841840a4c44c874324bb84804b5362a-dac0554133c94999e4894b5849ebd4a0-1695930155-1695919355
 
 #EXTINF:-1 tvg-id="+Cumbia TV" tvg-logo="https://i.postimg.cc/1zx6r2Xq/mascumbiatv.png" group-title="Musicales" tvg-name="+Cumbia TV",+Cumbia TV
-https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=0bf3ed0c1f2f12553bed8292df640b7917b9a2ee-c03f3cff1dd9aec6d622554bb2df7eeb-1695930041-1695919241
 
 #EXTINF:-1 tvg-id="TOP Latino TV" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino TV",TOP Latino TV
 vlhttps://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
@@ -827,7 +827,7 @@ https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419649899.m3u8
 
 #EXTINF:-1 tvg-id="Best Cable music" tvg-logo="https://i.postimg.cc/j5Q7TDyF/Best-Cable-music.jpg" group-title="Musicales" tvg-name="Best Cable music",Best Cable music
-https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=acf36fb23804ce7013cbff3ef0d3ad914239a51f-011ffb244720c3c5aa650edd38ad1a8c-1695929914-1695919114
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
