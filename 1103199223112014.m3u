@@ -244,7 +244,7 @@ https://gnstreammedia.com:19360/4000/4000.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
-https://mi.godo.net.pe:8081/0f03dsf32dsf13dsf/index.m3u8
+https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=b812158e5791da312b0fb5eebd9c2324da6c77ef-a3a473c9f3e499ebeaaa4b36209c92b9-1695938414-1695931214
 
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.postimg.cc/90dbXNKY/Unitel-TV.jpg" group-title="Generalistas" tvg-name="Unitel",Unitel
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
