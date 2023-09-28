@@ -180,6 +180,9 @@ http://170.81.240.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
 http://170.81.240.10:8000/play/a00e/index.m3u8
 
+#EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
+http://209.45.81.84:8000/play/a03c
+
 #EXTINF:-1 tvg-id="Matices TV" tvg-logo="https://i.postimg.cc/cHwmGtLG/Matices-TV.jpg" group-title="Generalistas" tvg-name="Matices TV",Matices TV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
@@ -852,6 +855,9 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
 http://170.81.240.10:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Lolly Kids" tvg-logo="https://i.postimg.cc/50LxjC61/Lolly-Kids.png" group-title="Musicales" tvg-name="Lolly Kids",Lolly Kids
+http://209.45.81.84:8000/play/a02a
 
 #EXTINF:-1 tvg-id="eSports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Musicales" tvg-name="eSports Max",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
