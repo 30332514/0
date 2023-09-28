@@ -17,6 +17,7 @@ https://github.com/jesaro15/iptv
 https://github.com/iptv-org/iptv/tree/master/streams
 https://github.com/iptv-org/iptv/blob/master/streams/pe.m3u
 https://github.com/brunochanrio/Listas-IPTV
+https://github.com/Diptv24/d531/tree/main
 https://tulistalatinam3u.blogspot.com/p/lista-iptvm3u-tv.html
 https://raw.githubusercontent.com/TUTVLATINA/Sept/main/Grup0
 
