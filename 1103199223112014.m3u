@@ -13,7 +13,7 @@ http://190.116.90.43:8000/play/a002
 http://190.116.90.43:8000/play/a005
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+http://170.81.240.10:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 http://170.81.240.10:8000/play/a008/index.m3u8
