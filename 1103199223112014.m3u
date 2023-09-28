@@ -1384,6 +1384,9 @@ http://45.228.232.219:16000/play/a0m7/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
 http://45.5.119.155:8000/play/a0iy/index.m3u8
 
+#EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
+http://161.132.194.88:7076/play/a0w1/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://45.5.119.155:8000/play/a0fv/index.m3u8
 
