@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina tv" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
-http://190.116.90.43:8000/play/a011
+http://170.81.240.10:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
-http://190.116.90.43:8000/play/a010
+http://170.81.240.10:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana tv" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-http://190.116.90.43:8000/play/a002
+http://170.81.240.10:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-http://190.116.90.43:8000/play/a005
+http://170.81.240.10:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
 http://170.81.240.10:8000/play/a007/index.m3u8
@@ -22,7 +22,7 @@ http://170.81.240.10:8000/play/a008/index.m3u8
 http://170.81.240.10:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
-http://190.116.90.43:8000/play/a006
+http://170.81.240.10:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
@@ -46,10 +46,10 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1243261347&_cdn_timestamp=1696163007&_cdn_token=da4930e092d09a026261c37b98d95d2cc717610f
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
-http://190.116.90.43:8000/play/a004
+http://177.53.153.21:8001/play/a0bd/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
-http://190.116.90.43:8000/play/a00a
+http://177.53.153.21:8001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
