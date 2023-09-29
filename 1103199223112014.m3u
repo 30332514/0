@@ -633,7 +633,7 @@ https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/in
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="Animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="Infantiles" tvg-name="Animotion",Animotion
+#EXTINF:-1 tvg-id="animotion" tvg-logo="https://i.postimg.cc/HkwXdh4k/animotion.jpg" group-title="Infantiles" tvg-name="animotion",animotion
 http://191.97.60.193:10000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="LatinoKids",LatinoKids
