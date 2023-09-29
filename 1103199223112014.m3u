@@ -796,7 +796,7 @@ https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=179.6
 https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=723b103365737ff366aaa0df720e40c927dbfe0d-342d99a3fcc2c4ca5fa7b398dc745b45-1695943637-1695932837
 
 #EXTINF:-1 tvg-id="TOP Latino TV" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino TV",TOP Latino TV
-vlhttps://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="X TV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="X TV",X TV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
