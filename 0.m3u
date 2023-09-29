@@ -27,15 +27,6 @@ http://257638747951321288.ot0711.xyz:80/play/vi428027/hdFucGwknR/321288.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nLx8TJf/telemadrid-logo.png" group-title="TV España",Telemadrid
 http://257638747951165351.ot0711.xyz:80/play/vi428027/hdFucGwknR/165351.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="TV España",Neox
-http://257638747951321374.ot0711.xyz:80/play/vi428027/hdFucGwknR/321374.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="TV España",Nova
-http://257638747951321383.ot0711.xyz:80/play/vi428027/hdFucGwknR/321383.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TV España",Mega
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5688.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TV España",FDF
 http://257638747951321249.ot0711.xyz:80/play/vi428027/hdFucGwknR/321249.ts
 
@@ -45,7 +36,13 @@ https://cdn7.lqsa.es/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TV España",Mega FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="TV España",Neox
+http://257638747951321374.ot0711.xyz:80/play/vi428027/hdFucGwknR/321374.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="TV España",Nova
+http://257638747951321383.ot0711.xyz:80/play/vi428027/hdFucGwknR/321383.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TV España",Mega
 http://257638747951554775.ot0711.xyz:80/play/vi428027/hdFucGwknR/554775.ts
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV España",Energy
