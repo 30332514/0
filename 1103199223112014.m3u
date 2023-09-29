@@ -564,8 +564,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/26j0DG98/FOX-SPORTS-PREMIUM.jpg" group-title="Deportivos" tvg-name="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS",FOX SPORTS
-http://200.24.204.242:6020/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
+http://45.71.252.67:8000/play/a0jh/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
 http://190.116.90.43:8000/play/a00i
@@ -580,7 +580,7 @@ http://190.116.90.43:8000/play/a00z
 http://170.81.240.10:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://45.170.225.212:58001/play/a016/index.m3u8
+http://45.5.119.155:8000/play/a0kh/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
 http://170.81.240.10:8000/play/a010/index.m3u8
@@ -602,9 +602,6 @@ https://vdo.panelstreaming.live:3058/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Sports18" tvg-logo="https://i.postimg.cc/661mJX9g/Sports18.jpg" group-title="Deportivos" tvg-name="Sports18",Sports18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-id="Stadium USA" tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200" group-title="Deportivos" tvg-name="Stadium USA",Stadium USA
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_1/3c1a5b0339554ab58f7f1e011143504b/chunklist_ssaiV.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://177.53.153.21:8001/play/a01x/index.m3u8
@@ -753,9 +750,6 @@ http://170.81.240.10:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="GALACTICA TV" tvg-logo="https://i.postimg.cc/SQ3LssCX/GALACTICA-TV.jpg" group-title="Musicales" tvg-name="GALACTICA TV",GALACTICA TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
-http://45.189.117.202:48000/play/a02s/index.m3u8
-
 #EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 
@@ -790,7 +784,7 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419
 https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=bdaf2a7f0d292ed0475df1f339622bf1a2be69e7-247bc3ded0cf0e991916f7f7231c115f-1695943458-1695932658
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 http://170.81.240.10:8000/play/a00m/index.m3u8
@@ -826,7 +820,7 @@ http://209.45.81.84:8000/play/a02a
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ditty TV" tvg-logo="https://i.postimg.cc/pVshg9jb/dittytv.png" group-title="Musicales" tvg-name="Ditty TV",Ditty TV
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/92929893-110f-4988-957d-ba4b6233ede2/3.m3u8
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/2cccdb63-998f-4167-9d7b-dad561bbc4d6/3.m3u8
 
 #EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/kM2RPJv2/spirittv.png" group-title="Musicales" tvg-name="Spirit TV",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
@@ -844,7 +838,7 @@ https://cloudvideo.servers10.com:8081/8136/tracks-v1a1/mono.m3u8
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Music TV" tvg-logo="https://i.postimg.cc/rwMpsMxC/retromusictelevision.png" group-title="Musicales" tvg-name="Retro Music TV",Retro Music TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1513247829_b750000.m3u8
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w820613881.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2143141309.m3u8
@@ -864,6 +858,9 @@ http://179.189.222.226:8000/play/ch55
 #EXTINF:-1 tvg-id="Mimusica Romántica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3hIWJfpPueuL-xdOFKeX_QX75cWzWNDUmRaxjcNp4OmkT17HgpGwvuIIqyTRKHuA-w&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Romántica",Mimusica Romántica
 http://179.189.222.226:8000/play/ch54
 
+#EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
+http://45.189.117.202:48000/play/a02s/index.m3u8
+
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
 
@@ -877,7 +874,7 @@ http://45.5.117.182:8000/play/l0hj/index.m3u8
 https://stream8.mexiserver.com/conectatv/conectatv/chunklist_w1249298445.m3u8
 
 #EXTINF:-1 tvg-id="Mi Gente TV" tvg-logo="https://i.postimg.cc/bvKxvh3y/migentetv.jpg" group-title="Musicales" tvg-name="Mi Gente TV",Mi Gente TV
-https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+http://181.78.85.7:16123/play/ch11
 
 #EXTINF:-1 tvg-id="nickmusic" tvg-logo="https://i.postimg.cc/Tw41bryd/nickmusic.jpg" group-title="Musicales" tvg-name="nickmusic",nickmusic
 http://187.188.232.236:1021/play/a05k/index.m3u8
@@ -899,9 +896,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVA RUSSIA" tvg-logo="https://i.postimg.cc/J0MP1LrX/VIVA-RUSSIA.png" group-title="Musicales" tvg-name="VIVA RUSSIA",VIVA RUSSIA
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-
-#EXTINF:-1 tvg-id="InRating" tvg-logo="https://i.postimg.cc/tJsGNW6D/InRating.jpg" group-title="Musicales" tvg-name="InRating",InRating
-https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="TVM3" tvg-logo="https://i.postimg.cc/gjTkGMYV/TVM3.jpg" group-title="Musicales" tvg-name="TVM3",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
@@ -931,7 +925,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5622.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5623.ts
 
 #EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
-http://45.170.225.212:58001/play/a00n/index.m3u8
+http://45.5.119.155:8000/play/a0h0/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5555.ts
@@ -940,7 +934,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5555.ts
 http://45.71.252.67:8000/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
-http://45.170.225.212:58001/play/a03s/index.m3u8
+http://45.71.252.67:8000/play/a0nx/index.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5550.ts
