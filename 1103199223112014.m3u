@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina tv" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
-http://170.81.240.10:8000/play/a002/index.m3u8
+http://190.116.90.43:8000/play/a011
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
-http://170.81.240.10:8000/play/a003/index.m3u8
+http://190.116.90.43:8000/play/a010
 
 #EXTINF:-1 tvg-id="Panamericana tv" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-http://170.81.240.10:8000/play/a004/index.m3u8
+http://190.116.90.43:8000/play/a002
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-http://170.81.240.10:8000/play/a006/index.m3u8
+http://190.116.90.43:8000/play/a005
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
 http://170.81.240.10:8000/play/a007/index.m3u8
@@ -22,7 +22,7 @@ http://170.81.240.10:8000/play/a008/index.m3u8
 http://170.81.240.10:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
-http://170.81.240.10:8000/play/a00a/index.m3u8
+http://190.116.90.43:8000/play/a006
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
@@ -46,19 +46,19 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1243261347&_cdn_timestamp=1696163007&_cdn_token=da4930e092d09a026261c37b98d95d2cc717610f
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
-http://177.53.153.21:8001/play/a0bd/index.m3u8
+http://190.116.90.43:8000/play/a004
 
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
-http://177.53.153.21:8001/play/a01d/index.m3u8
+http://190.116.90.43:8000/play/a00a
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-http://170.81.240.10:8000/play/a009/index.m3u8
+http://191.97.60.193:10000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-http://170.81.240.10:8000/play/a001/index.m3u8
+http://191.97.60.193:10000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
 http://191.97.60.193:10000/play/a00p/index.m3u8
@@ -79,7 +79,7 @@ http://31.42.185.216:8000/phd2000/YHJ1X74/3330
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1433474877.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://video03.logicahost.com.br/soltv/soltv/chunklist_w1290064824.m3u8
+http://191.97.60.193:10000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
@@ -97,28 +97,22 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="Generalistas" tvg-name="TeleLima",TeleLima
-http://161.132.194.88:7076/play/a0ut/index.m3u8
+http://191.97.60.193:10000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
-https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
+http://191.97.60.193:10000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+http://191.97.60.193:10000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
-https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
-
-#EXTINF:-1 tvg-id="Onda Digital TV 2" tvg-logo="https://i.postimg.cc/4djNJwqj/ondadigitaltv2.jpg" group-title="Generalistas" tvg-name="Onda Digital TV 2",Onda Digital TV 2
-https://v4.tustreaming.cl/odtv2/index.m3u8
-
-#EXTINF:-1 tvg-id="Onda Digital TV 3" tvg-logo="https://i.postimg.cc/PJmhdHm8/ondadigitaltv3.jpg" group-title="Generalistas" tvg-name="Onda Digital TV 3",Onda Digital TV 3
-https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+http://191.97.60.193:10000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="SEÑAL PERÚ" tvg-logo="https://i.postimg.cc/t7Qhb01M/SE-AL-PER.jpg" group-title="Generalistas" tvg-name="SEÑAL PERÚ",SEÑAL PERÚ
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
-https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+http://191.97.60.193:10000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="PERÚ GOTV tvg-logo="https://i.postimg.cc/vmvCtqCC/PER-GOTV.jpg" group-title="Generalistas" tvg-name="PERÚ GOTV",PERÚ GOTV
 http://170.81.240.10:8000/play/a00i/index.m3u8
@@ -238,7 +232,7 @@ https://gnstreammedia.com:19360/4000/4000.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
-https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=625c2857b75a3a682159737d10df80ac04aa61f4-08fb633a2d9bb450e4ba9dd847541469-1695973457-1695966257
+http://191.97.60.193:10000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.postimg.cc/90dbXNKY/Unitel-TV.jpg" group-title="Generalistas" tvg-name="Unitel",Unitel
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
@@ -859,7 +853,7 @@ http://179.189.222.226:8000/play/ch55
 http://179.189.222.226:8000/play/ch54
 
 #EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
-http://45.189.117.202:48000/play/a02s/index.m3u8
+http://191.97.60.193:10000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
@@ -925,7 +919,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5622.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5623.ts
 
 #EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
-http://45.5.119.155:8000/play/a0h0/index.m3u8
+http://191.97.60.193:10000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5555.ts
