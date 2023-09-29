@@ -216,9 +216,6 @@ https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:-1 tvg-id="Contacto TV" tvg-logo="https://i.postimg.cc/fRwWvdBC/contactotv.jpg" group-title="Generalistas" tvg-name="Contacto TV",Contacto TV
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
 
-#EXTINF:-1 tvg-id="Mas 1 Televisión" tvg-logo="https://pbs.twimg.com/media/FcvG9o4XkAA0g8v?format=png&name=240x240" group-title="Generalistas" tvg-name="Mas 1 Televisión",Mas 1 Televisión
-https://live.obslivestream.com/mas1/index.m3u8
-
 #EXTINF:-1 tvg-id="Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="Generalistas" tvg-name="Sanjuanera TV",Sanjuanera TV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
@@ -242,9 +239,6 @@ http://191.97.60.193:10000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
 http://191.97.60.193:10000/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.postimg.cc/90dbXNKY/Unitel-TV.jpg" group-title="Generalistas" tvg-name="Unitel",Unitel
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
@@ -275,9 +269,6 @@ https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.postimg.cc/7L28Yv6v/megatvjaen.jpg" group-title="Generalistas" tvg-name="Mega",Mega
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-
-#EXTINF:-1 tvg-id="Innova TV" tvg-logo="https://play-lh.googleusercontent.com/ZKYIGUiCEX1iPZmVTTjLyAwHPZCXmL60bkaTw1M5tg2ErI7yb21-J20nCTNJTTHRnwY=w2560-h1440-rw" group-title="Generalistas" tvg-name="Innova TV",Innova TV
-http://200.48.184.156:1935/innovatv/innovatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Generalistas" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
@@ -342,9 +333,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bella Asuncion TV" tvg-logo="https://i.postimg.cc/MThSntwd/bellaasunciontv.jpg" group-title="Generalistas" tvg-name="Bella Asuncion TV",Bella Asuncion TV
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Tele 2000" tvg-logo="https://i.postimg.cc/FHyZMY57/tele2000.png" group-title="Generalistas" tvg-name="Tele 2000",Tele 2000
-https://servilive.com:3126/live/tele2000live.m3u8
-
 #EXTINF:-1 tvg-id="Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="Generalistas" tvg-name="Inkavisión",Inkavisión
 https://ott1.hdlatam.tv/live_abr/INKAVISION/playlist.m3u8
 
@@ -371,9 +359,6 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 
 #EXTINF:-1 tvg-id="ACS Network" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Generalistas" tvg-name="ACS Network",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ADOCCO TV" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Generalistas" tvg-name="ADOCCO TV",ADOCCO TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Agro TV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Generalistas" tvg-name="Agro TV",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -439,10 +424,10 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
-http://svtv.xyz:8080/sandra30abril/CQNFV/109682
+http://45.5.119.155:8000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo East Feed" tvg-logo="https://i.postimg.cc/pTRCtLHD/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo East Feed",Telemundo East Feed
-http://svtv.xyz:8080/sandra30abril/CQNFV/109725
+http://45.71.252.67:8000/play/a0fr/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
 http://177.53.153.21:8001/play/a0au/index.m3u8
@@ -494,9 +479,6 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/La_rosa_de_guadalupe_with_font.jpg/revision/latest/scale-to-width-down/1200?cb=20220509193234" group-title="Novelas" tvg-name="La Rosa de Guadalupe TV",La Rosa de Guadalupe TV
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Deportivos" tvg-name="Monterrico TV",Monterrico TV
-https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
 http://191.97.60.193:10000/play/a02s/index.m3u8
@@ -1123,7 +1105,10 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.postimg.cc/8P9SFkV7/CNN-en-Espa-ol.png" group-title="Informativos" tvg-name="CNN en Español",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
+http://45.71.252.67:8000/play/a0m2/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
+http://45.71.252.67:8000/play/a0jd/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
