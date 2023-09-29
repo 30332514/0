@@ -762,9 +762,6 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://tv.portalexpress.es:3731/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioInka" tvg-logo="https://i.postimg.cc/nhWvkQ2k/Radio-Inka-TV.jpg" group-title="Musicales" tvg-name="RadioInka TV",RadioInka TV
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
