@@ -27,6 +27,18 @@ http://257638747951321288.ot0711.xyz:80/play/vi428027/hdFucGwknR/321288.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nLx8TJf/telemadrid-logo.png" group-title="TV España",Telemadrid
 http://257638747951165351.ot0711.xyz:80/play/vi428027/hdFucGwknR/165351.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="TV España",Torolé TV
+http://257638747951539876.ot0711.xyz:80/play/vi428027/hdFucGwknR/539876.ts
+
+#EXTINF:-1 tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="TV España",Mundotoro
+http://257638747951441850.ot0711.xyz:80/play/vi428027/hdFucGwknR/441850.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="TV España",Canal Sur
+http://257638747951272448.ot0711.xyz:80/play/vi428027/hdFucGwknR/272448.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="TV España",Canal Extremadura
+http://257638747951321155.ot0711.xyz:80/play/vi428027/hdFucGwknR/321155.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TV España",FDF
 http://257638747951321249.ot0711.xyz:80/play/vi428027/hdFucGwknR/321249.ts
 
@@ -80,18 +92,6 @@ http://257638747951340056.ot0711.xyz:80/play/vi428027/hdFucGwknR/340056.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/105c5Rn/logo-a-Punt.png" group-title="TV España",À Punt FHD
 http://257638747951556712.ot0711.xyz:80/play/vi428027/hdFucGwknR/556712.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="TV España",Torolé TV
-http://257638747951539876.ot0711.xyz:80/play/vi428027/hdFucGwknR/539876.ts
-
-#EXTINF:-1 tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="TV España",Mundotoro
-http://257638747951441850.ot0711.xyz:80/play/vi428027/hdFucGwknR/441850.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="TV España",Canal Sur
-http://257638747951272448.ot0711.xyz:80/play/vi428027/hdFucGwknR/272448.ts
-
-#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="TV España",Canal Extremadura
-http://257638747951321155.ot0711.xyz:80/play/vi428027/hdFucGwknR/321155.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="TV España",Clan
 http://257638747951341250.ot0711.xyz:80/play/vi428027/hdFucGwknR/341250.ts
