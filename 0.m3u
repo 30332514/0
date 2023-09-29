@@ -6,11 +6,11 @@ http://499816947258321276.ot0711.xyz:80/play/vi428027/hdFucGwknR/321276.ts
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" group-title="TV España",La 2
 http://499816947258321279.ot0711.xyz:80/play/vi428027/hdFucGwknR/321279.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV España",A3 Series HD
-http://257638747951321087.ot0711.xyz:80/play/vi428027/hdFucGwknR/321087.ts
-
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_10.png" group-title="TV España",Antena 3
 http://499816947258321105.ot0711.xyz:80/play/vi428027/hdFucGwknR/321105.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV España",A3 Series HD
+http://257638747951321087.ot0711.xyz:80/play/vi428027/hdFucGwknR/321087.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TV España",24h
 http://257638747951321077.ot0711.xyz:80/play/vi428027/hdFucGwknR/321077.ts
