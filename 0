@@ -1,0 +1,298 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_157.png" group-title="TV España",La 1
+http://499816947258321276.ot0711.xyz:80/play/vi428027/hdFucGwknR/321276.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" group-title="TV España",La 2
+http://499816947258321279.ot0711.xyz:80/play/vi428027/hdFucGwknR/321279.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV España",A3 Series HD
+http://257638747951321087.ot0711.xyz:80/play/vi428027/hdFucGwknR/321087.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_10.png" group-title="TV España",Antena 3
+http://499816947258321105.ot0711.xyz:80/play/vi428027/hdFucGwknR/321105.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_65.png" group-title="TV España",Cuatro
+http://257638747951321196.ot0711.xyz:80/play/vi428027/hdFucGwknR/321196.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_161.png" group-title="TV España",Telecinco
+http://257638747951321429.ot0711.xyz:80/play/vi428027/hdFucGwknR/321429.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_100.png" group-title="TV España",La sexta
+http://257638747951321288.ot0711.xyz:80/play/vi428027/hdFucGwknR/321288.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nLx8TJf/telemadrid-logo.png" group-title="TV España",Telemadrid
+http://257638747951165351.ot0711.xyz:80/play/vi428027/hdFucGwknR/165351.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="TV España",Neox
+http://257638747951321374.ot0711.xyz:80/play/vi428027/hdFucGwknR/321374.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="TV España",Nova
+http://257638747951321383.ot0711.xyz:80/play/vi428027/hdFucGwknR/321383.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TV España",Mega
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5688.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TV España",FDF
+http://257638747951321249.ot0711.xyz:80/play/vi428027/hdFucGwknR/321249.ts
+
+#EXTINF:-1 tvg-id="LQSA 24h" tvg-logo="https://i.postimg.cc/LsCqsbdr/LQSA24h.jpg" group-title="Comedia" tvg-name="LQSA 24h",LQSA 24h
+https://cdn7.lqsa.es/hls/1/stream.m3u8
+
+#EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
+https://cdn5.lqsa.es/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TV España",Mega FHD
+http://257638747951554775.ot0711.xyz:80/play/vi428027/hdFucGwknR/554775.ts
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV España",Energy
+http://257638747951321236.ot0711.xyz:80/play/vi428027/hdFucGwknR/321236.ts
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TV España",Divinity
+http://257638747951321223.ot0711.xyz:80/play/vi428027/hdFucGwknR/321223.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="TV España",BeMad
+http://257638747951542578.ot0711.xyz:80/play/vi428027/hdFucGwknR/542578.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="TV España",DMAX
+http://257638747951321225.ot0711.xyz:80/play/vi428027/hdFucGwknR/321225.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="TV España",DKISS
+http://257638747951321224.ot0711.xyz:80/play/vi428027/hdFucGwknR/321224.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="TV España",Paramount Channel
+http://257638747951321392.ot0711.xyz:80/play/vi428027/hdFucGwknR/321392.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TV España",24h
+http://257638747951321077.ot0711.xyz:80/play/vi428027/hdFucGwknR/321077.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TV España",Teledeporte
+http://257638747951538769.ot0711.xyz:80/play/vi428027/hdFucGwknR/538769.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="TV España",Gol Play
+http://257638747951538757.ot0711.xyz:80/play/vi428027/hdFucGwknR/538757.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="TV España",Real Madrid TV
+http://257638747951339784.ot0711.xyz:80/play/vi428027/hdFucGwknR/339784.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KqswCDN/esport3-logo.png" group-title="TV España",Esport 3 FHD
+http://257638747951341930.ot0711.xyz:80/play/vi428027/hdFucGwknR/341930.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="TV España",TV3 FHD
+http://257638747951340056.ot0711.xyz:80/play/vi428027/hdFucGwknR/340056.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/105c5Rn/logo-a-Punt.png" group-title="TV España",À Punt FHD
+http://257638747951556712.ot0711.xyz:80/play/vi428027/hdFucGwknR/556712.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="TV España",Torolé TV
+http://257638747951539876.ot0711.xyz:80/play/vi428027/hdFucGwknR/539876.ts
+
+#EXTINF:-1 tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="TV España",Mundotoro
+http://257638747951441850.ot0711.xyz:80/play/vi428027/hdFucGwknR/441850.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="TV España",Canal Sur
+http://257638747951272448.ot0711.xyz:80/play/vi428027/hdFucGwknR/272448.ts
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="TV España",Canal Extremadura
+http://257638747951321155.ot0711.xyz:80/play/vi428027/hdFucGwknR/321155.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="TV España",Clan
+http://257638747951341250.ot0711.xyz:80/play/vi428027/hdFucGwknR/341250.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="TV España",Boing
+http://257638747951321135.ot0711.xyz:80/play/vi428027/hdFucGwknR/321135.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="TV España",Disney Channel
+http://257638747951321214.ot0711.xyz:80/play/vi428027/hdFucGwknR/321214.ts
+
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/i/?w=1600&i=1447940140906.jpg" group-title="TV España",Los Simpsons Temps 1-5 24H
+http://781611747322568921.of3805.xyz:80/play/vi428027/hdFucGwknR/568921.ts
+
+#EXTINF:-1 tvg-logo="https://comicsybirras.com/wp-content/uploads/2022/06/Los-Simpsons-La-casa-del-arbol-del-terror-tendra-formato-Omnibus.jpg" group-title="TV España",Los Simpsons "La casa-árbol del terror" 24H
+http://781611747322568920.of3805.xyz:80/play/vi428027/hdFucGwknR/568920.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-temporada-futurama-3069064.jpg" group-title="TV España",Futurama 24H
+http://781611747322568916.of3805.xyz:80/play/vi428027/hdFucGwknR/568916.ts
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/21ee97/familiaepisodios/840_560.jpeg" group-title="TV España",Padre de familia 24H
+http://781611747322568925.of3805.xyz:80/play/vi428027/hdFucGwknR/568925.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="Artes marciales",UFC Fight Pass
+http://257638747951552206.ot0711.xyz:80/play/vi428027/hdFucGwknR/552206.ts
+
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/5/WWE-Logo-PNG-Clipart.png" group-title="Artes marciales",WWE Network
+http://257638747951559510.ot0711.xyz:80/play/vi428027/hdFucGwknR/559510.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHL04RY/logo-vamos.png" group-title="Zona Movistar+",Vamos
+http://257638747951550863.ot0711.xyz:80/play/vi428027/hdFucGwknR/550863.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/640px-Ellas_V_por_Movistar_Plus%2B.svg.png" group-title="Zona Movistar+",Ellas #V
+http://257638747951542877.ot0711.xyz:80/play/vi428027/hdFucGwknR/542877.ts
+
+#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="Zona Movistar+",LaLiga TV BAR
+http://257638747951268042.ot0711.xyz:80/play/vi428027/hdFucGwknR/268042.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",LaLiga
+http://257638747951262413.ot0711.xyz:80/play/vi428027/hdFucGwknR/262413.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="Zona Movistar+",LaLiga Multi 2
+http://257638747951165398.ot0711.xyz:80/play/vi428027/hdFucGwknR/165398.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Zona Movistar+",LaLiga Multi 3
+http://257638747951165400.ot0711.xyz:80/play/vi428027/hdFucGwknR/165400.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-4-es.png" group-title="Zona Movistar+",LaLiga Multi 4
+http://257638747951237731.ot0711.xyz:80/play/vi428027/hdFucGwknR/237731.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-5-es.png" group-title="Zona Movistar+",LaLiga Multi 5
+http://257638747951237733.ot0711.xyz:80/play/vi428027/hdFucGwknR/237733.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-6-es.png" group-title="Zona Movistar+",LaLiga Multi 6
+http://257638747951237735.ot0711.xyz:80/play/vi428027/hdFucGwknR/237735.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-7-es.png" group-title="Zona Movistar+",LaLiga Multi 7
+http://257638747951237736.ot0711.xyz:80/play/vi428027/hdFucGwknR/237736.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-8-es.png" group-title="Zona Movistar+",LaLiga Multi 8
+http://257638747951237737.ot0711.xyz:80/play/vi428027/hdFucGwknR/237737.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-9-es.png" group-title="Zona Movistar+",LaLiga Multi 9
+http://257638747951237738.ot0711.xyz:80/play/vi428027/hdFucGwknR/237738.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-10-es.png" group-title="Zona Movistar+",LaLiga Multi 10
+http://257638747951237739.ot0711.xyz:80/play/vi428027/hdFucGwknR/237739.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png" group-title="Zona Movistar+",Liga Hypermotion
+http://257638747951320785.ot0711.xyz:80/play/vi428027/hdFucGwknR/320785.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png" group-title="Zona Movistar+",Liga Hypermotion 2
+http://257638747951329115.ot0711.xyz:80/play/vi428027/hdFucGwknR/329115.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png" group-title="Zona Movistar+",Liga Hypermotion 3
+http://257638747951489190.ot0711.xyz:80/play/vi428027/hdFucGwknR/489190.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png" group-title="Zona Movistar+",Liga Hypermotion 4
+http://257638747951489193.ot0711.xyz:80/play/vi428027/hdFucGwknR/489193.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png" group-title="Zona Movistar+",Liga Hypermotion 5
+http://257638747951489195.ot0711.xyz:80/play/vi428027/hdFucGwknR/489195.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Zona Movistar+",Liga de campeones
+http://257638747951282468.ot0711.xyz:80/play/vi428027/hdFucGwknR/282468.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="Zona Movistar+",Liga de campeones 2
+http://257638747951165365.ot0711.xyz:80/play/vi428027/hdFucGwknR/165365.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="Zona Movistar+",Liga de campeones 3
+http://257638747951282470.ot0711.xyz:80/play/vi428027/hdFucGwknR/282470.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="Zona Movistar+",Liga de campeones 4
+http://257638747951282472.ot0711.xyz:80/play/vi428027/hdFucGwknR/282472.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="Zona Movistar+",Liga de campeones 5
+http://257638747951282460.ot0711.xyz:80/play/vi428027/hdFucGwknR/282460.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="Zona Movistar+",Liga de campeones 6
+http://257638747951282462.ot0711.xyz:80/play/vi428027/hdFucGwknR/282462.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="Zona Movistar+",Liga de campeones 7
+http://257638747951282464.ot0711.xyz:80/play/vi428027/hdFucGwknR/282464.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="Zona Movistar+",Liga de campeones 8
+http://257638747951282466.ot0711.xyz:80/play/vi428027/hdFucGwknR/282466.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png" group-title="Zona Movistar+",Deportes
+http://257638747951538695.ot0711.xyz:80/play/vi428027/hdFucGwknR/538695.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png" group-title="Zona Movistar+",Deportes 2
+http://257638747951538679.ot0711.xyz:80/play/vi428027/hdFucGwknR/538679.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png" group-title="Zona Movistar+",Deportes 3
+http://257638747951538682.ot0711.xyz:80/play/vi428027/hdFucGwknR/538682.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png" group-title="Zona Movistar+",Deportes 4
+http://257638747951538685.ot0711.xyz:80/play/vi428027/hdFucGwknR/538685.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png" group-title="Zona Movistar+",Deportes 5
+http://257638747951538688.ot0711.xyz:80/play/vi428027/hdFucGwknR/538688.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png" group-title="Zona Movistar+",Deportes 6
+http://257638747951538691.ot0711.xyz:80/play/vi428027/hdFucGwknR/538691.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-7-es.png" group-title="Zona Movistar+",Deportes 7
+http://257638747951538694.ot0711.xyz:80/play/vi428027/hdFucGwknR/538694.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",Golf
+http://257638747951268094.ot0711.xyz:80/play/vi428027/hdFucGwknR/268094.ts
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="Zona Movistar+",Golf 2
+http://257638747951454216.ot0711.xyz:80/play/vi428027/hdFucGwknR/454216.ts
+
+#EXTINF:-1 tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="Zona Movistar+",LigaSports TV
+http://257638747951497614.ot0711.xyz:80/play/vi428027/hdFucGwknR/497614.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Zona Movistar+",Caza y Pesca
+http://257638747951321168.ot0711.xyz:80/play/vi428027/hdFucGwknR/321168.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8dXVPMV/logo-0.png" group-title="Zona Movistar+",#0
+http://257638747951321068.ot0711.xyz:80/play/vi428027/hdFucGwknR/321068.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Zona Movistar+",La resistencia
+http://257638747951321286.ot0711.xyz:80/play/vi428027/hdFucGwknR/321286.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",Movistar Plus+
+http://257638747951559514.ot0711.xyz:80/play/vi428027/hdFucGwknR/559514.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1920px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Cine
+http://257638747951559513.ot0711.xyz:80/play/vi428027/hdFucGwknR/559513.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",M+ Estrenos
+http://257638747951321337.ot0711.xyz:80/play/vi428027/hdFucGwknR/321337.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",M+ Estrenos 2
+http://257638747951321334.ot0711.xyz:80/play/vi428027/hdFucGwknR/321334.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/1920px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Series
+http://257638747951321347.ot0711.xyz:80/play/vi428027/hdFucGwknR/321347.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",M+ Series 2
+http://257638747951321344.ot0711.xyz:80/play/vi428027/hdFucGwknR/321344.ts
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Zona Movistar+",M+ Clásicos
+http://257638747951321314.ot0711.xyz:80/play/vi428027/hdFucGwknR/321314.ts
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Zona Movistar+",M+ Acción
+http://257638747951321305.ot0711.xyz:80/play/vi428027/hdFucGwknR/321305.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/640px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Comedia
+http://257638747951321317.ot0711.xyz:80/play/vi428027/hdFucGwknR/321317.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",M+ Drama
+http://257638747951321331.ot0711.xyz:80/play/vi428027/hdFucGwknR/321331.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Suspense
+http://257638747951552964.ot0711.xyz:80/play/vi428027/hdFucGwknR/552964.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Indie
+http://257638747951552957.ot0711.xyz:80/play/vi428027/hdFucGwknR/552957.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Originales
+http://257638747951558668.ot0711.xyz:80/play/vi428027/hdFucGwknR/558668.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/2560px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Zona Movistar+",M+ Cine Ñ
+http://257638747951321312.ot0711.xyz:80/play/vi428027/hdFucGwknR/321312.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png" group-title="Zona Movistar+",M+ Vacaciones
+http://257638747951538733.ot0711.xyz:80/play/vi428027/hdFucGwknR/538733.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KhDfH0/logo-M-fest.png" group-title="Zona Movistar+",M+ Fest FHD
+http://257638747951321340.ot0711.xyz:80/play/vi428027/hdFucGwknR/321340.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg/1200px-M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Zona Movistar+",M+ Música
+http://742753447110561135.of3805.xyz:80/play/vi428027/hdFucGwknR/561135.ts
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg" group-title="Zona Movistar+",M+ Documentales
+http://257638747951552954.ot0711.xyz:80/play/vi428027/hdFucGwknR/552954.ts
+
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2020/10/23/canales-dark-removebg-preview.png" group-title="Zona Movistar+",Dark
+http://257638747951541471.ot0711.xyz:80/play/vi428027/hdFucGwknR/541471.ts
