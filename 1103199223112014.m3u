@@ -1176,12 +1176,6 @@ https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="Guada TV" tvg-logo="https://i.postimg.cc/sXDwc9SC/guadatv.jpg" group-title="Generalistas" tvg-name="Guada TV",Guada TV
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
-#EXTINF:-1 tvg-id="El Confidencial" tvg-logo="https://i.postimg.cc/vDR151wW/elconfidencial.jpg" group-title="Generalistas" tvg-name="El Confidencial",El Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/b72074f4-8b72-4928-bde0-b3ad5047a907/0.m3u8
-
-#EXTINF:-1 tvg-id="El País" tvg-logo="https://i.postimg.cc/L52w5Dnf/elpais.jpg" group-title="Generalistas" tvg-name="El País",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
 #EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5741.ts
 
