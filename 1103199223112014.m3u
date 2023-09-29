@@ -202,7 +202,7 @@ https://live.obslivestream.com/selvatv/index.m3u8
 https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
 
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
-https://live.obslivestream.com/autenticatvmux/index.m3u8
+http://191.97.60.193:10000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="Generalistas" tvg-name="CR TV",CR TV
 https://live.obslivestream.com/crtvmux/index.m3u8
@@ -236,6 +236,9 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
 http://191.97.60.193:10000/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
+http://191.97.60.193:10000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.postimg.cc/90dbXNKY/Unitel-TV.jpg" group-title="Generalistas" tvg-name="Unitel",Unitel
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
@@ -396,6 +399,9 @@ https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="La Luz" tvg-logo="https://i.postimg.cc/wB6PXBJL/laluz.png" group-title="Religiosos" tvg-name="La Luz",La Luz
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UNIFE" tvg-logo="https://i.postimg.cc/PqwB76fQ/UNIFE.png" group-title="Religiosos" tvg-name="UNIFE",UNIFE
+http://191.97.60.193:10000/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="Hoynet" tvg-logo="https://i.postimg.cc/pT979k3f/Hoynet.png" group-title="Religiosos" tvg-name="Hoynet",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
@@ -406,7 +412,7 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/mgSnB0m1/telesur.jpg" group-title="Generalistas" tvg-name="Telesur",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+http://191.97.60.193:10000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Generalistas" tvg-name="AstroNet",AstroNet
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
@@ -621,6 +627,9 @@ https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/in
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1 tvg-id="Animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="Infantiles" tvg-name="Animotion",Animotion
+http://191.97.60.193:10000/play/a02n/index.m3u8
+
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="LatinoKids",LatinoKids
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1197867120.m3u8
 
@@ -765,8 +774,8 @@ https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=179.6
 #EXTINF:-1 tvg-id="+Cumbia TV" tvg-logo="https://i.postimg.cc/1zx6r2Xq/mascumbiatv.png" group-title="Musicales" tvg-name="+Cumbia TV",+Cumbia TV
 https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=723b103365737ff366aaa0df720e40c927dbfe0d-342d99a3fcc2c4ca5fa7b398dc745b45-1695943637-1695932837
 
-#EXTINF:-1 tvg-id="TOP Latino TV" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino TV",TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
+http://191.97.60.193:10000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="X TV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="X TV",X TV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
@@ -784,7 +793,7 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419
 https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=179.6.166.136&token=bdaf2a7f0d292ed0475df1f339622bf1a2be69e7-247bc3ded0cf0e991916f7f7231c115f-1695943458-1695932658
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+http://191.97.60.193:10000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 http://170.81.240.10:8000/play/a00m/index.m3u8
