@@ -1102,7 +1102,7 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 http://186.154.219.5:4022/play/a01e
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
-http://45.228.234.77:3340/play/distritocomedia/index.m3u8
+http://181.78.105.146:2000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
 http://45.5.119.155:8000/play/a0gs/index.m3u8
