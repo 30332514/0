@@ -414,6 +414,9 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/mgSnB0m1/telesur.jpg" group-title="Generalistas" tvg-name="Telesur",Telesur
 http://191.97.60.193:10000/play/a01j/index.m3u8
 
+#EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/Gt2bfZMS/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
+http://191.97.60.193:10000/play/a02o/index.m3u8
+
 #EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Generalistas" tvg-name="AstroNet",AstroNet
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 
@@ -656,6 +659,12 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="FMH KIDS" tvg-logo="https://i.postimg.cc/mrbJV7pm/FMH-Kids.jpg" group-title="Infantiles" tvg-name="FMH KIDS",FMH KIDS
+http://191.97.60.193:10000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
+http://191.97.60.193:10000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
 http://45.5.117.182:8000/play/a0hm/index.m3u8
@@ -1376,6 +1385,12 @@ http://177.234.230.226:8010/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="Películas" tvg-name="Cine Familiar",Cine Familiar
 http://179.189.222.226:8000/play/ch52
+
+#EXTINF:-1 tvg-id="FMH MOVIES" tvg-logo="https://i.postimg.cc/X7P9sW2m/FMH-Movies.jpg" group-title="Películas" tvg-name="FMH MOVIES",FMH MOVIES
+http://191.97.60.193:10000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="FMH FAMILY" tvg-logo="https://i.postimg.cc/76qz5Z6G/FMH-Family.jpg" group-title="Películas" tvg-name="FMH FAMILY",FMH FAMILY
+http://191.97.60.193:10000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
 http://170.81.240.10:8000/play/a01r/index.m3u8
