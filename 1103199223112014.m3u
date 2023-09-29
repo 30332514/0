@@ -1060,10 +1060,7 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/in
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 
 #EXTINF:-1 tvg-id="EsTuTele" tvg-logo="https://i.postimg.cc/7hB9D8dC/estutele.jpg" group-title="Generalistas" tvg-name="EsTuTele",EsTuTele
-https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8
-
-#EXTINF:-1 tvg-id="IBEROAMERICA TV" tvg-logo="https://graph.facebook.com/iberoamericatv/picture?width=200&height=200" group-title="Generalistas" tvg-name="IBEROAMERICA TV",IBEROAMERICA TV
-https://limited39.todostreaming.es/live/salome-livestream.m3u8
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas" tvg-name="Tastemade Español",Tastemade Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
@@ -1084,7 +1081,7 @@ http://186.154.219.5:4022/play/a01e
 http://45.228.234.77:3340/play/distritocomedia/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
-http://45.170.225.212:58001/play/a00e/index.m3u8
+http://45.5.119.155:8000/play/a0gs/index.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
@@ -1093,22 +1090,22 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://i.postimg.cc/7649Bp5c/euronews.jpg" group-title="Informativos" tvg-name="Euronews",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
-http://45.228.232.205:16000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://i.postimg.cc/zG7CkY1M/france24.png" group-title="Informativos" tvg-name="FRANCE 24",FRANCE 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.postimg.cc/8P9SFkV7/CNN-en-Espa-ol.png" group-title="Informativos" tvg-name="CNN en Español",CNN en Español
 http://181.78.24.67:8010/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
+http://45.228.232.205:16000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
 http://45.228.232.219:16000/play/a0kz/index.m3u8
@@ -1123,7 +1120,7 @@ http://181.78.105.146:2000/play/a03h/index.m3u8
 http://181.78.105.146:2000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="El TORO TV" tvg-logo="https://i.postimg.cc/vBFGxT6n/eltorotv.jpg" group-title="Generalistas" tvg-name="El TORO TV",El TORO TV
-https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ALCARRIA TV" tvg-logo="https://i.postimg.cc/0NJwq6sK/alcarriatv.png" group-title="Generalistas" tvg-name="ALCARRIA TV",ALCARRIA TV
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
@@ -1144,7 +1141,7 @@ http://inliveserver.com:1935/14510/14510/playlist.m3u8
 https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 
 #EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://i.postimg.cc/sxL08jyF/canalmalaga.jpg" group-title="Generalistas" tvg-name="Canal Málaga",Canal Málaga
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PTV Málaga" tvg-logo="https://i.postimg.cc/xTrZKdsH/ptvmalaga.jpg" group-title="Generalistas" tvg-name="PTV Málaga",PTV Málaga
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
@@ -1183,7 +1180,7 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-id="101Axarquía.TV" tvg-logo="https://i.postimg.cc/zB7fTMNH/101-TVAxarqu-a.jpg" group-title="Generalistas" tvg-name="101 TV Axarquía",101 TV Axarquía
-https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8
+https://streaming101tv.es/hls/webaxarquia.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 Mallorca" tvg-logo="https://i.postimg.cc/wBJfWHPb/Canal-4-Mallorca.png" group-title="Generalistas" tvg-name="Canal 4 Mallorca",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
@@ -1230,8 +1227,8 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-id="Alacantí TV" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Generalistas" tvg-name="Alacantí TV",Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
-#EXTINF:-1 tvg-id="25 TV" tvg-logo="https://i.postimg.cc/vTq9N3SG/25tv.jpg" group-title="Generalistas" tvg-name="25 TV",25 TV
-https://25tvlive.flumotion.cloud/25televisiolive/smil:channel1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="Canal 25 Barbastro TV" tvg-logo="https://i.postimg.cc/vTq9N3SG/25tv.jpg" group-title="Generalistas" tvg-name="Canal 25 Barbastro TV",Canal 25 Barbastro TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 
 #EXTINF:-1 tvg-id="7 Televisión Murcia" tvg-logo="https://i.postimg.cc/NMbpQ8Pz/7televisionmurcia.jpg" group-title="Generalistas" tvg-name="7 Televisión Murcia",7 Televisión Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w643188333_b565000.m3u8
@@ -1258,7 +1255,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/play
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-id="La Urban TV" tvg-logo="https://i.postimg.cc/mrH4bnhW/La-Urban-TV.jpg" group-title="Musicales" tvg-name="La Urban TV",La Urban TV
-https://urbanrevolution.es:8443/live/TV/master.m3u8
+https://www.urbanrevolution.es:8443/live/TV/chunklist_w396299467.m3u8
 
 #EXTINF:-1 tvg-id="STZ Telebista" tvg-logo="https://i.postimg.cc/rmGL4tSh/STZ-Telebista.png" group-title="Musicales" tvg-name="STZ Telebista",STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/tracks-v1a1/mono.m3u8
@@ -1288,13 +1285,13 @@ http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://190.116.90.43:8000/play/a00g
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
-http://45.170.225.212:58001/play/a006/index.m3u8
+http://161.132.194.88:7076/play/a0uo/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
-http://45.170.225.212:58001/play/a03d/index.m3u8
+http://161.132.194.88:7076/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
-http://45.170.225.212:58001/play/a01e/index.m3u8
+http://161.132.194.88:7076/play/a0sv/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://170.81.240.10:8000/play/a01a/index.m3u8
@@ -1327,7 +1324,7 @@ http://45.228.232.219:16000/play/a0kx/index.m3u8
 http://177.93.45.155:6143/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://45.170.225.212:58001/play/a00j/index.m3u8
+http://45.5.119.155:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
 http://190.116.90.43:8000/play/a016
@@ -1429,7 +1426,7 @@ http://45.5.119.155:8000/play/a0kt/index.m3u8
 http://45.5.117.182:8000/play/a0ij/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://i.postimg.cc/SR9Gxfsz/UNIVERSAL-COMEDY.png" group-title="Películas" tvg-name="UNIVERSAL COMEDY",UNIVERSAL COMEDY
-http://45.170.225.212:58001/play/a038/index.m3u8
+http://45.5.119.155:8000/play/a0i5/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/WpSW3PW2/UNIVERSAL-REALITY.png" group-title="Películas" tvg-name="UNIVERSAL REALITY",UNIVERSAL REALITY
 http://45.5.119.155:8000/play/a0i3/index.m3u8
