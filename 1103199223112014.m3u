@@ -132,9 +132,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sin Tv" tvg-logo="https://i.postimg.cc/hv968QC8/sintv.png" group-title="Generalistas" tvg-name="Sin Tv",Sin Tv
 https://inliveserver.com:1936/19004/19004/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV" tvg-logo="https://i.postimg.cc/6Qq6mfJg/FuegoTV.jpg" group-title="Generalistas" tvg-name="FuegoTV",FuegoTV
-https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
-
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="Generalistas" tvg-name="Like TV",Like TV
 http://170.81.240.10:8000/play/a00g/index.m3u8
 
@@ -152,9 +149,6 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m
 
 #EXTINF:-1 tvg-id="VAMISA" tvg-logo="https://i.postimg.cc/q7V4bZc8/vamisa.png" group-title="Generalistas" tvg-name="VAMISA",VAMISA
 https://tv.streamprivate.live:3101/live/vamisalive.m3u8
-
-#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://i.postimg.cc/Zqw1j76z/centraltv.jpg" group-title="Generalistas" tvg-name="Central TV",Central TV
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
