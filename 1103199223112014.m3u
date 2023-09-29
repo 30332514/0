@@ -124,7 +124,7 @@ http://191.97.60.193:10000/play/a00u/index.m3u8
 http://170.81.240.10:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
-http://191.97.60.193:10000/play/a02l/index.m3u8
+http://170.81.240.10:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
@@ -273,9 +273,6 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Generalistas" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="Nova TV Star" tvg-logo="https://i.postimg.cc/4N3bF8qp/Nova-TV-Star.png" group-title="Generalistas" tvg-name="Nova TV Star",Nova TV Star
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
@@ -320,9 +317,6 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 
 #EXTINF:-1 tvg-id="TV Sistemas" tvg-logo="https://pbs.twimg.com/media/FSNf6rdXIAIono-?format=jpg&name=medium" group-title="Generalistas" tvg-name="TV Sistemas",TV Sistemas
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nativa TV" tvg-logo="https://i.postimg.cc/kgCgxYNv/Nativa-TV.jpg" group-title="Generalistas" tvg-name="Nativa TV",Nativa TV
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-id="Miel TV" tvg-logo="https://i.postimg.cc/SNsrmVYV/Miel-TV.jpg" group-title="Generalistas" tvg-name="Miel TV",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
