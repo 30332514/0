@@ -93,6 +93,9 @@ https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8?remote=179.6.166
 #EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
+#EXTINF:-1 tvg-id="Latin CABLE" tvg-logo="https://i.postimg.cc/Z5SY4ZSB/Latin-CABLE.png" group-title="Generalistas" tvg-name="Latin CABLE",Latin CABLE
+https://mserver.latincable.net/LatinTV/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal B" tvg-logo="http://core1.hdlatam.tv/media/images/channel/WhatsApp_Image_2022-11-10_at_6.03.46_PM.jpeg" group-title="Generalistas" tvg-name="Canal B",Canal B
 https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 
