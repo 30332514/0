@@ -12,6 +12,9 @@ http://257638747951321087.ot0711.xyz:80/play/vi428027/hdFucGwknR/321087.ts
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_10.png" group-title="TV España",Antena 3
 http://499816947258321105.ot0711.xyz:80/play/vi428027/hdFucGwknR/321105.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TV España",24h
+http://257638747951321077.ot0711.xyz:80/play/vi428027/hdFucGwknR/321077.ts
+
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_65.png" group-title="TV España",Cuatro
 http://257638747951321196.ot0711.xyz:80/play/vi428027/hdFucGwknR/321196.ts
 
@@ -62,9 +65,6 @@ http://257638747951321224.ot0711.xyz:80/play/vi428027/hdFucGwknR/321224.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="TV España",Paramount Channel
 http://257638747951321392.ot0711.xyz:80/play/vi428027/hdFucGwknR/321392.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TV España",24h
-http://257638747951321077.ot0711.xyz:80/play/vi428027/hdFucGwknR/321077.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TV España",Teledeporte
 http://257638747951538769.ot0711.xyz:80/play/vi428027/hdFucGwknR/538769.ts
