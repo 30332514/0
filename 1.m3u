@@ -270,6 +270,9 @@ https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.postimg.cc/7L28Yv6v/megatvjaen.jpg" group-title="Generalistas" tvg-name="Mega",Mega
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
+#EXTINF:-1 tvg-id="Nova Star TV" tvg-logo="https://i.postimg.cc/FsZFWC08/Nova-Star-TV.png" group-title="Generalistas" tvg-name="Nova Star TV",Nova Star TV
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Generalistas" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
