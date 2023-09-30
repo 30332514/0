@@ -237,6 +237,9 @@ http://191.97.60.193:10000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
 http://191.97.60.193:10000/play/a03k/index.m3u8
 
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="Generalistas" tvg-name="Unitel",Unitel
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
@@ -293,6 +296,9 @@ https://inliveserver.com:1936/19026/19026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal 49" tvg-logo="https://telecanalperu.com/wp-content/uploads/2023/04/tele-chiki.png" group-title="Generalistas" tvg-name="Telecanal 49",Telecanal 49
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 
 #EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
@@ -765,7 +771,7 @@ https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=179.6
 #EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
 http://191.97.60.193:10000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="X TV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="X TV",X TV
+#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
 #EXTINF:-1 tvg-id="SuperTV" tvg-logo="https://i.postimg.cc/nrFLjWtp/supertv.jpg" group-title="Musicales" tvg-name="SuperTV",SuperTV
