@@ -297,7 +297,7 @@ https://inliveserver.com:1936/19026/19026/playlist.m3u8
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecanal 49" tvg-logo="https://telecanalperu.com/wp-content/uploads/2023/04/tele-chiki.png" group-title="Generalistas" tvg-name="Telecanal 49",Telecanal 49
+#EXTINF:-1 tvg-id="Telecanal" tvg-logo="https://i.postimg.cc/rFVB3fJt/telecanal.png" group-title="Generalistas" tvg-name="Telecanal",Telecanal
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 
 #EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
