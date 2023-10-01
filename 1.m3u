@@ -6,7 +6,7 @@ http://190.116.90.43:8000/play/a011
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
 http://190.116.90.43:8000/play/a010
 
-#EXTINF:-1 tvg-id="Panamericana tv" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
+#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
 http://190.116.90.43:8000/play/a002
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
@@ -63,7 +63,7 @@ http://191.97.60.193:10000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
 http://191.97.60.193:10000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
+#EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
@@ -275,6 +275,9 @@ https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Generalistas" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="VIVATV" tvg-logo="https://i.postimg.cc/bvw5btSS/VIVATV.png" group-title="Generalistas" tvg-name="VIVATV",VIVATV
+https://live.obslivestream.com/vivatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
