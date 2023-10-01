@@ -204,9 +204,6 @@ https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
 http://191.97.60.193:10000/play/a046/index.m3u8
 
-#EXTINF:-1 tvg-id="CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="Generalistas" tvg-name="CR TV",CR TV
-https://live.obslivestream.com/crtvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="W Televisión" tvg-logo="https://i.postimg.cc/y84dSym4/W-Televisi-n.png" group-title="Generalistas" tvg-name="W Televisión",W Televisión
 https://live.obslivestream.com/wtv/index.m3u8
 
