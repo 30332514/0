@@ -14,6 +14,19 @@ https://postimages.org/
 https://github.com/bodegaacuenta/Moyobambaastral             -   Congreso TV, QUVO, DREAMWORKS
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
 https://github.com/jesaro15/iptv
+https://github.com/sufyansurve/M3u8
+https://github.com/PABLOPOM/m3u
+https://github.com/TonnyMCH/TonnyMCH-Canales-CR.m3u/tree/main/TonnyMCH
+https://github.com/mxxtv/m3u
+https://github.com/mxxtv/m3u8
+https://github.com/Mxitv/m3u8/blob/main/m3u
+https://github.com/MAXIMAONE/IPTV.m3u
+https://github.com/BrianRVP/lista.m3u
+https://github.com/BrianRVP/lista.m3u/blob/main/IPTV
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
+https://github.com/search?q=m3u&type=repositories&s=updated&o=desc&p=5
+
+
 https://github.com/iptv-org/iptv/tree/master/streams
 https://github.com/iptv-org/iptv/blob/master/streams/pe.m3u
 https://github.com/brunochanrio/Listas-IPTV
