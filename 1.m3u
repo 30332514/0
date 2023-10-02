@@ -43,7 +43,7 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1243261347&_cdn_timestamp=1696163007&_cdn_token=da4930e092d09a026261c37b98d95d2cc717610f
+/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1252191347&_cdn_timestamp=1696420156&_cdn_token=29042a592d5183d6909b081ec338a078837d0769
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.116.90.43:8000/play/a004
@@ -145,7 +145,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1243308779&_cdn_timestamp=1696165051&_cdn_token=d117a697e347723098c002a02afb9998960dda92
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1248624747&_cdn_timestamp=1696335512&_cdn_token=a19918f492df80c3a5b598d0bc09d249fa30b2a2
 
 #EXTINF:-1 tvg-id="VAMISA" tvg-logo="https://i.postimg.cc/q7V4bZc8/vamisa.png" group-title="Generalistas" tvg-name="VAMISA",VAMISA
 https://tv.streamprivate.live:3101/live/vamisalive.m3u8
