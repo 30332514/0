@@ -12,6 +12,9 @@ https://stream.zeno.fm/e1ftiayu9evvv
 #EXTINF:-1 tvg-id="Radio Ollantay Virú" tvg-logo="https://i.postimg.cc/qM0GyjXg/Radio-Ollantay-Vir.jpg" group-title="Virú" tvg-name="Radio Ollantay Virú",Radio Ollantay Virú
 https://radio.ollantay.pe:7093/;
 
+#EXTINF:-1 tvg-id="Radio Steñar Perú" tvg-logo="https://i.postimg.cc/HnWVscXW/Radio-Stelar-Per.jpg" group-title="Virú" tvg-name="Radio Steñar Perú",Radio Steñar Perú
+https://conectperu.com:7261/live
+
 #EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="EMISORAS LOCALES", 1154 | Radio Atmósfera 92.3 FM || Moyobamba; Perú
 https://cast10.plugstreaming.com:2000/stream/atmosfera/;
 
