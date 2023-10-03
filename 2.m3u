@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Radio Fans" tvg-logo="https://i.postimg.cc/zGgwvPbV/RADIO-FANS.jpg" group-title="Chao" tvg-name=Radio Fans
+#EXTINF:-1 tvg-id="Radio Fans" tvg-logo="https://i.postimg.cc/zGgwvPbV/RADIO-FANS.jpg" group-title="Chao" tvg-name="Radio Fans"
 https://antares.dribbcast.com/proxy/radiofanspe/stream/;
 
-#EXTINF:-1 tvg-id="Radio Viru Star" tvg-logo="https://i.postimg.cc/XNrGrFym/RADIOVIRUSTAR.png" group-title="Chao" tvg-name=Radio Viru Star
+#EXTINF:-1 tvg-id=Radio Viru Star" tvg-logo="https://i.postimg.cc/XNrGrFym/RADIOVIRUSTAR.png" group-title="Chao" tvg-name="Radio Viru Star"
 https://sp.oyotunstream.com:7004/;stream
 
 #EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="EMISORAS LOCALES", 1154 | Radio Atmósfera 92.3 FM || Moyobamba; Perú
