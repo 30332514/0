@@ -559,22 +559,22 @@ http://45.71.252.67:8000/play/a0jh/index.m3u8
 http://190.116.90.43:8000/play/a00i
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://170.81.240.10:8000/play/a011/index.m3u8
+http://161.132.194.88:7076/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://190.116.90.43:8000/play/a00z
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
-http://170.81.240.10:8000/play/a00y/index.m3u8
+http://209.45.81.84:8000/play/a01d
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
 http://45.5.119.155:8000/play/a0kh/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://170.81.240.10:8000/play/a010/index.m3u8
+http://161.132.194.88:7076/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://170.81.240.10:8000/play/a00z/index.m3u8
+http://161.132.194.88:7076/play/a0pk/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
 http://45.228.232.219:16000/play/a0me/index.m3u8
