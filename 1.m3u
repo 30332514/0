@@ -187,7 +187,7 @@ https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 http://191.97.60.193:10000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
-https://stmv1.srvif.com/radiotvcatacaos/radiotvcatacaos/playlist.m3u8
+https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-id="CUMO TV" tvg-logo="https://i.postimg.cc/XJs71pcn/CUMOTV.png" group-title="Generalistas" tvg-name="CUMO TV",CUMO TV
 https://live.obslivestream.com/cumo/index.m3u8
@@ -238,7 +238,7 @@ http://191.97.60.193:10000/play/a03k/index.m3u8
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
-https://servilive.com:3079/live/cdnatvlive.m3u8
+https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicentro TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="Generalistas" tvg-name="Unicentro TV",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
