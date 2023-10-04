@@ -967,7 +967,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5625.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5611.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/Pr3C0f1s/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_belryxvp/tl/main/st/0/t/-aWJ0ZJIrQaJAbc39ghfDQ/index-s32.m3u8?__hdnea__=st=1696400883~exp=1696487283~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_belryxvp/tl/main/st/0/t/-aWJ0ZJIrQaJAbc39ghfDQ/index-s32.m3u8*~hmac=666bac2bcffb525cf4d4031992d0fe5fdf6c5da4149fe01d7ac42422387f93ea
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
@@ -1188,9 +1188,6 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-id="101TV Málaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Generalistas" tvg-name="101TV Málaga",101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-id="101Axarquía.TV" tvg-logo="https://i.postimg.cc/zB7fTMNH/101-TVAxarqu-a.jpg" group-title="Generalistas" tvg-name="101 TV Axarquía",101 TV Axarquía
-https://streaming101tv.es/hls/webaxarquia.m3u8
-
 #EXTINF:-1 tvg-id="Canal 4 Mallorca" tvg-logo="https://i.postimg.cc/wBJfWHPb/Canal-4-Mallorca.png" group-title="Generalistas" tvg-name="Canal 4 Mallorca",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
@@ -1315,7 +1312,7 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
-http://181.78.85.7:16123/play/ch57
+http://179.189.222.226:8000/play/ch57
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/02WdJpBf/CINEAR.png" group-title="Películas" tvg-name="CINE AR",CINE AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -1354,7 +1351,7 @@ http://45.228.232.219:16000/play/a0m7/index.m3u8
 http://45.5.119.155:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
-http://161.132.194.88:7076/play/a0w1/index.m3u8
+http://181.78.24.67:8010/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://45.5.119.155:8000/play/a0fv/index.m3u8
@@ -1390,7 +1387,7 @@ http://170.81.240.10:8000/play/a01r/index.m3u8
 http://186.154.219.5:4022/play/a01u
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://181.78.85.7:16123/play/ch14
+http://45.5.117.182:8000/play/a0fs/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://45.228.232.219:16000/play/a0n0/index.m3u8
@@ -1399,7 +1396,7 @@ http://45.228.232.219:16000/play/a0n0/index.m3u8
 http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-http://181.78.85.7:16123/play/ch47
+http://177.93.45.155:6143/play/A34Y/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://190.116.90.43:8000/play/a00o
