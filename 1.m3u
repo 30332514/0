@@ -658,10 +658,10 @@ http://191.97.60.193:10000/play/a02r/index.m3u8
 http://45.5.117.182:8000/play/a0hm/index.m3u8
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
-http://181.78.85.7:16123/play/ch04
+http://179.189.222.226:8000/play/ch04
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
-http://181.78.85.7:16123/play/ch01
+http://179.189.222.226:8000/play/ch01
 
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
 http://191.97.60.193:10000/play/a02y/index.m3u8
