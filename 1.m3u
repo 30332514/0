@@ -436,7 +436,7 @@ http://177.53.153.21:8001/play/a0au/index.m3u8
 http://45.228.234.77:3340/play/unicable/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
-http://181.78.85.7:16123/play/ch35
+http://45.5.119.155:8000/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-id="SEO TV Novelas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Novelas" tvg-name="SEO TV Novelas",SEO TV Novelas
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
