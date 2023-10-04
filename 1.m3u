@@ -826,7 +826,7 @@ http://209.45.81.84:8000/play/a02a
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ditty TV" tvg-logo="https://i.postimg.cc/pVshg9jb/dittytv.png" group-title="Musicales" tvg-name="Ditty TV",Ditty TV
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/2cccdb63-998f-4167-9d7b-dad561bbc4d6/3.m3u8
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/kM2RPJv2/spirittv.png" group-title="Musicales" tvg-name="Spirit TV",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
