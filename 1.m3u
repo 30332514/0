@@ -592,7 +592,7 @@ https://vdo.panelstreaming.live:3058/stream/play.m3u8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
-http://177.53.153.21:8001/play/a01x/index.m3u8
+http://190.102.139.241:8900/play/a0sx/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/DwbWPb2B/TNT-Sports2.png" group-title="Deportivos" tvg-name="TNT SPORTS 2",TNT SPORTS 2
 http://45.71.252.67:8000/play/a0kz/index.m3u8
