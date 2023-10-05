@@ -693,11 +693,11 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="Infantiles" tvg-name="duckTV",duckTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
-
 #EXTINF:-1 tvg-id="Vinilos TV" tvg-logo="https://i.postimg.cc/NfjVjXSs/vinilostv.jpg" group-title="Musicales" tvg-name="Vinilos TV",Vinilos TV
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://tv.portalexpress.es:3731/stream/play.m3u8
@@ -814,7 +814,13 @@ https://stream8.mexiserver.com/conectatv/conectatv/chunklist_w1249298445.m3u8
 http://187.188.232.236:1021/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
-http://186.154.219.5:4022/play/a01w
+http://190.102.139.241:8900/play/a0xe/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/KcLwdWbD/MTV-00s.png" group-title="Musicales" tvg-name="MTV 00s",MTV 00s
+http://190.102.139.241:8900/play/a0n3/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
+http://190.102.139.241:8900/play/a0nh/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20221026T004458SQUARE.png_20221026004458.png" group-title="Musicales" tvg-name="MTV Originals",MTV Originals
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
