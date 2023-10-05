@@ -18,6 +18,9 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/T3SDTnH6/LaTele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
+http://187.102.208.108:50001/play/a043/index.m3u8
+
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
 http://190.102.139.241:8900/play/a0tx/index.m3u8
 
