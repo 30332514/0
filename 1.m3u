@@ -18,9 +18,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/d0dBBRBW/la-tele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
-http://170.81.240.10:8000/play/a00j/index.m3u8
-
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
 http://190.102.139.241:8900/play/a0tx/index.m3u8
 
@@ -117,9 +114,6 @@ https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 http://191.97.60.193:10000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="PERÚ GOTV" tvg-logo="https://i.postimg.cc/vmvCtqCC/PER-GOTV.jpg" group-title="Generalistas" tvg-name="PERÚ GOTV",PERÚ GOTV
-http://170.81.240.10:8000/play/a00i/index.m3u8
-
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 http://191.97.60.193:10000/play/a02l/index.m3u8
 
@@ -130,7 +124,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 https://inliveserver.com:1936/19004/19004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="Generalistas" tvg-name="Like TV",Like TV
-https://8.243.113.166/live/fuegotv/playlist.m3u8
+https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 http://191.97.60.193:10000/play/a06c/index.m3u8
@@ -159,17 +153,8 @@ https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMP TV",USMP TV
 http://191.97.60.193:10000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-id="NAZARENAS TV" tvg-logo="https://i.postimg.cc/K8McG2CF/NAZARENAS-TV.png" group-title="Generalistas" tvg-name="NAZARENAS TV",NAZARENAS TV
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-
-#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
-http://170.81.240.10:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
-http://170.81.240.10:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
 http://209.45.81.84:8000/play/a03c
@@ -218,9 +203,6 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 #EXTINF:-1 tvg-id="Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="Generalistas" tvg-name="Nor Selva TV",Nor Selva TV
 https://live.obslivestream.com/norselvatv/index.m3u8
-
-#EXTINF:-1 tvg-id="QUASSAR TELEVISIÓN" tvg-logo="https://i.postimg.cc/nh3vKq00/QUASSAR-TELEVISI-N.jpg" group-title="Generalistas" tvg-name="QUASSAR TELEVISIÓN",QUASSAR TELEVISIÓN
-https://gnstreammedia.com:19360/4000/4000.m3u8
 
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
@@ -297,12 +279,6 @@ https://inliveserver.com:1936/19026/19026/playlist.m3u8
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecanal" tvg-logo="https://i.postimg.cc/rFVB3fJt/telecanal.png" group-title="Generalistas" tvg-name="Telecanal",Telecanal
-https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
-
-#EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
-https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
-
 #EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
 https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
 
@@ -338,9 +314,6 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Hechicera TV" tvg-logo="https://i.postimg.cc/tgYrqSQk/hechiceratv.jpg" group-title="Generalistas" tvg-name="Hechicera TV",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1344292443.m3u8
-
-#EXTINF:-1 tvg-id="Tropical TV" tvg-logo="https://pbs.twimg.com/media/FSNe1ybXIAAz2_e?format=jpg&name=small" group-title="Generalistas" tvg-name="Tropical TV",Tropical TV
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MEGA TV" tvg-logo="https://i.postimg.cc/XvyhXJYQ/MEGATV-AQP.jpg" group-title="Generalistas" tvg-name="MEGA TV",MEGA TV
 https://hls.servidor.stream/storage/megatv.m3u8
@@ -732,23 +705,14 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="Infantiles" tvg-name="duckTV",duckTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="Vinilos TV" tvg-logo="https://i.postimg.cc/NfjVjXSs/vinilostv.jpg" group-title="Musicales" tvg-name="Vinilos TV",Vinilos TV
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://tv.portalexpress.es:3731/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
-https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tierra Mia" tvg-logo="https://i.postimg.cc/1R06hLh2/Tierra-Mia.jpg" group-title="Musicales" tvg-name="Tierra Mia",Tierra Mia
-http://170.81.240.10:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="RITMO X" tvg-logo="https://i.postimg.cc/wMGDhGsc/RITMO-X.jpg" group-title="Musicales" tvg-name="RITMO X",RITMO X
-http://170.81.240.10:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-id="GALACTICA TV" tvg-logo="https://i.postimg.cc/SQ3LssCX/GALACTICA-TV.jpg" group-title="Musicales" tvg-name="GALACTICA TV",GALACTICA TV
-https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
@@ -762,23 +726,17 @@ https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
 http://191.97.60.193:10000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
-https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-
 #EXTINF:-1 tvg-id="SuperTV" tvg-logo="https://i.postimg.cc/nrFLjWtp/supertv.jpg" group-title="Musicales" tvg-name="SuperTV",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
 #EXTINF:-1 tvg-id="BTA TV" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Musicales" tvg-name="BTA TV",BTA TV
 https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 
-#EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419649899.m3u8
-
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 http://191.97.60.193:10000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
-http://170.81.240.10:8000/play/a00m/index.m3u8
+https://marine2.miplay.cl/karavanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Tropical" tvg-logo="https://i.postimg.cc/Jn4X0Q6B/tropicaltv.jpg" group-title="Musicales" tvg-name="Radio Tropical",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
@@ -802,7 +760,7 @@ http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
-http://170.81.240.10:8000/play/a00p/index.m3u8
+https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lolly Kids" tvg-logo="https://i.postimg.cc/50LxjC61/Lolly-Kids.png" group-title="Musicales" tvg-name="Lolly Kids",Lolly Kids
 http://209.45.81.84:8000/play/a02a
@@ -1264,7 +1222,7 @@ http://190.116.90.43:8000/play/a00v
 http://190.116.90.43:8000/play/a00q
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
-http://170.81.240.10:8000/play/a014/index.m3u8
+http://190.102.139.241:8900/play/a0nw/index.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo WILD" tvg-logo="https://i.postimg.cc/Y2mLJtPt/Nat-Geo-WILD.jpg" group-title="Documentales" tvg-name="Nat Geo WILD",Nat Geo WILD
 http://45.5.119.155:8000/play/a0kk/index.m3u8
@@ -1288,7 +1246,7 @@ http://161.132.194.88:7076/play/a02h/index.m3u8
 http://161.132.194.88:7076/play/a0sv/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
-http://170.81.240.10:8000/play/a01a/index.m3u8
+http://190.102.139.241:8900/play/a0vs/index.m3u8
 
 #EXTINF:-1 tvg-id="SEO TV Películas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Películas" tvg-name="SEO TV Películas",SEO TV Películas
 https://live.seo.tv.bo/live/4SEO.m3u8
