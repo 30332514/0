@@ -144,9 +144,6 @@ https://tv.streamprivate.live:3101/live/vamisalive.m3u8
 #EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
-https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
-
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 
@@ -324,9 +321,6 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="Primavera TV" tvg-logo="https://i.postimg.cc/sfM0Mgfk/Primavera-TV.jpg" group-title="Generalistas" tvg-name="Primavera TV",Primavera TV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SEO TV" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Generalistas" tvg-name="SEO TV",SEO TV
-https://live.seo.tv.bo/live/1SEO.m3u8
-
 #EXTINF:-1 tvg-id="ACS Network" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Generalistas" tvg-name="ACS Network",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
@@ -407,9 +401,6 @@ http://45.228.234.77:3340/play/unicable/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://45.5.119.155:8000/play/a0kq/index.m3u8
-
-#EXTINF:-1 tvg-id="SEO TV Novelas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Novelas" tvg-name="SEO TV Novelas",SEO TV Novelas
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
 #EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
 http://45.71.252.67:8000/play/a0hi/index.m3u8
@@ -575,9 +566,6 @@ http://45.71.252.67:8000/play/a0k9/index.m3u8
 
 #EXTINF:-1 tvg-id="TITAN" tvg-logo="https://i.postimg.cc/qRmG03LM/TITAN.jpg" group-title="Deportivos" tvg-name="TITAN",TITAN
 http://191.97.60.193:10000/play/a04d/index.m3u8
-
-#EXTINF:-1 tvg-id="SEO TV Kids" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Infantiles" tvg-name="SEO TV Kids",SEO TV Kids
-https://live.seo.tv.bo/live/2SEO.m3u8
 
 #EXTINF:-1 tvg-id="Ipe Perú" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Ipe Perú",Ipe Perú
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_3.m3u8
@@ -821,9 +809,6 @@ http://45.5.117.182:8000/play/l0hj/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta TV" tvg-logo="https://i.postimg.cc/JnFX4mkc/conectatv.png" group-title="Musicales" tvg-javascript:void(0)name="Conecta TV",Conecta TV
 https://stream8.mexiserver.com/conectatv/conectatv/chunklist_w1249298445.m3u8
-
-#EXTINF:-1 tvg-id="Mi Gente TV" tvg-logo="https://i.postimg.cc/bvKxvh3y/migentetv.jpg" group-title="Musicales" tvg-name="Mi Gente TV",Mi Gente TV
-http://181.78.85.7:16123/play/ch11
 
 #EXTINF:-1 tvg-id="nickmusic" tvg-logo="https://i.postimg.cc/Tw41bryd/nickmusic.jpg" group-title="Musicales" tvg-name="nickmusic",nickmusic
 http://187.188.232.236:1021/play/a05k/index.m3u8
@@ -1247,9 +1232,6 @@ http://161.132.194.88:7076/play/a0sv/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://190.102.139.241:8900/play/a0vs/index.m3u8
-
-#EXTINF:-1 tvg-id="SEO TV Películas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Películas" tvg-name="SEO TV Películas",SEO TV Películas
-https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Clasica" tvg-logo="https://i.postimg.cc/2y6TG8vZ/MI-TV.png" group-title="Películas" tvg-name="Mi TV Clasica ",Mi TV Clasica 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
