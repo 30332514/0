@@ -1024,7 +1024,7 @@ https://cdn7.lqsa.es/hls/1/stream.m3u8
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
-http://186.154.219.5:4022/play/a01e
+http://190.102.139.241:8900/play/a0n6/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
@@ -1045,31 +1045,31 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://i.postimg.cc/zG7CkY1M/france24.png" group-title="Informativos" tvg-name="FRANCE 24",FRANCE 24
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+http://190.102.139.241:8900/play/a0vp/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.postimg.cc/8P9SFkV7/CNN-en-Espa-ol.png" group-title="Informativos" tvg-name="CNN en Español",CNN en Español
-http://45.71.252.67:8000/play/a0m2/index.m3u8
+http://190.102.139.241:8900/play/a10a/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
-http://45.71.252.67:8000/play/a0jd/index.m3u8
+http://190.102.139.241:8900/play/a0u9/index.m3u8
+
+#EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
+http://190.102.139.241:8900/play/a0mx/index.m3u8
+
+#EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
+http://190.102.139.241:8900/play/a0n9/index.m3u8
+
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/JzvW2VG5/SYFY.jpg" group-title="Generalistas" tvg-name="SYFY",SYFY
+http://190.102.139.241:8900/play/a0kt/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
+http://190.102.139.241:8900/play/a0wt/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
+http://190.102.139.241:8900/play/a0ks/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
-http://45.228.232.205:16000/play/a03c/index.m3u8
-
-#EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
-http://45.228.232.219:16000/play/a0kz/index.m3u8
-
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/JzvW2VG5/SYFY.jpg" group-title="Generalistas" tvg-name="SYFY",SYFY
-http://45.228.232.219:16000/play/a0n2/index.m3u8
-
-#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
-http://181.78.105.146:2000/play/a03h/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://181.78.105.146:2000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="El TORO TV" tvg-logo="https://i.postimg.cc/vBFGxT6n/eltorotv.jpg" group-title="Generalistas" tvg-name="El TORO TV",El TORO TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
