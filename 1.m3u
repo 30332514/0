@@ -517,31 +517,28 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
-http://45.71.252.67:8000/play/a0jh/index.m3u8
+http://190.102.139.241:8900/play/a0xp/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
-http://190.116.90.43:8000/play/a00i
+http://190.102.139.241:8900/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://161.132.194.88:7076/play/a01t/index.m3u8
+http://190.102.139.241:8900/play/a0n0/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://190.116.90.43:8000/play/a00z
+http://190.102.139.241:8900/play/a0wd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
-http://209.45.81.84:8000/play/a01d
+http://190.102.139.241:8900/play/a0t2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://45.5.119.155:8000/play/a0kh/index.m3u8
+http://190.102.139.241:8900/play/a0mz/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://161.132.194.88:7076/play/a026/index.m3u8
+http://190.102.139.241:8900/play/a0ni/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://161.132.194.88:7076/play/a0pk/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://45.228.232.219:16000/play/a0me/index.m3u8
+http://190.102.139.241:8900/play/a0o0/index.m3u8
 
 #EXTINF:-1 tvg-id="AYM" tvg-logo="https://i.postimg.cc/NMFZxdxr/AYM.png" group-title="Deportivos" tvg-name="AYM",AYM
 http://187.188.232.236:1021/play/a05z/index.m3u8
@@ -818,6 +815,12 @@ http://190.102.139.241:8900/play/a0xe/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/KcLwdWbD/MTV-00s.png" group-title="Musicales" tvg-name="MTV 00s",MTV 00s
 http://190.102.139.241:8900/play/a0n3/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/jqPqZvkG/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
+http://45.5.119.155:8000/play/a0ge/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
+http://45.5.119.155:8000/play/a0gd/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://190.102.139.241:8900/play/a0nh/index.m3u8
