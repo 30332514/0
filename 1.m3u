@@ -399,11 +399,14 @@ http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://45.228.234.77:3340/play/unicable/index.m3u8
 
+#EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
+http://45.71.252.67:8000/play/a0hi/index.m3u8
+
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://45.5.119.155:8000/play/a0kq/index.m3u8
 
-#EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
-http://45.71.252.67:8000/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
+http://190.102.139.241:8900/play/a0o2/index.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas Europa" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Europa",Tlnovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -591,7 +594,7 @@ http://138.59.177.34:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://138.59.177.34:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name=Teen Nick",Teen Nick
+#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=Teen Nick",Teen Nick
 http://161.132.194.88:7076/play/a0qp/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
@@ -613,7 +616,10 @@ http://45.5.117.182:8000/play/a0hm/index.m3u8
 http://179.189.222.226:8000/play/ch04
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
-http://179.189.222.226:8000/play/ch01
+http://190.102.139.241:8900/play/a105/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
+http://190.102.139.241:8900/play/a0kr/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
 http://191.97.60.193:10000/play/a02y/index.m3u8
