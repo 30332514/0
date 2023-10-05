@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/d0dBBRBW/la-tele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
+http://170.81.240.10:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PERÚ GOTV" tvg-logo="https://i.postimg.cc/vmvCtqCC/PER-GOTV.jpg" group-title="Generalistas" tvg-name="PERÚ GOTV",PERÚ GOTV
+http://170.81.240.10:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="NAZARENAS TV" tvg-logo="https://i.postimg.cc/K8McG2CF/NAZARENAS-TV.png" group-title="Generalistas" tvg-name="NAZARENAS TV",NAZARENAS TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
+http://170.81.240.10:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
+http://170.81.240.10:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="QUASSAR TELEVISIÓN" tvg-logo="https://i.postimg.cc/nh3vKq00/QUASSAR-TELEVISI-N.jpg" group-title="Generalistas" tvg-name="QUASSAR TELEVISIÓN",QUASSAR TELEVISIÓN
+https://gnstreammedia.com:19360/4000/4000.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal" tvg-logo="https://i.postimg.cc/rFVB3fJt/telecanal.png" group-title="Generalistas" tvg-name="Telecanal",Telecanal
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+
+#EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Tropical TV" tvg-logo="https://pbs.twimg.com/media/FSNe1ybXIAAz2_e?format=jpg&name=small" group-title="Generalistas" tvg-name="Tropical TV",Tropical TV
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tierra Mia" tvg-logo="https://i.postimg.cc/1R06hLh2/Tierra-Mia.jpg" group-title="Musicales" tvg-name="Tierra Mia",Tierra Mia
+http://170.81.240.10:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="RITMO X" tvg-logo="https://i.postimg.cc/wMGDhGsc/RITMO-X.jpg" group-title="Musicales" tvg-name="RITMO X",RITMO X
+http://170.81.240.10:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="GALACTICA TV" tvg-logo="https://i.postimg.cc/SQ3LssCX/GALACTICA-TV.jpg" group-title="Musicales" tvg-name="GALACTICA TV",GALACTICA TV
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
+#EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419649899.m3u8
+
+#EXTINF:-1 tvg-id="SEO TV" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Generalistas" tvg-name="SEO TV",SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEO TV Novelas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Novelas" tvg-name="SEO TV Novelas",SEO TV Novelas
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
+#EXTINF:-1 tvg-id="SEO TV Kids" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Infantiles" tvg-name="SEO TV Kids",SEO TV Kids
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEO TV Películas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Películas" tvg-name="SEO TV Películas",SEO TV Películas
+https://live.seo.tv.bo/live/4SEO.m3u8
