@@ -16,7 +16,7 @@ http://190.116.90.43:8000/play/a005
 http://191.97.60.193:10000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
-http://170.81.240.10:8000/play/a008/index.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/d0dBBRBW/la-tele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
 http://170.81.240.10:8000/play/a00j/index.m3u8
