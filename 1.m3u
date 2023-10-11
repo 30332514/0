@@ -879,9 +879,6 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="Ocko Expres" tvg-logo="https://i.postimg.cc/26m9crNJ/Ocko-Expres.jpg" group-title="Musicales" tvg-name="Ocko Expres",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="KPOP TV" tvg-logo="https://i.postimg.cc/J0Fyn71d/KPOP-TV.jpg" group-title="Musicales" tvg-name="KPOP TV",KPOP TV
-http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5622.ts
 
