@@ -210,9 +210,6 @@ http://191.97.60.193:10000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
 http://191.97.60.193:10000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="Generalistas" tvg-name="Unitel",Unitel
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
 
@@ -257,9 +254,6 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-
-#EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://i.postimg.cc/J7F6857h/rtvtotal.jpg" group-title="Generalistas" tvg-name="RTV Total",RTV Total
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 #EXTINF:-1 tvg-id="Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Generalistas" tvg-name="Radio Televisión Oriente",Radio Televisión Oriente
 https://vdo.grupolimalive.com:3073/live/orientetvlive.m3u8
@@ -338,9 +332,6 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w158464
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM" group-title="Generalistas" tvg-name="Extrema TV",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Andes Televisión" tvg-logo="https://i.postimg.cc/rwNVs0TK/Andes-Televisi-n.jpg" group-title="Generalistas" tvg-name="Andes Televisión",Andes Televisión
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek" tvg-logo="https://i.postimg.cc/6qt0rG70/EnerGeek.jpg" group-title="Generalistas" tvg-name="EnerGeek",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
