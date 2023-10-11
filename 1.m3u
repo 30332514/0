@@ -711,9 +711,6 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 
-#EXTINF:-1 tvg-id="Radio El Pueblo" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="Musicales" tvg-name="Radio El Pueblo",Radio El Pueblo
-https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-
 #EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
 
