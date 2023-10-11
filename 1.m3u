@@ -1263,9 +1263,6 @@ http://190.102.139.241:8900/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="CINEMA",CINEMA
 http://190.102.139.241:8900/play/a0o7/index.m3u8
 
-#EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/02WdJpBf/CINEAR.png" group-title="Películas" tvg-name="CINE AR",CINE AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PLANETATV MOVIE" tvg-logo="https://i.postimg.cc/768bFcJ6/PLANETATV-MOVIE.jpg" group-title="Películas" tvg-name="PLANETATV MOVIE",PLANETATV MOVIE
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
