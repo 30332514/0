@@ -345,6 +345,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Andes Televisión" tvg-logo="https://i.postimg.cc/rwNVs0TK/Andes-Televisi-n.jpg" group-title="Generalistas" tvg-name="Andes Televisión",Andes Televisión
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeek" tvg-logo="https://i.postimg.cc/6qt0rG70/EnerGeek.jpg" group-title="Generalistas" tvg-name="EnerGeek",EnerGeek
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Generalistas" tvg-name="EnerGeek Fanpop",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
