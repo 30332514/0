@@ -517,7 +517,7 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 http://181.119.67.75:16123/play/a041
 
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
-http://190.27.253.211:8000/play/a07g/index.m3u8
+http://45.71.252.67:8000/play/a0ht/index.m3u8
 
 #EXTINF:-1 tvg-id="BEIN SPORTS Ñ" tvg-logo="https://i.postimg.cc/XYtQfZFg/BEIN-SPORTS.png" group-title="Deportivos" tvg-name="BEIN SPORTS Ñ",BEIN SPORTS Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
@@ -928,7 +928,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5625.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5611.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/Pr3C0f1s/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_belryxvp/tl/main/st/0/t/-aWJ0ZJIrQaJAbc39ghfDQ/index-s32.m3u8?__hdnea__=st=1696400883~exp=1696487283~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_belryxvp/tl/main/st/0/t/-aWJ0ZJIrQaJAbc39ghfDQ/index-s32.m3u8*~hmac=666bac2bcffb525cf4d4031992d0fe5fdf6c5da4149fe01d7ac42422387f93ea
+https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_01fn4ycl/tl/main/st/0/t/7pOlumTI2IYfT-MXxcUMxw/index-s32.m3u8?__hdnea__=st=1697002858~exp=1697089258~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_01fn4ycl/tl/main/st/0/t/7pOlumTI2IYfT-MXxcUMxw/index-s32.m3u8*~hmac=7fd1b5389d8aed3eafae475c7045e6ec38295f1902cb4915fd77d462fa44ca76
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
@@ -1255,7 +1255,7 @@ http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://190.116.90.43:8000/play/a00g
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
-http://161.132.194.88:7076/play/a0uo/index.m3u8
+http://177.53.153.21:8001/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
 http://161.132.194.88:7076/play/a02h/index.m3u8
