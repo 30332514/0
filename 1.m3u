@@ -880,7 +880,7 @@ http://170.82.37.21:8000/play/a01n/index.m3u8
 http://190.102.139.241:8900/play/a0n4/index.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5550.ts
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5735.ts
@@ -892,7 +892,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/man
 https://telemadrid-23.secure2.footprint.net/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5580.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
@@ -928,7 +928,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/man
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
 
 #EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5715.ts
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/1X7BnWrD/HISTORIA.jpg" group-title="Generalistas" tvg-name="HISTORIA",HISTORIA
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5618.ts
@@ -964,7 +964,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5731.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5730.ts
 
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5738.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Generalistas" tvg-name="MTV",MTV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5712.ts
