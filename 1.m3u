@@ -390,9 +390,6 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
 http://45.5.119.155:8000/play/a0gv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo East Feed" tvg-logo="https://i.postimg.cc/pTRCtLHD/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo East Feed",Telemundo East Feed
-http://45.71.252.67:8000/play/a0fr/index.m3u8
-
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
 http://177.53.153.21:8001/play/a0au/index.m3u8
 
