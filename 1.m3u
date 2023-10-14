@@ -873,7 +873,7 @@ http://190.102.139.241:8900/play/a0o6/index.m3u8
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5555.ts
 
 #EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-logo="https://i.postimg.cc/hGhvCzbX/Antena-3-Internacional.png" group-title="Generalistas"" tvg-name="Antena 3 Internacional",Antena 3 Internacional
-http://45.71.252.67:8000/play/a0je/index.m3u8
+http://170.82.37.21:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
 http://190.102.139.241:8900/play/a0n4/index.m3u8
@@ -1195,9 +1195,6 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/play
 
 #EXTINF:-1 tvg-id="Molahits TV" tvg-logo="https://i.postimg.cc/FsrhjGC0/Molahits-TV.jpg" group-title="Musicales" tvg-name="Molahits TV",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 tvg-id="La Urban TV" tvg-logo="https://i.postimg.cc/mrH4bnhW/La-Urban-TV.jpg" group-title="Musicales" tvg-name="La Urban TV",La Urban TV
-https://www.urbanrevolution.es:8443/live/TV/chunklist_w396299467.m3u8
 
 #EXTINF:-1 tvg-id="STZ Telebista" tvg-logo="https://i.postimg.cc/rmGL4tSh/STZ-Telebista.png" group-title="Musicales" tvg-name="STZ Telebista",STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/tracks-v1a1/mono.m3u8
