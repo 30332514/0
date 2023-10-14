@@ -522,9 +522,6 @@ https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d87
 #EXTINF:-1 tvg-id="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Deportivos" tvg-name="CRTV",CRTV
 https://vdo.panelstreaming.live:3058/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Sports18" tvg-logo="https://i.postimg.cc/661mJX9g/Sports18.jpg" group-title="Deportivos" tvg-name="Sports18",Sports18
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://190.102.139.241:8900/play/a0sx/index.m3u8
 
