@@ -1169,9 +1169,6 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-id="Alacantí TV" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Generalistas" tvg-name="Alacantí TV",Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
-#EXTINF:-1 tvg-id="Canal 25 Barbastro TV" tvg-logo="https://i.postimg.cc/vTq9N3SG/25tv.jpg" group-title="Generalistas" tvg-name="Canal 25 Barbastro TV",Canal 25 Barbastro TV
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-
 #EXTINF:-1 tvg-id="7 Televisión Murcia" tvg-logo="https://i.postimg.cc/NMbpQ8Pz/7televisionmurcia.jpg" group-title="Generalistas" tvg-name="7 Televisión Murcia",7 Televisión Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w643188333_b565000.m3u8
 
