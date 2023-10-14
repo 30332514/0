@@ -471,9 +471,6 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="DT Play" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Deportivos" tvg-name="DT Play",DT Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
-#EXTINF:-1 tvg-id="CnAr Deportes" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportivos" tvg-name="CnAr Deportes",CnAr Deportes
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/vZV00bxx/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w607596883.m3u8
 
@@ -502,7 +499,7 @@ http://45.5.117.182:8000/play/a0e5/index.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
-http://181.119.67.75:16123/play/a041
+http://45.71.252.67:8000/play/a0ka/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
 http://45.71.252.67:8000/play/a0ht/index.m3u8
@@ -580,10 +577,10 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1197867120.m3u8
 http://190.116.90.43:8000/play/a00f
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://181.119.67.75:16123/play/ch03
+http://190.102.139.241:8900/play/a0mw/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://190.116.90.43:8000/play/a00b
+http://190.102.139.241:8900/play/a112/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
 http://138.59.177.34:8000/play/a06b/index.m3u8
@@ -1158,9 +1155,6 @@ https://cloudvideo.servers10.com:8081/8254/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://i.postimg.cc/V6Q7XGgw/Arag-n-TV.png" group-title="Generalistas" tvg-name="Aragón TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="Canal 25 Barbastro TV" tvg-logo="https://i.postimg.cc/XJLwXQDQ/Canal-25-Barbastro-TV.jpg" group-title="Generalistas" tvg-name="Canal 25 Barbastro TV",Canal 25 Barbastro TV
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-
 #EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://i.postimg.cc/05cVZ0rW/mirametv.jpg" group-title="Generalistas" tvg-name="Mírame TV",Mírame TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 
@@ -1279,7 +1273,7 @@ http://190.102.139.241:8900/play/a10d/index.m3u8
 http://190.102.139.241:8900/play/a0om/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://45.5.119.155:8000/play/a00u/index.m3u8
+http://45.189.117.202:48000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
 http://190.102.139.241:8900/play/a0xb/index.m3u8
