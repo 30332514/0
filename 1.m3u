@@ -1371,6 +1371,15 @@ http://45.5.119.155:8000/play/a0km/index.m3u8
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
 http://45.5.119.155:8000/play/a04o/index.m3u8
 
+#EXTINF:-1,10025 FreeTV Sat
+http://45.189.117.202:48000/play/a01e/index.m3u8
+
+#EXTINF:-1,10015 - FreeTV Extreme
+http://45.189.117.202:48000/play/a00d/index.m3u8
+
+#EXTINF:-1,10016 FreeTV Music
+http://45.189.117.202:48000/play/a00i/index.m3u8
+
 #EXTINF:-1 tvg-id="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png" group-title="Drama" tvg-name="Baywatch – Los Vigilantes de la Playa",Baywatch – Los Vigilantes de la Playa
 https://d1fbbm0iugalh3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-61f2xc1h8wyl5/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
