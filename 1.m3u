@@ -376,7 +376,7 @@ https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 http://45.228.232.219:16000/play/a0n9/index.m3u8
 
 #EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/fRrVqBGh/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
-http://181.119.67.75:16123/play/ch36
+http://38.41.8.1:8000/play/a0a0
 
 #EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/100px-Logotipo_de_TV_Chile.svg.png" group-title="Generalistas" tvg-name="TV Chile",TV Chile
 http://177.53.153.21:8001/play/a04o/index.m3u8
