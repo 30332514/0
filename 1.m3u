@@ -843,6 +843,9 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="Ocko Expres" tvg-logo="https://i.postimg.cc/26m9crNJ/Ocko-Expres.jpg" group-title="Musicales" tvg-name="Ocko Expres",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8?
 
+#EXTINF:-1 tvg-id="VIVALDI TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500001LY_20221012T021027SQUARE.png_20221012021028.png" group-title="Musicales" tvg-name="VIVALDI TV",VIVALDI TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
+
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5622.ts
 
