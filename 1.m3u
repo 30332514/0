@@ -165,9 +165,6 @@ http://191.97.60.193:10000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
-#EXTINF:-1 tvg-id="CUMO TV" tvg-logo="https://i.postimg.cc/XJs71pcn/CUMOTV.png" group-title="Generalistas" tvg-name="CUMO TV",CUMO TV
-https://live.obslivestream.com/cumo/index.m3u8
-
 #EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
 http://191.97.60.193:10000/play/a03q/index.m3u8
 
@@ -188,9 +185,6 @@ https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
 #EXTINF:-1 tvg-id="Vía Altomayo" tvg-logo="https://i.postimg.cc/GhYNyqTZ/V-a-Altomayo.jpg" group-title="Generalistas" tvg-name="Vía Altomayo",Vía Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
-#EXTINF:-1 tvg-id="Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="Generalistas" tvg-name="Nor Selva TV",Nor Selva TV
-https://live.obslivestream.com/norselvatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
@@ -290,9 +284,6 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Hechicera TV" tvg-logo="https://i.postimg.cc/tgYrqSQk/hechiceratv.jpg" group-title="Generalistas" tvg-name="Hechicera TV",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1344292443.m3u8
-
-#EXTINF:-1 tvg-id="MEGA TV" tvg-logo="https://i.postimg.cc/XvyhXJYQ/MEGATV-AQP.jpg" group-title="Generalistas" tvg-name="MEGA TV",MEGA TV
-https://hls.servidor.stream/storage/megatv.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
