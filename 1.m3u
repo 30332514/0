@@ -180,9 +180,6 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
-#EXTINF:-1 tvg-id="Vía Altomayo" tvg-logo="https://i.postimg.cc/GhYNyqTZ/V-a-Altomayo.jpg" group-title="Generalistas" tvg-name="Vía Altomayo",Vía Altomayo
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
