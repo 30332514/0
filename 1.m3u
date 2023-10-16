@@ -49,7 +49,7 @@ http://190.116.90.43:8000/play/a004
 http://190.116.90.43:8000/play/a00a
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwZWRhZDZlNWZiY2Y1Yjg3YzdiMWFkNGQyNzk0ODY1ZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjk3NTE0NjM2LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.GqQ3o0O3We7_8ooVtR10F6PmzTGTapBYETsRHKyJPhFjf-Nan2cJMEOLlVbnrYlyB02ImN1JoPEykBX4KazfYA4_WKw17w25xkXqoq1YSVeqT4o1tjeZJVOH14lM6rml7-44CjjzkOU4W2mbHgCbD8BFwniyKtRlYNpnklHzWNqdOw4foGUJU-IATWPQ-80niUhxCJlQi0JY9Ljyxe449VrnpGYLR6boWTZt5_2i8MPfHbekMNb_VWmDQSUxWSGDuk2a8CVEEEAYzedIFxQ5sw5OHGfkMIeima8Ac1OMEmU7aygd5Wz7mNUOdYFJZAgtHEorALXZwDCmVgEIuBi95w/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
