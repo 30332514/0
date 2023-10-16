@@ -624,23 +624,23 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV AUX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" group-title="Infantiles" tvg-name="Bob Esponja TV AUX",Bob Esponja TV AUX
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
-#EXTINF:-1 tvg-id="Pitufo TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230712T021341SQUARE.png_20230712021341.png" group-title="Infantiles" tvg-name="Pitufo TV",Pitufo TV
-https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="Pocoyó TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230712T021344SQUARE.png_20230712021345.png" group-title="Infantiles" tvg-name="Pocoyó TV",Pocoyó TV
-https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8?stoken=samsung.RmAJK04sh1&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="Rabbids : La invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" group-title="Infantiles" tvg-name="Rabbids : La invasion",Rabbids : La invasion
-https://d1jm459skctcq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ghyoqfxveqzo/lrs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
 #EXTINF:-1 tvg-id="Rugrats TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" group-title="Infantiles" tvg-name="Rugrats TV",Rugrats TV
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/633da78e9213e30008004743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
+#EXTINF:-1 tvg-id="Pitufo TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230712T021341SQUARE.png_20230712021341.png" group-title="Infantiles" tvg-name="Pitufo TV",Pitufo TV
+https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
+
+#EXTINF:-1 tvg-id="Pocoyó TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230712T021344SQUARE.png_20230712021345.png" group-title="Infantiles" tvg-name="Pocoyó TV",Pocoyó TV
+https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
+
+#EXTINF:-1 tvg-id="Rabbids : La invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" group-title="Infantiles" tvg-name="Rabbids : La invasion",Rabbids : La invasion
+https://d1jm459skctcq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ghyoqfxveqzo/lrs.m3u8
+
 #EXTINF:-1 tvg-id="Caillou TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="Infantiles" tvg-name="Caillou TV",Caillou TV
-https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8
 
 #EXTINF:-1 tvg-id="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="Infantiles" tvg-name="duckTV",duckTV
-https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vinilos TV" tvg-logo="https://i.postimg.cc/NfjVjXSs/vinilostv.jpg" group-title="Musicales" tvg-name="Vinilos TV",Vinilos TV
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
