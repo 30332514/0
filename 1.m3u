@@ -862,7 +862,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5625.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5611.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/Pr3C0f1s/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
+http://iptvh.it/cmm
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
