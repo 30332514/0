@@ -471,9 +471,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA Ñ" tvg-logo="https://i.postimg.cc/8ccDjhcT/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA Ñ",BEIN SPORTS EXTRA Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/26j0DG98/FOX-SPORTS-PREMIUM.jpg" group-title="Deportivos" tvg-name="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
 http://190.102.139.241:8900/play/a0xp/index.m3u8
 
