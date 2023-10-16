@@ -1467,14 +1467,20 @@ http://45.189.117.202:48000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://i.postimg.cc/VN6xvwsw/Free-TV-Acci-n.jpg" group-title="Películas" tvg-name="FreeTV Acción",FreeTV Acción
 http://45.189.117.202:48000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-id="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Entretenimiento" tvg-name="Just For Laughs",Just For Laughs
-https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_JustForLaughsGags/playlist.m3u8
+#EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Estilo de Vida" tvg-name="Ideas en 5 Minutos",Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Entretenimiento" tvg-name="Just For Laughs",Just For Laughs
+https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_JustForLaughsGags/playlist.m3u8
+
+#EXTINF:-1 tvg-id="People Are Awesome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20220323T081726SQUARE.png_20220323081728.png" group-title="Entretenimiento" tvg-name="People Are Awesome",People Are Awesome
+https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
+
+#EXTINF:-1 tvg-id="The Pet Collective" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" group-title="Entretenimiento" tvg-name="The Pet Collective",The Pet Collective
+https://6c3f9c3ead8a4a0888f6cff09728fc91.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ThePetCollective/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hoguera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20230510T044209SQUARE.png_20230510044209.png" group-title="Estilo de Vida" tvg-name="Hoguera",Hoguera
 https://d1uudxm3vz53s6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h6xg8drfk6hpr/master.m3u8
