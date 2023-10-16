@@ -40,7 +40,7 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1290720019&_cdn_timestamp=1697256502&_cdn_token=68fcb8632a8ed2b592a56f5e1d5662125448dbda
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1310593187&_cdn_timestamp=1697892711&_cdn_token=3d888aa15801d3612e90c798e57f6b8908953eef
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.116.90.43:8000/play/a004
@@ -49,7 +49,7 @@ http://190.116.90.43:8000/play/a004
 http://190.116.90.43:8000/play/a00a
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwZWRhZDZlNWZiY2Y1Yjg3YzdiMWFkNGQyNzk0ODY1ZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjk3NTE0NjM2LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.GqQ3o0O3We7_8ooVtR10F6PmzTGTapBYETsRHKyJPhFjf-Nan2cJMEOLlVbnrYlyB02ImN1JoPEykBX4KazfYA4_WKw17w25xkXqoq1YSVeqT4o1tjeZJVOH14lM6rml7-44CjjzkOU4W2mbHgCbD8BFwniyKtRlYNpnklHzWNqdOw4foGUJU-IATWPQ-80niUhxCJlQi0JY9Ljyxe449VrnpGYLR6boWTZt5_2i8MPfHbekMNb_VWmDQSUxWSGDuk2a8CVEEEAYzedIFxQ5sw5OHGfkMIeima8Ac1OMEmU7aygd5Wz7mNUOdYFJZAgtHEorALXZwDCmVgEIuBi95w/manifest/video.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1310596755&_cdn_timestamp=1697892839&_cdn_token=a001e7122f6a32f34d529e14b578427bb14d2b24
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
@@ -862,7 +862,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5625.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5611.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/Pr3C0f1s/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://51.79.85.10/cmm
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
