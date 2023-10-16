@@ -915,6 +915,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5601.ts
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5600.ts
 
+#EXTINF:-1 tvg-id="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230712T021352SQUARE.png_20230712021353.png" group-title="Motor" tvg-name="Top Gear en Español",Top Gear en Español
+https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.postimg.cc/pd4pPwGD/TCM.png" group-title="Generalistas"" tvg-name="TCM",TCM
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5733.ts
 
