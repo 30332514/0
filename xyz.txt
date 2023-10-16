@@ -10,6 +10,10 @@ http://www.iptvtools.net/?svc=check
 // Logos
 https://postimages.org/
 
+// Acortadores m3u8
+https://iptvh.it/
+https://tinyurl.com/app
+
 // Fuentes
 https://github.com/bodegaacuenta/Moyobambaastral             -   Congreso TV, QUVO, DREAMWORKS
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
