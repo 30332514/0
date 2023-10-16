@@ -582,6 +582,9 @@ http://191.97.60.193:10000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000233H_20220824T005421SQUARE.png_20220824005421.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
 https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="Infantiles" tvg-name="Teen Vee",Teen Vee
+https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Pokemón TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Anime" tvg-name="Pokemón TV",Pokemón TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12066.m3u8
 
@@ -971,6 +974,9 @@ https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas" tvg-name="Tastemade Español",Tastemade Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade en español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" group-title="Estilo de Vida" tvg-name="Tastemade en español",Tastemade en español
+https://tastemade-tastemade-es8intl-samsung-spain-03ylr.amagi.tv/playlist/tastemade-tastemade-es8intl-samsung-spain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFV en Español" tvg-logo="https://i.postimg.cc/pXc2b7dZ/afvespa-ol.jpg" group-title="Comedia" tvg-name="AFV en Español",AFV en Español
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
