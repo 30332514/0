@@ -174,12 +174,6 @@ http://191.97.60.193:10000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
 http://191.97.60.193:10000/play/a046/index.m3u8
 
-#EXTINF:-1 tvg-id="ATMOSFERA TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="Generalistas" tvg-name="ATMOSFERA TV",ATMOSFERA TV
-https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
-
-#EXTINF:-1 tvg-id="Contacto TV" tvg-logo="https://i.postimg.cc/fRwWvdBC/contactotv.jpg" group-title="Generalistas" tvg-name="Contacto TV",Contacto TV
-https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
-
 #EXTINF:-1 tvg-id="Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="Generalistas" tvg-name="Sanjuanera TV",Sanjuanera TV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
