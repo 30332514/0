@@ -435,6 +435,9 @@ http://209.45.81.84:8000/play/a00c
 #EXTINF:-1 tvg-id="Liga de Campeones" tvg-logo="https://i.postimg.cc/xd530P8C/Liga-de-Campeones.png" group-title="Deportivos" tvg-name="Liga de Campeones",Liga de Campeones
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5664.ts
 
+#EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
+http://45.186.252.17:8000/play/a0b8
+
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
 http://209.45.81.84:8000/play/a03d
 
