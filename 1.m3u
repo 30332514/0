@@ -76,7 +76,7 @@ http://190.102.139.241:8900/play/a0to/index.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+http://191.97.60.193:10000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
