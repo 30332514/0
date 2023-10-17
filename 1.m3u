@@ -354,9 +354,6 @@ http://38.41.8.1:8000/play/a0a0
 #EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/100px-Logotipo_de_TV_Chile.svg.png" group-title="Generalistas" tvg-name="TV Chile",TV Chile
 http://177.53.153.21:8001/play/a04o/index.m3u8
 
-#EXTINF:-1 tvg-id="Chilevisión" tvg-logo="https://i.postimg.cc/L5P24pNm/Chilevisi-n.png" group-title="Generalistas" tvg-name="Chilevisión",Chilevisión
-http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
-
 #EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/pTRCtLHD/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
