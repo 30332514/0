@@ -315,6 +315,12 @@ http://191.97.60.193:10000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="VATICAN MEDIA AMERICA" tvg-logo="https://i.postimg.cc/FFLYQpxT/VATICAN-MEDIA.jpg" group-title="Generalistas" tvg-name="VATICAN MEDIA AMERICA",VATICAN MEDIA AMERICA
 http://191.97.60.193:10000/play/a006/index.m3u8
 
+#EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="https://i.postimg.cc/NFSS6TM4/ALIENTO-VISION.png" group-title="Generalistas" tvg-name="ALIENTO VISION",ALIENTO VISION
+http://191.97.60.193:10000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIFE" tvg-logo="https://i.postimg.cc/PqwB76fQ/UNIFE.png" group-title="Religiosos" tvg-name="UNIFE",UNIFE
+http://191.97.60.193:10000/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 
@@ -323,9 +329,6 @@ https://servilive.com:3224/live/jn19tv2live.m3u8
 
 #EXTINF:-1 tvg-id="La Luz" tvg-logo="https://i.postimg.cc/wB6PXBJL/laluz.png" group-title="Religiosos" tvg-name="La Luz",La Luz
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UNIFE" tvg-logo="https://i.postimg.cc/PqwB76fQ/UNIFE.png" group-title="Religiosos" tvg-name="UNIFE",UNIFE
-http://191.97.60.193:10000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="Hoynet" tvg-logo="https://i.postimg.cc/pT979k3f/Hoynet.png" group-title="Religiosos" tvg-name="Hoynet",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
@@ -521,6 +524,9 @@ http://45.71.252.67:8000/play/a0k9/index.m3u8
 
 #EXTINF:-1 tvg-id="TITAN" tvg-logo="https://i.postimg.cc/qRmG03LM/TITAN.jpg" group-title="Deportivos" tvg-name="TITAN",TITAN
 http://191.97.60.193:10000/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-id="BASKET TV" tvg-logo="https://i.postimg.cc/15GWzLSX/BASKET-TV.jpg" group-title="Deportivos" tvg-name="BASKET TV",BASKET TV
+http://191.97.60.193:10000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
