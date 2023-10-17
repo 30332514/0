@@ -49,7 +49,7 @@ http://190.116.90.43:8000/play/a004
 http://190.116.90.43:8000/play/a00a
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1310596755&_cdn_timestamp=1697892839&_cdn_token=a001e7122f6a32f34d529e14b578427bb14d2b24
+https://tinyurl.com/bdhar2d9
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
