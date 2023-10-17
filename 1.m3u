@@ -1362,9 +1362,6 @@ http://45.5.119.155:8000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
 http://45.228.232.219:16000/play/a0na/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="Cine Mexicano",Cine Mexicano
-http://177.234.230.226:8010/play/a00e/index.m3u8
-
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 
