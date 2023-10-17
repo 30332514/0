@@ -525,7 +525,7 @@ http://45.71.252.67:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="TITAN" tvg-logo="https://i.postimg.cc/qRmG03LM/TITAN.jpg" group-title="Deportivos" tvg-name="TITAN",TITAN
 http://191.97.60.193:10000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-id="BASKET TV" tvg-logo="https://i.postimg.cc/gJ4Z5HbY/BASKET-TV.jpg" group-title="Deportivos" tvg-name="BASKET TV",BASKET TV
+#EXTINF:-1 tvg-id="BASKET TV" tvg-logo="https://i.postimg.cc/FHZk1x10/BASKET-TV.jpg" group-title="Deportivos" tvg-name="BASKET TV",BASKET TV
 http://191.97.60.193:10000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
