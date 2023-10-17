@@ -40,7 +40,7 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1310593187&_cdn_timestamp=1697892711&_cdn_token=3d888aa15801d3612e90c798e57f6b8908953eef
+https://tinyurl.com/53c5v83b
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.116.90.43:8000/play/a004
