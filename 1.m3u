@@ -1311,6 +1311,9 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PLANETATV FAMILY" tvg-logo="https://i.postimg.cc/PxRrQRbK/PLANETATV-FAMILY.jpg" group-title="Películas" tvg-name="PLANETATV FAMILY",PLANETATV FAMILY
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
+http://45.186.252.17:8000/play/a0aa
+
 #EXTINF:-1 tvg-id="MC" tvg-logo="https://i.postimg.cc/B6L1cwJK/MC.jpg" group-title="Películas" tvg-name="MC",MC
 http://45.228.232.219:16000/play/a0la/index.m3u8
 
