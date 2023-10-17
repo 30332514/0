@@ -1249,7 +1249,7 @@ http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://190.116.90.43:8000/play/a00g
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
-http://177.53.153.21:8001/play/a04q/index.m3u8
+http://45.186.252.17:8000/play/a0an
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
 http://161.132.194.88:7076/play/a02h/index.m3u8
