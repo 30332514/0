@@ -309,7 +309,7 @@ http://209.45.81.84:8000/play/a03f
 #EXTINF:-1 tvg-id="enlace" tvg-logo="https://i.postimg.cc/RZtwF99n/enlace.jpg" group-title="Generalistas" tvg-name="enlace",enlace
 http://191.97.60.193:10000/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-id="SOPHIA TV" tvg-logo="https://i.postimg.cc/nzfXPQQd/SOPHIA-TV.jpg" group-title="Generalistas" tvg-name="SOPHIA TV",SOPHIA TV
+#EXTINF:-1 tvg-id="SOPHIA TV" tvg-logo="https://i.postimg.cc/Gm2T8yDN/SOPHIA-TV.jpg" group-title="Generalistas" tvg-name="SOPHIA TV",SOPHIA TV
 http://191.97.60.193:10000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="VATICAN MEDIA AMERICA" tvg-logo="https://i.postimg.cc/FFLYQpxT/VATICAN-MEDIA.jpg" group-title="Generalistas" tvg-name="VATICAN MEDIA AMERICA",VATICAN MEDIA AMERICA
