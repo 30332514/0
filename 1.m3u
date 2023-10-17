@@ -525,7 +525,7 @@ http://45.71.252.67:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="TITAN" tvg-logo="https://i.postimg.cc/qRmG03LM/TITAN.jpg" group-title="Deportivos" tvg-name="TITAN",TITAN
 http://191.97.60.193:10000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-id="BASKET TV" tvg-logo="https://i.postimg.cc/bNqnxvWx/BASKET-TV.jpg" group-title="Deportivos" tvg-name="BASKET TV",BASKET TV
+#EXTINF:-1 tvg-id="BASKET TV" tvg-logo="https://i.postimg.cc/MG5NGHC9/BASKET-TV.jpg" group-title="Deportivos" tvg-name="BASKET TV",BASKET TV
 http://191.97.60.193:10000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
@@ -662,9 +662,6 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="Infantiles" tvg-name="duckTV",duckTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vinilos TV" tvg-logo="https://i.postimg.cc/NfjVjXSs/vinilostv.jpg" group-title="Musicales" tvg-name="Vinilos TV",Vinilos TV
-https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
