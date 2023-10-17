@@ -285,6 +285,9 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACS Network" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Generalistas" tvg-name="ACS Network",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus TV",Retro Plus TV
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Agro TV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Generalistas" tvg-name="Agro TV",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
@@ -451,7 +454,7 @@ http://45.228.232.219:16000/play/a0l4/index.m3u8
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.postimg.cc/nVTkLc47/r.jpg" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
-https://r.akamaized.net/hls/live/2043153/r-es-web/bitrate_3.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="Deportivos" tvg-name="FIFA+",FIFA+
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
@@ -751,10 +754,10 @@ https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w820613881.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2143141309.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus 2" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus 2",Retro Plus 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w898319813.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica Reggaeton" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
 http://179.189.222.226:8000/play/ch53
