@@ -1068,6 +1068,9 @@ http://190.102.139.241:8900/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
 http://190.102.139.241:8900/play/a0n9/index.m3u8
 
+#EXTINF:-1 tvg-id="Cocina TV" tvg-logo="https://i.postimg.cc/3rtkNB0v/CocinaTV.jpg" group-title="Novelas" tvg-name="Cocina TV",Cocina TV
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/JzvW2VG5/SYFY.jpg" group-title="Generalistas" tvg-name="SYFY",SYFY
 http://190.102.139.241:8900/play/a0kt/index.m3u8
 
