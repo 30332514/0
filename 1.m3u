@@ -276,9 +276,6 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="Primavera TV" tvg-logo="https://i.postimg.cc/sfM0Mgfk/Primavera-TV.jpg" group-title="Generalistas" tvg-name="Primavera TV",Primavera TV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACS Network" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Generalistas" tvg-name="ACS Network",ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus TV",Retro Plus TV
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
