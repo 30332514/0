@@ -402,7 +402,7 @@ https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://i.postimg.cc/q7ws9sRD/telemax.jpg" group-title="Novelas" tvg-name="Telemax",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://i.postimg.cc/DZsKTCTX/La-Promesa.jpg" group-title="Novelas" tvg-name="La Promesa",La Promesa
+#EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://i.postimg.cc/qRm5hSdY/La-Promesa.jpg" group-title="Novelas" tvg-name="La Promesa",La Promesa
 https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe TV" tvg-logo="https://i.postimg.cc/52MQdGWw/La-Rosade-Guadalupe.jpg" group-title="Novelas" tvg-name="La Rosa de Guadalupe TV",La Rosa de Guadalupe TV
