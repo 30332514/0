@@ -402,17 +402,8 @@ https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://i.postimg.cc/q7ws9sRD/telemax.jpg" group-title="Novelas" tvg-name="Telemax",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 tvg-id="Las 3 Marias" tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=750" group-title="Novelas" tvg-name="Las 3 Marias",Las 3 Marias
-https://linear-328.frequency.stream/328/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La Usurpadora" tvg-logo="https://images.vix.com/prd/channel/6235c66611732377769fe87f/d7c3abe71788f8bfbc047b5082f91522?tr=q-80&w=1024" group-title="Novelas" tvg-name="La Usurpadora",La Usurpadora
-https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Triunfo del Amor" tvg-logo="https://images.vix.com/prd/channel/62157ec6eb81d2416fbf8e33/32aac8032945421795416e53c30c7033?tr=q-80&w=1920" group-title="Novelas" tvg-name="Triunfo del Amor",Triunfo del Amor
-https://linear-338.frequency.stream/338/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hasta que el dinero nos separe" tvg-logo="https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85?tr=q-80&w=750" group-title="Novelas" tvg-name="Hasta que el dinero nos separe",Hasta que el dinero nos separe
-https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="La Promesa" tvg-logo="" group-title="Novelas" tvg-name="La Promesa",La Promesa
+https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/La_rosa_de_guadalupe_with_font.jpg/revision/latest/scale-to-width-down/1200?cb=20220509193234" group-title="Novelas" tvg-name="La Rosa de Guadalupe TV",La Rosa de Guadalupe TV
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
