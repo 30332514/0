@@ -136,7 +136,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
-https://goo.su/ohc4v7
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1303199715&_cdn_timestamp=1697636647&_cdn_token=ee8f05800ee1d05553cddac3ae0b0de941a50f5f
 
 #EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
@@ -369,8 +369,8 @@ http://45.5.119.155:8000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
 http://45.189.117.202:48000/play/a00k/index.m3u8 
 
-#EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://i.postimg.cc/cJyyzb1p/VIVE-KANAL-D-Drama.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
-https://tinyurl.com/y2hfh6hp
+#EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas Europa" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Europa",Tlnovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -640,10 +640,10 @@ https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
 #EXTINF:-1 tvg-id="Bob Esponja TV AUX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" group-title="Infantiles" tvg-name="Bob Esponja TV AUX",Bob Esponja TV AUX
-https://goo.su/netm73
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-id="Rugrats TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" group-title="Infantiles" tvg-name="Rugrats TV",Rugrats TV
-https://goo.su/trLKmla
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/633da78e9213e30008004743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-id="Pitufo TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230712T021341SQUARE.png_20230712021341.png" group-title="Infantiles" tvg-name="Pitufo TV",Pitufo TV
 https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
@@ -814,10 +814,10 @@ http://45.5.119.155:8000/play/a0gd/index.m3u8
 http://190.102.139.241:8900/play/a0nh/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20221026T004458SQUARE.png_20221026004458.png" group-title="Musicales" tvg-name="MTV Originals",MTV Originals
-https://goo.su/ZxHJnj
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-id="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20221026T004507SQUARE.png_20221026004507.png" group-title="Musicales" tvg-name="MTV Cribs",MTV Cribs
-https://goo.su/jAeAG
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-id="Clubbing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="Musicales" tvg-name="Clubbing TV",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
@@ -898,7 +898,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5625.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5611.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/Pr3C0f1s/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://goo.su/8JRZF
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
@@ -1325,6 +1325,9 @@ http://190.102.139.241:8900/play/a0ke/index.m3u8
 
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
 http://190.102.139.241:8900/play/a0zn/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="Cine Mexicano",Cine Mexicano
+http://177.234.230.226:8010/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="CINEMA",CINEMA
 http://190.102.139.241:8900/play/a0o7/index.m3u8
