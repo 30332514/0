@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1303199715&_cdn_timestamp=1697636647&_cdn_token=ee8f05800ee1d05553cddac3ae0b0de941a50f5f
+
+#EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+
 #EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
