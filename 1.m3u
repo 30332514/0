@@ -433,10 +433,10 @@ http://45.186.252.17:8000/play/a0b8
 http://209.45.81.84:8000/play/a03d
 
 #EXTINF:-1 tvg-id="DSPORTS 2" tvg-logo="https://i.postimg.cc/g0crxL9K/DIRECTV-SPORTS-2.png" group-title="Deportivos" tvg-name="DSPORTS 2",DSPORTS 2
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50276.m3u8
+http://161.132.243.192:50001/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://i.postimg.cc/bwJKdqCt/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS+",DSPORTS+
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
+http://161.132.243.192:50001/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="DT Play" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Deportivos" tvg-name="DT Play",DT Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
