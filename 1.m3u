@@ -40,7 +40,7 @@ http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
 https://tinyurl.com/53c5v83b
