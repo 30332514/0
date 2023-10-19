@@ -310,13 +310,10 @@ http://191.97.60.193:10000/play/a01r/index.m3u8
 http://191.97.60.193:10000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
+http://191.97.60.193:10000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="JN19.2" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19.2",JN19.2
 https://servilive.com:3224/live/jn19tv2live.m3u8
-
-#EXTINF:-1 tvg-id="La Luz" tvg-logo="https://i.postimg.cc/wB6PXBJL/laluz.png" group-title="Religiosos" tvg-name="La Luz",La Luz
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hoynet" tvg-logo="https://i.postimg.cc/pT979k3f/Hoynet.png" group-title="Religiosos" tvg-name="Hoynet",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
