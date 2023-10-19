@@ -1399,7 +1399,7 @@ http://190.102.139.241:8900/play/a0oj/index.m3u8
 http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-http://177.93.45.155:6143/play/A34Y/index.m3u8
+http://161.132.194.88:7076/play/a0ue/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://190.116.90.43:8000/play/a00o
@@ -1456,7 +1456,7 @@ http://45.5.119.155:8000/play/a0i1/index.m3u8
 http://190.102.139.241:8900/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://45.5.119.155:8000/play/a03s/index.m3u8
+http://45.189.117.202:48000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://190.102.139.241:8900/play/a0sw/index.m3u8
