@@ -594,18 +594,6 @@ https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="Infantiles" tvg-name="Teen Vee",Teen Vee
 https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pokemón TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Anime" tvg-name="Pokemón TV",Pokemón TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12066.m3u8
-
-#EXTINF:-1 tvg-id="Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="Anime" tvg-name="Los Caballeros del Zodiaco TV",Los Caballeros del Zodiaco TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2330.m3u8
-
-#EXTINF:-1 tvg-id="Dragon Ball TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Anime" tvg-name="Dragon Ball TV",Dragon Ball TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2336.m3u8
-
-#EXTINF:-1 tvg-id="Dragon Ball Z TV" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="Anime" tvg-name="Dragon Ball Z TV",Dragon Ball Z TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2339.m3u8
-
 #EXTINF:-1 tvg-id="Tom y Jerry TV" tvg-logo="https://i.postimg.cc/m22TmvML/Tom-y-Jerry.png" group-title="Infantiles" tvg-name="Tom y Jerry TV",Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 
@@ -617,15 +605,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 
 #EXTINF:-1 tvg-id="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Infantiles" tvg-name="El Chavo del 8 TV",El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="El Chavo del 8 TV AUX" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Infantiles" tvg-name="El Chavo del 8 TV AUX",El Chavo del 8 TV AUX
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38712.m3u8
-
-#EXTINF:-1 tvg-id="El Chapulin Colorado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Anime" tvg-name="El Chapulin Colorado TV",El Chapulin Colorado TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2343.m3u8
-
-#EXTINF:-1 tvg-id="Alf TV" tvg-logo="https://seeklogo.com/images/A/alf-logo-1551FD0D0F-seeklogo.com.png" group-title="Infantiles" tvg-name="Alf TV",Alf TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2321.m3u8
 
 #EXTINF:-1 tvg-id="BEN 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="Infantiles" tvg-name="BEN 10 TV",BEN 10 TV
 http://51.159.104.29:8080/ben10/index.m3u8
