@@ -363,6 +363,9 @@ http://45.71.252.67:8000/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://45.5.119.155:8000/play/a0kq/index.m3u8
 
+#EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Novelas" tvg-name="Caracol TV",Caracol TV
+http://161.132.194.88:7076/play/a0tg/index.m3u8
+
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
 http://45.189.117.202:48000/play/a00k/index.m3u8 
 
