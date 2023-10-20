@@ -92,3 +92,6 @@ https://live.seo.tv.bo/live/2SEO.m3u8
 
 #EXTINF:-1 tvg-id="SEO TV Películas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Películas" tvg-name="SEO TV Películas",SEO TV Películas
 https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-id="Estepona TV" tvg-logo="https://i.postimg.cc/hG9vtv3r/esteponatv.png" group-title="Generalistas" tvg-name="Estepona TV",Estepona TV
+https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
