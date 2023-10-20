@@ -1113,9 +1113,6 @@ https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/chunklist_w1898139
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/chunklist_w278704590.m3u8
 
-#EXTINF:-1 tvg-id="Estepona TV" tvg-logo="https://i.postimg.cc/hG9vtv3r/esteponatv.png" group-title="Generalistas" tvg-name="Estepona TV",Estepona TV
-https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Imas TV" tvg-logo="https://i.postimg.cc/HnwTsHsM/imastv.jpg" group-title="Generalistas" tvg-name="Imas TV",Imas TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
