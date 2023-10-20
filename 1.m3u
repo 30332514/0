@@ -177,9 +177,6 @@ http://191.97.60.193:10000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
-https://ca2.inka.net.pe/cajamarcatv/index.m3u8?token=17777f19f418b91e61b28546c247cdf058e32905-d3ed60c11077856a948ea109ce963c5f-1697744525-1697737325&amp;remote=179.6.166.136
-
 #EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
 http://191.97.60.193:10000/play/a03k/index.m3u8
 
