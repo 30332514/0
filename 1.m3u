@@ -294,6 +294,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Bethel" tvg-logo="https://i.postimg.cc/y8TBqH26/Bethel.png" group-title="Religiosos" tvg-name="Bethel",Bethel
 http://209.45.81.84:8000/play/a03f
 
+#EXTINF:-1 tvg-id="EWTN" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN",EWTN
+http://161.132.194.88:7076/play/a0k3/index.m3u8
+
 #EXTINF:-1 tvg-id="enlace" tvg-logo="https://i.postimg.cc/RZtwF99n/enlace.jpg" group-title="Generalistas" tvg-name="enlace",enlace
 http://191.97.60.193:10000/play/a00q/index.m3u8
 
