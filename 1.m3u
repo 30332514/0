@@ -1536,6 +1536,9 @@ http://45.189.117.202:48000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://i.postimg.cc/15V3sLqv/Free-TV-Acci-n.jpg" group-title="Películas" tvg-name="FreeTV Acción",FreeTV Acción
 http://45.189.117.202:48000/play/a00d/index.m3u8
 
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
