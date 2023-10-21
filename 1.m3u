@@ -141,9 +141,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Doble C Televisión" tvg-logo="https://i.postimg.cc/kXJ81bQt/Doble-C-Televisi-n.jpg" group-title="Generalistas" tvg-name="Doble C Televisión",Doble C Televisión
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
-#EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
-https://servilive.com:3757/live/regiontvlive.m3u8
-
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 
@@ -233,9 +230,6 @@ https://inliveserver.com:1936/19026/19026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
-https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
 
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://i.postimg.cc/85WhySn1/Ribere-a.jpg" group-title="Generalistas" tvg-name="Ribereña",Ribereña
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
