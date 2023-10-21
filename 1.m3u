@@ -487,7 +487,7 @@ https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
-http://191.97.60.193:10000/play/a02s/index.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
 http://190.108.85.20:9999/play/a00o
