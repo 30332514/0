@@ -441,7 +441,7 @@ https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://i.postimg.cc/q7ws9sRD/telemax.jpg" group-title="Novelas" tvg-name="Telemax",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 tvg-id="tv mar" tvg-logo="https://i.postimg.cc/qBtpkJxK/tv-mar-marpuerto-vallarta.jpg" group-title="Novelas" tvg-name="tv mar",tv mar
+#EXTINF:-1 tvg-id="tv mar" tvg-logo="https://i.postimg.cc/qBtpkJxK/tv-mar-marpuerto-vallarta.jpg" group-title="Generalistas" tvg-name="tv mar",tv mar
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://i.postimg.cc/qRm5hSdY/La-Promesa.jpg" group-title="Novelas" tvg-name="La Promesa",La Promesa
