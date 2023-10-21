@@ -348,10 +348,10 @@ https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABN Latino" tvg-logo="https://i.postimg.cc/LXy9mHRY/3-ABN-Latino.jpg" group-title="Religiosos" tvg-name="3ABN Latino",3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 
-#EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/Gt2bfZMS/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
+#EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/qvx7t2MY/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
 http://191.97.60.193:10000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Generalistas" tvg-name="AstroNet",AstroNet
+#EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.postimg.cc/Y0PWsYm8/AstroNet.jpg" group-title="Generalistas" tvg-name="AstroNet",AstroNet
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Generalistas" tvg-name="Canal 2",Canal 2
@@ -366,7 +366,7 @@ https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
 http://45.228.232.219:16000/play/a0n9/index.m3u8
 
-#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/fRrVqBGh/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
+#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
 http://38.41.8.1:8000/play/a0a0
 
 #EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/100px-Logotipo_de_TV_Chile.svg.png" group-title="Generalistas" tvg-name="TV Chile",TV Chile
@@ -378,7 +378,7 @@ http://161.132.194.88:7076/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
 http://45.5.119.155:8000/play/a0gv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/pTRCtLHD/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
+#EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Philadelphia" tvg-logo="https://i.postimg.cc/BQfm7phz/Telemundo-Philadelphia.jpg" group-title="Generalistas"" tvg-name="Telemundo Philadelphia",Telemundo Philadelphia
@@ -804,7 +804,7 @@ https://panel.tvstream.cl:1936/8040/8040/chunklist_w1337752433.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png" group-title="Musicales" tvg-name="Bandamax",Bandamax
 http://161.132.108.75:50001/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="Conecta TV" tvg-logo="https://i.postimg.cc/JnFX4mkc/conectatv.png" group-title="Musicales" tvg-javascript:void(0)name="Conecta TV",Conecta TV
+#EXTINF:-1 tvg-id="Conecta TV" tvg-logo="https://i.postimg.cc/7Z5fR5xQ/Conecta-TV.jpg" group-title="Musicales" tvg-javascript:void(0)name="Conecta TV",Conecta TV
 https://stream8.mexiserver.com/conectatv/conectatv/chunklist_w1249298445.m3u8
 
 #EXTINF:-1 tvg-id="nickmusic" tvg-logo="https://i.postimg.cc/Tw41bryd/nickmusic.jpg" group-title="Musicales" tvg-name="nickmusic",nickmusic
@@ -828,7 +828,7 @@ http://190.102.139.241:8900/play/a0xe/index.m3u8
 #EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/KcLwdWbD/MTV-00s.png" group-title="Musicales" tvg-name="MTV 00s",MTV 00s
 http://190.102.139.241:8900/play/a0n3/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/jqPqZvkG/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
 http://45.5.119.155:8000/play/a0ge/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
@@ -861,13 +861,13 @@ https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE" tvg-logo="https://i.postimg.cc/LsnYfZW6/XITE.jpg" group-title="Musicales" tvg-name="XITE",XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
-#EXTINF:-1 tvg-id="1mus" tvg-logo="https://i.postimg.cc/T35C9hFQ/1mus.jpg" group-title="Musicales" tvg-name="1mus",1mus 
+#EXTINF:-1 tvg-id="1mus" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus",1mus 
 http://rtmp.one.by:2200/
 
-#EXTINF:-1 tvg-id="1mus 2" tvg-logo="https://i.postimg.cc/T35C9hFQ/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 2
+#EXTINF:-1 tvg-id="1mus 2" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 2
 http://rtmp.one.by:1300/
 
-#EXTINF:-1 tvg-id="1mus 3" tvg-logo="https://i.postimg.cc/T35C9hFQ/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 3
+#EXTINF:-1 tvg-id="1mus 3" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 3
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="Ocko Expres" tvg-logo="https://i.postimg.cc/26m9crNJ/Ocko-Expres.jpg" group-title="Musicales" tvg-name="Ocko Expres",Ocko Expres
