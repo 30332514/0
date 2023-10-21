@@ -168,11 +168,29 @@ https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
 http://191.97.60.193:10000/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-id="Atmósfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="Generalistas" tvg-name="Atmósfera TV",Atmósfera TV
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
+
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
 http://191.97.60.193:10000/play/a046/index.m3u8
 
+#EXTINF:-1 tvg-id="Mas 1 Televisión" tvg-logo="https://pbs.twimg.com/media/FcvG9o4XkAA0g8v?format=png&name=240x240" group-title="Generalistas" tvg-name="Mas 1 Televisión",Mas 1 Televisión
+https://live.obslivestream.com/mas1/index.m3u8
+
+#EXTINF:-1 tvg-id="CR Televisión" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="Generalistas" tvg-name="CR Televisión",CR Televisión
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="Contacto Televisión" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="Generalistas" tvg-name="Contacto Televisión",Contacto Televisión
+https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
+
+#EXTINF:-1 tvg-id="Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="Generalistas" tvg-name="Sanjuanera TV",Sanjuanera TV
+https://live.obslivestream.com/sanjuanera/index.m3u8
+
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Tropical" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="Generalistas" tvg-name="TV Tropical",TV Tropical
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
 http://191.97.60.193:10000/play/a03k/index.m3u8
@@ -216,6 +234,9 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
 
+#EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="Generalistas" tvg-name="RTV Total",RTV Total
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
 #EXTINF:-1 tvg-id="Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Generalistas" tvg-name="Radio Televisión Oriente",Radio Televisión Oriente
 https://vdo.grupolimalive.com:3073/live/orientetvlive.m3u8
 
@@ -225,14 +246,23 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="Generalistas" tvg-name="RN Noticias",RN Noticias
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
+#EXTINF:-1 tvg-id="Doble AA TV" tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="Generalistas" tvg-name="Doble AA TV",Doble AA TV
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+
 #EXTINF:-1 tvg-id="TV 14" tvg-logo="https://play-lh.googleusercontent.com/a4V4qDyYOs_1Ws8nqkWVcrIxvnv1oJcvzV8vgdNxDAncVpZGYWM2UeXAuOZhqDowv4k=w240-h480-rw" group-title="Generalistas" tvg-name="TV 14",TV 14
 https://inliveserver.com:1936/19026/19026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://i.postimg.cc/85WhySn1/Ribere-a.jpg" group-title="Generalistas" tvg-name="Ribereña",Ribereña
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="Generalistas" tvg-name="BNB Digital TV",BNB Digital TV
+https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="Generalistas" tvg-name="Top TV",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -365,6 +395,9 @@ http://45.5.119.155:8000/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Novelas" tvg-name="Caracol TV",Caracol TV
 http://161.132.194.88:7076/play/a0tg/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
+http://177.53.153.21:8001/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
 http://45.189.117.202:48000/play/a00k/index.m3u8 
@@ -506,9 +539,6 @@ http://190.102.139.241:8900/play/a0o0/index.m3u8
 
 #EXTINF:-1 tvg-id="TD+2" tvg-logo="https://i.postimg.cc/y8HLp2mf/TD-2.jpg" group-title="Deportivos" tvg-name="TD+2",TD+2
 https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Deportivos" tvg-name="CRTV",CRTV
-https://vdo.panelstreaming.live:3058/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://190.102.139.241:8900/play/a0sx/index.m3u8
