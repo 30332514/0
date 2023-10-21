@@ -1122,7 +1122,7 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 #EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5741.ts
 
-#EXTINF:-1 tvg-id="Canal 2000" tvg-logo="https://i.postimg.cc/QdRvT1t6/canal2000.jpg" group-title="Generalistas" tvg-name="Canal 2000",Canal 2000
+#EXTINF:-1 tvg-id="Canal 2000" tvg-logo="https://i.postimg.cc/90NJWDsN/Canal-2000.jpg" group-title="Generalistas" tvg-name="Canal 2000",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 
 #EXTINF:-1 tvg-id="Antena Seis TV" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Generalistas" tvg-name="Antena Seis TV",Antena Seis TV
@@ -1341,7 +1341,7 @@ http://161.132.194.88:7076/play/a0uv/index.m3u8
 #EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
 http://45.186.252.17:8000/play/a0aa
 
-#EXTINF:-1 tvg-id="MC" tvg-logo="https://i.postimg.cc/B6L1cwJK/MC.jpg" group-title="Películas" tvg-name="MC",MC
+#EXTINF:-1 tvg-id="MC" tvg-logo="https://i.postimg.cc/GprNgyRk/MC.jpg" group-title="Películas" tvg-name="MC",MC
 http://45.228.232.219:16000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.postimg.cc/y8b3JZy1/HGTV.jpg" group-title="Generalistas" tvg-name="HGTV",HGTV
@@ -1506,7 +1506,7 @@ http://45.5.119.155:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="FreeTV" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV",FreeTV
 http://45.189.117.202:48000/play/a01e/index.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://i.postimg.cc/VN6xvwsw/Free-TV-Acci-n.jpg" group-title="Películas" tvg-name="FreeTV Acción",FreeTV Acción
+#EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://i.postimg.cc/15V3sLqv/Free-TV-Acci-n.jpg" group-title="Películas" tvg-name="FreeTV Acción",FreeTV Acción
 http://45.189.117.202:48000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
