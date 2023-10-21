@@ -960,11 +960,11 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name="Canal Extremadura",Canal Extremadura
 http://257638747951321155.ot0711.xyz:80/play/vi428027/hdFucGwknR/321155.ts
 
-#EXTINF:-1 tvg-id="Mundotoro" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="Generalistas" tvg-name="Mundotoro",Mundotoro
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-logo="https://i.postimg.cc/7ZF2kWyS/Onetoro-TV.jpg" group-title="Generalistas" tvg-name="Onetoro TV",Onetoro TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/56010.ts
 
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="Generalistas" tvg-name="Torolé TV",Torolé TV
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5740.ts
+https://media1.ultrik.com/live/torole1.m3u8
 
 #EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5621.ts
