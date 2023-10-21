@@ -366,8 +366,14 @@ https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
 http://45.228.232.219:16000/play/a0n9/index.m3u8
 
+#EXTINF:-1 tvg-id="Globovisión" tvg-logo="https://i.postimg.cc/Px5NnyYh/Globovisi-n.jpg" group-title="Películas" tvg-name="Globovisión",Globovisión
+http://190.102.139.241:8900/play/a0yz/index.m3u8
+
 #EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
 http://38.41.8.1:8000/play/a0a0
+
+#EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
+http://190.102.139.241:8900/play/a103/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 http://190.102.139.241:8900/play/a0zd/index.m3u8
