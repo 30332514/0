@@ -348,17 +348,20 @@ https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABN Latino" tvg-logo="https://i.postimg.cc/LXy9mHRY/3-ABN-Latino.jpg" group-title="Religiosos" tvg-name="3ABN Latino",3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 
+#EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/Gt2bfZMS/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
+http://191.97.60.193:10000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Generalistas" tvg-name="AstroNet",AstroNet
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Generalistas" tvg-name="Canal 2",Canal 2
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/mgSnB0m1/telesur.jpg" group-title="Generalistas" tvg-name="Telesur",Telesur
 http://191.97.60.193:10000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/Gt2bfZMS/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
-http://191.97.60.193:10000/play/a02o/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Generalistas" tvg-name="AstroNet",AstroNet
-https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
 http://45.228.232.219:16000/play/a0n9/index.m3u8
@@ -396,8 +399,8 @@ http://45.5.119.155:8000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Novelas" tvg-name="Caracol TV",Caracol TV
 http://161.132.194.88:7076/play/a0tg/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://177.53.153.21:8001/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
+http://191.102.90.97:8000/play/a0gb/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
 http://45.189.117.202:48000/play/a00k/index.m3u8 
