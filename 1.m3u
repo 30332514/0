@@ -585,6 +585,9 @@ http://191.97.60.193:10000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="BASKET TV" tvg-logo="https://i.postimg.cc/pLy6brHh/BASKET-TV.jpg" group-title="Deportivos" tvg-name="BASKET TV",BASKET TV
 http://191.97.60.193:10000/play/a02v/index.m3u8
 
+#EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://i.postimg.cc/Dfb4vCRy/Golf-Channel.jpg" group-title="Deportivos" tvg-name="Golf Channel",Golf Channel
+http://190.102.139.241:8900/play/a12a/index.m3u8
+
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
