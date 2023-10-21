@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
+https://servilive.com:3757/live/regiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
+https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
+
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8?token=17777f19f418b91e61b28546c247cdf058e32905-d3ed60c11077856a948ea109ce963c5f-1697744525-1697737325&amp;remote=179.6.166.136
 
