@@ -396,6 +396,9 @@ http://161.132.194.88:7076/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo="https://i.postimg.cc/TwjVPCHs/ESTRELLA-TV.jpg" group-title="Generalistas" tvg-name="ESTRELLA TV",ESTRELLA TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.postimg.cc/gJbQDJW1/Telemundo.png" group-title="Generalistas"" tvg-name="Telemundo",Telemundo
+http://72.76.116.158:8000/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
 http://45.5.119.155:8000/play/a0gv/index.m3u8
 
@@ -410,6 +413,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
 http://177.53.153.21:8001/play/a0au/index.m3u8
+
+#EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
+http://72.76.116.158:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
@@ -1386,9 +1392,6 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PLANETATV FAMILY" tvg-logo="https://i.postimg.cc/PxRrQRbK/PLANETATV-FAMILY.jpg" group-title="Películas" tvg-name="PLANETATV FAMILY",PLANETATV FAMILY
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TERROR TV" tvg-logo="https://i.postimg.cc/k524HRnY/TERROR-TV.png" group-title="Películas" tvg-name="TERROR TV",TERROR TV
-http://161.132.194.88:7076/play/a0uv/index.m3u8
-
 #EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
 http://45.186.252.17:8000/play/a0aa
 
@@ -1559,6 +1562,12 @@ http://45.189.117.202:48000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://i.postimg.cc/15V3sLqv/Free-TV-Acci-n.jpg" group-title="Películas" tvg-name="FreeTV Acción",FreeTV Acción
 http://45.189.117.202:48000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
+http://72.76.116.158:8000/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-id="TERROR TV" tvg-logo="https://i.postimg.cc/k524HRnY/TERROR-TV.png" group-title="Películas" tvg-name="TERROR TV",TERROR TV
+http://161.132.194.88:7076/play/a0uv/index.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
