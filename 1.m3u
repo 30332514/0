@@ -486,6 +486,9 @@ https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3
 #EXTINF:-1 tvg-id="tv mar Los Cabos" tvg-logo="https://i.postimg.cc/QNnwdcdN/tv-mar-los-cabos.jpg" group-title="Generalistas" tvg-name="tv mar Los Cabos",tv mar Los Cabos
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CASO CERRADO" tvg-logo="https://i.postimg.cc/T2HvFvHy/CASO-CERRADO.jpg" group-title="Generalistas" tvg-name="CASO CERRADO",CASO CERRADO
+https://tinyurl.com/2qf6qovz
+
 #EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://i.postimg.cc/qRm5hSdY/La-Promesa.jpg" group-title="Novelas" tvg-name="La Promesa",La Promesa
 https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 
