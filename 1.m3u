@@ -687,10 +687,10 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Mágico" tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="Infantiles" tvg-name="Retro Mágico",Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DIOS TV" tvg-logo="https://i.postimg.cc/pTTdHYQR/DIOS-TV.png" group-title="Infantiles" tvg-name="DIOS TV",DIOS TV
+#EXTINF:-1 tvg-id="DIOS te ve" tvg-logo="https://i.postimg.cc/pTTdHYQR/DIOS-TV.png" group-title="Infantiles" tvg-name="DIOS te ve",DIOS te ve
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DIOS TV KIDS" tvg-logo="https://i.postimg.cc/YqjCV3r3/DIOS-TV-KIDS.png" group-title="Infantiles" tvg-name="DIOS TV KIDS",DIOS TV KIDS
+#EXTINF:-1 tvg-id="DIOS te ve KIDS" tvg-logo="https://i.postimg.cc/YqjCV3r3/DIOS-TV-KIDS.png" group-title="Infantiles" tvg-name="DIOS te ve",DIOS te ve KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000233H_20220824T005421SQUARE.png_20220824005421.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
