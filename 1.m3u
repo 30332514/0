@@ -778,19 +778,22 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-id="Radio San Borja TV" tvg-logo="https://i.postimg.cc/d1D3J1xx/radiosanborja.png" group-title="Musicales" tvg-name="Radio San Borja TV",Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1263895104.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Activa TV" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://i.postimg.cc/9fSKQtHF/musictop.png" group-title="Musicales" tvg-name="MUSIC TOP",MUSIC TOP
-http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
+http://200.115.193.177/live/msctphd-360/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.postimg.cc/nrnDFq3R/teleritmo.jpg" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
