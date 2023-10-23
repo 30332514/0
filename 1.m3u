@@ -687,6 +687,12 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Mágico" tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="Infantiles" tvg-name="Retro Mágico",Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DIOS TV" tvg-logo="https://i.postimg.cc/pTTdHYQR/DIOS-TV.png" group-title="Infantiles" tvg-name="DIOS TV",DIOS TV
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DIOS TV KIDS" tvg-logo="https://i.postimg.cc/YqjCV3r3/DIOS-TV-KIDS.png" group-title="Infantiles" tvg-name="DIOS TV KIDS",DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000233H_20220824T005421SQUARE.png_20220824005421.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
 https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8
 
@@ -825,8 +831,11 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="30A Music" tvg-logo="https://i.postimg.cc/qRzqrwnP/30atv.png" group-title="Musicales" tvg-name="30A Music",30A Music
 https://30a-tv.com/feeds/720p/6.m3u8
 
-#EXTINF:-1 tvg-id="JOO music tvg-logo="https://i.postimg.cc/Xv0077nq/JOO-music.png" group-title="Musicales" tvg-name="JOO music",JOO music
+#EXTINF:-1 tvg-id="JOO music" tvg-logo="https://i.postimg.cc/Xv0077nq/JOO-music.png" group-title="Musicales" tvg-name="JOO music",JOO music
 http://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
+http://51.210.199.24/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
