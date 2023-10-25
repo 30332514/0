@@ -43,7 +43,7 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1323027747&_cdn_timestamp=1698212396&_cdn_token=a27eeb77985f33a0cb9bf2c52af01e834ef4b8a2
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1338028635&_cdn_timestamp=1698660871&_cdn_token=5551f13822ff3f515f905a1c55bc0987e0fa6099
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.116.90.43:8000/play/a004
@@ -52,7 +52,7 @@ http://190.116.90.43:8000/play/a004
 http://190.116.90.43:8000/play/a00a
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1323028387&_cdn_timestamp=1698212438&_cdn_token=f2c6c097b13ad6f64e7ad038659ec211f4520b8f
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1338029027&_cdn_timestamp=1698660907&_cdn_token=9a8ce9c00ce9a0622ff5243acd4959489fde7510
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
@@ -76,7 +76,7 @@ http://190.102.139.241:8900/play/a0tc/index.m3u8
 http://190.102.139.241:8900/play/a0to/index.m3u8
 
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1320378715&_cdn_timestamp=1698141334&_cdn_token=62eaa1a84cae2a5f1fc6974feb034ebf39cf1fe7
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1338057635&_cdn_timestamp=1698662325&_cdn_token=7ecdf15c62e1fc90ce3daa40e59a3cae5a332662
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
