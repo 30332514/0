@@ -343,7 +343,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 http://191.97.60.193:10000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
-http://191.102.90.97:8000/play/a0gb/index.m3u8
+http://161.132.194.88:7076/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
