@@ -138,9 +138,6 @@ http://191.97.60.193:10000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Doble C Televisión" tvg-logo="https://i.postimg.cc/kXJ81bQt/Doble-C-Televisi-n.jpg" group-title="Generalistas" tvg-name="Doble C Televisión",Doble C Televisión
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 
@@ -168,17 +165,8 @@ https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
 http://191.97.60.193:10000/play/a03q/index.m3u8
 
-#EXTINF:-1 tvg-id="Atmósfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="Generalistas" tvg-name="Atmósfera TV",Atmósfera TV
-https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
-
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
 http://191.97.60.193:10000/play/a046/index.m3u8
-
-#EXTINF:-1 tvg-id="Mas 1 Televisión" tvg-logo="https://pbs.twimg.com/media/FcvG9o4XkAA0g8v?format=png&name=240x240" group-title="Generalistas" tvg-name="Mas 1 Televisión",Mas 1 Televisión
-https://live.obslivestream.com/mas1/index.m3u8
-
-#EXTINF:-1 tvg-id="CR Televisión" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="Generalistas" tvg-name="CR Televisión",CR Televisión
-https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="Contacto Televisión" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="Generalistas" tvg-name="Contacto Televisión",Contacto Televisión
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
@@ -246,9 +234,6 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="Generalistas" tvg-name="RN Noticias",RN Noticias
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
-#EXTINF:-1 tvg-id="Doble AA TV" tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="Generalistas" tvg-name="Doble AA TV",Doble AA TV
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-
 #EXTINF:-1 tvg-id="TV 14" tvg-logo="https://play-lh.googleusercontent.com/a4V4qDyYOs_1Ws8nqkWVcrIxvnv1oJcvzV8vgdNxDAncVpZGYWM2UeXAuOZhqDowv4k=w240-h480-rw" group-title="Generalistas" tvg-name="TV 14",TV 14
 https://inliveserver.com:1936/19026/19026/playlist.m3u8
 
@@ -263,9 +248,6 @@ https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="Generalistas" tvg-name="BNB Digital TV",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="Generalistas" tvg-name="Top TV",Top TV
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 tvg-id="TV Sistemas" tvg-logo="https://pbs.twimg.com/media/FSNf6rdXIAIono-?format=jpg&name=medium" group-title="Generalistas" tvg-name="TV Sistemas",TV Sistemas
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
@@ -771,9 +753,6 @@ http://191.97.60.193:10000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV" tvg-logo="https://i.postimg.cc/nrFLjWtp/supertv.jpg" group-title="Musicales" tvg-name="SuperTV",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
-#EXTINF:-1 tvg-id="BTA TV" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Musicales" tvg-name="BTA TV",BTA TV
-https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
-
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 http://191.97.60.193:10000/play/a00c/index.m3u8
 
@@ -798,9 +777,6 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://i.postimg.cc/9fSKQtHF/musictop.png" group-title="Musicales" tvg-name="MUSIC TOP",MUSIC TOP
 http://200.115.193.177/live/msctphd-360/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.postimg.cc/nrnDFq3R/teleritmo.jpg" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
@@ -824,9 +800,6 @@ https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01
 
 #EXTINF:-1 tvg-id="Ditty TV" tvg-logo="https://i.postimg.cc/pVshg9jb/dittytv.png" group-title="Musicales" tvg-name="Ditty TV",Ditty TV
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/kM2RPJv2/spirittv.png" group-title="Musicales" tvg-name="Spirit TV",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 tvg-id="TRACE URBAN" tvg-logo="https://i.postimg.cc/85jfpHpT/TRACE-URBAN.png" group-title="Musicales" tvg-name="TRACE URBAN",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
