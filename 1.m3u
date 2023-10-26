@@ -762,9 +762,6 @@ http://191.97.60.193:10000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio Tropical" tvg-logo="https://i.postimg.cc/Jn4X0Q6B/tropicaltv.jpg" group-title="Musicales" tvg-name="Radio Tropical",Radio Tropical
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-
 #EXTINF:-1 tvg-id="Turbo Mix TV" tvg-logo="https://i.postimg.cc/Y9Byd6Zx/turbomixtv.jpg" group-title="Musicales" tvg-name="Turbo Mix TV",Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
