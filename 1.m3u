@@ -424,10 +424,10 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://45.189.117.202:48000/play/a03e/index.m3u8
+http://190.102.139.241:8900/play/a0vn/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
-http://45.189.117.202:48000/play/a00k/index.m3u8 
+http://190.102.139.241:8900/play/a0o2/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -1125,9 +1125,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://i.postimg.cc/7649Bp5c/euronews.jpg" group-title="Informativos" tvg-name="Euronews",Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png" group-title="Informativos" tvg-name="Euronews",Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
@@ -1426,7 +1423,7 @@ http://190.102.139.241:8900/play/a10d/index.m3u8
 http://190.102.139.241:8900/play/a0om/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://45.189.117.202:48000/play/a04h/index.m3u8
+http://45.186.252.17:8000/play/a0bl
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
 http://190.102.139.241:8900/play/a0xb/index.m3u8
@@ -1543,7 +1540,7 @@ http://45.5.119.155:8000/play/a0i1/index.m3u8
 http://190.102.139.241:8900/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://45.189.117.202:48000/play/a04i/index.m3u8
+http://45.186.252.17:8000/play/a09u
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://190.102.139.241:8900/play/a0sw/index.m3u8
