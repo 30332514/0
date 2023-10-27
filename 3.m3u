@@ -7,9 +7,6 @@ http://161.132.194.88:7076/play/a0vt/index.m3u8
 http://181.78.24.67:8010/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
-http://181.78.24.67:8010/play/a01o/index.m3u8
-
-#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
 http://45.71.252.67:8000/play/a0o6/index.m3u8
 
 #EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
