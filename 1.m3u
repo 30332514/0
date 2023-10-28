@@ -480,6 +480,9 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
 http://191.97.60.193:10000/play/a02s/index.m3u8
 
+#EXTINF:-1 tvg-id="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Isotipo-ECDF.png/150px-Isotipo-ECDF.png" group-title="Deportivos" tvg-name="El Canal del Fútbol",El Canal del Fútbol
+http://177.234.242.150:50032/play/a0fy/index.m3u8
+
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
 http://190.108.85.20:9999/play/a00o
 
@@ -570,8 +573,14 @@ http://190.102.139.241:8900/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
 http://190.102.139.241:8900/play/a0o0/index.m3u8
 
+#EXTINF:-1 tvg-id="Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="Deportivos" tvg-name="Todo Deportes TV",Todo Deportes TV
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMyAxMjoxNjowMSBQTSZoYXNoX3ZhbHVlPUJ2SWNvajFhZTRnMjBwdEczQzl5cWc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
+
 #EXTINF:-1 tvg-id="TD+2" tvg-logo="https://i.postimg.cc/y8HLp2mf/TD-2.jpg" group-title="Deportivos" tvg-name="TD+2",TD+2
 https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="Deportivos" tvg-name="FUTV",FUTV
+http://177.53.153.21:8001/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://190.102.139.241:8900/play/a0sx/index.m3u8
@@ -596,6 +605,9 @@ http://190.102.139.241:8900/play/a12a/index.m3u8
 
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid" tvg-logo="https://pbs.twimg.com/profile_images/1208744581656928256/nMSHTKmZ_400x400.png" group-title="Deportivos" tvg-name="SportsGrid",SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA" tvg-logo="https://i.postimg.cc/Cxjzwp0P/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA",BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
