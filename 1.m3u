@@ -621,10 +621,10 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://i.postimg.cc/vZJHjQN2/ALL-SPORTS.jpg" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ORANGE SPORT 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_3_RO_logo.png" group-title="Deportivos" tvg-name="ORANGE SPORT 3",ORANGE SPORT 3
+#EXTINF:-1 tvg-id="Orange Sport 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_3_RO_logo.png" group-title="Deportivos" tvg-name="Orange Sport 3",Orange Sport 3
 http://94.53.216.13:9981/stream/channelid/2138471472?&profile=pass
 
-#EXTINF:-1 tvg-id="ORANGE SPORT 4" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_4_RO_logo.png" group-title="Deportivos" tvg-name="ORANGE SPORT 4",ORANGE SPORT 4
+#EXTINF:-1 tvg-id="Orange Sport 4" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_4_RO_logo.png" group-title="Deportivos" tvg-name="Orange Sport 4",Orange Sport 4
 http://94.53.216.13:9981/stream/channelid/1187997064?&profile=pass
 
 #EXTINF:-1 tvg-id="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Drama" tvg-name="Surf Channel",Surf Channel
