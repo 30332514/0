@@ -609,6 +609,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-sam
 #EXTINF:-1 tvg-id="Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Deportivos" tvg-name="Fitmaxx TV",Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="Deportivos" tvg-name="Sport Ext",Sport Ext
+https://marine2.miplay.cl/sportext/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SportsGrid" tvg-logo="https://pbs.twimg.com/profile_images/1208744581656928256/nMSHTKmZ_400x400.png" group-title="Deportivos" tvg-name="SportsGrid",SportsGrid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
