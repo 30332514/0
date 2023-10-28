@@ -69,6 +69,9 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
 
+#EXTINF:-1 tvg-id="CTV PERÚ" tvg-logo="https://i.postimg.cc/Kc0Kkt4P/CTV-PER.png" group-title="Generalistas" tvg-name="CTV PERÚ",CTV PERÚ
+https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8?token=ba8dbd5beb81d7dc2276b32a459ec4ca5175d605-64fcd08c0a614abad3ea793679e936d2-1698540234-1698529434
+
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Generalistas" tvg-name="Taurus TV",Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 
