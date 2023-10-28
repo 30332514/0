@@ -597,29 +597,29 @@ http://190.102.139.241:8900/play/a12a/index.m3u8
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-logo="https://i.postimg.cc/XYtQfZFg/BEIN-SPORTS.png" group-title="Deportivos" tvg-name="BEIN SPORTS",BEIN SPORTS
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA" tvg-logo="https://i.postimg.cc/Cxjzwp0P/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA",BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA Ñ" tvg-logo="https://i.postimg.cc/8ccDjhcT/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA Ñ",BEIN SPORTS EXTRA Ñ
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA Ñ" tvg-logo="https://i.postimg.cc/qMGvFXxS/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA Ñ",BEIN SPORTS EXTRA Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 QAT" tvg-logo="" group-title="Deportivos" tvg-name="BEIN SPORTS",BEIN SPORTS 1 QAT
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 QAT" tvg-logo="https://i.postimg.cc/BtfPCSsF/BEIN-SPORTS-1.png" group-title="Deportivos" tvg-name="BEIN SPORTS",BEIN SPORTS 1 QAT
 https://stream.ayas.ir/hls2/bein1.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 QAT" tvg-logo="" group-title="Deportivos" tvg-name="BEIN SPORTS QAT",BEIN SPORTS 2 QAT
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 QAT" tvg-logo="https://i.postimg.cc/L8Mb0wVB/BEIN-SPORTS-2.png" group-title="Deportivos" tvg-name="BEIN SPORTS QAT",BEIN SPORTS 2 QAT
 https://stream.ayas.ir/hls2/bein2.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 QAT" tvg-logo="" group-title="Deportivos" tvg-name="BEIN SPORTS QAT",BEIN SPORTS 3 QAT
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 QAT" tvg-logo="https://i.postimg.cc/0QrWws8x/BEIN-SPORTS-3.png" group-title="Deportivos" tvg-name="BEIN SPORTS QAT",BEIN SPORTS 3 QAT
 https://stream.ayas.ir/hls2/bein3.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 QAT" tvg-logo="" group-title="Deportivos" tvg-name="BEIN SPORTS QAT",BEIN SPORTS 4 QAT
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 QAT" tvg-logo="https://i.postimg.cc/FzLTTVdB/BEIN-SPORTS-4.png" group-title="Deportivos" tvg-name="BEIN SPORTS QAT",BEIN SPORTS 4 QAT
 https://stream.ayas.ir/hls2/bein4.m3u8
 
-#EXTINF:-1 tvg-id="MMN SPORT QAT" tvg-logo="" group-title="Deportivos" tvg-name="MMN SPORT QAT",MMN SPORT QAT
+#EXTINF:-1 tvg-id="MMN SPORT QAT" tvg-logo="https://i.postimg.cc/tTC0vwpm/MMN-Quran-TV.jpg" group-title="Deportivos" tvg-name="MMN SPORT QAT",MMN SPORT QAT
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://i.postimg.cc/vZJHjQN2/ALL-SPORTS.jpg" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Drama" tvg-name="Surf Channel",Surf Channel
 https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8
