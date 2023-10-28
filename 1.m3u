@@ -69,6 +69,9 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
 
+#EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Generalistas" tvg-name="Taurus TV",Taurus TV
+https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
 http://190.102.139.241:8900/play/a0tc/index.m3u8
 
@@ -516,8 +519,11 @@ http://45.5.119.155:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="Deportivos" tvg-name="Claro Sports 2",Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://i.postimg.cc/SxHTD4B2/Tigo-Sports.png" group-title="Deportivos" tvg-name="Tigo Sports",Tigo Sports
+#EXTINF:-1 tvg-id="Tigo Sports Guate" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guate",Tigo Sports Guate
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tigo Sports CR" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportivos" tvg-name="Tigo Sports CR",Tigo Sports CR
+http://181.189.243.217:8000/play/a0sn/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
 http://161.132.194.88:7076/play/a0sf/index.m3u8
