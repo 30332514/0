@@ -36,7 +36,7 @@ https://github.com/BrianRVP/lista.m3u/blob/main/IPTV
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
 https://github.com/search?q=m3u&type=repositories&s=updated&o=desc&p=5
 
-
+https://github.com/la22lo/sports/tree/main
 https://github.com/iptv-org/iptv/tree/master/streams
 https://github.com/iptv-org/iptv/blob/master/streams/pe.m3u
 https://github.com/brunochanrio/Listas-IPTV
