@@ -834,6 +834,18 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://i.postimg.cc/9fSKQtHF/musictop.png" group-title="Musicales" tvg-name="MUSIC TOP",MUSIC TOP
 http://200.115.193.177/live/msctphd-360/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="Musicales" tvg-name="Telemúsica",Telemúsica
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-id="Old Music" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Musicales" tvg-name="Old Music",Old Music
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amordiscos TV" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="Musicales" tvg-name="Amordiscos TV",Amordiscos TV
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
@@ -866,6 +878,9 @@ https://30a-tv.com/feeds/720p/6.m3u8
 
 #EXTINF:-1 tvg-id="JOO music" tvg-logo="https://i.postimg.cc/Xv0077nq/JOO-music.png" group-title="Musicales" tvg-name="JOO music",JOO music
 http://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="Musicales" tvg-name="Concert Channel",Concert Channel
+http://45.228.232.219:16000/play/a0o2/index.m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
 http://51.210.199.24/hls/stream.m3u8
