@@ -199,7 +199,7 @@ http://191.97.60.193:10000/play/a03g/index.m3u8
 http://191.97.60.193:10000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="URBANO TV" tvg-logo="https://i.postimg.cc/fW1CC8HZ/URBANO-TV.png" group-title="Generalistas" tvg-name="URBANO TV",URBANO TV
-http://191.97.60.193:10000/play/a03n/index.m3u8
+https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
 http://191.97.60.193:10000/play/a03f/index.m3u8
@@ -378,9 +378,6 @@ http://161.132.194.88:7076/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo="https://i.postimg.cc/TwjVPCHs/ESTRELLA-TV.jpg" group-title="Generalistas" tvg-name="ESTRELLA TV",ESTRELLA TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.postimg.cc/gJbQDJW1/Telemundo.png" group-title="Generalistas"" tvg-name="Telemundo",Telemundo
-http://72.76.116.158:8000/play/a07a/index.m3u8
-
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
 http://45.5.119.155:8000/play/a0gv/index.m3u8
 
@@ -395,9 +392,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
 http://177.53.153.21:8001/play/a0au/index.m3u8
-
-#EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
-http://72.76.116.158:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
@@ -933,6 +927,9 @@ http://187.188.232.236:1021/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="30A Music" tvg-logo="https://i.postimg.cc/76BwH4CG/30-A-TV-MUSIC.jpg" group-title="Musicales" tvg-name="30A Music",30A Music
 https://30a-tv.com/music.m3u8
 
+#EXTINF:-1 tvg-id="URBANO TV" tvg-logo="https://i.postimg.cc/MZM5dZRj/URBANOTV.png" group-title="Musicales" tvg-name="URBANO TV",URBANO TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VEVO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230412T042423SQUARE.png_20230412042423.png" group-title="Musicales" tvg-name="VEVO",VEVO
 https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8
 
@@ -980,9 +977,6 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 #EXTINF:-1 tvg-id="TVM3" tvg-logo="https://i.postimg.cc/gjTkGMYV/TVM3.jpg" group-title="Musicales" tvg-name="TVM3",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XITE" tvg-logo="https://i.postimg.cc/LsnYfZW6/XITE.jpg" group-title="Musicales" tvg-name="XITE",XITE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-id="1mus" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus",1mus 
 http://rtmp.one.by:2200/
