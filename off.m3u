@@ -12,6 +12,9 @@ https://ca2.inka.net.pe/cajamarcatv/index.m3u8?token=17777f19f418b91e61b28546c24
 #EXTINF:-1 tvg-id="BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="Generalistas" tvg-name="BNB Digital TV",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
+#EXTINF:-1 tvg-id="XITE" tvg-logo="https://i.postimg.cc/LsnYfZW6/XITE.jpg" group-title="Musicales" tvg-name="XITE",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
 #EXTINF:-1 tvg-id="Pokemón TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Anime" tvg-name="Pokemón TV",Pokemón TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12066.m3u8
 
