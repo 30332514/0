@@ -70,7 +70,7 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://servilive.com:3244/live/trivutvlive.m3u8
 
 #EXTINF:-1 tvg-id="CTV PERÚ" tvg-logo="https://i.postimg.cc/Kc0Kkt4P/CTV-PER.png" group-title="Generalistas" tvg-name="CTV PERÚ",CTV PERÚ
-https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8?token=29e52d09351051068588fc6b179bb38599ce8309-d5398d9fb57da6fd9b14aecc5a98b587-1698541202-1698530402
+https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8?token=87ae657ac61cdade169b79588d4dfe93f46eef4d-acbfae83441533e79f6349b00308a0d7-1698555523-1698544723
 
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Generalistas" tvg-name="Taurus TV",Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
@@ -124,7 +124,7 @@ http://191.97.60.193:10000/play/a03m/index.m3u8
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
-http://191.97.60.193:10000/play/a00u/index.m3u8
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 http://191.97.60.193:10000/play/a02l/index.m3u8
@@ -145,7 +145,7 @@ http://191.97.60.193:10000/play/a06c/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
-https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 http://191.97.60.193:10000/play/a00d/index.m3u8
@@ -223,7 +223,7 @@ https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
-https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/uraniotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
