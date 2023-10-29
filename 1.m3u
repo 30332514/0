@@ -1647,5 +1647,8 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="The Pet Collective" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" group-title="Entretenimiento" tvg-name="The Pet Collective",The Pet Collective
 https://6c3f9c3ead8a4a0888f6cff09728fc91.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ThePetCollective/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nasa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/265px-NASA_TV.svg.png" group-title="Cultura y Educación" tvg-name="Nasa TV",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 #EXTINF:-1 tvg-id="Hoguera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20230510T044209SQUARE.png_20230510044209.png" group-title="Estilo de Vida" tvg-name="Hoguera",Hoguera
 https://d1uudxm3vz53s6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h6xg8drfk6hpr/master.m3u8
