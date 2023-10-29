@@ -274,7 +274,7 @@ https://ott1.hdlatam.tv/live_abr/INKAVISION/playlist.m3u8
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Hechicera TV" tvg-logo="https://i.postimg.cc/tgYrqSQk/hechiceratv.jpg" group-title="Generalistas" tvg-name="Hechicera TV",Hechicera TV
-https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1344292443.m3u8
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
@@ -673,7 +673,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://191.97.60.193:10000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="LatinoKids",LatinoKids
-https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1197867120.m3u8
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
 http://190.116.90.43:8000/play/a00f
@@ -913,19 +913,16 @@ http://179.189.222.226:8000/play/ch54
 http://191.97.60.193:10000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Portal Foxmix TV" tvg-logo="https://i.postimg.cc/506KcHHd/portalfoxmixtv.png" group-title="Musicales" tvg-name="Portal Foxmix TV",Portal Foxmix TV
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w1337752433.m3u8
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png" group-title="Musicales" tvg-name="Bandamax",Bandamax
 http://161.132.108.75:50001/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta TV" tvg-logo="https://i.postimg.cc/7Z5fR5xQ/Conecta-TV.jpg" group-title="Musicales" tvg-javascript:void(0)name="Conecta TV",Conecta TV
-https://stream8.mexiserver.com/conectatv/conectatv/chunklist_w1249298445.m3u8
-
-#EXTINF:-1 tvg-id="nickmusic" tvg-logo="https://i.postimg.cc/Tw41bryd/nickmusic.jpg" group-title="Musicales" tvg-name="nickmusic",nickmusic
-http://187.188.232.236:1021/play/a05k/index.m3u8
+https://stream8.mexiserver.com/conectatv/conectatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="30A Music" tvg-logo="https://i.postimg.cc/76BwH4CG/30-A-TV-MUSIC.jpg" group-title="Musicales" tvg-name="30A Music",30A Music
 https://30a-tv.com/music.m3u8
@@ -970,7 +967,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
 
 #EXTINF:-1 tvg-id="Kronehit" tvg-logo="https://i.postimg.cc/HLJp2GCb/Kronehit.png" group-title="Musicales" tvg-name="Kronehit",Kronehit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTPHA FM" tvg-logo="https://i.postimg.cc/x1XZc9QD/CTPHA-FM.png" group-title="Musicales" tvg-name="CTPHA FM",CTPHA FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -991,7 +988,7 @@ http://rtmp.one.by:1300/
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="Ocko Expres" tvg-logo="https://i.postimg.cc/26m9crNJ/Ocko-Expres.jpg" group-title="Musicales" tvg-name="Ocko Expres",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8?
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVALDI TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500001LY_20221012T021027SQUARE.png_20221012021028.png" group-title="Musicales" tvg-name="VIVALDI TV",VIVALDI TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
@@ -1273,13 +1270,13 @@ https://streamer.zapitv.com/ptv-linarez/tracks-v1a1/mono.m3u8
 https://streamer.zapitv.com/ptv_almeria/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal San Roque" tvg-logo="https://i.postimg.cc/DwpdPj2D/canalsanroque.jpg" group-title="Generalistas" tvg-name="Canal San Roque",Canal San Roque
-https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/chunklist_b1500000.m3u8
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleonuba.TV" tvg-logo="https://i.postimg.cc/nr1qjTR3/teleonuba.jpg" group-title="Generalistas" tvg-name="Teleonuba",Teleonuba
-https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/chunklist_w1898139587.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
-https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/chunklist_w278704590.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Imas TV" tvg-logo="https://i.postimg.cc/HnwTsHsM/imastv.jpg" group-title="Generalistas" tvg-name="Imas TV",Imas TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
@@ -1333,19 +1330,19 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
 #EXTINF:-1 tvg-id="7 Televisión Murcia" tvg-logo="https://i.postimg.cc/NMbpQ8Pz/7televisionmurcia.jpg" group-title="Generalistas" tvg-name="7 Televisión Murcia",7 Televisión Murcia
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w643188333_b565000.m3u8
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Parlamento" tvg-logo="https://i.postimg.cc/P5bNtN7M/Canal-Parlamento.jpg" group-title="Eventuales" tvg-name="Canal Parlamento",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 
 #EXTINF:-1 tvg-id="Miami Tv" tvg-logo="https://i.postimg.cc/qMhjm6TC/miamitv.png" group-title="Entretenimiento" tvg-name="Miami Tv",Miami Tv
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w447258858_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1018973113_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jenny Live" tvg-logo="https://i.postimg.cc/43LWL6mV/jennylive.jpg" group-title="Entretenimiento" tvg-name="Jenny Live",Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/chunklist_w89101115_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fashion TV 4K" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV 4K",Fashion TV 4K
 http://194.145.202.71:8087/udp/239.254.1.151:6060
