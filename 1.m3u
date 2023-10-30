@@ -166,7 +166,7 @@ http://191.97.60.193:10000/play/a04a/index.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
-http://191.97.60.193:10000/play/a03q/index.m3u8
+https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
 http://191.97.60.193:10000/play/a046/index.m3u8
