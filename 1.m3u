@@ -1036,7 +1036,7 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name="Canal Extremadura",Canal Extremadura
-http://257638747951321155.ot0711.xyz:80/play/vi428027/hdFucGwknR/321155.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:34_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Onetoro TV" tvg-logo="https://i.postimg.cc/7ZF2kWyS/Onetoro-TV.jpg" group-title="Generalistas" tvg-name="Onetoro TV",Onetoro TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/56010.ts
