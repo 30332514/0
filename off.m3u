@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV 14" tvg-logo="https://play-lh.googleusercontent.com/a4V4qDyYOs_1Ws8nqkWVcrIxvnv1oJcvzV8vgdNxDAncVpZGYWM2UeXAuOZhqDowv4k=w240-h480-rw" group-title="Generalistas" tvg-name="TV 14",TV 14
+https://inliveserver.com:1936/19026/19026/playlist.m3u8
+
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1338057635&_cdn_timestamp=1698662325&_cdn_token=7ecdf15c62e1fc90ce3daa40e59a3cae5a332662
 
