@@ -234,9 +234,6 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="Generalistas" tvg-name="RN Noticias",RN Noticias
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
-#EXTINF:-1 tvg-id="TV 14" tvg-logo="https://play-lh.googleusercontent.com/a4V4qDyYOs_1Ws8nqkWVcrIxvnv1oJcvzV8vgdNxDAncVpZGYWM2UeXAuOZhqDowv4k=w240-h480-rw" group-title="Generalistas" tvg-name="TV 14",TV 14
-https://inliveserver.com:1936/19026/19026/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
 
