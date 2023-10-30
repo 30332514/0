@@ -87,6 +87,9 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
+#EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
+http://191.97.60.193:10000/play/a03i/index.m3u8
+
 #EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
@@ -104,9 +107,6 @@ http://191.97.60.193:10000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
 http://191.97.60.193:10000/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
-http://191.97.60.193:10000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
 http://191.97.60.193:10000/play/a03l/index.m3u8
