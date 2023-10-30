@@ -18,6 +18,12 @@ https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE" tvg-logo="https://i.postimg.cc/LsnYfZW6/XITE.jpg" group-title="Musicales" tvg-name="XITE",XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
+#EXTINF:-1 tvg-id="Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Infantiles" tvg-name="Bob Esponja TV",Bob Esponja TV
+http://51.159.104.29:8080/bobesponja/index.m3u8
+
+#EXTINF:-1 tvg-id="BEN 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="Infantiles" tvg-name="BEN 10 TV",BEN 10 TV
+http://51.159.104.29:8080/ben10/index.m3u8
+
 #EXTINF:-1 tvg-id="Pokemón TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Anime" tvg-name="Pokemón TV",Pokemón TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12066.m3u8
 
