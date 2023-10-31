@@ -246,9 +246,6 @@ https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 #EXTINF:-1 tvg-id="TV Sistemas" tvg-logo="https://pbs.twimg.com/media/FSNf6rdXIAIono-?format=jpg&name=medium" group-title="Generalistas" tvg-name="TV Sistemas",TV Sistemas
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV EN LINEA" tvg-logo="https://i.postimg.cc/dt48Xn6L/TV-EN-LINEA.jpg" group-title="Generalistas" tvg-name="TV EN LINEA",TV EN LINEA
-http://191.97.60.193:10000/play/a03o/index.m3u8
-
 #EXTINF:-1 tvg-id="Miel TV" tvg-logo="https://i.postimg.cc/SNsrmVYV/Miel-TV.jpg" group-title="Generalistas" tvg-name="Miel TV",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
