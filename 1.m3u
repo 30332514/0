@@ -1569,12 +1569,6 @@ http://45.5.119.155:8000/play/a0km/index.m3u8
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
 http://45.5.119.155:8000/play/a04o/index.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV",FreeTV
-http://45.189.117.202:48000/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://i.postimg.cc/15V3sLqv/Free-TV-Acci-n.jpg" group-title="Películas" tvg-name="FreeTV Acción",FreeTV Acción
-http://45.189.117.202:48000/play/a00d/index.m3u8
-
 #EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
 http://72.76.116.158:8000/play/a08b/index.m3u8
 
