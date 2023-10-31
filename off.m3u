@@ -15,6 +15,21 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m
 #EXTINF:-1 tvg-id="Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="Deportivos" tvg-name="Todo Deportes TV",Todo Deportes TV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMyAxMjoxNjowMSBQTSZoYXNoX3ZhbHVlPUJ2SWNvajFhZTRnMjBwdEczQzl5cWc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
 
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://i.postimg.cc/BtfPCSsF/BEIN-SPORTS-1.png" group-title="Deportivos" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-logo="https://i.postimg.cc/L8Mb0wVB/BEIN-SPORTS-2.png" group-title="Deportivos" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-logo="https://i.postimg.cc/0QrWws8x/BEIN-SPORTS-3.png" group-title="Deportivos" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-logo="https://i.postimg.cc/FzLTTVdB/BEIN-SPORTS-4.png" group-title="Deportivos" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4
+https://stream.ayas.ir/hls2/bein4.m3u8
+
+#EXTINF:-1 tvg-id="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Isotipo-ECDF.png/150px-Isotipo-ECDF.png" group-title="Deportivos" tvg-name="El Canal del Fútbol",El Canal del Fútbol
+http://177.234.242.150:50032/play/a0fy/index.m3u8
+
 #EXTINF:-1 tvg-id="Orange Sport 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_3_RO_logo.png" group-title="Deportivos" tvg-name="Orange Sport 3",Orange Sport 3
 http://94.53.216.13:9981/stream/channelid/2138471472?&profile=pass
 
