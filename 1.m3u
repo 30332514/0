@@ -493,10 +493,10 @@ http://161.132.243.192:50001/play/a03p/index.m3u8
 http://161.132.243.192:50001/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.postimg.cc/026fz34V/Claro-Sports.jpg" group-title="Deportivos" tvg-name="Claro Sports",Claro Sports
-http://45.5.119.155:8000/play/a04w/index.m3u8
+http://161.132.108.76:50001/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="Deportivos" tvg-name="Claro Sports 2",Claro Sports 2
-http://45.5.117.182:8000/play/a0e5/index.m3u8
+http://161.132.108.76:50001/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports Guate" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guate",Tigo Sports Guate
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
