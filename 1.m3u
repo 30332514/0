@@ -783,9 +783,6 @@ http://191.97.60.193:10000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="USMPTV MÚSICA" tvg-logo="https://i.postimg.cc/CK7B2K5Z/USMPTV-M-SICA.png" group-title="Musicales" tvg-name="USMPTV MÚSICA",USMPTV MÚSICA
 http://191.97.60.193:10000/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperTV" tvg-logo="https://i.postimg.cc/nrFLjWtp/supertv.jpg" group-title="Musicales" tvg-name="SuperTV",SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 http://191.97.60.193:10000/play/a00c/index.m3u8
 
