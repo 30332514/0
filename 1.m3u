@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina TV" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina TV",Latina TV
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
 http://190.116.90.43:8000/play/a010
