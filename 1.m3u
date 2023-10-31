@@ -670,7 +670,7 @@ http://191.97.60.193:10000/play/a02q/index.m3u8
 http://191.97.60.193:10000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
-http://45.5.117.182:8000/play/a0hm/index.m3u8
+http://161.132.194.88:7076/play/a0uk/index.m3u8
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
 http://179.189.222.226:8000/play/ch04
