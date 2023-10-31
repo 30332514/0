@@ -114,11 +114,11 @@ http://191.97.60.193:10000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
 http://191.97.60.193:10000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-id="SEÑAL PERÚ" tvg-logo="https://i.postimg.cc/t7Qhb01M/SE-AL-PER.jpg" group-title="Generalistas" tvg-name="SEÑAL PERÚ",SEÑAL PERÚ
-https://livestream.perucast.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
+https://servilive.com:3757/live/regiontvlive.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 http://191.97.60.193:10000/play/a02l/index.m3u8
