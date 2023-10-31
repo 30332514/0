@@ -1453,7 +1453,7 @@ http://190.102.139.241:8900/play/a0sv/index.m3u8
 http://190.102.139.241:8900/play/a0t1/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
-http://45.5.119.155:8000/play/a0fv/index.m3u8
+http://161.132.108.76:50001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
 http://45.228.232.219:16000/play/a0na/index.m3u8
