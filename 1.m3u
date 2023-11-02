@@ -379,7 +379,7 @@ http://161.132.108.75:50001/play/a02y/index.m3u8
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
-http://45.71.252.67:8000/play/a0hi/index.m3u8
+http://45.186.252.17:8000/play/a0cx
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://45.5.119.155:8000/play/a0kq/index.m3u8
