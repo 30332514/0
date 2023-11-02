@@ -198,9 +198,6 @@ https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
 #EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
 http://191.97.60.193:10000/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-id="Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="Generalistas" tvg-name="Ok Teve",Ok Teve
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
-
 #EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
