@@ -219,12 +219,6 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
-https://live.obslivestream.com/supercanal/index.m3u8
-
-#EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="Generalistas" tvg-name="RTV Total",RTV Total
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
 #EXTINF:-1 tvg-id="Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Generalistas" tvg-name="Radio Televisión Oriente",Radio Televisión Oriente
 https://vdo.grupolimalive.com:3073/live/orientetvlive.m3u8
 
@@ -548,9 +542,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.postimg.cc/d0m1v5rj/Ty-C-Sports.jpg" group-title="Deportivos" tvg-name="TyC Sports",TyC Sports
 http://161.132.194.88:7076/play/a0s1/index.m3u8
-
-#EXTINF:-1 tvg-id="DT Play" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Deportivos" tvg-name="DT Play",DT Play
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.postimg.cc/65sbgdzD/TUDN.jpg" group-title="Deportivos" tvg-name="TUDN",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
@@ -995,9 +986,6 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name="Canal Extremadura",Canal Extremadura
-https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onetoro TV" tvg-logo="https://i.postimg.cc/7ZF2kWyS/Onetoro-TV.jpg" group-title="Generalistas" tvg-name="Onetoro TV",Onetoro TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/56010.ts
