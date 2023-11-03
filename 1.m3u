@@ -129,7 +129,7 @@ http://191.97.60.193:10000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="SIN TV" tvg-logo="https://i.postimg.cc/9QbC1JhP/SIN-TV.jpg" group-title="Generalistas" tvg-name="SIN TV",SIN TV
 https://inliveserver.com:1936/19004/19004/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="Generalistas" tvg-name="Like TV",Like TV
+#EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
