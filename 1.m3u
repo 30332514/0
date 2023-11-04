@@ -1164,9 +1164,6 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/in
 #EXTINF:-1 tvg-id="C33M.TV" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="Generalistas" tvg-name="C33 Madrid",C33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 
-#EXTINF:-1 tvg-id="EsTuTele" tvg-logo="https://i.postimg.cc/7hB9D8dC/estutele.jpg" group-title="Generalistas" tvg-name="EsTuTele",EsTuTele
-https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
-
 #EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas" tvg-name="Tastemade Español",Tastemade Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
