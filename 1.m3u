@@ -1446,8 +1446,20 @@ https://24e45240eb464bb795218803d6c61cc4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Movies Central by TV Player" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300044CZ_20220511T011717SQUARE.png_20220511011719.png" group-title="Películas" tvg-name="Movies Central by TV Player",Movies Central by TV Player
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="Old",Old
+https://marine2.miplay.cl/old/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TU CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE",TU CINE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINE REAL" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="Películas" tvg-name="CINE REAL",CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+
+#EXTINF:-1 tvg-id="Filmex Clásico TV" tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="Películas" tvg-name="Filmex Clásico TV",Filmex Clásico TV
+https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
+
+#EXTINF:-1 tvg-id="Filmex TV" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="Películas" tvg-name="Filmex TV",Filmex TV
+https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Clasica" tvg-logo="https://i.postimg.cc/2y6TG8vZ/MI-TV.png" group-title="Películas" tvg-name="Mi TV Clasica ",Mi TV Clasica 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
