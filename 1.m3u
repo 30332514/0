@@ -393,17 +393,20 @@ http://45.186.252.17:8000/play/a0cx
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://45.5.119.155:8000/play/a0kq/index.m3u8
 
-#EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Novelas" tvg-name="Caracol TV",Caracol TV
+#EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
 http://161.132.194.88:7076/play/a0tg/index.m3u8
 
-#EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/6QDp2KGj/Am-rica-TV-Internacional.png" group-title="Novelas" tvg-name="América TV Internacional",América TV Internacional
+#EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/6QDp2KGj/Am-rica-TV-Internacional.png" group-title="Generalistas" tvg-name="América TV Internacional",América TV Internacional
 http://190.102.139.241:8900/play/a0w1/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/kGrqb8Qg/Telefe.jpg" group-title="Novelas" tvg-name="Telefe",Telefe
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/kGrqb8Qg/Telefe.jpg" group-title="Generalistas" tvg-name="Telefe",Telefe
 http://190.102.139.241:8900/play/a0ze/index.m3u8
 
-#EXTINF:-1 tvg-id="Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="Novelas" tvg-name="Argentinísima Satelital",Argentinísima Satelital
+#EXTINF:-1 tvg-id="Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="Generalistas" tvg-name="Argentinísima Satelital",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="latele" tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="Novelas" tvg-name="latele",latele
+http://177.234.230.226:8010/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
 http://190.102.139.241:8900/play/a0vn/index.m3u8
