@@ -1455,14 +1455,23 @@ https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="FLOU CINE" tvg-logo="https://i.postimg.cc/yN76s2pc/FLOU-CINE.png" group-title="Películas" tvg-name="FLOU CINE",FLOU CINE
 https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TU CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE",TU CINE
+#EXTINF:-1 tvg-id="TU CINE Europa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Europa",TU CINE Europa
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TU CINE Latinoamerica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Latinoamerica",TU CINE Latinoamerica
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINE REAL" tvg-logo="https://i.postimg.cc/ZnpX95CR/CINE-REAL.jpg" group-title="Películas" tvg-name="CINE REAL",CINE REAL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOP CINE" tvg-logo="https://i.postimg.cc/6prpvC8r/TOP-CINE.jpg" group-title="Películas" tvg-name="TOP CINE",TOP CINE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JUNTOS" tvg-logo="https://i.postimg.cc/52bZTYmg/JUNTOS.jpg" group-title="Películas" tvg-name="JUNTOS",JUNTOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINE SUREÑO" tvg-logo="https://i.postimg.cc/qqXzB66w/CINE-SURE-O.jpg" group-title="Películas" tvg-name="CINE SUREÑO",CINE SUREÑO
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HORRORFY" tvg-logo="https://i.postimg.cc/fbrwmCfr/HORRORFY.jpg" group-title="Películas" tvg-name="HORRORFY",HORRORFY
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/2818de52-c065-413c-a5e4-9020f298fa13/4.m3u8
