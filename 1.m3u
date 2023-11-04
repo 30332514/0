@@ -25,13 +25,7 @@ http://161.132.108.76:50001/play/a043/index.m3u8
 http://190.102.139.241:8900/play/a0tx/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
-https://dq5v1qm3sssud.cloudfront.net/out/v1/bd94421f4bec41b293a70fb84b7c0dfc/index.m3u8
-
-#EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/LXHDL7St/TV-Per-Noticias.jpg" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://d1ulegv9jgbfk5.cloudfront.net/out/v1/76c391c7016f4a8fbab5111ca843c384/index.m3u8
-
-#EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/yYNGwDwm/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
-https://d3s11fut487wcr.cloudfront.net/out/v1/69a45ed69f85459bb382ebe126c1aca4/index.m3u8
+http://190.116.90.43:8000/play/a003
 
 #EXTINF:-1 tvg-id="MINEDU IPTV Canal 1" tvg-logo="https://i.postimg.cc/DySNcv7B/MINEDU-IPTV01.jpg" group-title="Generalistas" tvg-name="MINEDU IPTV Canal 1",MINEDU IPTV Canal 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
