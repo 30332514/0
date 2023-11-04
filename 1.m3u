@@ -1086,6 +1086,9 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57284.ts
 #EXTINF:-1 tvg-id="Dark" tvg-logo="https://masmediatv.es/images/2020/10/23/canales-dark-removebg-preview.png" group-title="Generalistas" tvg-name="Dark",Dark
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25930.ts
 
+#EXTINF:-1 tvg-id="Gol Play" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="Gol Play",Gol Play
+http://257638747951538757.ot0711.xyz:80/play/vi428027/hdFucGwknR/538757.ts
+
 #EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5621.ts
 
