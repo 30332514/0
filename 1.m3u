@@ -964,7 +964,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5622.ts
+http://499816947258321276.ot0711.xyz:80/play/vi428027/hdFucGwknR/321276.ts
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.postimg.cc/7LF42d7W/la2.png" group-title="Generalistas"" tvg-name="La 2",La 2
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5623.ts
