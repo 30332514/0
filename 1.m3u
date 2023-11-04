@@ -423,6 +423,9 @@ http://45.228.232.219:16000/play/a0mj/index.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="Novelas" tvg-name="Azteca 7",Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 
+#EXTINF:-1 tvg-id="AZ CLIP" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-title="Novelas" tvg-name="AZ CLIP",AZ CLIP
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20230628T012821SQUARE.png_20230628012821.png" group-title="Novelas" tvg-name="Azteca Internacional",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
@@ -1443,6 +1446,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 #EXTINF:-1 tvg-id="Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="Old",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
 #EXTINF:-1 tvg-id="FLOU CINE" tvg-logo="https://i.postimg.cc/yN76s2pc/FLOU-CINE.png" group-title="Películas" tvg-name="FLOU CINE",FLOU CINE
 https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
 
@@ -1674,6 +1680,15 @@ http://190.102.139.241:8900/play/a0st/index.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
 http://45.186.252.17:8000/play/a09u
 
+#EXTINF:-1 tvg-id="SONY CINE" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Películas" tvg-name="SONY CINE",SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONY COMPETENCIAS" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png" group-title="Películas" tvg-name="SONY COMPETENCIAS",SONY COMPETENCIAS
+https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-id="SONY NOVELAS" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg" group-title="Películas" tvg-name="SONY NOVELAS",SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://190.102.139.241:8900/play/a0sw/index.m3u8
 
@@ -1695,7 +1710,10 @@ http://72.76.116.158:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="TERROR TV" tvg-logo="https://i.postimg.cc/k524HRnY/TERROR-TV.png" group-title="Películas" tvg-name="TERROR TV",TERROR TV
 http://161.132.194.88:7076/play/a0uv/index.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV",FreeTV
+#EXTINF:-1 tvg-id="FreeTV 8.2" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.2",FreeTV 8.2
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV 8.3" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.3",FreeTV 8.3
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
