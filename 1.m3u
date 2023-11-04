@@ -1473,11 +1473,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playl
 #EXTINF:-1 tvg-id="CINE SUREÑO" tvg-logo="https://i.postimg.cc/qqXzB66w/CINE-SURE-O.jpg" group-title="Películas" tvg-name="CINE SUREÑO",CINE SUREÑO
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SABER MAS" tvg-logo="https://i.postimg.cc/bY9yJtvX/SABER-MAS.jpg" group-title="Películas" tvg-name="SABER MAS",SABER MAS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HORRORFY" tvg-logo="https://i.postimg.cc/fbrwmCfr/HORRORFY.jpg" group-title="Películas" tvg-name="HORRORFY",HORRORFY
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/2818de52-c065-413c-a5e4-9020f298fa13/4.m3u8
+
+#EXTINF:-1 tvg-id="SABER MAS" tvg-logo="https://i.postimg.cc/bY9yJtvX/SABER-MAS.jpg" group-title="Películas" tvg-name="SABER MAS",SABER MAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filmex Clásico TV" tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="Películas" tvg-name="Filmex Clásico TV",Filmex Clásico TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
