@@ -1459,7 +1459,13 @@ https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINE REAL" tvg-logo="https://i.postimg.cc/ZnpX95CR/CINE-REAL.jpg" group-title="Películas" tvg-name="CINE REAL",CINE REAL
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOP CINE" tvg-logo="https://i.postimg.cc/6prpvC8r/TOP-CINE.jpg" group-title="Películas" tvg-name="TOP CINE",TOP CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HORRORFY" tvg-logo="https://i.postimg.cc/fbrwmCfr/HORRORFY.jpg" group-title="Películas" tvg-name="HORRORFY",HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/2818de52-c065-413c-a5e4-9020f298fa13/4.m3u8
 
 #EXTINF:-1 tvg-id="Filmex Clásico TV" tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="Películas" tvg-name="Filmex Clásico TV",Filmex Clásico TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
