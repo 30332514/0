@@ -183,9 +183,6 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Tropical" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="Generalistas" tvg-name="TV Tropical",TV Tropical
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-
 #EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
 http://191.97.60.193:10000/play/a03k/index.m3u8
 
@@ -563,9 +560,6 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latin America Sport" tvg-logo="https://i.postimg.cc/CLnSNBZr/Latin-America-Sport.png" group-title="Deportivos" tvg-name="Latin America Sport",Latin America Sport
 http://45.228.232.219:16000/play/a0l4/index.m3u8
-
-#EXTINF:-1 tvg-id="Vinx TV Asturias" tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title="Deportivos" tvg-name="Vinx TV Asturias",Vinx TV Asturias
-https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.postimg.cc/nVTkLc47/r.jpg" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
 http://257638747951339784.ot0711.xyz:80/play/vi428027/hdFucGwknR/339784.ts
