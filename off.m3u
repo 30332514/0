@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/LXHDL7St/TV-Per-Noticias.jpg" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://d1ulegv9jgbfk5.cloudfront.net/out/v1/76c391c7016f4a8fbab5111ca843c384/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/yYNGwDwm/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
+https://d3s11fut487wcr.cloudfront.net/out/v1/69a45ed69f85459bb382ebe126c1aca4/index.m3u8
+
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
