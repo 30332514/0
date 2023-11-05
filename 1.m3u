@@ -474,6 +474,9 @@ https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe TV" tvg-logo="https://i.postimg.cc/52MQdGWw/La-Rosade-Guadalupe.jpg" group-title="Novelas" tvg-name="La Rosa de Guadalupe TV",La Rosa de Guadalupe TV
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Monterrico TV" tvg-logo="https://i.postimg.cc/5NJQrKF4/Monterrico-TV.png" group-title="Deportivos" tvg-name="Monterrico TV",Monterrico TV
+https://jcp.live.opencaster.com/multi_live/play_src.m3u8
+
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
 http://191.97.60.193:10000/play/a02s/index.m3u8
 
