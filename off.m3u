@@ -1,10 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
+https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+
 #EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/LXHDL7St/TV-Per-Noticias.jpg" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://d1ulegv9jgbfk5.cloudfront.net/out/v1/76c391c7016f4a8fbab5111ca843c384/index.m3u8
+https://d5durwxb5vtvj.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/yYNGwDwm/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
-https://d3s11fut487wcr.cloudfront.net/out/v1/69a45ed69f85459bb382ebe126c1aca4/index.m3u8
+https://d3h75ubfgjw298.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
