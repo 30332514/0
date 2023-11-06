@@ -26,8 +26,7 @@ https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmk
 https://github.com/bodegaacuenta/Moyobambaastral             -   Congreso TV, QUVO, DREAMWORKS
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
 https://github.com/jesaro15/iptv
-https://github.com/sufyansurve/M3u8
-https://github.com/PABLOPOM/m3u
+https://github.com/PABLOPOM/m3u ---- Mucha Fuente ----
 https://github.com/TonnyMCH/TonnyMCH-Canales-CR.m3u/tree/main/TonnyMCH
 https://github.com/mxxtv/m3u
 https://github.com/mxxtv/m3u8
