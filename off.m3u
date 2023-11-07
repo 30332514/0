@@ -37,6 +37,9 @@ https://inliveserver.com:1936/19026/19026/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV" tvg-logo="https://i.postimg.cc/nrFLjWtp/supertv.jpg" group-title="Musicales" tvg-name="SuperTV",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
+#EXTINF:-1 tvg-id="Distrito TV" tvg-logo="https://i.postimg.cc/x8ZykGRg/dtv.jpg" group-title="Generalistas" tvg-name="Distrito TV",Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
+
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1338057635&_cdn_timestamp=1698662325&_cdn_token=7ecdf15c62e1fc90ce3daa40e59a3cae5a332662
 
