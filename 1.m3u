@@ -292,7 +292,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://209.45.81.84:8000/play/a03f
 
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN",EWTN
-http://161.132.194.88:7076/play/a0k3/index.m3u8
+http://190.102.139.241:8900/play/a11a/index.m3u8
 
 #EXTINF:-1 tvg-id="enlace" tvg-logo="https://i.postimg.cc/RZtwF99n/enlace.jpg" group-title="Generalistas" tvg-name="enlace",enlace
 http://191.97.60.193:10000/play/a00q/index.m3u8
@@ -334,7 +334,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 http://191.97.60.193:10000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
-http://161.132.194.88:7076/play/a0st/index.m3u8
+http://190.102.139.241:8900/play/a0z2/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
@@ -361,7 +361,7 @@ http://190.102.139.241:8900/play/a0zd/index.m3u8
 http://190.102.139.241:8900/play/a0mu/index.m3u8
 
 #EXTINF:-1 tvg-id="ViaX" tvg-logo="https://i.postimg.cc/HkRHVZg3/V-a-X-2023.jpg" group-title="Generalistas" tvg-name="ViaX",ViaX
-http://161.132.194.88:7076/play/a01q/index.m3u8
+http://190.102.139.241:8900/play/a0wu/index.m3u8
 
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo="https://i.postimg.cc/TwjVPCHs/ESTRELLA-TV.jpg" group-title="Generalistas" tvg-name="ESTRELLA TV",ESTRELLA TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
@@ -388,7 +388,7 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 http://45.186.252.17:8000/play/a0cx
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
-http://161.132.194.88:7076/play/a0tg/index.m3u8
+http://161.132.243.192:50001/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/6QDp2KGj/Am-rica-TV-Internacional.png" group-title="Generalistas" tvg-name="América TV Internacional",América TV Internacional
 http://190.102.139.241:8900/play/a0w1/index.m3u8
@@ -526,10 +526,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
-http://161.132.194.88:7076/play/a0sf/index.m3u8
+http://190.61.43.117:45000/play/a067
 
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
-http://161.132.194.88:7076/play/a0t0/index.m3u8
+http://190.95.220.212:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
 http://190.102.139.241:8900/play/a0xp/index.m3u8
@@ -568,7 +568,7 @@ http://45.71.252.67:8000/play/a0k9/index.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.postimg.cc/d0m1v5rj/Ty-C-Sports.jpg" group-title="Deportivos" tvg-name="TyC Sports",TyC Sports
-http://161.132.194.88:7076/play/a0s1/index.m3u8
+http://190.102.139.241:8900/play/a0op/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.postimg.cc/65sbgdzD/TUDN.jpg" group-title="Deportivos" tvg-name="TUDN",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
@@ -691,7 +691,7 @@ http://138.59.177.34:8000/play/a06b/index.m3u8
 http://138.59.177.34:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=Teen Nick",Teen Nick
-http://161.132.194.88:7076/play/a0qp/index.m3u8
+http://161.132.108.76:50001/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -709,7 +709,7 @@ http://191.97.60.193:10000/play/a02q/index.m3u8
 http://191.97.60.193:10000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
-http://161.132.194.88:7076/play/a0uk/index.m3u8
+http://190.61.43.117:45000/play/a03s
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
 http://179.189.222.226:8000/play/ch04
