@@ -523,7 +523,7 @@ http://161.132.243.192:50001/play/a03v/index.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports CR" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportivos" tvg-name="Tigo Sports CR",Tigo Sports CR
-http://181.189.243.217:8000/play/a0sn/index.m3u8
+http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
 http://161.132.194.88:7076/play/a0sf/index.m3u8
