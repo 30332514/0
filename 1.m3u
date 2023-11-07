@@ -1188,9 +1188,6 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
 #EXTINF:-1 tvg-id=" Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name=" Nortevision", Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
-#EXTINF:-1 tvg-id="Distrito TV" tvg-logo="https://i.postimg.cc/x8ZykGRg/dtv.jpg" group-title="Generalistas" tvg-name="Distrito TV",Distrito TV
-https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
-
 #EXTINF:-1 tvg-id="Teleganés" tvg-logo="https://i.postimg.cc/gJkS2X2F/teleganes.jpg" group-title="Generalistas" tvg-name="Teleganés",Teleganés
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/index.m3u8
 
