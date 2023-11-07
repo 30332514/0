@@ -1467,6 +1467,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="FLOU CINE" tvg-logo="https://i.postimg.cc/yN76s2pc/FLOU-CINE.png" group-title="Películas" tvg-name="FLOU CINE",FLOU CINE
 https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="https://i.postimg.cc/JnsFL0GT/ORIGEN-TV.jpg" group-title="Películas" tvg-name="ORIGEN TV",ORIGEN TV
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="+CINE" tvg-logo="https://i.postimg.cc/JzQcd84G/CINE.jpg" group-title="Películas" tvg-name="+CINE",+CINE
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
 #EXTINF:-1 tvg-id="TU CINE Europa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Europa",TU CINE Europa
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 
