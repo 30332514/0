@@ -775,7 +775,7 @@ https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://mediacp.us:8081/8002/index.m3u8
 
 #EXTINF:-1 tvg-id="TIERRAMIATV" tvg-logo="https://i.postimg.cc/tTm5hWrW/TIERRAMIATV.jpg" group-title="Musicales" tvg-name="TIERRAMIATV",TIERRAMIATV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://tv.portalexpress.es:3731/stream/play.m3u8
@@ -814,7 +814,7 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://i.postimg.cc/9fSKQtHF/musictop.png" group-title="Musicales" tvg-name="MUSIC TOP",MUSIC TOP
-http://200.115.193.177/live/msctphd-360/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
