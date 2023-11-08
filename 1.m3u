@@ -934,10 +934,10 @@ http://190.102.139.241:8900/play/a0xe/index.m3u8
 http://190.102.139.241:8900/play/a0n3/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
-http://45.5.119.155:8000/play/a0ge/index.m3u8
+http://45.5.117.182:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
-http://45.5.119.155:8000/play/a0gd/index.m3u8
+http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://190.102.139.241:8900/play/a0nh/index.m3u8
