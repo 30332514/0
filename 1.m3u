@@ -43,7 +43,7 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://i.postimg.cc/CxD0jtW9/Congreso-TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1401448035&_cdn_timestamp=1699343956&_cdn_token=34367a82dc59ff5f8687bac45c67b1a6a8a4cf3e
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1406201035&_cdn_timestamp=1699422301&_cdn_token=9fe81433b9f56694c6db89163973e76cf5428fe3
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.102.139.241:8900/play/a0te/index.m3u8
@@ -52,7 +52,7 @@ http://190.102.139.241:8900/play/a0te/index.m3u8
 http://161.132.108.76:50001/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1401437835&_cdn_timestamp=1699343880&_cdn_token=dd2e032ff84f40f11e82f5f07c76a018aebef62e
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1406203907&_cdn_timestamp=1699422338&_cdn_token=afca464f6ce31448bd3622f96d2713737d7b45d8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
