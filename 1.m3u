@@ -183,9 +183,6 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="RTVC" tvg-logo="https://i.postimg.cc/43H5Zd0z/RTVC.jpg" group-title="Generalistas" tvg-name="RTVC",RTVC
-http://191.97.60.193:10000/play/a03k/index.m3u8
-
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
 
@@ -328,7 +325,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 http://191.97.60.193:10000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
-http://190.102.139.241:8900/play/a0z2/index.m3u8
+http://161.132.243.192:50001/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
