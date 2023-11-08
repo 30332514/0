@@ -1213,7 +1213,7 @@ http://190.102.139.241:8900/play/a0n6/index.m3u8
 http://45.71.252.67:8000/play/a0n6/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
-http://45.5.119.155:8000/play/a0gs/index.m3u8
+http://161.132.243.192:50001/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
