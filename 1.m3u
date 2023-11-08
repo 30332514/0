@@ -1663,25 +1663,25 @@ http://190.102.139.241:8900/play/a0zo/index.m3u8
 http://190.102.139.241:8900/play/a10s/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
-http://45.5.119.155:8000/play/a0go/index.m3u8
+http://161.132.108.76:50001/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
 http://190.102.139.241:8900/play/a0ng/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://45.5.119.155:8000/play/a0kt/index.m3u8
+http://161.132.108.76:50001/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.postimg.cc/bvP9NncZ/UNIVERSAL-CRIME.png" group-title="Películas" tvg-name="UNIVERSAL CRIME",UNIVERSAL CRIME
 http://45.5.117.182:8000/play/a0ij/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://i.postimg.cc/SR9Gxfsz/UNIVERSAL-COMEDY.png" group-title="Películas" tvg-name="UNIVERSAL COMEDY",UNIVERSAL COMEDY
-http://45.5.119.155:8000/play/a0i5/index.m3u8
+http://161.132.108.76:50001/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/WpSW3PW2/UNIVERSAL-REALITY.png" group-title="Películas" tvg-name="UNIVERSAL REALITY",UNIVERSAL REALITY
-http://45.5.119.155:8000/play/a0i3/index.m3u8
+http://161.132.108.76:50001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-logo="https://i.postimg.cc/SsxjHL3P/UNIVERSAL-PREMIERE.png" group-title="Películas" tvg-name="UNIVERSAL PREMIERE",UNIVERSAL PREMIERE
-http://45.5.119.155:8000/play/a0i1/index.m3u8
+http://161.132.108.76:50001/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
 http://190.102.139.241:8900/play/a0st/index.m3u8
@@ -1693,16 +1693,16 @@ http://45.186.252.17:8000/play/a09u
 http://190.102.139.241:8900/play/a0sw/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://45.5.119.155:8000/play/a0jw/index.m3u8
+http://190.102.139.241:8900/play/a0kj/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
 http://190.102.139.241:8900/play/a0my/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT SERIES",TNT SERIES
-http://45.5.119.155:8000/play/a0km/index.m3u8
+http://161.132.108.76:50001/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
-http://45.5.119.155:8000/play/a04o/index.m3u8
+http://190.102.139.241:8900/play/a11y/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
 http://72.76.116.158:8000/play/a08b/index.m3u8
