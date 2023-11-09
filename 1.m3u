@@ -360,9 +360,6 @@ http://190.102.139.241:8900/play/a0tl/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Philadelphia" tvg-logo="https://i.postimg.cc/BQfm7phz/Telemundo-Philadelphia.jpg" group-title="Generalistas"" tvg-name="Telemundo Philadelphia",Telemundo Philadelphia
-http://magmas5.com:8000/Oscar86/40473/148724
-
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-logo="https://i.postimg.cc/htpS68JK/Telemundo-Puerto-Rico.png" group-title="Generalistas"" tvg-name="Telemundo Puerto Rico",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
@@ -1006,7 +1003,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5550.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5735.ts
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5736.ts
+http://257638747951165351.ot0711.xyz:80/play/vi428027/hdFucGwknR/165351.ts
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5580.ts 
