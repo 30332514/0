@@ -186,9 +186,6 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="Generalistas" tvg-name=Unitel",Unitel
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
 
