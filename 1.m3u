@@ -1335,9 +1335,6 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="Lancelot TV" tvg-logo="https://i.postimg.cc/XqTXv53s/Lancelot-TV.jpg" group-title="Generalistas" tvg-name="Lancelot TV",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
-#EXTINF:-1 tvg-id="Afortunadas TV" tvg-logo="https://i.postimg.cc/jST9xHHQ/afortunadas.jpg" group-title="Generalistas" tvg-name="Afortunadas TV",Afortunadas TV
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
-
 #EXTINF:-1 tvg-id="Alacantí TV" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Generalistas" tvg-name="Alacantí TV",Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
