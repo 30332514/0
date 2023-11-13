@@ -879,14 +879,20 @@ http://179.189.222.226:8000/play/ch53
 #EXTINF:-1 tvg-id="Mimusica Popular" tvg-logo="https://pbs.twimg.com/media/FfuliqvXoAEuTtS?format=png&name=240x240" group-title="Musicales" tvg-name="Mimusica Popular",Mimusica Popular
 http://179.189.222.226:8000/play/ch56
 
-#EXTINF:-1 tvg-id="Mimusica Salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Salsa",Mimusica Salsa
-http://179.189.222.226:8000/play/ch55
-
 #EXTINF:-1 tvg-id="Mimusica Romántica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3hIWJfpPueuL-xdOFKeX_QX75cWzWNDUmRaxjcNp4OmkT17HgpGwvuIIqyTRKHuA-w&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Romántica",Mimusica Romántica
 http://179.189.222.226:8000/play/ch54
 
+#EXTINF:-1 tvg-id="Mimusica Salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Salsa",Mimusica Salsa
+http://191.97.60.193:10000/play/a02z/index.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica Perú",Mimusica Perú
 http://191.97.60.193:10000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="Mimusica HITS" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica HITS",Mimusica HITS
+http://191.97.60.193:10000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
+http://191.97.60.193:10000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
