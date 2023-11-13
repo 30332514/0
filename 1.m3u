@@ -1158,7 +1158,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5720.ts
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Cocina",Canal Cocina
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
 
-#EXTINF:-1 tvg-id=" Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name=" Nortevision", Nortevision
+#EXTINF:-1 tvg-id="Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name="Nortevision",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
 #EXTINF:-1 tvg-id="Teleganés" tvg-logo="https://i.postimg.cc/gJkS2X2F/teleganes.jpg" group-title="Generalistas" tvg-name="Teleganés",Teleganés
