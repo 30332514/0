@@ -366,6 +366,9 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
 http://45.186.252.17:8000/play/a0cx
 
+#EXTINF:-1 tvg-id="Mas Chic" tvg-logo="" group-title="Generalistas" tvg-name="Mas Chic",Mas Chic
+http://161.132.108.76:50001/play/a034/index.m3u8
+
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
 http://161.132.243.192:50001/play/a030/index.m3u8
 
@@ -406,10 +409,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas",Tlnovelas
-http://190.116.90.43:8000/play/a00d
+http://190.102.139.241:8900/play/a127/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
-http://190.116.90.43:8000/play/a00s
+http://190.102.139.241:8900/play/a0xj/index.m3u8
 
 #EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
 http://45.228.232.219:16000/play/a0mj/index.m3u8
@@ -1405,13 +1408,13 @@ http://190.102.139.241:8900/play/a0nw/index.m3u8
 http://190.102.139.241:8900/play/a0nw/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
-http://190.116.90.43:8000/play/a00t
+http://190.102.139.241:8900/play/a0w7/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery ID",Discovery ID
 http://190.102.139.241:8900/play/a0vo/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery THEATHER" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name=Discovery THEATHER",Discovery THEATHER
-http://190.116.90.43:8000/play/a00g
+http://190.102.139.241:8900/play/a0ne/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
 http://45.186.252.17:8000/play/a0an
@@ -1629,7 +1632,7 @@ http://161.132.243.192:50001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://190.116.90.43:8000/play/a00o
 
-#EXTINF:-1 tvg-id="Warner Brothers TV" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Brothers TV",Warner Brothers TV
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
 http://190.102.139.241:8900/play/a0su/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
