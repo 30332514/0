@@ -21,6 +21,9 @@ http://45.71.252.67:8000/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
 http://177.53.153.21:8001/play/a01o/index.m3u8
 
+#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
+http://149.62.177.156:8000/play/a0di
+
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://45.5.117.182:8000/play/a0ed/index.m3u8
 
@@ -29,6 +32,9 @@ http://177.53.153.21:8001/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://194.145.202.71:8087/udp/239.254.4.227:6060
+
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
+http://149.62.177.156:8000/play/a0gx
 
 #EXTINF:-1 tvg-id="PRIVATE" tvg-logo="https://i.postimg.cc/QCtwjmKK/PRIVATE.png" group-title="Adultos" tvg-name="PRIVATE",PRIVATE
 http://149.62.183.194:9293/play/a07t
@@ -57,6 +63,9 @@ http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1 tvg-id="VIXEN" tvg-logo="https://i.postimg.cc/K8b0DFmv/VIXEN.png" group-title="Adultos" tvg-name="VIXEN",VIXEN
 http://149.62.183.194:9293/play/a088
 
+#EXTINF:-1 tvg-id="VIXEN" tvg-logo="https://i.postimg.cc/K8b0DFmv/VIXEN.png" group-title="Adultos" tvg-name="VIXEN",VIXEN
+http://78.130.250.2:8023/play/a031/index.m3u8
+
 #EXTINF:-1 tvg-id="EROX" tvg-logo="https://i.postimg.cc/Vvsj0Hz4/EROX.jpg" group-title="Adultos" tvg-name="EROX",EROX
 http://94.229.250.73:8008/play/a002
 
@@ -74,6 +83,15 @@ http://62.176.77.22:9781/play/a00m
 
 #EXTINF:-1 tvg-id="EVIL ANGEL" tvg-logo="" group-title="Adultos" tvg-name="EVIL ANGEL",EVIL ANGEL
 http://62.176.77.22:9781/play/a00l
+
+#EXTINF:-1 tvg-id="HOT MEO" tvg-logo="" group-title="Adultos" tvg-name="HOT MEO",HOT MEO
+http://149.62.177.156:8000/play/a0cm
+
+#EXTINF:-1 tvg-id="Penthouse 1" tvg-logo="" group-title="Adultos" tvg-name="Penthouse 1",Penthouse 1
+http://78.130.250.2:8023/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="Penthouse 2" tvg-logo="" group-title="Adultos" tvg-name="Penthouse 2",Penthouse 2
+http://78.130.250.2:8023/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="Live Cams" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos" tvg-name="Live Cams",Live Cams
 http://live.adultiptv.net/livecams.m3u8
