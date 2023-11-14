@@ -1704,6 +1704,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Glewed TV" tvg-logo="https://i.postimg.cc/FHjH34KN/Glewed-TV.jpg" group-title="Estilo de Vida" tvg-name="Glewed TV",Glewed TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
 
+#EXTINF:-1 tvg-id="Life Style" tvg-logo="https://i.postimg.cc/631s5PPg/Life-Style.jpg" group-title="Estilo de Vida" tvg-name="Life Style",Life Style
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/master.m3u8
+
 #EXTINF:-1 tvg-id="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Estilo de Vida" tvg-name="Ideas en 5 Minutos",Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
 
