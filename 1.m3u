@@ -1272,9 +1272,6 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5741.ts
 #EXTINF:-1 tvg-id="Canal 2000" tvg-logo="https://i.postimg.cc/90NJWDsN/Canal-2000.jpg" group-title="Generalistas" tvg-name="Canal 2000",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 
-#EXTINF:-1 tvg-id="Antena Seis TV" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Generalistas" tvg-name="Antena Seis TV",Antena Seis TV
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Arabí TV" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Generalistas" tvg-name="Arabí TV",Arabí TV
 https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 
