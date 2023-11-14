@@ -156,6 +156,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 #EXTINF:-1 tvg-id="Matices TV" tvg-logo="https://i.postimg.cc/cHwmGtLG/Matices-TV.jpg" group-title="Generalistas" tvg-name="Matices TV",Matices TV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
+#EXTINF:-1 tvg-id="K9STUDIO" tvg-logo="https://i.postimg.cc/X7DQNvd7/k9studio.jpg" group-title="Generalistas" tvg-name="K9STUDIO",K9STUDIO
+http://191.97.60.193:10000/play/a04g/index.m3u8
+
 #EXTINF:-1 tvg-id="Piura TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="Generalistas" tvg-name="Piura TV",Piura TV
 http://191.97.60.193:10000/play/a04a/index.m3u8
 
