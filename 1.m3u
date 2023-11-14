@@ -1227,9 +1227,6 @@ http://190.102.139.241:8900/play/a10a/index.m3u8
 #EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
 http://190.102.139.241:8900/play/a0u9/index.m3u8
 
-#EXTINF:-1 tvg-id="Chilevisión" tvg-logo="https://i.postimg.cc/3wcKR9dy/Chilevisi-n.png" group-title="Informativos" tvg-name="Chilevisión",Chilevisión
-http://190.102.139.241:8900/play/a0mu/index.m3u8
-
 #EXTINF:-1 tvg-id="¡HOLA! PLAY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida" tvg-name="¡HOLA! PLAY",¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
