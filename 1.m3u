@@ -234,6 +234,9 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Inka TV" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/foto-perfil-inkafacebook-scaled.jpg" group-title="Generalistas" tvg-name="Radio Inka TV",Radio Inka TV
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="TV en Línea" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2021/10/logo-tv-en-linea-cusco.jpg" group-title="Generalistas" tvg-name="TV en Línea",TV en Línea
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
 #EXTINF:-1 tvg-id="Hechicera TV" tvg-logo="https://i.postimg.cc/tgYrqSQk/hechiceratv.jpg" group-title="Generalistas" tvg-name="Hechicera TV",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
