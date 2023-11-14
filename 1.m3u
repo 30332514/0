@@ -144,9 +144,6 @@ https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 http://191.97.60.193:10000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
-http://209.45.81.84:8000/play/a03c
-
 #EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 
@@ -475,7 +472,7 @@ http://190.102.139.241:8900/play/a0oc/index.m3u8
 http://190.102.139.241:8900/play/a12f/index.m3u8
 
 #EXTINF:-1 tvg-id="Liga de campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportivos" tvg-name="Liga de campeones",Liga de campeones
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54531.ts
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5671.ts
 
 #EXTINF:-1 tvg-id="LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga",LaLiga
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54532.ts
