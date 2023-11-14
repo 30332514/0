@@ -1227,6 +1227,9 @@ http://190.102.139.241:8900/play/a10a/index.m3u8
 #EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
 http://190.102.139.241:8900/play/a0u9/index.m3u8
 
+#EXTINF:-1 tvg-id="Chilevisión" tvg-logo="https://i.postimg.cc/3wcKR9dy/Chilevisi-n.png" group-title="Informativos" tvg-name="Chilevisión",Chilevisión
+http://190.102.139.241:8900/play/a0mu/index.m3u8
+
 #EXTINF:-1 tvg-id="¡HOLA! PLAY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida" tvg-name="¡HOLA! PLAY",¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
@@ -1384,7 +1387,7 @@ http://190.116.90.43:8000/play/a00c
 http://190.116.90.43:8000/play/a00v
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
-http://190.116.90.43:8000/play/a00q
+http://190.102.139.241:8900/play/a0oa/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
 http://190.102.139.241:8900/play/a0nw/index.m3u8
@@ -1432,7 +1435,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+http://190.102.139.241:8900/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-id="FLOU CINE" tvg-logo="https://i.postimg.cc/yN76s2pc/FLOU-CINE.png" group-title="Películas" tvg-name="FLOU CINE",FLOU CINE
 https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
