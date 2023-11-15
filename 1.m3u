@@ -1425,9 +1425,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 #EXTINF:-1 tvg-id="Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="Old",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
-http://190.102.139.241:8900/play/a0o7/index.m3u8
-
 #EXTINF:-1 tvg-id="FLOU CINE" tvg-logo="https://i.postimg.cc/yN76s2pc/FLOU-CINE.png" group-title="Películas" tvg-name="FLOU CINE",FLOU CINE
 https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
 
@@ -1533,7 +1530,7 @@ http://190.102.139.241:8900/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="Cine Mexicano",Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="CINEMA",CINEMA
+#EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
 http://190.102.139.241:8900/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://i.postimg.cc/VvW25J6Y/DREAMWORKS.png" group-title="Películas" tvg-name="DREAMWORKS",DREAMWORKS
