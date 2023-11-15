@@ -849,9 +849,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Ditty TV" tvg-logo="https://i.postimg.cc/pVshg9jb/dittytv.png" group-title="Musicales" tvg-name="Ditty TV",Ditty TV
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRACE URBAN" tvg-logo="https://i.postimg.cc/85jfpHpT/TRACE-URBAN.png" group-title="Musicales" tvg-name="TRACE URBAN",TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="30A Music" tvg-logo="https://i.postimg.cc/qRzqrwnP/30atv.png" group-title="Musicales" tvg-name="30A Music",30A Music
 https://30a-tv.com/feeds/720p/6.m3u8
 
