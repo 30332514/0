@@ -693,9 +693,6 @@ http://191.97.60.193:10000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="KIDS TV" tvg-logo="https://i.postimg.cc/Zn9ZRmhs/Kids-TV.png" group-title="Infantiles" tvg-name="KIDS TV",KIDS TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
 
-#EXTINF:-1 tvg-id="ZAZ" tvg-logo="https://i.postimg.cc/bYC6WkXC/ZAZ.jpg" group-title="Infantiles" tvg-name="ZAZ",ZAZ
-https://stream-us-east-1.getpublica.com/cl/231114cl9sa9v9r39toopd8blg/654x480_2732976_2_f.m3u8
-
 #EXTINF:-1 tvg-id="Retro Infantil" tvg-logo="https://png.pngtree.com/png-clipart/20220119/ourlarge/pngtree-childhood-retro-tv-png-image_4324114.png" group-title="Infantiles" tvg-name="Retro Infantil",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
