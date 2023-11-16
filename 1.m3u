@@ -240,9 +240,6 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-id="Hechicera TV" tvg-logo="https://i.postimg.cc/tgYrqSQk/hechiceratv.jpg" group-title="Generalistas" tvg-name="Hechicera TV",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Primavera TV" tvg-logo="https://i.postimg.cc/sfM0Mgfk/Primavera-TV.jpg" group-title="Generalistas" tvg-name="Primavera TV",Primavera TV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
