@@ -846,9 +846,6 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 tvg-id="PLANETATV" tvg-logo="https://i.postimg.cc/9fVQ196R/PLANETATV.jpg" group-title="Películas" tvg-name="PLANETATV",PLANETATV
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Music TV" tvg-logo="https://i.postimg.cc/rwMpsMxC/retromusictelevision.png" group-title="Musicales" tvg-name="Retro Music TV",Retro Music TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
