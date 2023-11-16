@@ -24,9 +24,6 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1439530731&_cdn_timestamp=1699898651&_cdn_token=fe3b659a9168022a971aa676a5b0694b4f291767
 
-#EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
-http://72.76.116.158:8000/play/a08b/index.m3u8
-
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Musicales" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
@@ -91,9 +88,6 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-logo="https://i.postimg.cc/FzLTTVdB/BEIN-SPORTS-4.png" group-title="Deportivos" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4
 https://stream.ayas.ir/hls2/bein4.m3u8
 
-#EXTINF:-1 tvg-id="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Isotipo-ECDF.png/150px-Isotipo-ECDF.png" group-title="Deportivos" tvg-name="El Canal del Fútbol",El Canal del Fútbol
-http://177.234.242.150:50032/play/a0fy/index.m3u8
-
 #EXTINF:-1 tvg-id="Orange Sport 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_3_RO_logo.png" group-title="Deportivos" tvg-name="Orange Sport 3",Orange Sport 3
 http://94.53.216.13:9981/stream/channelid/2138471472?&profile=pass
 
@@ -105,9 +99,6 @@ https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="CTV PERÚ" tvg-logo="https://i.postimg.cc/Kc0Kkt4P/CTV-PER.png" group-title="Generalistas" tvg-name="CTV PERÚ",CTV PERÚ
 https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8?token=a8b2a4084a276933882cb0633299ae5ce9be4ef8-a3b78821a99270ce41daf5c272ac4e88-1698571873-1698561073
-
-#EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
-https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8?token=17777f19f418b91e61b28546c247cdf058e32905-d3ed60c11077856a948ea109ce963c5f-1697744525-1697737325&amp;remote=179.6.166.136
@@ -147,9 +138,6 @@ http://191.97.60.193:10000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Diáspora TV" tvg-logo="https://i.postimg.cc/7hpCX5wf/Di-spora-TV.jpg" group-title="Generalistas" tvg-name="Diáspora TV",Diáspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-
-#EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
 #EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
 https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
