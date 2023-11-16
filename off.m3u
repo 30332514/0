@@ -39,9 +39,6 @@ http://179.189.222.226:8000/play/ch56
 #EXTINF:-1 tvg-id="Mimusica Romántica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3hIWJfpPueuL-xdOFKeX_QX75cWzWNDUmRaxjcNp4OmkT17HgpGwvuIIqyTRKHuA-w&usqp=CAU" group-title="Musicales" tvg-name="Mimusica Romántica",Mimusica Romántica
 http://179.189.222.226:8000/play/ch54
 
-#EXTINF:-1 tvg-id="MMN SPORT" tvg-logo="https://i.postimg.cc/tTC0vwpm/MMN-Quran-TV.jpg" group-title="Deportivos" tvg-name="MMN SPORT",MMN SPORT
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/Jh85CgGf/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
 https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 http://190.116.90.43:8000/play/a003
@@ -75,18 +72,6 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m
 
 #EXTINF:-1 tvg-id="Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="Deportivos" tvg-name="Todo Deportes TV",Todo Deportes TV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMyAxMjoxNjowMSBQTSZoYXNoX3ZhbHVlPUJ2SWNvajFhZTRnMjBwdEczQzl5cWc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://i.postimg.cc/BtfPCSsF/BEIN-SPORTS-1.png" group-title="Deportivos" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1
-https://stream.ayas.ir/hls2/bein1.m3u8
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-logo="https://i.postimg.cc/L8Mb0wVB/BEIN-SPORTS-2.png" group-title="Deportivos" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2
-https://stream.ayas.ir/hls2/bein2.m3u8
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-logo="https://i.postimg.cc/0QrWws8x/BEIN-SPORTS-3.png" group-title="Deportivos" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3
-https://stream.ayas.ir/hls2/bein3.m3u8
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-logo="https://i.postimg.cc/FzLTTVdB/BEIN-SPORTS-4.png" group-title="Deportivos" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4
-https://stream.ayas.ir/hls2/bein4.m3u8
 
 #EXTINF:-1 tvg-id="Orange Sport 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_3_RO_logo.png" group-title="Deportivos" tvg-name="Orange Sport 3",Orange Sport 3
 http://94.53.216.13:9981/stream/channelid/2138471472?&profile=pass
