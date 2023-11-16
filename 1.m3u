@@ -177,6 +177,9 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Sanjuanera TV" tvg-logo="https://i.postimg.cc/L8hz6ZhS/Sanjuanera-Tv.jpg" group-title="Generalistas" tvg-name="Sanjuanera TV",Sanjuanera TV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
+#EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
+
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
@@ -233,6 +236,9 @@ https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
+https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
 
 #EXTINF:-1 tvg-id="BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="Generalistas" tvg-name="BNB Digital TV",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
@@ -368,6 +374,9 @@ http://161.132.108.75:50001/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
+http://72.76.116.158:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
 http://45.186.252.17:8000/play/a0cx
@@ -507,10 +516,10 @@ http://161.132.243.192:50001/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="Deportivos" tvg-name="Claro Sports 2",Claro Sports 2
 http://161.132.243.192:50001/play/a03v/index.m3u8
 
-#EXTINF:-1 tvg-id="Tigo Sports Guate" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guate",Tigo Sports Guate
+#EXTINF:-1 tvg-id="Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guatemala",Tigo Sports Guatemala
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tigo Sports CR" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportivos" tvg-name="Tigo Sports CR",Tigo Sports CR
+#EXTINF:-1 tvg-id="Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportivos" tvg-name="Tigo Sports Costa Rica",Tigo Sports Costa Rica
 http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
@@ -675,7 +684,7 @@ http://138.59.177.34:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://138.59.177.34:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=Teen Nick",Teen Nick
+#EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
 http://161.132.108.76:50001/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
