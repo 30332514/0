@@ -567,9 +567,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://i.ibb.co/KqswCDN/esport3-logo.png" group-title="Deportivos" tvg-name="Esport 3",Esport 3
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25933.ts
 
-#EXTINF:-1 tvg-id="MMN SPORT" tvg-logo="https://i.postimg.cc/tTC0vwpm/MMN-Quran-TV.jpg" group-title="Deportivos" tvg-name="MMN SPORT",MMN SPORT
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://i.postimg.cc/vZJHjQN2/ALL-SPORTS.jpg" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
