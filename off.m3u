@@ -9,6 +9,9 @@ https://inliveserver.com:1936/19004/19004/playlist.m3u8
 #EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
 http://209.45.81.84:8000/play/a03c
 
+#EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1439530731&_cdn_timestamp=1699898651&_cdn_token=fe3b659a9168022a971aa676a5b0694b4f291767
 
