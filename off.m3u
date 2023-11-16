@@ -130,9 +130,6 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2343.m3u8
 #EXTINF:-1 tvg-id="Alf TV" tvg-logo="https://seeklogo.com/images/A/alf-logo-1551FD0D0F-seeklogo.com.png" group-title="Infantiles" tvg-name="Alf TV",Alf TV
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2321.m3u8
 
-#EXTINF:-1 tvg-id="La Luz" tvg-logo="https://i.postimg.cc/wB6PXBJL/laluz.png" group-title="Religiosos" tvg-name="La Luz",La Luz
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
 http://191.97.60.193:10000/play/a03j/index.m3u8
 
@@ -192,9 +189,6 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-id="Estepona TV" tvg-logo="https://i.postimg.cc/hG9vtv3r/esteponatv.png" group-title="Generalistas" tvg-name="Estepona TV",Estepona TV
 https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Teleonuba.TV" tvg-logo="https://i.postimg.cc/nr1qjTR3/teleonuba.jpg" group-title="Generalistas" tvg-name="Teleonuba",Teleonuba
-https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal San Roque" tvg-logo="https://i.postimg.cc/DwpdPj2D/canalsanroque.jpg" group-title="Generalistas" tvg-name="Canal San Roque",Canal San Roque
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
