@@ -216,6 +216,12 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
+#EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="Generalistas" tvg-name="RTV Total",RTV Total
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
 #EXTINF:-1 tvg-id="Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Generalistas" tvg-name="Radio Televisión Oriente",Radio Televisión Oriente
 https://vdo.grupolimalive.com:3073/live/orientetvlive.m3u8
 
@@ -224,6 +230,12 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="Generalistas" tvg-name="BNB Digital TV",BNB Digital TV
+https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://i.postimg.cc/85WhySn1/Ribere-a.jpg" group-title="Generalistas" tvg-name="Ribereña",Ribereña
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
@@ -923,6 +935,9 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a
 
 #EXTINF:-1 tvg-id="Clubbing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="Musicales" tvg-name="Clubbing TV",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="XITE" tvg-logo="https://i.postimg.cc/LsnYfZW6/XITE.jpg" group-title="Musicales" tvg-name="XITE",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-id="Kronehit" tvg-logo="https://i.postimg.cc/HLJp2GCb/Kronehit.png" group-title="Musicales" tvg-name="Kronehit",Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
