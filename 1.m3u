@@ -64,7 +64,7 @@ http://191.97.60.193:10000/play/a00p/index.m3u8
 https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
-https://stream2.trivutv.com/hls/stream.m3u8
+https://www.chasquirouter.com/salida/trivu.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
