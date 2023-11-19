@@ -1693,7 +1693,7 @@ http://161.132.108.76:50001/play/a03d/index.m3u8
 http://190.102.139.241:8900/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://45.186.252.17:8000/play/a09u
+http://170.82.37.21:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://190.102.139.241:8900/play/a0sw/index.m3u8
