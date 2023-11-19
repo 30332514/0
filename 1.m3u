@@ -1546,7 +1546,7 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
-http://45.186.252.17:8000/play/a0aa
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MC" tvg-logo="https://i.postimg.cc/GprNgyRk/MC.jpg" group-title="Películas" tvg-name="MC",MC
 http://45.228.232.219:16000/play/a0la/index.m3u8
