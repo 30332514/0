@@ -502,7 +502,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54532.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5661.ts
 
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
-http://45.186.252.17:8000/play/a0b8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
 http://161.132.243.192:50001/play/a03o/index.m3u8
