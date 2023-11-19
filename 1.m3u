@@ -402,10 +402,10 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="latele" tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="Novelas" tvg-name="latele",latele
 http://177.234.230.226:8010/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY CINE" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Películas" tvg-name="SONY CINE",SONY CINE
+#EXTINF:-1 tvg-id="SONY CINE" tvg-logo="https://i.postimg.cc/SRGCzshD/SonyCine.jpg" group-title="Películas" tvg-name="SONY CINE",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY COMPETENCIAS" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png" group-title="Películas" tvg-name="SONY COMPETENCIAS",SONY COMPETENCIAS
+#EXTINF:-1 tvg-id="SONY COMPETENCIAS" tvg-logo="https://i.postimg.cc/k46T8W1w/Sony-Competencias.jpg" group-title="Películas" tvg-name="SONY COMPETENCIAS",SONY COMPETENCIAS
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-id="SONY NOVELAS" tvg-logo="https://i.postimg.cc/3JcHQZMJ/Tele-Novelas.jpg" group-title="Películas" tvg-name="SONY NOVELAS",SONY NOVELAS
