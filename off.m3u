@@ -88,6 +88,18 @@ http://94.53.216.13:9981/stream/channelid/2138471472?&profile=pass
 #EXTINF:-1 tvg-id="Orange Sport 4" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orange_Sport_4_RO_logo.png" group-title="Deportivos" tvg-name="Orange Sport 4",Orange Sport 4
 http://94.53.216.13:9981/stream/channelid/1187997064?&profile=pass
 
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://i.postimg.cc/BtfPCSsF/BEIN-SPORTS-1.png" group-title="Deportivos" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-logo="https://i.postimg.cc/L8Mb0wVB/BEIN-SPORTS-2.png" group-title="Deportivos" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-logo="https://i.postimg.cc/0QrWws8x/BEIN-SPORTS-3.png" group-title="Deportivos" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-logo="https://i.postimg.cc/FzLTTVdB/BEIN-SPORTS-4.png" group-title="Deportivos" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4
+https://stream.ayas.ir/hls2/bein4.m3u8
+
 #EXTINF:-1 tvg-id="CTV PERÚ" tvg-logo="https://i.postimg.cc/Kc0Kkt4P/CTV-PER.png" group-title="Generalistas" tvg-name="CTV PERÚ",CTV PERÚ
 https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8?token=a8b2a4084a276933882cb0633299ae5ce9be4ef8-a3b78821a99270ce41daf5c272ac4e88-1698571873-1698561073
 
