@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Miel TV" tvg-logo="https://i.postimg.cc/SNsrmVYV/Miel-TV.jpg" group-title="Generalistas" tvg-name="Miel TV",Miel TV
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
 #EXTINF:-1 tvg-id="Sanjuanera TV" tvg-logo="https://i.postimg.cc/L8hz6ZhS/Sanjuanera-Tv.jpg" group-title="Generalistas" tvg-name="Sanjuanera TV",Sanjuanera TV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
