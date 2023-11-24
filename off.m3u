@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="latele" tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="Novelas" tvg-name="latele",latele
+http://177.234.230.226:8010/play/a034/index.m3u8
+
 #EXTINF:-1 tvg-id="Miel TV" tvg-logo="https://i.postimg.cc/SNsrmVYV/Miel-TV.jpg" group-title="Generalistas" tvg-name="Miel TV",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
