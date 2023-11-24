@@ -582,18 +582,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA Ñ" tvg-logo="https://i.postimg.cc/qMGvFXxS/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA Ñ",BEIN SPORTS EXTRA Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://i.postimg.cc/BtfPCSsF/BEIN-SPORTS-1.png" group-title="Deportivos" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1
-https://stream.ayas.ir/hls2/bein1.m3u8
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-logo="https://i.postimg.cc/L8Mb0wVB/BEIN-SPORTS-2.png" group-title="Deportivos" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2
-https://stream.ayas.ir/hls2/bein2.m3u8
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-logo="https://i.postimg.cc/0QrWws8x/BEIN-SPORTS-3.png" group-title="Deportivos" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3
-https://stream.ayas.ir/hls2/bein3.m3u8
-
-#EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-logo="https://i.postimg.cc/FzLTTVdB/BEIN-SPORTS-4.png" group-title="Deportivos" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4
-https://stream.ayas.ir/hls2/bein4.m3u8
-
 #EXTINF:-1 tvg-id="MMN SPORT" tvg-logo="https://i.postimg.cc/tTC0vwpm/MMN-Quran-TV.jpg" group-title="Deportivos" tvg-name="MMN SPORT",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
