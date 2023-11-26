@@ -37,8 +37,11 @@ https://github.com/Mxitv/m3u8/blob/main/m3u
 https://github.com/MAXIMAONE/IPTV.m3u
 https://github.com/BrianRVP/lista.m3u
 https://github.com/BrianRVP/lista.m3u/blob/main/IPTV
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
 https://github.com/search?q=m3u&type=repositories&s=updated&o=desc&p=5
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
+https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt
+https://freenote.biz/index.php/raw/xlo5yDXuCv
+
 
 https://github.com/la22lo/sports/tree/main
 https://github.com/iptv-org/iptv/tree/master/streams
@@ -47,6 +50,7 @@ https://github.com/brunochanrio/Listas-IPTV
 https://github.com/Diptv24/d531/tree/main
 https://tulistalatinam3u.blogspot.com/p/lista-iptvm3u-tv.html
 https://raw.githubusercontent.com/TUTVLATINA/Sept/main/Grup0
+https://gist.github.com/elfenderes
 
 
 https://github.com/Free-TV/IPTV/blob/04689b4f682d65939554cacc898cfd8c92b4fb43/playlists/playlist_spain.m3u8
