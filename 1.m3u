@@ -409,7 +409,7 @@ http://190.102.139.241:8900/play/a127/index.m3u8
 http://190.102.139.241:8900/play/a0xj/index.m3u8
 
 #EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
-http://45.228.232.219:16000/play/a0mj/index.m3u8
+http://190.149.66.90:4000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="Novelas" tvg-name="Azteca 7",Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
@@ -553,7 +553,7 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-id="Latin America Sport" tvg-logo="https://i.postimg.cc/CLnSNBZr/Latin-America-Sport.png" group-title="Deportivos" tvg-name="Latin America Sport",Latin America Sport
-http://45.228.232.219:16000/play/a0l4/index.m3u8
+http://190.149.66.90:4000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.postimg.cc/nVTkLc47/r.jpg" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
 http://257638747951339784.ot0711.xyz:80/play/vi428027/hdFucGwknR/339784.ts
@@ -847,7 +847,7 @@ https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/
 https://30a-tv.com/feeds/720p/6.m3u8
 
 #EXTINF:-1 tvg-id="Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="Musicales" tvg-name="Concert Channel",Concert Channel
-http://45.228.232.219:16000/play/a0o2/index.m3u8
+http://190.149.66.90:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
 http://51.210.199.24/hls/stream.m3u8
