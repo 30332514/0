@@ -3,6 +3,18 @@
 #EXTINF:-1 tvg-id="latele" tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="Novelas" tvg-name="latele",latele
 http://177.234.230.226:8010/play/a034/index.m3u8
 
+#EXTINF:-1 tvg-id="La Luz" tvg-logo="https://i.postimg.cc/wB6PXBJL/laluz.png" group-title="Religiosos" tvg-name="La Luz",La Luz
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oriental TV" tvg-logo="https://i.postimg.cc/rsPv18M2/Oriental-TV.jpg" group-title="Generalistas" tvg-name="Oriental TV",Oriental TV
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Radio Inka TV" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/foto-perfil-inkafacebook-scaled.jpg" group-title="Generalistas" tvg-name="Radio Inka TV",Radio Inka TV
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Hechicera TV" tvg-logo="https://i.postimg.cc/tgYrqSQk/hechiceratv.jpg" group-title="Generalistas" tvg-name="Hechicera TV",Hechicera TV
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Miel TV" tvg-logo="https://i.postimg.cc/SNsrmVYV/Miel-TV.jpg" group-title="Generalistas" tvg-name="Miel TV",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
