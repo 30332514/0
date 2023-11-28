@@ -1564,7 +1564,7 @@ http://190.102.139.241:8900/play/a0t1/index.m3u8
 http://161.132.108.76:50001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
-http://45.228.232.219:16000/play/a0na/index.m3u8
+http://190.149.66.90:4000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
 http://45.5.117.182:8000/play/a0j5/index.m3u8
