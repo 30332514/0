@@ -961,7 +961,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.postimg.cc/7LF42d7W/la2.png" group-title="Generalistas"" tvg-name="La 2",La 2
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
@@ -982,7 +982,7 @@ http://190.102.139.241:8900/play/a0n4/index.m3u8
 http://177.234.230.226:8010/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
 https://ztnr.rtve.es/ztnr/1712295.m3u8
