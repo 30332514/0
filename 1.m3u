@@ -850,7 +850,7 @@ https://30a-tv.com/feeds/720p/6.m3u8
 http://190.149.66.90:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
-http://51.210.199.24/hls/stream.m3u8
+https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
