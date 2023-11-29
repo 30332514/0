@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Liga de campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportivos" tvg-name="Liga de campeones",Liga de campeones
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5671.ts
+
+#EXTINF:-1 tvg-id="LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga",LaLiga
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54532.ts
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="Deportivos" tvg-name="LaLiga TV BAR",LaLiga TV BAR
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5661.ts
+
 #EXTINF:-1 tvg-id="latele" tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="Novelas" tvg-name="latele",latele
 http://177.234.230.226:8010/play/a034/index.m3u8
 
