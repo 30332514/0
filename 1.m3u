@@ -468,15 +468,6 @@ http://190.102.139.241:8900/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
 http://190.102.139.241:8900/play/a12f/index.m3u8
 
-#EXTINF:-1 tvg-id="Liga de campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportivos" tvg-name="Liga de campeones",Liga de campeones
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5671.ts
-
-#EXTINF:-1 tvg-id="LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportivos" tvg-name="LaLiga",LaLiga
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/54532.ts
-
-#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="Deportivos" tvg-name="LaLiga TV BAR",LaLiga TV BAR
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5661.ts
-
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
