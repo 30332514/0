@@ -1,5 +1,80 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="La resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Generalistas" tvg-name="La resistencia",La resistencia
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25938.ts
+
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas" tvg-name="Movistar Plus+",Movistar Plus+
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57285.ts
+
+#EXTINF:-1 tvg-id="M+ Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1920px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Generalistas" tvg-name="M+ Cine",M+ Cine
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57286.ts
+
+#EXTINF:-1 tvg-id="M+ Estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas" tvg-name="M+ Estrenos",M+ Estrenos
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5645.ts
+
+#EXTINF:-1 tvg-id="M+ Estrenos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas" tvg-name="M+ Estrenos 2",M+ Estrenos 2
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5646.ts
+
+#EXTINF:-1 tvg-id="M+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/1920px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Generalistas" tvg-name="M+ Series",M+ Series
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5675.ts
+
+#EXTINF:-1 tvg-id="M+ Series 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas" tvg-name="M+ Series 2",M+ Series 2
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5673.ts
+
+#EXTINF:-1 tvg-id="M+ Clásicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Generalistas" tvg-name="M+ Clásicos",M+ Clásicos
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5634.ts
+
+#EXTINF:-1 tvg-id="M+ Acción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Generalistas" tvg-name="M+ Acción",M+ Acción
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5632.ts
+
+#EXTINF:-1 tvg-id="M+ Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/640px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Generalistas" tvg-name="M+ Comedia",M+ Comedia
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5636.ts
+
+#EXTINF:-1 tvg-id="M+ Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas" tvg-name="M+ Drama",M+ Drama
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5636.ts
+
+#EXTINF:-1 tvg-id="M+ Indie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Generalistas" tvg-name="M+ Indie",M+ Indie
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57282.ts
+
+#EXTINF:-1 tvg-id="M+ Originales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Generalistas" tvg-name="M+ Originales",M+ Originales
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57283.ts
+
+#EXTINF:-1 tvg-id="M+ Cine Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/2560px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas" tvg-name="M+ Cine Ñ",M+ Cine Ñ
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5633.ts
+
+#EXTINF:-1 tvg-id="M+ Fest" tvg-logo="https://i.ibb.co/0KhDfH0/logo-M-fest.png" group-title="Generalistas" tvg-name="M+ Fest",M+ Fest
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5648.ts
+
+#EXTINF:-1 tvg-id="M+ Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg/1200px-M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Generalistas" tvg-name="M+ Música",M+ Música
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57281.ts
+
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-logo="https://i.postimg.cc/zDcsv3Jz/M-Documentales.jpg" group-title="Generalistas" tvg-name="M+ Documentales",M+ Documentales
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57284.ts
+
+#EXTINF:-1 tvg-id="Dark" tvg-logo="https://masmediatv.es/images/2020/10/23/canales-dark-removebg-preview.png" group-title="Generalistas" tvg-name="Dark",Dark
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25930.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportivos" tvg-name="Eurosport 1",Eurosport 1
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5607.ts
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Deportivos" tvg-name="Eurosport 2",Eurosport 2
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5608.ts
+
+#EXTINF:-1 tvg-id="Vamos" tvg-logo="https://i.ibb.co/HHL04RY/logo-vamos.png" group-title="Deportivos" tvg-name="Vamos",Vamos
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5630.ts
+
+#EXTINF:-1 tvg-id="Deportes" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png" group-title="Deportivos" tvg-name="Deportes",Deportes
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5638.ts
+
+#EXTINF:-1 tvg-id="Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportivos" tvg-name="Golf",Golf
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5649.ts
+
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Deportivos" tvg-name="Caza y Pesca",Caza y Pesca
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5578.ts
+
+#EXTINF:-1 tvg-id="#0" tvg-logo="https://i.ibb.co/8dXVPMV/logo-0.png" group-title="Deportivos" tvg-name="#0",#0
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5546.ts
+
 #EXTINF:-1 tvg-id="Liga de campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportivos" tvg-name="Liga de campeones",Liga de campeones
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5671.ts
 
