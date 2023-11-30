@@ -285,9 +285,6 @@ http://191.97.60.193:10000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="JN19.2" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19.2",JN19.2
 https://servilive.com:3224/live/jn19tv2live.m3u8
 
-#EXTINF:-1 tvg-id="Jesús TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=451x10000:format=png/path/s198f7be6c90b5aac/image/i8fae4ee760f1a4c4/version/1512317356/image.png" group-title="Religiosos" tvg-name="Jesús TV",Jesús TV
-https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
-
 #EXTINF:-1 tvg-id="Hoynet" tvg-logo="https://i.postimg.cc/pT979k3f/Hoynet.png" group-title="Religiosos" tvg-name="Hoynet",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
