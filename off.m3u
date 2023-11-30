@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Jesús TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=451x10000:format=png/path/s198f7be6c90b5aac/image/i8fae4ee760f1a4c4/version/1512317356/image.png" group-title="Religiosos" tvg-name="Jesús TV",Jesús TV
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+
+#EXTINF:-1 tvg-id="RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="Generalistas" tvg-name="RN Noticias",RN Noticias
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
 #EXTINF:-1 tvg-id="La resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Generalistas" tvg-name="La resistencia",La resistencia
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25938.ts
 
