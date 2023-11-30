@@ -594,18 +594,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-sam
 #EXTINF:-1 tvg-id="Ellas Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/640px-Ellas_V_por_Movistar_Plus%2B.svg.png" group-title="Deportivos" tvg-name="Ellas Vamos",Ellas Vamos
 http://257638747951542877.ot0711.xyz:80/play/vi428027/hdFucGwknR/542877.ts
 
-#EXTINF:-1 tvg-id="Deportes" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png" group-title="Deportivos" tvg-name="Deportes",Deportes
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5638.ts
-
-#EXTINF:-1 tvg-id="Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportivos" tvg-name="Golf",Golf
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5649.ts
-
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Deportivos" tvg-name="Caza y Pesca",Caza y Pesca
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5578.ts
-
-#EXTINF:-1 tvg-id="#0" tvg-logo="https://i.ibb.co/8dXVPMV/logo-0.png" group-title="Deportivos" tvg-name="#0",#0
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5546.ts
-
 #EXTINF:-1 tvg-id="Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Deportivos" tvg-name="Fitmaxx TV",Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 
