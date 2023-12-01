@@ -1014,32 +1014,8 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/man
 #EXTINF:-1 tvg-id="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230712T021352SQUARE.png_20230712021353.png" group-title="Motor" tvg-name="Top Gear en Español",Top Gear en Español
 https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.postimg.cc/pd4pPwGD/TCM.png" group-title="Generalistas"" tvg-name="TCM",TCM
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5733.ts
-
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/15scxFNy/SY-FY.png" group-title="Generalistas" tvg-name="SYFY",SYFY
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5732.ts
-
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-logo="https://i.postimg.cc/d1DxFWQC/SUNDANCE-TV.png" group-title="Generalistas" tvg-name="SUNDANCE TV",SUNDANCE TV
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5731.ts
-
-#EXTINF:-1 tvg-id="somos" tvg-logo="https://i.postimg.cc/nrbx49t3/somos.jpg" group-title="Generalistas"" tvg-name="somos",somos
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5730.ts
-
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5738.ts
-
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Generalistas" tvg-name="MTV",MTV
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5712.ts
-
-#EXTINF:-1 tvg-id="ODISEA" tvg-logo="https://i.postimg.cc/nzxyj2pY/ODISEA.png" group-title="Generalistas" tvg-name="ODISEA",ODISEA
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/57248.ts
-
-#EXTINF:-1 tvg-id="WARNER BROTHERS" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Generalistas" tvg-name="WARNER BROTHERS",WARNER BROTHERS
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5739.ts
-
-#EXTINF:-1 tvg-id="HWD HOLLYHOOD" tvg-logo="https://i.postimg.cc/RFbT5Cs6/HWD-HOLLYHOOD.png" group-title="Generalistas" tvg-name="HWD HOLLYHOOD",HWD HOLLYHOOD
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5619.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Channel",Paramount Channel
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
@@ -1162,7 +1138,7 @@ https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
 #EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5741.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Canal 2000" tvg-logo="https://i.postimg.cc/90NJWDsN/Canal-2000.jpg" group-title="Generalistas" tvg-name="Canal 2000",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
