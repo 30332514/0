@@ -720,6 +720,9 @@ https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 
+#EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
+https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
 
