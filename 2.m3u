@@ -15,6 +15,9 @@ https://conectperu.com:7261/live
 #EXTINF:-1 tvg-id="Radio Cima Virú" tvg-logo="https://i.postimg.cc/D0C3QmDz/Radio-Cima-Vir.jpg" group-title="Virú" tvg-name="Radio Cima Virú",Radio Cima Virú
 https://stream.zeno.fm/e1ftiayu9evvv
 
+#EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
+https://turadio.accesopanel.com/8456/stream
+
 #EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="EMISORAS LOCALES", 1154 | Radio Atmósfera 92.3 FM || Moyobamba; Perú
 https://cast10.plugstreaming.com:2000/stream/atmosfera/;
 
