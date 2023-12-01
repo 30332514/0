@@ -984,14 +984,8 @@ http://257638747951538757.ot0711.xyz:80/play/vi428027/hdFucGwknR/538757.ts
 #EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Generalistas" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5714.ts
-
 #EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
 http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/1X7BnWrD/HISTORIA.jpg" group-title="Generalistas" tvg-name="HISTORIA",HISTORIA
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5618.ts
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
