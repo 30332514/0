@@ -1014,18 +1014,6 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/man
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Generalistas" tvg-name="Boing",Boing
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name=Disney Channel",Disney Channel
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5721.ts
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nick Jr.",Nick Jr.
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5720.ts
-
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Cocina",Canal Cocina
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
-
 #EXTINF:-1 tvg-id="Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name="Nortevision",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
