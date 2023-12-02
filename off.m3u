@@ -12,6 +12,18 @@ https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 #EXTINF:-1 tvg-id="RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="Generalistas" tvg-name="RN Noticias",RN Noticias
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name=Disney Channel",Disney Channel
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5721.ts
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Generalistas" tvg-name="Nick Jr.",Nick Jr.
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5720.ts
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Cocina",Canal Cocina
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
+
 #EXTINF:-1 tvg-id="La resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Generalistas" tvg-name="La resistencia",La resistencia
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25938.ts
 
