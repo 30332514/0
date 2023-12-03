@@ -535,7 +535,7 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 http://190.149.66.90:4000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.postimg.cc/nVTkLc47/r.jpg" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
-http://257638747951339784.ot0711.xyz:80/play/vi428027/hdFucGwknR/339784.ts
+https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 
 #EXTINF:-1 tvg-id="TD+2" tvg-logo="https://i.postimg.cc/y8HLp2mf/TD-2.jpg" group-title="Deportivos" tvg-name="TD+2",TD+2
 https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
