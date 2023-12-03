@@ -484,7 +484,7 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 http://190.61.43.117:45000/play/a067
 
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
-http://190.95.220.212:8000/play/a01j/index.m3u8
+http://190.61.43.117:45000/play/a024
 
 #EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
 http://190.102.139.241:8900/play/a0xp/index.m3u8
