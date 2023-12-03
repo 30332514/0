@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://i.postimg.cc/qRm5hSdY/La-Promesa.jpg" group-title="Novelas" tvg-name="La Promesa",La Promesa
+https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="K9STUDIO" tvg-logo="https://i.postimg.cc/xTV7SF8R/k9studio.jpg" group-title="Generalistas" tvg-name="K9STUDIO",K9STUDIO
 http://191.97.60.193:10000/play/a04g/index.m3u8
 
