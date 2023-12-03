@@ -76,7 +76,7 @@ https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 https://media1.ultrik.com/live/torole1.m3u8
 
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
-http://257638747951539876.ot0711.xyz:80/play/vi428027/hdFucGwknR/539876.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Mundotoro TV" tvg-logo="https://i.postimg.cc/3xHh12sv/Mundotoro-TV.png" group-title="Tauromaquia" tvg-name="Mundotoro TV",Mundotoro TV
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/56009.ts
