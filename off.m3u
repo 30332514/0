@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DT Play" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Deportivos" tvg-name="DT Play",DT Play
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1 tvg-id="TD+2" tvg-logo="https://i.postimg.cc/y8HLp2mf/TD-2.jpg" group-title="Deportivos" tvg-name="TD+2",TD+2
+https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MINEDU IPTV Canal 1" tvg-logo="https://i.postimg.cc/DySNcv7B/MINEDU-IPTV01.jpg" group-title="Generalistas" tvg-name="MINEDU IPTV Canal 1",MINEDU IPTV Canal 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 
