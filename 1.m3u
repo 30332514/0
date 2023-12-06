@@ -1197,9 +1197,6 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 #EXTINF:-1 tvg-id="Miami Tv" tvg-logo="https://i.postimg.cc/qMhjm6TC/miamitv.png" group-title="Entretenimiento" tvg-name="Miami Tv",Miami Tv
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Fashion TV 4K" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV 4K",Fashion TV 4K
 http://194.145.202.71:8087/udp/239.254.1.151:6060
 
@@ -1266,9 +1263,6 @@ https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Doctor Who" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png" group-title="Drama" tvg-name="Doctor Who",Doctor Who
 https://24e45240eb464bb795218803d6c61cc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_DoctorWho/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Movies Central by TV Player" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300044CZ_20220511T011717SQUARE.png_20220511011719.png" group-title="Películas" tvg-name="Movies Central by TV Player",Movies Central by TV Player
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="Old",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
@@ -1304,9 +1298,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/pla
 
 #EXTINF:-1 tvg-id="SABER MAS" tvg-logo="https://i.postimg.cc/bY9yJtvX/SABER-MAS.jpg" group-title="Películas" tvg-name="SABER MAS",SABER MAS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Filmex TV" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="Películas" tvg-name="Filmex TV",Filmex TV
-https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
 
 #EXTINF:-1 tvg-id="MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="MX Family",MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
