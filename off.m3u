@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="7 Televisión Murcia" tvg-logo="https://i.postimg.cc/NMbpQ8Pz/7televisionmurcia.jpg" group-title="Generalistas" tvg-name="7 Televisión Murcia",7 Televisión Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DT Play" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Deportivos" tvg-name="DT Play",DT Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
