@@ -144,6 +144,9 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
+#EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Jenny Live" tvg-logo="https://i.postimg.cc/43LWL6mV/jennylive.jpg" group-title="Entretenimiento" tvg-name="Jenny Live",Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 
