@@ -966,6 +966,9 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:34_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="La 7" tvg-logo="https://i.postimg.cc/1zys0YTy/La7.png" group-title="Generalistas"" tvg-name="La 7",La 7
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Gol Play" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="Gol Play",Gol Play
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
