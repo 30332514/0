@@ -931,7 +931,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
+https://telemadrid-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
