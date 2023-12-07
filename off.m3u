@@ -12,6 +12,9 @@ https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d87
 #EXTINF:-1 tvg-id="MINEDU IPTV Canal 1" tvg-logo="https://i.postimg.cc/DySNcv7B/MINEDU-IPTV01.jpg" group-title="Generalistas" tvg-name="MINEDU IPTV Canal 1",MINEDU IPTV Canal 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MINEDU IPTV Canal 2" tvg-logo="https://i.postimg.cc/sgpwn1q9/MINEDU-IPTV02.jpg" group-title="Generalistas" tvg-name="MINEDU IPTV Canal 2",MINEDU IPTV Canal 2
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+
 #EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://i.postimg.cc/qRm5hSdY/La-Promesa.jpg" group-title="Novelas" tvg-name="La Promesa",La Promesa
 https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 
