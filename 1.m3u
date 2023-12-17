@@ -55,7 +55,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 http://191.97.60.193:10000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
-https://servilive.com:3114/live/liveulive.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
