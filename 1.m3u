@@ -204,9 +204,6 @@ https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 #EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
-#EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.postimg.cc/7L28Yv6v/megatvjaen.jpg" group-title="Generalistas" tvg-name="Mega",Mega
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
@@ -215,9 +212,6 @@ https://live.obslivestream.com/supercanal/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="Generalistas" tvg-name="RTV Total",RTV Total
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
-#EXTINF:-1 tvg-id="Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Generalistas" tvg-name="Radio Televisión Oriente",Radio Televisión Oriente
-https://vdo.grupolimalive.com:3073/live/orientetvlive.m3u8
 
 #EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
