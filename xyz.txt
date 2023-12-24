@@ -23,8 +23,11 @@ Delete: http://iptvh.it/oErzulvt9m
 https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=es
 
 // Fuentes
+http://www.onlinetv365.xyz:8080/get.php?username=57tyjhg65ljouni7yu711&password=thjhg3468ihj&type=m3u
+http://hidra.live:80/get.php?username=jihmrggx&password=8Bkkl8sD20&type=m3u
 http://78.159.119.122:2082/get.php?username=xplus-2-BHm5F4g9H0&password=Gp0Ano4ZxV&type=m3u
-http://flashprinttv.com:2086/get.php?username=juantreral&password=7KcTNKXCTNtq&type=m3u
+http://257638747951539876.ot0711.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u ----ESPAÑA
+http://flashprinttv.com:2086/get.php?username=juantreral&password=7KcTNKXCTNtq&type=m3u       ----RAPIDO!
 http://play.steeltv.org:8080/get.php?username=LAtinoA100&password=Wy894ENVXXhhh56&type=m3u    ----MERJOR! 
 http://xloxttv.info/get.php?username=zgavR7zhCjes&password=fxwTvAJBv2NJ&type=m3u
 
