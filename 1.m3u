@@ -472,7 +472,7 @@ http://161.132.243.192:50001/play/a03v/index.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportivos" tvg-name="Tigo Sports Costa Rica",Tigo Sports Costa Rica
-http://170.82.37.21:8000/play/a047/index.m3u8
+http://138.59.177.34:8000/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
 http://190.61.43.117:45000/play/a067
@@ -919,7 +919,7 @@ http://190.102.139.241:8900/play/a0o6/index.m3u8
 http://499816947258321105.ot0711.xyz:80/play/vi428027/hdFucGwknR/321105.ts
 
 #EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-logo="https://i.postimg.cc/hGhvCzbX/Antena-3-Internacional.png" group-title="Generalistas"" tvg-name="Antena 3 Internacional",Antena 3 Internacional
-http://170.82.37.21:8000/play/a01n/index.m3u8
+http://181.78.22.70:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
@@ -1258,7 +1258,7 @@ http://190.102.139.241:8900/play/a0vo/index.m3u8
 http://190.102.139.241:8900/play/a0ne/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
-http://170.82.37.21:8000/play/a01b/index.m3u8
+http://138.59.177.34:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
 http://190.102.139.241:8900/play/a0z8/index.m3u8
@@ -1399,7 +1399,7 @@ http://190.102.139.241:8900/play/a10d/index.m3u8
 http://190.102.139.241:8900/play/a0om/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://170.82.37.21:8000/play/a02b/index.m3u8
+http://138.59.177.34:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
 http://190.102.139.241:8900/play/a0xb/index.m3u8
@@ -1516,7 +1516,7 @@ http://161.132.108.76:50001/play/a03d/index.m3u8
 http://190.102.139.241:8900/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://170.82.37.21:8000/play/a02y/index.m3u8
+http://138.59.177.34:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://190.102.139.241:8900/play/a0sw/index.m3u8
