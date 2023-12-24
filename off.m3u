@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://i.postimg.cc/GpqbQ4vy/Central-TV.jpg" group-title="Generalistas" tvg-name="Central TV",Central TV
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BEN 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="Infantiles" tvg-name="BEN 10 TV",BEN 10 TV
 http://51.159.104.29:8080/ben10/index.m3u8
 
