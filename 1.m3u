@@ -1047,6 +1047,9 @@ https://cdn7.lqsa.es/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Comedia" tvg-name="La Resistencia",La Resistencia
+http://xloxttv.info:8080/zgavR7zhCjes/fxwTvAJBv2NJ/173191
+
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
 http://190.102.139.241:8900/play/a0n6/index.m3u8
 
