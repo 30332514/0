@@ -265,7 +265,7 @@ http://191.97.60.193:10000/play/a01r/index.m3u8
 http://191.97.60.193:10000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
-http://191.97.60.193:10000/play/a03s/index.m3u8
+https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="JN19.2" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19.2",JN19.2
 https://servilive.com:3224/live/jn19tv2live.m3u8
