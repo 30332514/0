@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="BEN 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="Infantiles" tvg-name="BEN 10 TV",BEN 10 TV
+http://51.159.104.29:8080/ben10/index.m3u8
+
 #EXTINF:-1 tvg-id="Monterrico TV" tvg-logo="https://i.postimg.cc/5NJQrKF4/Monterrico-TV.png" group-title="Deportivos" tvg-name="Monterrico TV",Monterrico TV
 https://jcp.live.opencaster.com/multi_live/play_src.m3u8
 
