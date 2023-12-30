@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
 #EXTINF:-1 tvg-id="Central TV" tvg-logo="https://i.postimg.cc/GpqbQ4vy/Central-TV.jpg" group-title="Generalistas" tvg-name="Central TV",Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
