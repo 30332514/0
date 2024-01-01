@@ -49,31 +49,31 @@ https://cdn7.lqsa.es/hls/1/stream.m3u8
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="TV España",Neox
-http://257638747951321374.ot0711.xyz:80/play/vi428027/hdFucGwknR/321374.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="TV España",Nova
-http://257638747951321383.ot0711.xyz:80/play/vi428027/hdFucGwknR/321383.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TV España",Mega
-http://257638747951554775.ot0711.xyz:80/play/vi428027/hdFucGwknR/554775.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV España",Energy
-http://257638747951321236.ot0711.xyz:80/play/vi428027/hdFucGwknR/321236.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TV España",Divinity
-http://257638747951321223.ot0711.xyz:80/play/vi428027/hdFucGwknR/321223.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="TV España",BeMad
-http://257638747951542578.ot0711.xyz:80/play/vi428027/hdFucGwknR/542578.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="TV España",DMAX
-http://257638747951321225.ot0711.xyz:80/play/vi428027/hdFucGwknR/321225.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="TV España",DKISS
-http://257638747951321224.ot0711.xyz:80/play/vi428027/hdFucGwknR/321224.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="TV España",Paramount Channel
-http://257638747951321392.ot0711.xyz:80/play/vi428027/hdFucGwknR/321392.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHL04RY/logo-vamos.png" group-title="Zona Movistar+",Vamos
 http://257638747951550863.ot0711.xyz:80/play/vi428027/hdFucGwknR/550863.ts
