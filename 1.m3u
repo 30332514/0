@@ -481,19 +481,19 @@ http://190.102.139.241:8900/play/a0nj/index.m3u8
 http://190.102.139.241:8900/play/a0n0/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://190.102.139.241:8900/play/a0wd/index.m3u8
+http://45.177.53.7:8000/play/a0hy/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
-http://190.102.139.241:8900/play/a0t2/index.m3u8
+http://45.177.53.7:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://190.102.139.241:8900/play/a0mz/index.m3u8
+http://45.177.53.7:8000/play/a0ik/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://190.102.139.241:8900/play/a0ni/index.m3u8
+http://45.177.53.7:8000/play/a0i5/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://190.102.139.241:8900/play/a0o0/index.m3u8
+http://45.177.53.7:8000/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://190.102.139.241:8900/play/a0sx/index.m3u8
@@ -592,10 +592,10 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 http://190.116.90.43:8000/play/a00f
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://190.102.139.241:8900/play/a0mw/index.m3u8
+http://45.177.53.7:8000/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://190.102.139.241:8900/play/a112/index.m3u8
+http://45.177.53.7:8000/play/a0fd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
 http://138.59.177.34:8000/play/a06b/index.m3u8
@@ -628,7 +628,7 @@ http://190.61.43.117:45000/play/a03s
 http://161.132.243.192:50001/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
-http://190.102.139.241:8900/play/a105/index.m3u8
+http://45.177.53.7:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://190.102.139.241:8900/play/a0kr/index.m3u8
@@ -754,7 +754,7 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lolly Kids" tvg-logo="https://i.postimg.cc/50LxjC61/Lolly-Kids.png" group-title="Musicales" tvg-name="Lolly Kids",Lolly Kids
-http://190.102.139.241:8900/play/a0x3/index.m3u8
+http://45.177.53.7:8000/play/a0kl/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVO play" tvg-logo="https://i.postimg.cc/G38W2Ycj/VIVO-play.jpgg" group-title="Musicales" tvg-name="VIVO play",VIVO play
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
@@ -838,7 +838,7 @@ https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv" tvg-logo="https://i.postimg.cc/0jYHjxgv/htv.jpg" group-title="Musicales" tvg-name="htv",htv
-http://190.102.139.241:8900/play/a0zb/index.m3u8
+http://45.177.53.7:8000/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
 http://190.102.139.241:8900/play/a0xe/index.m3u8
@@ -853,7 +853,7 @@ http://45.5.117.182:8000/play/a0f2/index.m3u8
 http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
-http://190.102.139.241:8900/play/a0nh/index.m3u8
+http://45.177.53.7:8000/play/a0i4/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20221026T004458SQUARE.png_20221026004458.png" group-title="Musicales" tvg-name="MTV Originals",MTV Originals
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
@@ -913,7 +913,7 @@ http://181.78.22.70:8000/play/a05q/index.m3u8
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
-http://190.102.139.241:8900/play/a0n4/index.m3u8
+http://45.177.53.7:8000/play/a0fa/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
 http://177.234.230.226:8010/play/a041/index.m3u8
@@ -1078,31 +1078,31 @@ http://190.102.139.241:8900/play/a0vp/index.m3u8
 http://190.102.139.241:8900/play/a10a/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
-http://190.102.139.241:8900/play/a0u9/index.m3u8
+http://45.177.53.7:8000/play/a0hn/index.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! PLAY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida" tvg-name="¡HOLA! PLAY",¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
-http://190.102.139.241:8900/play/a0mx/index.m3u8
+http://45.177.53.7:8000/play/a0l0/index.m3u8
 
 #EXTINF:-1 tvg-id="WappTV" tvg-logo="https://i.postimg.cc/T1KGhjZK/WappTV.jpg" group-title="Generalistas" tvg-name="WappTV",WappTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
 
 #EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
-http://190.102.139.241:8900/play/a0n9/index.m3u8
+http://45.177.53.7:8000/play/a0iq/index.m3u8
 
 #EXTINF:-1 tvg-id="Cocina TV" tvg-logo="https://i.postimg.cc/3rtkNB0v/CocinaTV.jpg" group-title="Novelas" tvg-name="Cocina TV",Cocina TV
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/JzvW2VG5/SYFY.jpg" group-title="Generalistas" tvg-name="SYFY",SYFY
-http://190.102.139.241:8900/play/a0kt/index.m3u8
+http://45.177.53.7:8000/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
-http://190.102.139.241:8900/play/a0wt/index.m3u8
+http://45.177.53.7:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://190.102.139.241:8900/play/a0ks/index.m3u8
+http://45.177.53.7:8000/play/a0k9/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -1366,19 +1366,19 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 http://45.228.232.219:16000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.postimg.cc/y8b3JZy1/HGTV.jpg" group-title="Generalistas" tvg-name="HGTV",HGTV
-http://190.102.139.241:8900/play/a0z7/index.m3u8
+http://45.177.53.7:8000/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-id="I.Sat" tvg-logo="https://i.postimg.cc/nr1b5qhq/I-Sat.png" group-title="Generalistas" tvg-name="I.Sat",I.Sat
 http://190.102.139.241:8900/play/a0ke/index.m3u8
 
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
-http://190.102.139.241:8900/play/a0zn/index.m3u8
+http://45.177.53.7:8000/play/a0jr/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="Cine Mexicano",Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
-http://190.102.139.241:8900/play/a0o7/index.m3u8
+http://45.177.53.7:8000/play/a0j8/index.m3u8
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://i.postimg.cc/VvW25J6Y/DREAMWORKS.png" group-title="Películas" tvg-name="DREAMWORKS",DREAMWORKS
 http://187.102.208.108:50001/play/a03x/index.m3u8
@@ -1387,7 +1387,7 @@ http://187.102.208.108:50001/play/a03x/index.m3u8
 http://190.102.139.241:8900/play/a10d/index.m3u8
 
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
-http://190.102.139.241:8900/play/a0om/index.m3u8
+http://45.177.53.7:8000/play/a0k0/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
 http://138.59.177.34:8000/play/a036/index.m3u8
