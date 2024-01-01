@@ -28,7 +28,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/man
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="TV España",Torolé TV
-http://257638747951539876.ot0711.xyz:80/play/vi428027/hdFucGwknR/539876.ts
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="TV España",Mundotoro
 http://257638747951441850.ot0711.xyz:80/play/vi428027/hdFucGwknR/441850.ts
@@ -40,7 +40,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:29_HD.smil/man
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TV España",FDF
-http://257638747951321249.ot0711.xyz:80/play/vi428027/hdFucGwknR/321249.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="LQSA 24h" tvg-logo="https://i.postimg.cc/LsCqsbdr/LQSA24h.jpg" group-title="Comedia" tvg-name="LQSA 24h",LQSA 24h
 https://cdn7.lqsa.es/hls/1/stream.m3u8
