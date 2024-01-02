@@ -172,7 +172,7 @@ https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
-http://191.97.60.193:10000/play/a047/index.m3u8
+https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
 http://191.97.60.193:10000/play/a03g/index.m3u8
