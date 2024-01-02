@@ -898,10 +898,10 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
-http://190.102.139.241:8900/play/a0o6/index.m3u8
+http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://499816947258321105.ot0711.xyz:80/play/vi428027/hdFucGwknR/321105.ts
+http://138.59.177.34:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-logo="https://i.postimg.cc/hGhvCzbX/Antena-3-Internacional.png" group-title="Generalistas"" tvg-name="Antena 3 Internacional",Antena 3 Internacional
 http://181.78.22.70:8000/play/a05q/index.m3u8
