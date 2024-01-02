@@ -432,9 +432,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVALDI TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500001LY_20221012T021027SQUARE.png_20221012021028.png" group-title="Musicales" tvg-name="VIVALDI TV",VIVALDI TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Agro TV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Generalistas" tvg-name="Agro TV",Agro TV
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-
 #EXTINF:-1 tvg-id="SURAM TV" tvg-logo="https://i.postimg.cc/Y2sqgXxJ/SURAMTV.jpg" group-title="Generalistas" tvg-name="SURAM TV",SURAM TV
 http://191.97.60.193:10000/play/a04b/index.m3u8
 
@@ -483,9 +480,6 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 #EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/qvx7t2MY/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
 http://191.97.60.193:10000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroNet" tvg-logo="https://i.postimg.cc/Y0PWsYm8/AstroNet.jpg" group-title="Generalistas" tvg-name="AstroNet",AstroNet
-https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Generalistas" tvg-name="Canal 2",Canal 2
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
@@ -505,7 +499,7 @@ http://190.102.139.241:8900/play/a0zq/index.m3u8
 http://190.149.66.90:4000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="Globovisión" tvg-logo="https://i.postimg.cc/Px5NnyYh/Globovisi-n.jpg" group-title="Películas" tvg-name="Globovisión",Globovisión
-http://190.102.139.241:8900/play/a0yz/index.m3u8
+http://38.41.8.1:8000/play/a03u
 
 #EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
 http://38.41.8.1:8000/play/a0a0
@@ -517,7 +511,7 @@ http://45.177.53.7:8000/play/a0fl/index.m3u8
 http://45.177.53.7:8000/play/a0jp/index.m3u8
 
 #EXTINF:-1 tvg-id="ChileVisión" tvg-logo="https://i.postimg.cc/g0yTRqxC/Chile-Visi-n.png" group-title="Generalistas" tvg-name="ChileVisión",ChileVisión
-http://190.102.139.241:8900/play/a0mu/index.m3u8
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 
 #EXTINF:-1 tvg-id="ViaX" tvg-logo="https://i.postimg.cc/HkRHVZg3/V-a-X-2023.jpg" group-title="Generalistas" tvg-name="ViaX",ViaX
 http://190.102.139.241:8900/play/a0wu/index.m3u8
@@ -571,7 +565,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://190.102.139.241:8900/play/a0vn/index.m3u8
+http://45.5.117.182:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://45.177.53.7:8000/play/a0ih/index.m3u8
@@ -595,7 +589,7 @@ http://45.177.53.7:8000/play/a0jh/index.m3u8
 http://190.149.66.90:4000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="Novelas" tvg-name="Azteca 7",Azteca 7
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/241992
+http://181.78.105.146:2000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="AZ CLIP" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-title="Novelas" tvg-name="AZ CLIP",AZ CLIP
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
