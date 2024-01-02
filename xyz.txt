@@ -24,10 +24,7 @@ https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmk
 
 // Fuentes
 http://www.onlinetv365.xyz:8080/get.php?username=57tyjhg65ljouni7yu711&password=thjhg3468ihj&type=m3u
-http://hidra.live:80/get.php?username=jihmrggx&password=8Bkkl8sD20&type=m3u
 http://78.159.119.122:2082/get.php?username=xplus-2-BHm5F4g9H0&password=Gp0Ano4ZxV&type=m3u
-
-http://sibfungold.info:8080/get.php?username=pacha-man1&password=e0VaVPskUa&type=m3u
 http://89.187.167.92:80/playlist.m3u?type=m3u&deviceUser=alex1234&devicePass=alex1234&type=m3u
 http://sport.xphost19.xyz:2082/get.php?username=Jvyct679999967DDDF4477&password=Xpluxxx3333ggghy5t57&type=m3u
 
