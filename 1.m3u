@@ -436,7 +436,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SURAM TV" tvg-logo="https://i.postimg.cc/Y2sqgXxJ/SURAMTV.jpg" group-title="Generalistas" tvg-name="SURAM TV",SURAM TV
-http://191.97.60.193:10000/play/a04b/index.m3u8
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Generalistas" tvg-name="Agrotendencia TV",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
