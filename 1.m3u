@@ -457,7 +457,7 @@ https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
 http://191.97.60.193:10000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="SOPHIA TV" tvg-logo="https://i.postimg.cc/Gm2T8yDN/SOPHIA-TV.jpg" group-title="Generalistas" tvg-name="SOPHIA TV",SOPHIA TV
-http://191.97.60.193:10000/play/a00i/index.m3u8
+https://ott2.hdlatam.tv/live_abr/Stream53/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VATICAN MEDIA AMERICA" tvg-logo="https://i.postimg.cc/FFLYQpxT/VATICAN-MEDIA.jpg" group-title="Generalistas" tvg-name="VATICAN MEDIA AMERICA",VATICAN MEDIA AMERICA
 http://191.97.60.193:10000/play/a006/index.m3u8
