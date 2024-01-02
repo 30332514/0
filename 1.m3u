@@ -679,7 +679,7 @@ http://190.102.139.241:8900/play/a0xp/index.m3u8
 http://190.102.139.241:8900/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://190.102.139.241:8900/play/a0n0/index.m3u8
+http://45.5.117.182:8000/play/a0jk/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://45.177.53.7:8000/play/a0hy/index.m3u8
@@ -718,7 +718,7 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 http://190.149.66.90:4000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.postimg.cc/nVTkLc47/r.jpg" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
-http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/338657
+https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="Deportivos" tvg-name="FIFA+",FIFA+
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
@@ -754,7 +754,7 @@ http://191.97.60.193:10000/play/a04d/index.m3u8
 http://191.97.60.193:10000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://i.postimg.cc/Dfb4vCRy/Golf-Channel.jpg" group-title="Deportivos" tvg-name="Golf Channel",Golf Channel
-http://190.102.139.241:8900/play/a12a/index.m3u8
+http://45.5.117.182:8000/play/a0fv/index.m3u8
 
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
