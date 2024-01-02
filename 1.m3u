@@ -109,10 +109,10 @@ http://191.97.60.193:10000/play/a04w/index.m3u8
 http://191.97.60.193:10000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
-http://191.97.60.193:10000/play/a03l/index.m3u8
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
-http://191.97.60.193:10000/play/a03m/index.m3u8
+https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
