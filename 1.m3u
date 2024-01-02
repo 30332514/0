@@ -114,6 +114,9 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 
+#EXTINF:-1 tvg-id="Onda Digital TV2" tvg-logo="https://i.postimg.cc/vB9LyfYJ/ondadigitaltv2.png" group-title="Generalistas" tvg-name="Onda Digital TV2",Onda Digital TV2
+https://v4.tustreaming.cl/odtv2/index.m3u8
+
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 
