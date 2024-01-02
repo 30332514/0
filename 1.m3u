@@ -463,10 +463,10 @@ https://ott2.hdlatam.tv/live_abr/Stream53/playlist.m3u8
 http://191.97.60.193:10000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="https://i.postimg.cc/NFSS6TM4/ALIENTO-VISION.png" group-title="Generalistas" tvg-name="ALIENTO VISION",ALIENTO VISION
-http://191.97.60.193:10000/play/a01r/index.m3u8
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIFE" tvg-logo="https://i.postimg.cc/PqwB76fQ/UNIFE.png" group-title="Religiosos" tvg-name="UNIFE",UNIFE
-http://191.97.60.193:10000/play/a00o/index.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
@@ -535,7 +535,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://161.132.108.75:50001/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/242004
+http://181.78.105.146:2000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
 http://72.76.116.158:8000/play/a08b/index.m3u8
