@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RCN Nuestra Tele" tvg-logo="https://i.postimg.cc/KYSx5NJQ/RCN-Nuestra-Tele.jpg" group-title="Generalistas" tvg-name="RCN Nuestra Tele",RCN Nuestra Tele
+http://190.102.139.241:8900/play/a0zq/index.m3u8
+
 #EXTINF:-1 tvg-id="Bethel" tvg-logo="https://i.postimg.cc/y8TBqH26/Bethel.png" group-title="Religiosos" tvg-name="Bethel",Bethel
 https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8
 
