@@ -670,10 +670,10 @@ http://190.61.43.117:45000/play/a024
 http://190.108.85.20:9999/play/a011
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
-http://190.108.85.20:9999/play/a00n
+http://209.45.81.84:8000/play/a03e
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://45.5.117.182:8000/play/a0jk/index.m3u8
+http://209.45.81.84:8000/play/a01c
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://45.177.53.7:8000/play/a0hy/index.m3u8
