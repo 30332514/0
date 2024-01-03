@@ -25,6 +25,19 @@ https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmk
 // Fuentes
 http://190.119.178.44:8000/play/a00n/index.m3u8
 http://177.53.153.20:8001/playlist.m3u8
+http://200.59.188.3:8000/playlist.m3u8
+http://200.116.199.180:8000/playlist.m3u8
+http://204.199.113.33:15017/playlist.m3u8
+http://8.242.126.186:7777/playlist.m3u8
+http://181.205.130.194:4000/playlist.m3u8
+http://190.61.57.2:1010/playlist.m3u8
+http://190.61.43.118:45000/playlist.m3u8
+http://190.121.153.89:8000/playlist.m3u8
+http://186.148.163.18:8000/playlist.m3u8
+http://190.90.251.194:8921/playlist.m3u8
+http://190.90.251.194:8922/playlist.m3u8
+
+
 http://www.onlinetv365.xyz:8080/get.php?username=57tyjhg65ljouni7yu711&password=thjhg3468ihj&type=m3u
 http://78.159.119.122:2082/get.php?username=xplus-2-BHm5F4g9H0&password=Gp0Ano4ZxV&type=m3u
 http://89.187.167.92:80/playlist.m3u?type=m3u&deviceUser=alex1234&devicePass=alex1234&type=m3u
