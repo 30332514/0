@@ -23,7 +23,7 @@ Delete: http://iptvh.it/oErzulvt9m
 https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=es
 
 // Fuentes
-http://190.119.178.44:8000/play/a00n/index.m3u8
+http://190.119.178.44:8000/playlist.m3u8
 http://177.53.153.20:8001/playlist.m3u8
 http://200.59.188.3:8000/playlist.m3u8
 http://200.116.199.180:8000/playlist.m3u8
