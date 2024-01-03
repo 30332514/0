@@ -1468,7 +1468,7 @@ http://45.177.53.7:8000/play/a0ew/index.m3u8
 http://45.177.53.7:8000/play/a0ky/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://i.postimg.cc/ncjfXVL4/HBO-MUNDI.jpg" group-title="Películas" tvg-name="HBO MUNDI",HBO MUNDI
-http://190.102.139.241:8900/play/a0zo/index.m3u8
+http://45.71.252.67:8000/play/a0l7/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/mg3LrZdd/HBO-SIGNATURE.png" group-title="Películas" tvg-name="HBO SIGNATURE",HBO SIGNATURE
 http://45.177.53.7:8000/play/a0ey/index.m3u8
