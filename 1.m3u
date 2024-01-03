@@ -1243,7 +1243,7 @@ http://45.5.117.182:8000/play/a0ia/index.m3u8
 http://138.59.177.34:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
-http://190.102.139.241:8900/play/a0z8/index.m3u8
+http://45.71.252.67:8000/play/a0ks/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
 http://45.5.117.182:8000/play/a0jv/index.m3u8
@@ -1252,7 +1252,7 @@ http://45.5.117.182:8000/play/a0jv/index.m3u8
 http://45.5.117.182:8000/play/a0iw/index.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.postimg.cc/0QHq1zrr/Love-Nature.jpg" group-title="Generalistas" tvg-name="Love Nature",Love Nature
-http://190.102.139.241:8900/play/a0x5/index.m3u8
+http://45.71.252.67:8000/play/a0hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png" group-title="Drama" tvg-name="Baywatch – Los Vigilantes de la Playa",Baywatch – Los Vigilantes de la Playa
 https://d1fbbm0iugalh3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-61f2xc1h8wyl5/master.m3u8
