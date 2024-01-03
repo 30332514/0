@@ -29,7 +29,7 @@ http://89.187.167.92:80/playlist.m3u?type=m3u&deviceUser=alex1234&devicePass=ale
 http://sport.xphost19.xyz:2082/get.php?username=Jvyct679999967DDDF4477&password=Xpluxxx3333ggghy5t57&type=m3u
 
 
-
+https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST
 https://www.distro.tv/
 https://github.com/bodegaacuenta/Moyobambaastral             -   Congreso TV, QUVO, DREAMWORKS
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
