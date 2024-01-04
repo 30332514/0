@@ -254,7 +254,7 @@ https://inliveserver.com:1936/19026/19026/playlist.m3u8
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
 #EXTINF:-1 tvg-id="QUVO Televisión" tvg-logo="https://i.postimg.cc/T2yz8nGM/QUVO-Televisi-n.jpg" group-title="Generalistas" tvg-name="QUVO Televisión",QUVO Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1338057635&_cdn_timestamp=1698662325&_cdn_token=7ecdf15c62e1fc90ce3daa40e59a3cae5a332662
+http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/312824
 
 #EXTINF:-1 tvg-id="Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="Deportivos" tvg-name="Todo Deportes TV",Todo Deportes TV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMyAxMjoxNjowMSBQTSZoYXNoX3ZhbHVlPUJ2SWNvajFhZTRnMjBwdEczQzl5cWc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
