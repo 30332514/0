@@ -211,7 +211,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1439530731&_cdn_timestamp=1699898651&_cdn_token=fe3b659a9168022a971aa676a5b0694b4f291767
+http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/312821
 
 #EXTINF:-1 tvg-id="Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="Musicales" tvg-name="Millenium TV",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
