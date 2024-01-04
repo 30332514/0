@@ -360,7 +360,7 @@ http://191.97.60.193:10000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://pbs.twimg.com/media/GBfFnzsWIAANRaR?format=png&name=900x900" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
 http://191.97.60.193:10000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://pbs.twimg.com/media/GBfFnzsWIAANRaR?format=png&name=900x900" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
+#EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/141fg9Xr/MIMUSICA-POPULAR.png" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
 http://200.116.199.180:8000/play/a06r
 
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
