@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_157.png" group-title="TV España",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198928
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" group-title="TV España",La 2
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198930
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_10.png" group-title="TV España",Antena 3
-http://138.59.177.34:8000/play/a00s/index.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198934
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV España",A3 Series
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
