@@ -465,9 +465,6 @@ http://209.45.81.84:8000/play/a03a
 #EXTINF:-1 tvg-id="SOPHIA TV" tvg-logo="https://i.postimg.cc/Gm2T8yDN/SOPHIA-TV.jpg" group-title="Generalistas" tvg-name="SOPHIA TV",SOPHIA TV
 https://ott2.hdlatam.tv/live_abr/Stream53/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VATICAN MEDIA AMERICA" tvg-logo="https://i.postimg.cc/FFLYQpxT/VATICAN-MEDIA.jpg" group-title="Generalistas" tvg-name="VATICAN MEDIA AMERICA",VATICAN MEDIA AMERICA
-http://191.97.60.193:10000/play/a006/index.m3u8
-
 #EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="https://i.postimg.cc/NFSS6TM4/ALIENTO-VISION.png" group-title="Generalistas" tvg-name="ALIENTO VISION",ALIENTO VISION
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
 
@@ -539,9 +536,6 @@ http://161.132.108.75:50001/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
-http://72.76.116.158:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Novelas" tvg-name="glitz*",glitz*
 http://190.95.220.212:8000/play/a01f/index.m3u8
@@ -772,7 +766,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
-http://191.97.60.193:10000/play/a003/index.m3u8
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -833,9 +827,6 @@ http://191.97.60.193:10000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="KIDS TV" tvg-logo="https://i.postimg.cc/Zn9ZRmhs/Kids-TV.png" group-title="Infantiles" tvg-name="KIDS TV",KIDS TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
-
-#EXTINF:-1 tvg-id="Retro Infantil" tvg-logo="https://png.pngtree.com/png-clipart/20220119/ourlarge/pngtree-childhood-retro-tv-png-image_4324114.png" group-title="Infantiles" tvg-name="Retro Infantil",Retro Infantil
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Mágico" tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="Infantiles" tvg-name="Retro Mágico",Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
