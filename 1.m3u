@@ -883,7 +883,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://138.59.177.34:8000/play/a00s/index.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198934
 
 #EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-logo="https://i.postimg.cc/hGhvCzbX/Antena-3-Internacional.png" group-title="Generalistas"" tvg-name="Antena 3 Internacional",Antena 3 Internacional
 http://181.78.22.70:8000/play/a05q/index.m3u8
@@ -913,7 +913,7 @@ https://new-international-23.secure2.footprint.net/index.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198937
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://pro.boxdigital.org:8080/UserDoce/User2021/198940
