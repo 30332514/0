@@ -925,10 +925,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manife
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://vipdegre.top:8080/VIP0125168946777808/71689467778/647
+http://pro.boxdigital.org:8080/UserDoce/User2021/198940
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198943
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
@@ -1030,7 +1030,7 @@ https://cdn7.lqsa.es/hls/1/stream.m3u8
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="La Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Comedia" tvg-name="La Resistencia",La Resistencia
-http://xloxttv.info:8080/zgavR7zhCjes/fxwTvAJBv2NJ/173191
+http://pro.boxdigital.org:8080/UserDoce/User2021/198966
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
 http://45.5.117.182:8000/play/a0id/index.m3u8
