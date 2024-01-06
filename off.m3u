@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Imas TV" tvg-logo="https://i.postimg.cc/HnwTsHsM/imastv.jpg" group-title="Generalistas" tvg-name="Imas TV",Imas TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
