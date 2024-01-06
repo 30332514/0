@@ -898,7 +898,7 @@ http://pro.boxdigital.org:8080/UserDoce/User2021/198934
 http://181.78.22.70:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://190.119.178.44:8000/play/a018/index.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/199079
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
 http://45.177.53.7:8000/play/a0fa/index.m3u8
@@ -934,7 +934,7 @@ http://pro.boxdigital.org:8080/UserDoce/User2021/198943
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198976
 
 #EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="Generalistas" tvg-name="Canal Sur",Canal Sur
 http://pro.boxdigital.org:8080/UserDoce/User2021/198923
@@ -951,9 +951,6 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 #EXTINF:-1 tvg-id="Gol Play" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="Gol Play",Gol Play
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Iberalia GO" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia GO",Iberalia GO
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
 http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
 
@@ -964,7 +961,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manif
 http://pro.boxdigital.org:8080/UserDoce/User2021/199051
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198945
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
@@ -982,13 +979,13 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/228404
 
 #EXTINF:-1 tvg-id="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230712T021352SQUARE.png_20230712021353.png" group-title="Motor" tvg-name="Top Gear en Español",Top Gear en Español
 https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8
 
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+http://pro.boxdigital.org:8080/UserDoce/User2021/198972
 
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Channel",Paramount Channel
 http://pro.boxdigital.org:8080/UserDoce/User2021/182120
