@@ -1,46 +1,46 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_157.png" group-title="TV España",La 1
-http://pro.boxdigital.org:8080/UserDoce/User2021/198928
+http://355065847185321276.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321276.ts
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" group-title="TV España",La 2
-http://pro.boxdigital.org:8080/UserDoce/User2021/198930
+http://355065847185321279.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321279.ts
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_10.png" group-title="TV España",Antena 3
-http://pro.boxdigital.org:8080/UserDoce/User2021/198934
+http://355065847185321105.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321105.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV España",A3 Series
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TV España",24h
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:12_HD.smil/manifest.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_65.png" group-title="TV España",Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+http://355065847185321196.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321196.ts
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_161.png" group-title="TV España",Telecinco
-http://iptvtree.net:8080/4kaks/9ccc588519/1133
+http://355065847185321429.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321429.ts
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_100.png" group-title="TV España",La sexta
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+http://355065847185321289.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321289.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nLx8TJf/telemadrid-logo.png" group-title="TV España",Telemadrid
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
+https://telemadrid-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hyJxtMw/logo-Torole.png" group-title="TV España",Torolé TV
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
+http://970158747226539876.ofd0107.xyz:80/play/vi428027/hdFucGwknR/539876.ts
 
 #EXTINF:-1 tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="TV España",Mundotoro
-http://257638747951441850.ot0711.xyz:80/play/vi428027/hdFucGwknR/441850.ts
+http://355065847185558671.ofd0107.xyz:80/play/vi428027/hdFucGwknR/558671.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="TV España",Canal Sur
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:29_HD.smil/manifest.m3u8
+http://970158747226272448.ofd0107.xyz:80/play/vi428027/hdFucGwknR/272448.ts
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="TV España",Canal Extremadura
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
+https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TV España",FDF
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
+http://355065847185321249.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321249.ts
 
 #EXTINF:-1 tvg-id="LQSA 24h" tvg-logo="https://i.postimg.cc/LsCqsbdr/LQSA24h.jpg" group-title="Comedia" tvg-name="LQSA 24h",LQSA 24h
 https://cdn7.lqsa.es/hls/1/stream.m3u8
