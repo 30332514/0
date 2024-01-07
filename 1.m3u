@@ -904,7 +904,7 @@ http://pro.boxdigital.org:8080/UserDoce/User2021/199079
 http://45.177.53.7:8000/play/a0fa/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
-http://177.234.230.226:8010/play/a041/index.m3u8
+http://45.173.201.50:4000/play/a01k
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
@@ -937,7 +937,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manif
 http://pro.boxdigital.org:8080/UserDoce/User2021/198976
 
 #EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="Generalistas" tvg-name="Canal Sur",Canal Sur
-http://pro.boxdigital.org:8080/UserDoce/User2021/198923
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:29_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
