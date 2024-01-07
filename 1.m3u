@@ -67,10 +67,10 @@ https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 https://media1.ultrik.com/live/torole1.m3u8
 
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ=w240-h480-rw" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
+http://970158747226539876.ofd0107.xyz:80/play/vi428027/hdFucGwknR/539876.ts
 
 #EXTINF:-1 tvg-id="Mundotoro TV" tvg-logo="https://i.postimg.cc/3xHh12sv/Mundotoro-TV.png" group-title="Tauromaquia" tvg-name="Mundotoro TV",Mundotoro TV
-http://pro.boxdigital.org:8080/UserDoce/User2021/181932
+http://970158747226441850.ofd0107.xyz:80/play/vi428027/hdFucGwknR/441850.ts
 
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
 http://pro.boxdigital.org:8080/UserDoce/User2021/181756
@@ -937,7 +937,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manif
 http://pro.boxdigital.org:8080/UserDoce/User2021/198976
 
 #EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="Generalistas" tvg-name="Canal Sur",Canal Sur
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:29_HD.smil/manifest.m3u8
+http://970158747226272448.ofd0107.xyz:80/play/vi428027/hdFucGwknR/272448.ts
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
