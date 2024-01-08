@@ -39,6 +39,7 @@ http://190.90.251.194:8921/playlist.m3u8
 http://190.90.251.194:8922/playlist.m3u8
 
 
+http://355065847185558671.ofd0107.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
 http://970158747226539876.ofd0107.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
 http://742753447110561137.of3805.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
 http://pro.boxdigital.org:8080/get.php?username=UserDoce&password=User2021&type=m3u_plus
