@@ -39,6 +39,10 @@ http://190.90.251.194:8921/playlist.m3u8
 http://190.90.251.194:8922/playlist.m3u8
 
 
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/countries/pe.m3u
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+
 http://355065847185558671.ofd0107.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
 http://970158747226539876.ofd0107.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
 http://742753447110561137.of3805.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
