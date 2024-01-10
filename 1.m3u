@@ -891,9 +891,6 @@ http://45.5.117.182:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
 http://355065847185321105.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321105.ts
 
-#EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-logo="https://i.postimg.cc/hGhvCzbX/Antena-3-Internacional.png" group-title="Generalistas"" tvg-name="Antena 3 Internacional",Antena 3 Internacional
-http://181.78.22.70:8000/play/a05q/index.m3u8
-
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
 http://355065847185321086.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321086.ts
 
