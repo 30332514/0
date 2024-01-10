@@ -1351,7 +1351,7 @@ http://45.228.232.219:16000/play/a0la/index.m3u8
 http://45.177.53.7:8000/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-id="I.Sat" tvg-logo="https://i.postimg.cc/nr1b5qhq/I-Sat.png" group-title="Generalistas" tvg-name="I.Sat",I.Sat
-http://45.5.117.182:8000/play/a0j4/index.m3u8
+http://200.59.188.3:8000/play/a05b
 
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
 http://45.177.53.7:8000/play/a0jr/index.m3u8
