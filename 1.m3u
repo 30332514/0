@@ -916,13 +916,13 @@ https://new-international-23.secure2.footprint.net/index.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-http://355065847185321196.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321196.ts
+http://pro.boxdigital.org:8080/UserDoce/User2021/198937
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://355065847185321429.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321429.ts
+http://pro.boxdigital.org:8080/UserDoce/User2021/198940
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-http://355065847185321289.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321289.ts
+http://pro.boxdigital.org:8080/UserDoce/User2021/198943
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
 http://355065847185321249.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321249.ts
