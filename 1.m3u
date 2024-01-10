@@ -730,7 +730,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://i.ibb.co/KqswCDN/esport3-logo.png" group-title="Deportivos" tvg-name="Esport 3",Esport 3
-http://513879147801538755.ofip231209.xyz:80/play/vi428027/hdFucGwknR/538755.ts
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://i.postimg.cc/vZJHjQN2/ALL-SPORTS.jpg" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -880,10 +880,10 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
-http://355065847185321276.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321276.ts
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.postimg.cc/7LF42d7W/la2.png" group-title="Generalistas"" tvg-name="La 2",La 2
-http://355065847185321279.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321279.ts
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
 http://45.5.117.182:8000/play/a0fu/index.m3u8
@@ -928,13 +928,13 @@ http://355065847185321289.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321289.ts
 http://355065847185321249.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321249.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-http://355065847185568192.ofd0107.xyz:80/play/vi428027/hdFucGwknR/568192.ts
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="Generalistas" tvg-name="Canal Sur",Canal Sur
-http://970158747226272448.ofd0107.xyz:80/play/vi428027/hdFucGwknR/272448.ts
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
