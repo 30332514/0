@@ -633,6 +633,9 @@ http://209.45.81.84:8000/play/a00a
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
 http://209.45.81.84:8000/play/a002
 
+#EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.postimg.cc/Y0RLvC5w/LIGA-1.png" group-title="Deportivos" tvg-name="LIGA 1",LIGA 1
+http://pro.boxdigital.org:8080/UserDoce/User2021/162675
+
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
 http://pro.boxdigital.org:8080/UserDoce/User2021/162676
 
