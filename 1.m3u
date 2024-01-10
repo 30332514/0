@@ -40,7 +40,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 http://pro.boxdigital.org:8080/UserDoce/User2021/181708
 
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
-http://pro.boxdigital.org:8080/UserDoce/User2021/245762
+http://pro.boxdigital.org:8080/UserDoce/User2021/181721
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
