@@ -889,10 +889,10 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://355065847185321105.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321105.ts
+http://pro.boxdigital.org:8080/UserDoce/User2021/198934
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://355065847185321086.ofd0107.xyz:80/play/vi428027/hdFucGwknR/321086.ts
+http://pro.boxdigital.org:8080/UserDoce/User2021/199079
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
 http://45.177.53.7:8000/play/a0fa/index.m3u8
