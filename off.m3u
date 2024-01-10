@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
+https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
+
+#EXTINF:-1 tvg-id="Piura TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="Generalistas" tvg-name="Piura TV",Piura TV
+http://191.97.60.193:10000/play/a04a/index.m3u8
+
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
