@@ -252,6 +252,9 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV MÚSICA" tvg-logo="https://i.postimg.cc/CK7B2K5Z/USMPTV-M-SICA.png" group-title="Musicales" tvg-name="USMPTV MÚSICA",USMPTV MÚSICA
 http://191.97.60.193:10000/play/a03e/index.m3u8
 
+#EXTINF:-1 tvg-id="Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="Musicales" tvg-name="Best Cable Music",Best Cable Music
+https://tv.godo.net.pe/bestcablemusic/index.m3u8
+
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/tracks-v1/index.fmp4.m3u8
 
