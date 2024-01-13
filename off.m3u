@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="Generalistas" tvg-name="RTV Total",RTV Total
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
+https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Turbo Mix TV" tvg-logo="https://i.postimg.cc/Y9Byd6Zx/turbomixtv.jpg" group-title="Musicales" tvg-name="Turbo Mix TV",Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="Conecta TV" tvg-logo="https://i.postimg.cc/7Z5fR5xQ/Conecta-TV.jpg" group-title="Musicales" tvg-javascript:void(0)name="Conecta TV",Conecta TV
+https://stream8.mexiserver.com/conectatv/conectatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="Generalistas" tvg-name="Pucallpa Televisión",Pucallpa Televisión
 https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
 
