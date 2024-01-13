@@ -28,7 +28,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
 http://948001947688453222.ofd112.xyz:80/play/vi428027/hdFucGwknR/453222.ts
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+http://948001947688321196.ofd112.xyz:80/play/vi428027/hdFucGwknR/321196.ts
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://948001947688321429.ofd112.xyz:80/play/vi428027/hdFucGwknR/321429.ts
@@ -37,19 +37,19 @@ http://948001947688321429.ofd112.xyz:80/play/vi428027/hdFucGwknR/321429.ts
 http://948001947688321288.ofd112.xyz:80/play/vi428027/hdFucGwknR/321288.ts
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
+http://948001947688321249.ofd112.xyz:80/play/vi428027/hdFucGwknR/321249.ts
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
+http://948001947688554775.ofd112.xyz:80/play/vi428027/hdFucGwknR/554775.ts
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
 http://948001947688321138.ofd112.xyz:80/play/vi428027/hdFucGwknR/321138.ts
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+http://948001947688321374.ofd112.xyz:80/play/vi428027/hdFucGwknR/321374.ts
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
+http://948001947688321383.ofd112.xyz:80/play/vi428027/hdFucGwknR/321383.ts
 
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
