@@ -204,15 +204,6 @@ https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Generalistas" tvg-name="Super Canal",Super Canal
-https://live.obslivestream.com/supercanal/index.m3u8
-
-#EXTINF:-1 tvg-id="RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="Generalistas" tvg-name="RTV Total",RTV Total
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
-#EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
-https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="Generalistas" tvg-name="BNB Digital TV",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
@@ -263,9 +254,6 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Turbo Mix TV" tvg-logo="https://i.postimg.cc/Y9Byd6Zx/turbomixtv.jpg" group-title="Musicales" tvg-name="Turbo Mix TV",Turbo Mix TV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-id="Radio San Borja TV" tvg-logo="https://i.postimg.cc/d1D3J1xx/radiosanborja.png" group-title="Musicales" tvg-name="Radio San Borja TV",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
@@ -374,9 +362,6 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png" group-title="Musicales" tvg-name="Bandamax",Bandamax
 http://161.132.108.75:50001/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-id="Conecta TV" tvg-logo="https://i.postimg.cc/7Z5fR5xQ/Conecta-TV.jpg" group-title="Musicales" tvg-javascript:void(0)name="Conecta TV",Conecta TV
-https://stream8.mexiserver.com/conectatv/conectatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="URBANO TV" tvg-logo="https://i.postimg.cc/MZM5dZRj/URBANOTV.png" group-title="Musicales" tvg-name="URBANO TV",URBANO TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
