@@ -55,13 +55,13 @@ http://948001947688321383.ofd112.xyz:80/play/vi428027/hdFucGwknR/321383.ts
 http://948001947688687032.ofd112.xyz:80/play/vi428027/hdFucGwknR/687032.ts
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
+http://948001947688321238.ofd112.xyz:80/play/vi428027/hdFucGwknR/321238.ts
 
 #EXTINF:-1 tvg-id="BeMad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="Generalistas" tvg-name="BeMad",BeMad
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Generalistas" tvg-name="DMAX",DMAX
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+http://948001947688321225.ofd112.xyz:80/play/vi428027/hdFucGwknR/321225.ts
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
 http://948001947688321224.ofd112.xyz:80/play/vi428027/hdFucGwknR/321224.ts
@@ -131,6 +131,4 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-
-
 
