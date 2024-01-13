@@ -72,6 +72,9 @@ http://948001947688321442.ofd112.xyz:80/play/vi428027/hdFucGwknR/321440.ts
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Channel",Paramount Channel
 http://948001947688321442.ofd112.xyz:80/play/vi428027/hdFucGwknR/749434.ts
 
+#EXTINF:-1 tvg-id="CANAL DARK " tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="Generalistas" tvg-name="CANAL DARK ",CANAL DARK 
+http://948001947688321152.ofd112.xyz:80/play/vi428027/hdFucGwknR/321152.ts
+
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
 http://948001947688638212.ofd112.xyz:80/play/vi428027/hdFucGwknR/638212.ts
 
