@@ -889,7 +889,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
-https://telemadrid-23.secure2.footprint.net/master.m3u8
+http://948001947688453222.ofd112.xyz:80/play/vi428027/hdFucGwknR/453222.ts
 
 #EXTINF:-1 tvg-id="TeleMadrid Internacional" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid Internacional",TeleMadrid Internacional
 https://new-international-23.secure2.footprint.net/index.m3u8
