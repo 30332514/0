@@ -820,7 +820,7 @@ http://190.110.109.104:52321/play/a00w/index.m3u8
 http://191.97.60.193:10000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
-http://191.97.60.193:10000/play/a02r/index.m3u8
+https://transmision.funboxlatino.com:1936/BITEL001/BITELhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
 http://190.61.43.117:45000/play/a03s
