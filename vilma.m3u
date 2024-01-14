@@ -22,13 +22,13 @@ http://45.173.201.50:4000/play/a01k
 http://948001947688321077.ofd112.xyz:80/play/vi428027/hdFucGwknR/321077.ts
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
-http://948001947688538769.ofd112.xyz:80/play/vi428027/hdFucGwknR/538769.ts
+https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
 http://948001947688453222.ofd112.xyz:80/play/vi428027/hdFucGwknR/453222.ts
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-http://948001947688321196.ofd112.xyz:80/play/vi428027/hdFucGwknR/321196.ts
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://948001947688321429.ofd112.xyz:80/play/vi428027/hdFucGwknR/321429.ts
