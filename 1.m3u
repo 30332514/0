@@ -1006,7 +1006,7 @@ http://161.132.108.76:50001/play/a04h/index.m3u8
 http://161.132.243.192:50001/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW Español" tvg-logo="https://i.postimg.cc/vBYv5k2v/dwespa-ol.png" group-title="Informativos" tvg-name="DW Español",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
