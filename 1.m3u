@@ -117,6 +117,9 @@ https://v4.tustreaming.cl/odtv2/index.m3u8
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SEÑAL PERÚ" tvg-logo="https://i.postimg.cc/t7Qhb01M/SE-AL-PER.jpg" group-title="Generalistas" tvg-name="SEÑAL PERÚ",SEÑAL PERÚ
+https://livestream.perucast.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
 
