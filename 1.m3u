@@ -210,8 +210,14 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Generalistas" tvg-name="Retro Plus TV",Retro Plus TV
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
-https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.postimg.cc/3Nwc3cfV/Memoriastv.jpg" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
+https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Memorias classic" tvg-logo="https://i.postimg.cc/zv30sRV1/Memoriasclassic.jpg" group-title="Musicales" tvg-name="Memorias classic",Memorias classic
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Memorias film" tvg-logo="https://i.postimg.cc/J0y56V2r/Memoriasfilm.jpg" group-title="Musicales" tvg-name="Memorias film",Memorias film
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
