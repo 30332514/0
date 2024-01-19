@@ -805,7 +805,7 @@ http://161.132.243.192:50001/play/a04j/index.m3u8
 http://45.177.53.7:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/750909.ts
+http://138.59.177.34:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
 http://191.97.60.193:10000/play/a02y/index.m3u8
@@ -868,10 +868,10 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://948001947688321105.ofd112.xyz:80/play/vi428027/hdFucGwknR/321105.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321105.ts
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://948001947688321086.ofd112.xyz:80/play/vi428027/hdFucGwknR/321086.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321086.ts
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
 http://45.177.53.7:8000/play/a0fa/index.m3u8
@@ -886,22 +886,22 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
-http://948001947688453222.ofd112.xyz:80/play/vi428027/hdFucGwknR/453222.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/453222.ts
 
 #EXTINF:-1 tvg-id="TeleMadrid Internacional" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid Internacional",TeleMadrid Internacional
 https://new-international-23.secure2.footprint.net/index.m3u8
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
-http://948001947688341250.ofd112.xyz:80/play/vi428027/hdFucGwknR/341250.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://948001947688321429.ofd112.xyz:80/play/vi428027/hdFucGwknR/321429.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-http://948001947688321288.ofd112.xyz:80/play/vi428027/hdFucGwknR/321288.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
@@ -931,7 +931,7 @@ http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
-http://948001947688321138.ofd112.xyz:80/play/vi428027/hdFucGwknR/321138.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
