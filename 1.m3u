@@ -517,7 +517,7 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
-http://948001947688756535.ofd112.xyz:80/play/vi428027/hdFucGwknR/756535.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/756535.ts
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
 http://161.132.108.75:50001/play/a02y/index.m3u8
