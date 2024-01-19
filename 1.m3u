@@ -808,7 +808,7 @@ http://161.132.243.192:50001/play/a04j/index.m3u8
 http://45.177.53.7:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
-http://45.5.117.182:8000/play/a0ga/index.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/750909.ts
 
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
 http://191.97.60.193:10000/play/a02y/index.m3u8
