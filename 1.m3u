@@ -273,9 +273,6 @@ https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Amordiscos TV" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="Musicales" tvg-name="Amordiscos TV",Amordiscos TV
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
-#EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
