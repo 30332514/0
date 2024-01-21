@@ -34,21 +34,18 @@ http://8.242.126.186:7777/playlist.m3u8    -  Perú
 
 http://200.116.199.180:8000/playlist.m3u8    -  Colombia
 http://204.199.113.33:15017/playlist.m3u8    -  Colombia
+http://181.205.130.194:4000/playlist.m3u8    -  Colombia
+http://190.61.43.118:45000/playlist.m3u8    -  Colombia
+http://190.121.153.89:8000/playlist.m3u8    -  Colombia
+http://186.148.163.18:8000/playlist.m3u8    -  Colombia
+http://190.90.251.194:8921/playlist.m3u8    -  Colombia
+http://190.90.251.194:8922/playlist.m3u8    -  Colombia
+http://190.61.57.2:1010/playlist.m3u8    -  Colombia
 
 http://38.41.8.1:8000/playlist.m3u8    -  Venezuela
 http://200.59.188.3:8000/playlist.m3u8    -  Venezuela
 
 http://167.250.222.35:16000/playlist.m3u8    -  Guatemala
-
-http://181.205.130.194:4000/playlist.m3u8
-http://190.61.43.118:45000/playlist.m3u8
-http://190.121.153.89:8000/playlist.m3u8
-http://186.148.163.18:8000/playlist.m3u8
-http://190.90.251.194:8921/playlist.m3u8
-http://190.90.251.194:8922/playlist.m3u8
-
-http://190.61.57.2:1010/playlist.m3u8
-
 
 https://iptv-org.github.io/iptv/index.m3u
 https://iptv-org.github.io/iptv/countries/pe.m3u
