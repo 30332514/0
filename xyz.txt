@@ -1,3 +1,4 @@
+// Verificador geolocalizacion
 https://www.elhacker.net/geolocalizacion.html
 
 // Verificador stream
