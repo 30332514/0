@@ -58,8 +58,6 @@ http://179.189.222.226:8000/playlist.m3u8    -  Colombia (Pasto)
 http://38.41.8.1:8000/playlist.m3u8    -  Venezuela (Caracas)
 http://200.59.188.3:8000/playlist.m3u8    -  Venezuela (Ciudad Ojeda)
 
-http://179.189.222.226:8000/playlist.m3u8    -  Brasil (Catalao)
-
 http://167.250.222.35:16000/playlist.m3u8    -  Guatemala (Guatemala)
 http://45.228.232.219:16000/playlist.m3u8    -  Guatemala (Guatemala)
 http://45.5.117.182:8000/playlist.m3u8    -  Guatemala (Guatemala)
@@ -69,6 +67,8 @@ http://168.181.122.234:8000/playlist.m3u8    -  Honduras (Puerto Castilla)
 
 http://190.110.109.104:52321/playlist.m3u8    -  Chile (Santiago)
 http://201.222.44.220:4227/playlist.m3u8    -  Chile (Santiago)
+
+http://179.189.222.226:8000/playlist.m3u8    -  Brasil (Catalao)
 
 https://iptv-org.github.io/iptv/index.m3u
 https://iptv-org.github.io/iptv/countries/pe.m3u
