@@ -1161,9 +1161,6 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
 #EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fashion TV 4K" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV 4K",Fashion TV 4K
-http://194.145.202.71:8087/udp/239.254.1.151:6060
-
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20220323T081606SQUARE.png_20220323081609.png" group-title="Estilo de Vida" tvg-name="Fashion TV",Fashion TV
 https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8
 
