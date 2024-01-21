@@ -24,11 +24,13 @@ https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmk
 // Fuentes
 https://gist.github.com/elfenderes/797781909c162ebfb619f9d8b04f92fb
 http://tecnomasterapp.tk/2099/premium2greenfulltv.m3u
-http://167.250.222.35:16000/playlist.m3u8
-http://187.102.208.108:50001/playlist.m3u8
-http://38.41.8.1:8000/playlist.m3u8
-http://161.132.108.75:50001/playlist.m3u8  -  PERU
-http://161.132.108.76:50001/playlist.m3u8  -  PERU
+
+
+http://38.41.8.1:8000/playlist.m3u8 - Venezuela
+http://167.250.222.35:16000/playlist.m3u8 - Guatemala
+http://187.102.208.108:50001/playlist.m3u8  - Perú
+http://161.132.108.75:50001/playlist.m3u8  - Perú
+http://161.132.108.76:50001/playlist.m3u8  - Perú
 
 
 http://190.116.90.43:8000/playlist.m3u8
