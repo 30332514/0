@@ -103,7 +103,7 @@ https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 http://191.97.60.193:10000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
-http://191.97.60.193:10000/play/a020/index.m3u8
+https://mserver.latincable.net/TeleLima/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
