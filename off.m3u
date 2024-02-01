@@ -64,7 +64,7 @@ http://72.76.116.158:8000/play/a08b/index.m3u8
 http://191.97.60.193:10000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/230754
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/760738.ts
 
 #EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
 http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/119549
