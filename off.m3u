@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TNT SPORTS BRASIL" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS BRASIL",TNT SPORTS BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
 #EXTINF:-1 tvg-id="Fashion TV 4K" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV 4K",Fashion TV 4K
 http://194.145.202.71:8087/udp/239.254.1.151:6060
 
