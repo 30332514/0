@@ -609,8 +609,11 @@ http://209.45.81.84:8000/play/a00a
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
 http://209.45.81.84:8000/play/a002
 
+#EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.postimg.cc/Y0RLvC5w/LIGA-1.png" group-title="Deportivos" tvg-name="LIGA 1",LIGA 1
+http://45.173.201.50:4000/play/a04u/index.m3u8
+
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
-http://187.102.208.108:50001/play/a03y/index.m3u8
+http://45.173.201.50:4000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
