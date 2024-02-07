@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="Musicales" tvg-name="Best Cable Music",Best Cable Music
+https://tv.godo.net.pe/bestcablemusic/index.m3u8
+
 #EXTINF:-1 tvg-id="Primavera TV" tvg-logo="https://i.postimg.cc/sfM0Mgfk/Primavera-TV.jpg" group-title="Generalistas" tvg-name="Primavera TV",Primavera TV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
