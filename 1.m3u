@@ -189,9 +189,6 @@ https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 #EXTINF:-1 tvg-id="DMJ Televisión" tvg-logo="https://i.postimg.cc/3xFQGtbh/dmj.png" group-title="Generalistas" tvg-name="DMJ Televisión",DMJ Televisión
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Primavera TV" tvg-logo="https://i.postimg.cc/sfM0Mgfk/Primavera-TV.jpg" group-title="Generalistas" tvg-name="Primavera TV",Primavera TV
-https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Generalistas" tvg-name="Retro Plus TV",Retro Plus TV
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
