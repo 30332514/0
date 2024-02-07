@@ -586,13 +586,13 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
-http://209.45.81.84:8000/play/a006
+http://190.108.85.20:9999/play/a00o
 
 #EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
-http://209.45.81.84:8000/play/a00a
+http://190.108.85.20:9999/play/a00r
 
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
-http://209.45.81.84:8000/play/a002
+http://190.108.85.20:9999/play/a022
 
 #EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.postimg.cc/Y0RLvC5w/LIGA-1.png" group-title="Deportivos" tvg-name="LIGA 1",LIGA 1
 http://45.173.201.50:4000/play/a04u/index.m3u8
@@ -634,10 +634,10 @@ http://190.61.43.117:45000/play/a024
 http://190.108.85.20:9999/play/a011
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
-http://209.45.81.84:8000/play/a03e
+http://190.108.85.20:9999/play/a00n
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://209.45.81.84:8000/play/a01c
+http://190.108.85.20:9999/play/a01o
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://45.177.53.7:8000/play/a0hy/index.m3u8
