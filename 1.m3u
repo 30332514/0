@@ -142,7 +142,7 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 http://191.97.60.193:10000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-logo="https://i.postimg.cc/sDCQnVZk/Frecuencia-Musical-TV.jpg" group-title="Generalistas" tvg-name="Frecuencia Musical TV",Frecuencia Musical TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
@@ -757,10 +757,10 @@ http://138.59.177.34:8000/play/a024/index.m3u8
 http://161.132.108.76:50001/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+http://177.53.153.20:8001/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+http://177.53.153.20:8001/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-id="Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="Infantiles" tvg-name="Dos Kids",Dos Kids
 http://190.110.109.104:52321/play/a00w/index.m3u8
