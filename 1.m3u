@@ -226,7 +226,7 @@ http://191.97.60.193:10000/play/a03e/index.m3u8
 https://tv.godo.net.pe/bestcablemusic/index.m3u8
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
-http://209.45.81.84:8000/play/a036
+http://191.97.60.193:10000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
