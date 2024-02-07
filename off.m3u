@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Folklore TV" tvg-logo="https://i.postimg.cc/T209FH3j/Folklore-TV.png" group-title="Generalistas" tvg-name="Folklore TV",Folklore TV
+http://209.45.81.84:8000/play/a03c
+
 #EXTINF:-1 tvg-id="Canal B" tvg-logo="https://i.postimg.cc/SR6gskRG/CanalB.jpg" group-title="Generalistas" tvg-name="Canal B",Canal B
 https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 
