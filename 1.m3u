@@ -18,9 +18,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/T3SDTnH6/LaTele.png" group-title="Generalistas" tvg-name="La Tele",La Tele
-http://187.102.208.108:50001/play/a043/index.m3u8
-
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
 http://190.116.90.43:8000/play/a006
 
@@ -47,9 +44,6 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
-http://187.102.208.108:50001/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
@@ -1024,7 +1018,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://45.5.117.182:8000/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
-http://187.102.208.108:50001/play/a02u/index.m3u8
+http://45.173.201.50:4000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.postimg.cc/8P9SFkV7/CNN-en-Espa-ol.png" group-title="Informativos" tvg-name="CNN en Español",CNN en Español
 http://200.59.188.3:8000/play/a06d
@@ -1330,7 +1324,7 @@ http://177.234.230.226:8010/play/a00e/index.m3u8
 http://177.53.153.20:8001/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://i.postimg.cc/VvW25J6Y/DREAMWORKS.png" group-title="Películas" tvg-name="DREAMWORKS",DREAMWORKS
-http://187.102.208.108:50001/play/a03x/index.m3u8
+http:///play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="EURO CHANNEL" tvg-logo="https://i.postimg.cc/nrHKRwtQ/EURO-Channel.jpg" group-title="Películas" tvg-name="EURO CHANNEL",EURO CHANNEL
 http://45.71.252.67:8000/play/a0m5/index.m3u8
