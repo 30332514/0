@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Canal B" tvg-logo="https://i.postimg.cc/SR6gskRG/CanalB.jpg" group-title="Generalistas" tvg-name="Canal B",Canal B
+https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT SPORTS BRASIL" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS BRASIL",TNT SPORTS BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
