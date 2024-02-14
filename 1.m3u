@@ -985,10 +985,10 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321286.ts
 http://45.5.117.182:8000/play/a0id/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
-http://161.132.108.76:50001/play/a04h/index.m3u8
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
-http://161.132.243.192:50001/play/a03z/index.m3u8
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
@@ -1036,7 +1036,7 @@ https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 http://45.5.117.182:8000/play/a0hs/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
-http://45.177.53.7:8000/play/a0ga/index.m3u8
+http://45.5.117.182:8000/play/a0hQ/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
 http://45.173.201.50:4000/play/a046/index.m3u8
@@ -1327,7 +1327,7 @@ http://45.173.201.50:4000/play/a066/index.m3u8
 http://138.59.177.34:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
-http://45.177.53.7:8000/play/a0hw/index.m3u8
+http://45.5.117.182:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.postimg.cc/fLY4PqYM/FX.png" group-title="Películas" tvg-name="FX",FX
 http://45.173.201.50:4000/play/a06n/index.m3u8
@@ -1345,7 +1345,7 @@ http://45.173.201.50:4000/play/a05q/index.m3u8
 http://45.71.252.67:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
-http://161.132.108.76:50001/play/a031/index.m3u8
+http://45.5.117.182:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
 http://190.149.66.90:4000/play/a03d/index.m3u8
@@ -1378,7 +1378,7 @@ http://138.59.177.34:8000/play/a06q/index.m3u8
 http://45.173.201.50:4000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
-http://45.177.53.7:8000/play/a0ie/index.m3u8
+http://45.5.117.182:8000/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/fydKcdXQ/GOLDEN.png" group-title="Películas" tvg-name="GOLDEN PLUS",GOLDEN PLUS
 http://190.116.90.43:8000/play/a00y
@@ -1405,7 +1405,7 @@ http://45.5.117.182:8000/play/a0ea/index.m3u8
 http://190.116.90.43:8000/play/a00w
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
-http://45.177.53.7:8000/play/a0ew/index.m3u8
+http://45.5.117.182:8000/play/a0ec/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
 http://45.177.53.7:8000/play/a0ky/index.m3u8
@@ -1423,7 +1423,7 @@ http://45.173.201.50:4000/play/a06w/index.m3u8
 http://45.173.201.50:4000/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://161.132.108.76:50001/play/a03c/index.m3u8
+http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.postimg.cc/bvP9NncZ/UNIVERSAL-CRIME.png" group-title="Películas" tvg-name="UNIVERSAL CRIME",UNIVERSAL CRIME
 http://138.59.177.34:8000/play/a05v/index.m3u8
@@ -1435,7 +1435,7 @@ http://161.132.108.76:50001/play/a03g/index.m3u8
 http://161.132.108.76:50001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-logo="https://i.postimg.cc/SsxjHL3P/UNIVERSAL-PREMIERE.png" group-title="Películas" tvg-name="UNIVERSAL PREMIERE",UNIVERSAL PREMIERE
-http://161.132.108.76:50001/play/a03d/index.m3u8
+http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
 http://45.173.201.50:4000/play/a073/index.m3u8
@@ -1444,7 +1444,7 @@ http://45.173.201.50:4000/play/a073/index.m3u8
 http://45.173.201.50:4000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
-http://45.177.53.7:8000/play/a0ht/index.m3u8
+http://45.5.117.182:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
 http://45.177.53.7:8000/play/a0js/index.m3u8
