@@ -475,7 +475,7 @@ http://38.41.8.1:8000/play/a03u
 http://38.41.8.1:8000/play/a0a0
 
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
-http://45.177.53.7:8000/play/a0fl/index.m3u8
+http://45.173.201.50:4000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 http://45.177.53.7:8000/play/a0jp/index.m3u8
@@ -856,7 +856,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321105.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321086.ts
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
-http://45.177.53.7:8000/play/a0fa/index.m3u8
+http://45.173.201.50:4000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
 http://45.173.201.50:4000/play/a01k
@@ -1024,7 +1024,7 @@ http://45.177.53.7:8000/play/a0hn/index.m3u8
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
-http://45.177.53.7:8000/play/a0l0/index.m3u8
+http://45.173.201.50:4000/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="WappTV" tvg-logo="https://i.postimg.cc/T1KGhjZK/WappTV.jpg" group-title="Generalistas" tvg-name="WappTV",WappTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
@@ -1042,7 +1042,7 @@ http://45.5.117.182:8000/play/a0hs/index.m3u8
 http://45.177.53.7:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://45.177.53.7:8000/play/a0k9/index.m3u8
+http://45.173.201.50:4000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -1102,7 +1102,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://i.postimg.cc/J0gMqC20/Interalmer-a-TV.jpg" group-title="Generalistas" tvg-name="Interalmería TV",Interalmería TV
-https://interalmeria.tv/directo/live.m3u8
+https://tv.interalmeria.tv/directo/live.m3u8
 
 #EXTINF:-1 tvg-id="Tuya La Janda TV" tvg-logo="https://i.postimg.cc/3RxhQwMW/Tuya-La-Janda-TV.png" group-title="Generalistas" tvg-name="Tuya La Janda TV",Tuya La Janda TV
 https://cloudvideo.servers10.com:8081/8232/tracks-v1a1/mono.m3u8
@@ -1303,7 +1303,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 http://45.228.232.219:16000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.postimg.cc/y8b3JZy1/HGTV.jpg" group-title="Generalistas" tvg-name="HGTV",HGTV
-http://45.177.53.7:8000/play/a0jm/index.m3u8
+http://138.59.177.34:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="I.Sat" tvg-logo="https://i.postimg.cc/nr1b5qhq/I-Sat.png" group-title="Generalistas" tvg-name="I.Sat",I.Sat
 http://200.59.188.3:8000/play/a05b
@@ -1324,7 +1324,7 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 http://45.71.252.67:8000/play/a0m5/index.m3u8
 
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
-http://45.177.53.7:8000/play/a0k0/index.m3u8
+http://45.173.201.50:4000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
 http://138.59.177.34:8000/play/a036/index.m3u8
