@@ -529,13 +529,13 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://45.5.117.182:8000/play/a0gk/index.m3u8
+http://138.59.177.34:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
-http://45.5.117.182:8000/play/a0jw/index.m3u8
+http://138.59.177.34:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
-http://45.177.53.7:8000/play/a0kn/index.m3u8
+http://177.234.230.226:8010/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -547,7 +547,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://190.116.90.43:8000/play/a00d
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
-http://45.5.117.182:8000/play/hjkP/index.m3u8
+http://190.90.154.73:8080/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
 http://190.149.66.90:4000/play/a02s/index.m3u8
@@ -616,10 +616,10 @@ http://161.132.243.192:50001/play/a03p/index.m3u8
 http://161.132.243.192:50001/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.postimg.cc/026fz34V/Claro-Sports.jpg" group-title="Deportivos" tvg-name="Claro Sports",Claro Sports
-http://161.132.243.192:50001/play/a02w/index.m3u8
+http://138.59.177.34:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="Deportivos" tvg-name="Claro Sports 2",Claro Sports 2
-http://161.132.243.192:50001/play/a03v/index.m3u8
+http://138.59.177.34:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guatemala",Tigo Sports Guatemala
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -628,10 +628,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 http://138.59.177.34:8000/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
-http://190.61.43.117:45000/play/a067
+http://190.90.154.73:8080/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
-http://190.61.43.117:45000/play/a024
+http://190.90.154.73:8080/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
 http://190.108.85.20:9999/play/a011
@@ -643,19 +643,19 @@ http://190.108.85.20:9999/play/a00n
 http://190.108.85.20:9999/play/a01o
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://45.177.53.7:8000/play/a0hy/index.m3u8
+http://190.90.154.73:8080/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
-http://45.177.53.7:8000/play/a0hu/index.m3u8
+http://190.90.154.73:8080/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://45.177.53.7:8000/play/a0ik/index.m3u8
+http://190.90.154.73:8080/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://45.177.53.7:8000/play/a0i5/index.m3u8
+http://190.90.154.73:8080/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://45.177.53.7:8000/play/a0j4/index.m3u8
+http://190.90.154.73:8080/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102234
@@ -748,10 +748,10 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 http://190.116.90.43:8000/play/a00f
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://45.177.53.7:8000/play/a0ii/index.m3u8
+http://138.59.177.34:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://45.177.53.7:8000/play/a0fd/index.m3u8
+http://138.59.177.34:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
 http://138.59.177.34:8000/play/a06b/index.m3u8
@@ -760,13 +760,13 @@ http://138.59.177.34:8000/play/a06b/index.m3u8
 http://138.59.177.34:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
-http://161.132.108.76:50001/play/a047/index.m3u8
+http://138.59.177.34:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-http://177.53.153.20:8001/play/a03d/index.m3u8
+http://190.61.55.186:1010/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
-http://177.53.153.20:8001/play/a05h/index.m3u8
+http://190.61.55.186:1010/play/714/index.m3u8
 
 #EXTINF:-1 tvg-id="Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="Infantiles" tvg-name="Dos Kids",Dos Kids
 http://190.110.109.104:52321/play/a00w/index.m3u8
@@ -775,16 +775,16 @@ http://190.110.109.104:52321/play/a00w/index.m3u8
 http://191.97.60.193:10000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
-https://transmision.funboxlatino.com:1936/BITEL001/BITELhd.stream/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
 http://190.61.43.117:45000/play/a03s
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
-http://161.132.243.192:50001/play/a04j/index.m3u8
+http://138.59.177.34:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
-http://45.177.53.7:8000/play/a0fc/index.m3u8
+http://190.61.55.186:1010/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://138.59.177.34:8000/play/a03y/index.m3u8
