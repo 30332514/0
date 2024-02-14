@@ -643,19 +643,19 @@ http://190.108.85.20:9999/play/a00n
 http://190.108.85.20:9999/play/a01o
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://190.90.154.73:8080/play/a012/index.m3u8
+http://45.173.201.50:4000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
-http://190.90.154.73:8080/play/a00y/index.m3u8
+http://45.173.201.50:4000/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://190.90.154.73:8080/play/a01x/index.m3u8
+http://45.173.201.50:4000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://190.90.154.73:8080/play/a02s/index.m3u8
+http://45.173.201.50:4000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
-http://190.90.154.73:8080/play/a03f/index.m3u8
+http://45.173.201.50:4000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
 http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102234
