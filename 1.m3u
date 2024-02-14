@@ -460,7 +460,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
-http://45.177.53.7:8000/play/a0jl/index.m3u8
+http://200.116.199.180:8000/play/a059
 
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
@@ -478,7 +478,7 @@ http://38.41.8.1:8000/play/a0a0
 http://45.173.201.50:4000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
-http://45.177.53.7:8000/play/a0jp/index.m3u8
+http://200.116.199.180:8000/play/a04y
 
 #EXTINF:-1 tvg-id="ChileVisión" tvg-logo="https://i.postimg.cc/g0yTRqxC/Chile-Visi-n.png" group-title="Generalistas" tvg-name="ChileVisión",ChileVisión
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
@@ -514,7 +514,7 @@ http://190.95.220.212:8000/play/a01f/index.m3u8
 http://138.59.177.34:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
-http://190.90.154.73:8080/play/a09t/index.m3u8
+http://200.116.199.180:8000/play/a05b
 
 #EXTINF:-1 tvg-id="Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="Generalistas" tvg-name="Argentinísima Satelital",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
