@@ -1402,7 +1402,7 @@ http://190.116.90.43:8000/play/a008
 http://45.5.117.182:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
-http://161.132.243.192:50001/play/a01y/index.m3u8
+http://190.116.90.43:8000/play/a00w
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
 http://45.177.53.7:8000/play/a0ew/index.m3u8
