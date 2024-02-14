@@ -214,7 +214,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 https://servilive.com:3531/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/63n3qHh5/VM-Latino.png" group-title="Musicales" tvg-name="VM Latino",VM Latino
-https://streamingservers.duckdns.org/VMLATINO/SERVERBACKUP/playlist.m3u8
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
@@ -352,7 +352,7 @@ https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv" tvg-logo="https://i.postimg.cc/0jYHjxgv/htv.jpg" group-title="Musicales" tvg-name="htv",htv
-http://45.177.53.7:8000/play/a0jo/index.m3u8
+http://138.59.177.34:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
 http://45.5.117.182:8000/play/a0fd/index.m3u8
