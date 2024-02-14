@@ -1027,7 +1027,7 @@ http://45.173.201.50:4000/play/a070/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
 
 #EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
-http://45.177.53.7:8000/play/a0iq/index.m3u8
+http://190.108.85.20:9999/play/a00h
 
 #EXTINF:-1 tvg-id="Cocina TV" tvg-logo="https://i.postimg.cc/3rtkNB0v/CocinaTV.jpg" group-title="Novelas" tvg-name="Cocina TV",Cocina TV
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
