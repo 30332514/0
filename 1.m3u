@@ -367,7 +367,7 @@ http://45.5.117.182:8000/play/a0f2/index.m3u8
 http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
-http://45.177.53.7:8000/play/a0i4/index.m3u8
+http://138.59.177.34:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20221026T004458SQUARE.png_20221026004458.png" group-title="Musicales" tvg-name="MTV Originals",MTV Originals
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
@@ -532,7 +532,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 http://45.5.117.182:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
-http://45.177.53.7:8000/play/a0ih/index.m3u8
+http://45.5.117.182:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
 http://45.177.53.7:8000/play/a0kn/index.m3u8
@@ -547,7 +547,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://190.116.90.43:8000/play/a00d
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
-http://45.177.53.7:8000/play/a0jh/index.m3u8
+http://45.5.117.182:8000/play/hjkP/index.m3u8
 
 #EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
 http://190.149.66.90:4000/play/a02s/index.m3u8
