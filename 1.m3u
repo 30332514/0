@@ -1306,7 +1306,10 @@ http://138.59.177.34:8000/play/a00u/index.m3u8
 http://200.59.188.3:8000/play/a05b
 
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
-http://45.177.53.7:8000/play/a0jr/index.m3u8
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="D película Plus" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="Películas" tvg-name="D película Plus",D película Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="Cine Mexicano",Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
@@ -1384,7 +1387,7 @@ http://45.5.117.182:8000/play/a0fk/index.m3u8
 http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-http://161.132.243.192:50001/play/a04a/index.m3u8
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://190.116.90.43:8000/play/a00o
@@ -1408,7 +1411,7 @@ http://190.116.90.43:8000/play/a00w
 http://45.5.117.182:8000/play/a0ec/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
-http://45.177.53.7:8000/play/a0ky/index.m3u8
+http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://i.postimg.cc/ncjfXVL4/HBO-MUNDI.jpg" group-title="Películas" tvg-name="HBO MUNDI",HBO MUNDI
 http://45.71.252.67:8000/play/a0l7/index.m3u8
@@ -1429,10 +1432,10 @@ http://45.5.117.182:8000/play/a0jz/index.m3u8
 http://138.59.177.34:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://i.postimg.cc/SR9Gxfsz/UNIVERSAL-COMEDY.png" group-title="Películas" tvg-name="UNIVERSAL COMEDY",UNIVERSAL COMEDY
-http://161.132.108.76:50001/play/a03g/index.m3u8
+http://190.149.66.90:4000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/WpSW3PW2/UNIVERSAL-REALITY.png" group-title="Películas" tvg-name="UNIVERSAL REALITY",UNIVERSAL REALITY
-http://161.132.108.76:50001/play/a03f/index.m3u8
+http://190.149.66.90:4000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-logo="https://i.postimg.cc/SsxjHL3P/UNIVERSAL-PREMIERE.png" group-title="Películas" tvg-name="UNIVERSAL PREMIERE",UNIVERSAL PREMIERE
 http://45.5.117.182:8000/play/a0ig/index.m3u8
@@ -1447,7 +1450,7 @@ http://45.173.201.50:4000/play/a065/index.m3u8
 http://45.5.117.182:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://45.177.53.7:8000/play/a0js/index.m3u8
+http://190.149.66.90:4000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
 http://45.173.201.50:4000/play/a05y/index.m3u8
