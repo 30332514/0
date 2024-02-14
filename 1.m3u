@@ -1333,16 +1333,16 @@ http://138.59.177.34:8000/play/a036/index.m3u8
 http://45.177.53.7:8000/play/a0hw/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.postimg.cc/fLY4PqYM/FX.png" group-title="Películas" tvg-name="FX",FX
-http://45.177.53.7:8000/play/a0i8/index.m3u8
+http://45.173.201.50:4000/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
-http://45.177.53.7:8000/play/a0hp/index.m3u8
+http://45.173.201.50:4000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
 http://45.5.117.182:8000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
-http://45.177.53.7:8000/play/a0hs/index.m3u8
+http://45.173.201.50:4000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
 http://45.71.252.67:8000/play/a0j2/index.m3u8
@@ -1372,13 +1372,13 @@ http://191.97.60.193:10000/play/a02a/index.m3u8
 http://191.97.60.193:10000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
-http://45.177.53.7:8000/play/a0j2/index.m3u8
+http://45.173.201.50:4000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
 http://138.59.177.34:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://45.177.53.7:8000/play/a0ji/index.m3u8
+http://45.173.201.50:4000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://45.177.53.7:8000/play/a0ie/index.m3u8
@@ -1393,7 +1393,7 @@ http://161.132.243.192:50001/play/a04a/index.m3u8
 http://190.116.90.43:8000/play/a00o
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
-http://45.177.53.7:8000/play/a0hr/index.m3u8
+http://45.173.201.50:4000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://190.116.90.43:8000/play/a007
@@ -1420,10 +1420,10 @@ http://45.71.252.67:8000/play/a0l7/index.m3u8
 http://45.177.53.7:8000/play/a0ey/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
-http://161.132.108.76:50001/play/a019/index.m3u8
+http://45.173.201.50:4000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
-http://45.177.53.7:8000/play/a0i3/index.m3u8
+http://45.173.201.50:4000/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
 http://161.132.108.76:50001/play/a03c/index.m3u8
@@ -1441,10 +1441,10 @@ http://161.132.108.76:50001/play/a03f/index.m3u8
 http://161.132.108.76:50001/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://45.177.53.7:8000/play/a0hq/index.m3u8
+http://45.173.201.50:4000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://138.59.177.34:8000/play/a037/index.m3u8
+http://45.173.201.50:4000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://45.177.53.7:8000/play/a0ht/index.m3u8
@@ -1453,10 +1453,10 @@ http://45.177.53.7:8000/play/a0ht/index.m3u8
 http://45.177.53.7:8000/play/a0js/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
-http://45.177.53.7:8000/play/a0ij/index.m3u8
+http://45.173.201.50:4000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT SERIES",TNT SERIES
-http://161.132.108.76:50001/play/a00y/index.m3u8
+http://45.173.201.50:4000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
 http://45.177.53.7:8000/play/a0je/index.m3u8
@@ -1499,6 +1499,3 @@ https://6c3f9c3ead8a4a0888f6cff09728fc91.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Nasa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/265px-NASA_TV.svg.png" group-title="Cultura y Educación" tvg-name="Nasa TV",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-id="Hoguera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20230510T044209SQUARE.png_20230510044209.png" group-title="Estilo de Vida" tvg-name="Hoguera",Hoguera
-https://d1uudxm3vz53s6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h6xg8drfk6hpr/master.m3u8
