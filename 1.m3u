@@ -1429,7 +1429,7 @@ http://38.41.8.1:8000/play/a00d
 http://45.71.252.67:8000/play/a0l7/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/mg3LrZdd/HBO-SIGNATURE.png" group-title="Películas" tvg-name="HBO SIGNATURE",HBO SIGNATURE
-http://45.177.53.7:8000/play/a0ey/index.m3u8
+http://201.222.44.220:4227/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
 http://45.173.201.50:4000/play/a06w/index.m3u8
