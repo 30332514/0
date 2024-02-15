@@ -627,15 +627,6 @@ http://45.173.201.50:4000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
-http://161.132.243.192:50001/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS 2" tvg-logo="https://i.postimg.cc/g0crxL9K/DIRECTV-SPORTS-2.png" group-title="Deportivos" tvg-name="DSPORTS 2",DSPORTS 2
-http://161.132.243.192:50001/play/a03p/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://i.postimg.cc/bwJKdqCt/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS+",DSPORTS+
-http://161.132.243.192:50001/play/a03q/index.m3u8
-
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.postimg.cc/026fz34V/Claro-Sports.jpg" group-title="Deportivos" tvg-name="Claro Sports",Claro Sports
 http://138.59.177.34:8000/play/a01i/index.m3u8
 
