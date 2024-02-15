@@ -60,7 +60,6 @@ http://190.149.66.90:4000/playlist.m3u8    -  Guatemala (Guatemala)
 
 http://168.181.122.234:8000/playlist.m3u8    -  Honduras (Puerto Castilla)
 
-http://181.78.208.254:8010/playlist.m3u8    -  Chile (Santiago)
 http://190.110.109.104:52321/playlist.m3u8    -  Chile (Santiago)
 http://201.222.44.220:4227/playlist.m3u8    -  Chile (Santiago)
 
