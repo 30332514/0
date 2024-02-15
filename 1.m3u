@@ -480,6 +480,9 @@ http://200.116.199.180:8000/play/a059
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://i.postimg.cc/3JwfvcmQ/CanalTRO.jpg" group-title="Generalistas" tvg-name="Canal TRO",Canal TRO
+http://191.97.60.193:10000/play/a06g/index.m3u8
+
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
 http://190.149.66.90:4000/play/a03c/index.m3u8
 
@@ -749,9 +752,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
-#EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://i.postimg.cc/3JwfvcmQ/CanalTRO.jpg" group-title="Generalistas" tvg-name="Canal TRO",Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/live-1500/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
