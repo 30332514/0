@@ -1393,7 +1393,7 @@ http://168.181.122.234:8000/play/a01a/index.m3u8
 http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://181.119.67.75:16123/play/ch47
 
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
 http://168.181.122.234:8000/play/a01t/index.m3u8
