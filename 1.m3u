@@ -228,6 +228,9 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV MÚSICA" tvg-logo="https://i.postimg.cc/CK7B2K5Z/USMPTV-M-SICA.png" group-title="Musicales" tvg-name="USMPTV MÚSICA",USMPTV MÚSICA
 http://191.97.60.193:10000/play/a03e/index.m3u8
 
+#EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 http://191.97.60.193:10000/play/a00c/index.m3u8
 
