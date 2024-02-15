@@ -455,7 +455,7 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w419649899.m3u8
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 #EXTINF:-1 tvg-id="SEO TV" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Generalistas" tvg-name="SEO TV",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
