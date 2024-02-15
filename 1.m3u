@@ -198,6 +198,9 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Generalistas" tvg-name="Retro Plus TV",Retro Plus TV
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.postimg.cc/3Nwc3cfV/Memoriastv.jpg" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
 https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8
 
@@ -219,8 +222,8 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
+https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/63n3qHh5/VM-Latino.png" group-title="Musicales" tvg-name="VM Latino",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
