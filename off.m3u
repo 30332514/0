@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
+http://161.132.243.192:50001/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS 2" tvg-logo="https://i.postimg.cc/g0crxL9K/DIRECTV-SPORTS-2.png" group-title="Deportivos" tvg-name="DSPORTS 2",DSPORTS 2
+http://161.132.243.192:50001/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://i.postimg.cc/bwJKdqCt/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS+",DSPORTS+
+http://161.132.243.192:50001/play/a03q/index.m3u8
+
 #EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
 http://45.173.201.50:4000/play/a01t
 
