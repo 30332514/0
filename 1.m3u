@@ -1386,11 +1386,20 @@ http://45.173.201.50:4000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://45.5.117.182:8000/play/a0fk/index.m3u8
 
+#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Películas" tvg-name="GOLDEN",GOLDEN
+http://168.181.122.234:8000/play/a01a/index.m3u8
+
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/fydKcdXQ/GOLDEN.png" group-title="Películas" tvg-name="GOLDEN PLUS",GOLDEN PLUS
 http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
+http://168.181.122.234:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Películas" tvg-name="GOLDEN PREMIER 2",GOLDEN PREMIER 2
+http://168.181.122.234:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://190.116.90.43:8000/play/a00o
