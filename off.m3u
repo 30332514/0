@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
+http://45.173.201.50:4000/play/a01t
+
 #EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
 https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8
 
