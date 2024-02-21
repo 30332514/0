@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
+https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
 http://161.132.243.192:50001/play/a03o/index.m3u8
 
