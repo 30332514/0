@@ -1326,8 +1326,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MC" tvg-logo="https://i.postimg.cc/GprNgyRk/MC.jpg" group-title="Películas" tvg-name="MC",MC
-http://45.228.232.219:16000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="Multicinema" tvg-logo="https://i.postimg.cc/GprNgyRk/MC.jpg" group-title="Películas" tvg-name="Multicinema",Multicinema
+http://138.59.177.34:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.postimg.cc/y8b3JZy1/HGTV.jpg" group-title="Generalistas" tvg-name="HGTV",HGTV
 http://138.59.177.34:8000/play/a00u/index.m3u8
@@ -1378,7 +1378,7 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
-http://45.71.252.67:8000/play/a0j2/index.m3u8
+http://177.234.230.226:8010/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://45.5.117.182:8000/play/a0e6/index.m3u8
@@ -1411,7 +1411,6 @@ http://190.90.154.73:8080/play/a03d/index.m3u8
 http://138.59.177.34:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://45.173.201.50:4000/play/a076/index.m3u8
 http://138.59.177.34:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
