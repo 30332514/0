@@ -577,7 +577,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://138.59.177.34:8000/play/a040/index.m3u8
+http://177.93.45.155:6143/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://138.59.177.34:8000/play/a079/index.m3u8
