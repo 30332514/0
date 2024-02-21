@@ -51,8 +51,14 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
+http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
+http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
