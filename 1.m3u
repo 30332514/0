@@ -387,6 +387,9 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="URBANO TV" tvg-logo="https://i.postimg.cc/MZM5dZRj/URBANOTV.png" group-title="Musicales" tvg-name="URBANO TV",URBANO TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
+#EXTINF:-1 tvg-id="nick music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/220px-NickMusic.svg.png" group-title="Musicales" tvg-name="nick music",nick music
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VEVO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230412T042423SQUARE.png_20230412042423.png" group-title="Musicales" tvg-name="VEVO",VEVO
 https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8
 
