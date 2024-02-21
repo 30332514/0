@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
+http://181.119.67.75:16123/play/ch54
+
 #EXTINF:-1 tvg-id="Latin CABLE" tvg-logo="https://i.postimg.cc/Z5SY4ZSB/Latin-CABLE.png" group-title="Generalistas" tvg-name="Latin CABLE",Latin CABLE
 https://mserver.latincable.net/LatinTV/index.m3u8
 
