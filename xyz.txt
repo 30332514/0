@@ -26,7 +26,6 @@ https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmk
 https://gist.github.com/elfenderes/797781909c162ebfb619f9d8b04f92fb
 
 http://38.43.140.97:8000/playlist.m3u8    -  Perú (Lima)
-http://45.173.201.50:4000/playlist.m3u8    -  Perú (Lima)
 http://191.97.60.193:10000/playlist.m3u8    -  Perú (Yurimaguas)
 http://190.108.85.20:9999/playlist.m3u8    -  Perú (Moyobamba)
 http://190.116.90.43:8000/playlist.m3u8    -  Perú (Cajamarca)
@@ -35,10 +34,8 @@ http://177.234.230.226:8010/playlist.m3u8    -  Ecuador (Pasaje)
 http://45.71.252.67:8000/playlist.m3u8    -  Ecuador (Boca Suno)
 http://190.95.220.212:8000/playlist.m3u8    -  Ecuador (Loja)
 
-http://190.61.55.186:1010/playlist.m3u8    -  Colombia (Suan)
 http://190.90.154.73:8080/playlist.m3u8    -  Colombia (Chachagui)
 http://200.116.199.180:8000/playlist.m3u8    -  Colombia (Medellin)
-http://204.199.113.33:15017/playlist.m3u8    -  Colombia (Bogota)
 http://181.205.130.194:4000/playlist.m3u8    -  Colombia (Bogota)
 http://190.61.43.118:45000/playlist.m3u8    -  Colombia (Barranquilla)
 http://190.121.153.89:8000/playlist.m3u8    -  Colombia (Yopal)
@@ -47,7 +44,6 @@ http://190.90.251.194:8921/playlist.m3u8    -  Colombia (Aguachica)
 http://190.90.251.194:8922/playlist.m3u8    -  Colombia (Aguachica)
 http://190.61.57.2:1010/playlist.m3u8    -  Colombia (Canasgordas)
 http://177.93.45.155:6143/playlist.m3u8    -  Colombia (Bucaramanga)
-http://181.119.67.75:16123/playlist.m3u8    -  Colombia (Bogota)
 http://190.61.43.117:45000/playlist.m3u8    -  Colombia (Barranquilla)
 http://179.189.222.226:8000/playlist.m3u8    -  Colombia (Pasto)
 
@@ -55,15 +51,12 @@ http://38.41.8.1:8000/playlist.m3u8    -  Venezuela (Caracas)
 http://200.59.188.3:8000/playlist.m3u8    -  Venezuela (Ciudad Ojeda)
 
 http://167.250.222.35:16000/playlist.m3u8    -  Guatemala (Guatemala)
-http://45.228.232.219:16000/playlist.m3u8    -  Guatemala (Guatemala)
+
 http://45.5.117.182:8000/playlist.m3u8    -  Guatemala (Guatemala)
 http://190.149.66.90:4000/playlist.m3u8    -  Guatemala (Guatemala)
-
 http://168.181.122.234:8000/playlist.m3u8    -  Honduras (Puerto Castilla)
 
 http://190.110.109.104:52321/playlist.m3u8    -  Chile (Santiago)
-http://201.222.44.220:4227/playlist.m3u8    -  Chile (Santiago)
-
 http://179.189.222.226:8000/playlist.m3u8    -  Brasil (Catalao)
 
 https://iptv-org.github.io/iptv/index.m3u
