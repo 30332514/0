@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Studio TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png" group-title="Generalistas" tvg-name="Studio TV",Studio TV
+https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 
