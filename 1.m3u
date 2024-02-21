@@ -523,7 +523,7 @@ http://38.41.8.1:8000/play/a03u
 http://38.41.8.1:8000/play/a0a0
 
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
-http://45.173.201.50:4000/play/a051/index.m3u8
+http://45.177.53.7:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 http://200.116.199.180:8000/play/a04y
