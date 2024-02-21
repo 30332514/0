@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000233H_20220824T005421SQUARE.png_20220824005421.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
+https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
 http://181.119.67.75:16123/play/ch54
 
