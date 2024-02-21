@@ -39,6 +39,9 @@ http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Generalistas" tvg-name="Justicia TV",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CALTV" tvg-logo="https://i.postimg.cc/28ZPhtTb/CALTV.jpg" group-title="Generalistas" tvg-name="CALTV",CALTV
+http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
