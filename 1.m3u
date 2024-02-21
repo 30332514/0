@@ -1357,7 +1357,7 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 http://45.71.252.67:8000/play/a0m5/index.m3u8
 
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
-http://45.173.201.50:4000/play/a066/index.m3u8
+http://190.90.154.73:8080/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
 http://138.59.177.34:8000/play/a036/index.m3u8
@@ -1366,16 +1366,16 @@ http://138.59.177.34:8000/play/a036/index.m3u8
 http://45.5.117.182:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.postimg.cc/fLY4PqYM/FX.png" group-title="Películas" tvg-name="FX",FX
-http://45.173.201.50:4000/play/a06n/index.m3u8
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
-http://45.173.201.50:4000/play/a05o/index.m3u8
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
-http://45.5.117.182:8000/play/a0fn/index.m3u8
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
-http://45.173.201.50:4000/play/a05q/index.m3u8
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
 http://45.71.252.67:8000/play/a0j2/index.m3u8
@@ -1412,6 +1412,7 @@ http://138.59.177.34:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
 http://45.173.201.50:4000/play/a076/index.m3u8
+http://138.59.177.34:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://45.5.117.182:8000/play/a0fk/index.m3u8
@@ -1423,7 +1424,7 @@ http://168.181.122.234:8000/play/a01a/index.m3u8
 http://190.116.90.43:8000/play/a00y
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-http://181.119.67.75:16123/play/ch47
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
 http://168.181.122.234:8000/play/a01t/index.m3u8
@@ -1462,13 +1463,13 @@ http://45.71.252.67:8000/play/a0l7/index.m3u8
 http://201.222.44.220:4227/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
-http://45.173.201.50:4000/play/a06w/index.m3u8
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
-http://45.173.201.50:4000/play/a06j/index.m3u8
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://45.5.117.182:8000/play/a0jz/index.m3u8
+http://190.149.66.90:4000/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.postimg.cc/bvP9NncZ/UNIVERSAL-CRIME.png" group-title="Películas" tvg-name="UNIVERSAL CRIME",UNIVERSAL CRIME
 http://138.59.177.34:8000/play/a05v/index.m3u8
@@ -1483,10 +1484,10 @@ http://190.149.66.90:4000/play/a03v/index.m3u8
 http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://45.173.201.50:4000/play/a073/index.m3u8
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://45.173.201.50:4000/play/a065/index.m3u8
+http://45.5.117.182:8000/play/a0fr/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://45.5.117.182:8000/play/a0jj/index.m3u8
