@@ -243,6 +243,9 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="33 tvsat" tvg-logo="https://i.postimg.cc/4N4sX8Br/33-tvsat.jpg" group-title="Musicales" tvg-name="33 tvsat",33 tvsat
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+
 #EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
