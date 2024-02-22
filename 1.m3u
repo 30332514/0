@@ -1426,7 +1426,7 @@ http://168.181.122.234:8000/play/a03r/index.m3u8
 http://190.116.90.43:8000/play/a00o
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
-http://45.173.201.50:4000/play/a05p/index.m3u8
+http://177.234.230.226:8010/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://190.116.90.43:8000/play/a007
