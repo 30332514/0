@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="https://i.postimg.cc/JnsFL0GT/ORIGEN-TV.jpg" group-title="Películas" tvg-name="ORIGEN TV",ORIGEN TV
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.postimg.cc/Y0RLvC5w/LIGA-1.png" group-title="Deportivos" tvg-name="LIGA 1",LIGA 1
 http://45.173.201.50:4000/play/a04u/index.m3u8
 
