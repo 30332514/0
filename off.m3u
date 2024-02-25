@@ -519,3 +519,6 @@ https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal San Roque" tvg-logo="https://i.postimg.cc/DwpdPj2D/canalsanroque.jpg" group-title="Generalistas" tvg-name="Canal San Roque",Canal San Roque
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Los Tres Chiflados TV" tvg-logo="https://i.postimg.cc/25nGbX0v/Los-Tres-Chiflados.jpg" group-title="Infantiles" tvg-name="Los Tres Chiflados TV",Los Tres Chiflados TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
