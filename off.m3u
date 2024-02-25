@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.postimg.cc/Y0RLvC5w/LIGA-1.png" group-title="Deportivos" tvg-name="LIGA 1",LIGA 1
+http://45.173.201.50:4000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
+http://45.173.201.50:4000/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-id="CALTV" tvg-logo="https://i.postimg.cc/28ZPhtTb/CALTV.jpg" group-title="Generalistas" tvg-name="CALTV",CALTV
+http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Matices TV" tvg-logo="https://i.postimg.cc/cHwmGtLG/Matices-TV.jpg" group-title="Generalistas" tvg-name="Matices TV",Matices TV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
