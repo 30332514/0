@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
+http://bantel.iptvperu.tv:1935/transcoderip/atv_t1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="https://i.postimg.cc/JnsFL0GT/ORIGEN-TV.jpg" group-title="Películas" tvg-name="ORIGEN TV",ORIGEN TV
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
