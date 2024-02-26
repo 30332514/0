@@ -273,6 +273,9 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="VENUS MEDIA" tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="Musicales" tvg-name="VENUS MEDIA",VENUS MEDIA
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 
+#EXTINF:-1 tvg-id="Deluxe Music Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="Musicales" tvg-name="Deluxe Music Tv",Deluxe Music Tv
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
 #EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
