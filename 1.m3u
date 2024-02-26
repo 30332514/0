@@ -270,6 +270,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 #EXTINF:-1 tvg-id="Activa TV" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
+#EXTINF:-1 tvg-id="VENUS MEDIA" tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="Musicales" tvg-name="VENUS MEDIA",VENUS MEDIA
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+
 #EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
