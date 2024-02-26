@@ -279,6 +279,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Zona Música TV " tvg-logo="https://i.postimg.cc/RCJzkx96/ZONAMUSIC.jpg" group-title="Musicales" tvg-name="Zona Música TV ",Zona Música TV 
+https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="Musicales" tvg-name="Telemúsica",Telemúsica
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 
