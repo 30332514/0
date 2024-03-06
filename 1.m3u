@@ -514,7 +514,7 @@ http://190.61.43.117:45000/play/a01m
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://i.postimg.cc/3JwfvcmQ/CanalTRO.jpg" group-title="Generalistas" tvg-name="Canal TRO",Canal TRO
-http://191.97.60.193:10000/play/a06g/index.m3u8
+http://45.177.53.7:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
 http://190.149.66.90:4000/play/a03c/index.m3u8
