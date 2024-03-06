@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="33 tvsat" tvg-logo="https://i.postimg.cc/4N4sX8Br/33-tvsat.jpg" group-title="Musicales" tvg-name="33 tvsat",33 tvsat
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+
+#EXTINF:-1 tvg-id="CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="Generalistas" tvg-name="CNC Digital",CNC Digital
+http://bantel.iptvperu.tv:1935/bantel/cncdigital.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
 http://bantel.iptvperu.tv:1935/transcoderip/atv_t1.stream/playlist.m3u8
 
