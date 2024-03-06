@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="eSports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Deportes" tvg-name="eSports Max",eSports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="33 tvsat" tvg-logo="https://i.postimg.cc/4N4sX8Br/33-tvsat.jpg" group-title="Musicales" tvg-name="33 tvsat",33 tvsat
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
 
