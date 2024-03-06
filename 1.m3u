@@ -828,18 +828,6 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="Infantiles" tvg-name="Teen Vee",Teen Vee
 https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tom y Jerry TV" tvg-logo="https://i.postimg.cc/m22TmvML/Tom-y-Jerry.png" group-title="Infantiles" tvg-name="Tom y Jerry TV",Tom y Jerry TV
-https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
-
-#EXTINF:-1 tvg-id="El Gallo Claudio TV" tvg-logo="https://static.wikia.nocookie.net/looneytunes/images/4/49/Gallo_Claudio.jpg/revision/latest?cb=20111104190434&path-prefix=es" group-title="Infantiles" tvg-name="El Gallo Claudio TV",El Gallo Claudio TV
-https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-id="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Infantiles" tvg-name="El Chavo del 8 TV",El Chavo del 8 TV
-https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Los Picapiedra TV" tvg-logo="https://www.themoviedb.org/t/p/original/f87jYBMajaJpW8G5zxfqmfZwjJ5.png" group-title="Anime" tvg-name="Los Picapiedra TV",Los Picapiedra TV
-https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" group-title="Infantiles" tvg-name="Bob Esponja TV",Bob Esponja TV
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
