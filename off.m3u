@@ -90,6 +90,15 @@ http://194.145.202.71:8087/udp/239.254.1.151:6060
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="Novelas" tvg-name="Azteca 7",Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 
+#EXTINF:-1 tvg-id="tv mar Puerto Vallarta" tvg-logo="https://i.postimg.cc/qBtpkJxK/tv-mar-marpuerto-vallarta.jpg" group-title="Generalistas" tvg-name=tv mar Puerto Vallarta",tv mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv mar La paz" tvg-logo="https://i.postimg.cc/85vJfRV8/tv-mar-la-paz.jpg" group-title="Generalistas" tvg-name="tv mar La paz",tv mar La paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv mar Los Cabos" tvg-logo="https://i.postimg.cc/QNnwdcdN/tv-mar-los-cabos.jpg" group-title="Generalistas" tvg-name="tv mar Los Cabos",tv mar Los Cabos
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
@@ -185,6 +194,18 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 
 #EXTINF:-1 tvg-id="BEN 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="Infantiles" tvg-name="BEN 10 TV",BEN 10 TV
 http://51.159.104.29:8080/ben10/index.m3u8
+
+#EXTINF:-1 tvg-id="Tom y Jerry TV" tvg-logo="https://i.postimg.cc/m22TmvML/Tom-y-Jerry.png" group-title="Infantiles" tvg-name="Tom y Jerry TV",Tom y Jerry TV
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+
+#EXTINF:-1 tvg-id="El Gallo Claudio TV" tvg-logo="https://static.wikia.nocookie.net/looneytunes/images/4/49/Gallo_Claudio.jpg/revision/latest?cb=20111104190434&path-prefix=es" group-title="Infantiles" tvg-name="El Gallo Claudio TV",El Gallo Claudio TV
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Infantiles" tvg-name="El Chavo del 8 TV",El Chavo del 8 TV
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Los Picapiedra TV" tvg-logo="https://www.themoviedb.org/t/p/original/f87jYBMajaJpW8G5zxfqmfZwjJ5.png" group-title="Anime" tvg-name="Los Picapiedra TV",Los Picapiedra TV
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Monterrico TV" tvg-logo="https://i.postimg.cc/5NJQrKF4/Monterrico-TV.png" group-title="Deportivos" tvg-name="Monterrico TV",Monterrico TV
 https://jcp.live.opencaster.com/multi_live/play_src.m3u8
