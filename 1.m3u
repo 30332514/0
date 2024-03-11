@@ -10,19 +10,19 @@ https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilte
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-http://bantel.iptvperu.tv:1935/transcoderip/atv_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
-http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Generalistas" tvg-name="La Tele",La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -40,7 +40,7 @@ https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Generalistas" tvg-name="Justicia TV",Justicia TV
-http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
@@ -64,7 +64,7 @@ http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
-http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
@@ -73,7 +73,7 @@ https://www.chasquirouter.com/salida/trivu.m3u8
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
-http://190.90.154.73:8080/play/a00d/index.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/793066.ts
 
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
