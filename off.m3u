@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ViaX" tvg-logo="https://i.postimg.cc/HkRHVZg3/V-a-X-2023.jpg" group-title="Generalistas" tvg-name="ViaX",ViaX
 http://190.95.220.212:8000/play/a01d/index.m3u8
 
