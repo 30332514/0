@@ -1083,9 +1083,6 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://i.postimg.cc/J0gMqC20/Interalmer-a-TV.jpg" group-title="Generalistas" tvg-name="Interalmería TV",Interalmería TV
 https://tv.interalmeria.tv/directo/live.m3u8
 
-#EXTINF:-1 tvg-id="Tuya La Janda TV" tvg-logo="https://i.postimg.cc/3RxhQwMW/Tuya-La-Janda-TV.png" group-title="Generalistas" tvg-name="Tuya La Janda TV",Tuya La Janda TV
-https://cloudvideo.servers10.com:8081/8232/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Diez TV Úbeda" tvg-logo="https://i.postimg.cc/1z9hDz3M/dieztv.jpg" group-title="Generalistas" tvg-name="Diez TV Úbeda",Diez TV Úbeda
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
@@ -1094,9 +1091,6 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 
 #EXTINF:-1 tvg-id="Bailén TV" tvg-logo="https://i.postimg.cc/jdPSXLRr/Bail-nTV.jpg" group-title="Generalistas" tvg-name="Bailén TV",Bailén TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sal TV" tvg-logo="https://i.postimg.cc/MGTwhTJH/SalTV.jpg" group-title="Generalistas" tvg-name="Sal TV",Sal TV
-https://cloudvideo.servers10.com:8081/8254/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://i.postimg.cc/V6Q7XGgw/Arag-n-TV.png" group-title="Generalistas" tvg-name="Aragón TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
