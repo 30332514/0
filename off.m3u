@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Zona Música TV " tvg-logo="https://i.postimg.cc/RCJzkx96/ZONAMUSIC.jpg" group-title="Musicales" tvg-name="Zona Música TV ",Zona Música TV 
+https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="Musicales" tvg-name="Telemúsica",Telemúsica
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-id="Amordiscos TV" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="Musicales" tvg-name="Amordiscos TV",Amordiscos TV
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+
 #EXTINF:-1 tvg-id="eSports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Deportes" tvg-name="eSports Max",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
