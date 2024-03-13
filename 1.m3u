@@ -276,12 +276,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zona Música TV " tvg-logo="https://i.postimg.cc/RCJzkx96/ZONAMUSIC.jpg" group-title="Musicales" tvg-name="Zona Música TV ",Zona Música TV 
-https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="Musicales" tvg-name="Telemúsica",Telemúsica
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
@@ -293,9 +287,6 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Old Music" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Musicales" tvg-name="Old Music",Old Music
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Amordiscos TV" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="Musicales" tvg-name="Amordiscos TV",Amordiscos TV
-https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
