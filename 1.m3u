@@ -751,16 +751,16 @@ http://191.97.60.193:10000/play/a02n/index.m3u8
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
-http://190.116.90.43:8000/play/a00f
+http://38.43.140.97:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/758378.ts
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
 http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
+http://38.43.140.97:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
