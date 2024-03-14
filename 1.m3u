@@ -216,9 +216,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
 #EXTINF:-1 tvg-id="Memorias film" tvg-logo="https://i.postimg.cc/J0y56V2r/Memoriasfilm.jpg" group-title="Musicales" tvg-name="Memorias film",Memorias film
 https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Memorias series" tvg-logo="https://i.postimg.cc/8kmM7LYg/Memorias-Series.jpg" group-title="Musicales" tvg-name="Memorias series",Memorias series
-https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
 
