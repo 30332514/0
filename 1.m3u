@@ -766,7 +766,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
 http://38.43.140.97:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
+http://181.78.75.83:5013/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
 http://45.71.252.67:8000/play/a0fm/index.m3u8
