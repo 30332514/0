@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
+http://138.59.177.34:8000/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-id="bhTV" tvg-logo="https://i.postimg.cc/cHqCZYn8/BHtv.png" group-title="Generalistas" tvg-name="bhTV",bhTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
