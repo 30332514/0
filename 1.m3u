@@ -769,7 +769,7 @@ http://38.43.140.97:8000/play/a03w/index.m3u8
 http://181.78.75.83:5013/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
-http://45.71.252.67:8000/play/a0fm/index.m3u8
+http://201.159.113.219:49000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://190.121.153.89:8000/play/a03e/index.m3u8
