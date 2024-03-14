@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Memorias series" tvg-logo="https://i.postimg.cc/8kmM7LYg/Memorias-Series.jpg" group-title="Musicales" tvg-name="Memorias series",Memorias series
+https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
 http://138.59.177.34:8000/play/a07a/index.m3u8
 
