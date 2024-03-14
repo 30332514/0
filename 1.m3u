@@ -741,14 +741,17 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" group-title="Factual" tvg-name="INFAST",INFAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://i.postimg.cc/T1FFPWtr/Adult-Swim.jpg" group-title="Infantiles" tvg-name="Adult Swim",Adult Swim
+http://206.62.161.251:22000/play/ADULT_SWIM/index.m3u8
+
+#EXTINF:-1 tvg-id="animotion" tvg-logo="https://i.postimg.cc/HkwXdh4k/animotion.jpg" group-title="Infantiles" tvg-name="animotion",animotion
+http://191.97.60.193:10000/play/a02n/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-id="animotion" tvg-logo="https://i.postimg.cc/HkwXdh4k/animotion.jpg" group-title="Infantiles" tvg-name="animotion",animotion
-http://191.97.60.193:10000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="Latino Kids",Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
