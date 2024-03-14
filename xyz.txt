@@ -59,6 +59,7 @@ http://38.41.8.1:8000/playlist.m3u8    -  Venezuela (Caracas)
 http://200.59.188.3:8000/playlist.m3u8    -  Venezuela (Ciudad Ojeda)
 
 http://201.159.113.219:49000/playlist.m3u8    -  Guatemala (Guatemala)
+http://200.115.120.1:8000/playlist.m3u8    -  Guatemala (Guatemala)
 http://167.250.222.35:16000/playlist.m3u8    -  Guatemala (Guatemala)
 http://45.5.117.182:8000/playlist.m3u8    -  Guatemala (Guatemala)
 http://190.149.66.90:4000/playlist.m3u8    -  Guatemala (Guatemala)
