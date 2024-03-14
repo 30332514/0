@@ -342,6 +342,9 @@ http://191.97.60.193:10000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
 http://191.97.60.193:10000/play/a02z/index.m3u8
 
+#EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
+http://181.78.64.71:16123/play/ch54
+
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
 http://200.116.199.180:8000/play/a06s
 
