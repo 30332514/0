@@ -1444,7 +1444,7 @@ http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
-http://190.90.154.73:8080/play/a08z/index.m3u8
+http://206.62.161.251:22000/play/TNT_NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="TERROR TV" tvg-logo="https://i.postimg.cc/k524HRnY/TERROR-TV.png" group-title="Películas" tvg-name="TERROR TV",TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
