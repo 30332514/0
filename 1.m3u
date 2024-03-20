@@ -1300,7 +1300,7 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 http://138.59.177.34:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
-http://190.90.154.73:8080/play/a08u/index.m3u8
+http://181.78.208.237:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
 http://138.59.177.34:8000/play/a036/index.m3u8
