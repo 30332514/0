@@ -1456,7 +1456,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
+https://moviesphereuk-samsunguk.amagi.tv/480p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
