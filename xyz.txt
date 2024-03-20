@@ -31,7 +31,6 @@ http://201.218.150.34:8000/playlist.m3u8    -  Perú (Arequipa)
 http://38.43.140.97:8000/playlist.m3u8    -  Perú (Lima)
 http://191.97.60.193:10000/playlist.m3u8    -  Perú (Yurimaguas)
 http://190.108.85.20:9999/playlist.m3u8    -  Perú (Moyobamba)
-http://190.116.90.43:8000/playlist.m3u8    -  Perú (Cajamarca)
 
 http://177.234.230.226:8010/playlist.m3u8    -  Ecuador (Pasaje)
 http://45.71.252.67:8000/playlist.m3u8    -  Ecuador (Boca Suno)
