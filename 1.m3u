@@ -1284,9 +1284,6 @@ http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
-http://bantel.iptvperu.tv:1935/bantel/classic.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://i.postimg.cc/VvW25J6Y/DREAMWORKS.png" group-title="Películas" tvg-name="DREAMWORKS",DREAMWORKS
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
