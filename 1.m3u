@@ -793,7 +793,7 @@ http://190.61.43.117:45000/play/a03s
 http://138.59.177.34:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
-http://204.199.119.6:1012/play/a029
+http://204.157.251.250:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://138.59.177.34:8000/play/a03y/index.m3u8
