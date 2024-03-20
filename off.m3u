@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Ibiza Global Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b08a19ebf43dc88aa62a5acb380fa90f.webp" group-title="Musicales" tvg-name="Ibiza Global Tv ",Ibiza Global Tv 
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
 #EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
 http://bantel.iptvperu.tv:1935/bantel/classic.stream/playlist.m3u8
 
