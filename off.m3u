@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="WILD" tvg-logo="https://i.postimg.cc/ZY2LwRvX/national-geographic-wild.png" group-title="Generalistas" tvg-name="WILD",WILD
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nat Geo WILD" tvg-logo="https://i.postimg.cc/Y2mLJtPt/Nat-Geo-WILD.jpg" group-title="Documentales" tvg-name="Nat Geo WILD",Nat Geo WILD
 http://45.5.117.182:8000/play/a0jr/index.m3u8
 
