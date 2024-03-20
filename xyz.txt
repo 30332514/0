@@ -26,8 +26,6 @@ https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmk
 https://gist.github.com/elfenderes/797781909c162ebfb619f9d8b04f92fb
 
 
-http://38.56.109.19/playlist.m3u8    -  Estados Unidos (Del Mar)
-
 http://38.56.220.254:8000/playlist.m3u8    -  Perú (Chiclayo)
 http://201.218.150.34:8000/playlist.m3u8    -  Perú (Arequipa)
 http://38.43.140.97:8000/playlist.m3u8    -  Perú (Lima)
@@ -39,6 +37,9 @@ http://177.234.230.226:8010/playlist.m3u8    -  Ecuador (Pasaje)
 http://45.71.252.67:8000/playlist.m3u8    -  Ecuador (Boca Suno)
 http://190.95.220.212:8000/playlist.m3u8    -  Ecuador (Loja)
 
+http://181.78.208.237:8000/playlist.m3u8    -  Colombia (Bogota)
+http://204.199.119.6:1012/playlist.m3u8    -  Colombia (Bogota)
+http://45.65.137.206:8000/playlist.m3u8    -  Colombia (Tibu)
 http://181.78.64.71:16123/playlist.m3u8    -  Colombia (Bogota)
 http://181.78.75.83:5013/playlist.m3u8    -  Colombia (Medellin)
 http://206.62.161.251:22000/playlist.m3u8    -  Colombia (Maicao)
@@ -58,6 +59,9 @@ http://179.189.222.226:8000/playlist.m3u8    -  Colombia (Pasto)
 http://38.41.8.1:8000/playlist.m3u8    -  Venezuela (Caracas)
 http://200.59.188.3:8000/playlist.m3u8    -  Venezuela (Ciudad Ojeda)
 
+http://181.78.27.128:8000/playlist.m3u8    -  Paraguay (Asuncion)
+
+http://45.228.234.210:4000/playlist.m3u8    -  Guatemala (Guatemala)
 http://201.159.113.219:49000/playlist.m3u8    -  Guatemala (Guatemala)
 http://200.115.120.1:8000/playlist.m3u8    -  Guatemala (Guatemala)
 http://167.250.222.35:16000/playlist.m3u8    -  Guatemala (Guatemala)
@@ -66,8 +70,14 @@ http://190.149.66.90:4000/playlist.m3u8    -  Guatemala (Guatemala)
 
 http://168.181.122.234:8000/playlist.m3u8    -  Honduras (Puerto Castilla)
 
+http://204.157.251.250:8000/playlist.m3u8    -  Republica Dominicana (Nagua)
+http://204.157.251.250:8001/playlist.m3u8    -  Republica Dominicana (Nagua)
+
 http://190.110.109.104:52321/playlist.m3u8    -  Chile (Santiago)
+
 http://179.189.222.226:8000/playlist.m3u8    -  Brasil (Catalao)
+
+http://38.56.109.19/playlist.m3u8    -  Estados Unidos (Del Mar)
 
 https://iptv-org.github.io/iptv/index.m3u
 https://iptv-org.github.io/iptv/countries/pe.m3u
