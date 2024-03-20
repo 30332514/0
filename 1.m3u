@@ -69,9 +69,6 @@ https://www.chasquirouter.com/salida/trivu.m3u8
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/793066.ts
-
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 
