@@ -195,8 +195,8 @@ https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 #EXTINF:-1 tvg-id="DMJ Televisión" tvg-logo="https://i.postimg.cc/3xFQGtbh/dmj.png" group-title="Generalistas" tvg-name="DMJ Televisión",DMJ Televisión
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Generalistas" tvg-name="Retro Plus TV",Retro Plus TV
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vintage Music TV" tvg-logo="https://i.postimg.cc/qvysSRDb/Vintage-Music.png" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
@@ -323,12 +323,6 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="PLANETATV" tvg-logo="https://i.postimg.cc/9fVQ196R/PLANETATV.jpg" group-title="Películas" tvg-name="PLANETATV",PLANETATV
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Plus 2" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus 2",Retro Plus 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica PERÚ" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica PERÚ",Mimusica PERÚ
 http://191.97.60.193:10000/play/a030/index.m3u8
