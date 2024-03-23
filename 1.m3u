@@ -787,7 +787,7 @@ http://191.97.60.193:10000/play/a02q/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
-http://190.61.43.117:45000/play/a03s
+http://8.242.175.221:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
@@ -1372,7 +1372,7 @@ http://168.181.122.234:8000/play/a03r/index.m3u8
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
-http://177.234.230.226:8010/play/a00q/index.m3u8
+http://8.242.175.221:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
