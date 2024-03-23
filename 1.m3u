@@ -502,7 +502,7 @@ http://200.59.188.3:8000/play/a093
 http://181.78.64.71:16123/play/ch36
 
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
-http://45.177.53.7:8000/play/a0fl/index.m3u8
+http://45.71.252.67:8000/play/a0lv/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 http://200.116.199.180:8000/play/a04y
@@ -541,7 +541,7 @@ http://181.78.64.71:16123/play/ch34
 http://138.59.177.34:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
-http://200.116.199.180:8000/play/a05b
+http://138.121.15.228:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="Generalistas" tvg-name="Argentinísima Satelital",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -554,6 +554,9 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-id="SONY NOVELAS" tvg-logo="https://i.postimg.cc/3JcHQZMJ/Tele-Novelas.jpg" group-title="Películas" tvg-name="SONY NOVELAS",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
+http://138.121.15.228:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
 http://181.78.27.128:8000/play/a040/index.m3u8
