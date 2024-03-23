@@ -750,6 +750,9 @@ http://206.62.161.251:22000/play/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="animotion" tvg-logo="https://i.postimg.cc/HkwXdh4k/animotion.jpg" group-title="Infantiles" tvg-name="animotion",animotion
 http://191.97.60.193:10000/play/a02n/index.m3u8
 
+#EXTINF:-1 tvg-id="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Infantiles" tvg-name="AnimeStation",AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
