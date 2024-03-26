@@ -210,6 +210,9 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vintage Music TV" tvg-logo="https://i.postimg.cc/qvysSRDb/Vintage-Music.png" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
+https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
