@@ -508,7 +508,7 @@ http://200.59.188.3:8000/play/a093
 http://181.78.64.71:16123/play/ch36
 
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
-http://45.71.252.67:8000/play/a0lv/index.m3u8
+http://8.242.175.221:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 http://200.116.199.180:8000/play/a04y
