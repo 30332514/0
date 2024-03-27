@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
+http://72.76.116.158:8000/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-id="Recuerdos Retro Radio TV" tvg-logo="https://i.postimg.cc/q7pCrsgN/708090.png" group-title="Musicales" tvg-name="Recuerdos Retro Radio TV",Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ibiza Global Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b08a19ebf43dc88aa62a5acb380fa90f.webp" group-title="Musicales" tvg-name="Ibiza Global Tv ",Ibiza Global Tv 
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
