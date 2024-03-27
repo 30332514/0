@@ -121,6 +121,8 @@ https://freenote.biz/index.php/raw/xlo5yDXuCv
 https://paste.anasor.com/paste.php?raw&id=341633
 
 https://gist.github.com/ezersky/02dd60d60d7e1e3507fedf8187ce3718
+https://gist.github.com/Willonidas/965a21a978d77986c78cb83f85d32d6d
+https://gist.github.com/elfenderes
 https://github.com/la22lo/sports/tree/main
 https://github.com/iptv-org/iptv/tree/master/streams
 https://github.com/iptv-org/iptv/blob/master/streams/pe.m3u
@@ -128,7 +130,6 @@ https://github.com/brunochanrio/Listas-IPTV
 https://github.com/Diptv24/d531/tree/main
 https://tulistalatinam3u.blogspot.com/p/lista-iptvm3u-tv.html
 https://raw.githubusercontent.com/TUTVLATINA/Sept/main/Grup0
-https://gist.github.com/elfenderes
 
 https://www.vivalivetv.com/channel_guide
 https://github.com/Free-TV/IPTV/blob/04689b4f682d65939554cacc898cfd8c92b4fb43/playlists/playlist_spain.m3u8
