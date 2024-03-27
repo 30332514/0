@@ -213,9 +213,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
 https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vallenato Internacional" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Musicales" tvg-name="Vallenato Internacional",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.postimg.cc/3Nwc3cfV/Memoriastv.jpg" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
 https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8
 
@@ -230,9 +227,6 @@ https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Recuerdos Retro Radio TV" tvg-logo="https://i.postimg.cc/q7pCrsgN/708090.png" group-title="Musicales" tvg-name="Recuerdos Retro Radio TV",Recuerdos Retro Radio TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
@@ -778,7 +772,7 @@ http://204.199.119.6:1012/play/a04d
 http://38.43.140.97:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
-http://181.78.75.83:5013/play/a08p/index.m3u8
+http://8.242.175.221:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
 http://200.115.120.1:8000/play/ca014/index.m3u8
@@ -1039,7 +1033,7 @@ http://45.5.117.182:8000/play/a0hs/index.m3u8
 http://45.5.117.182:8000/play/a0hQ/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/654668.ts
+http://38.56.109.19/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -1417,7 +1411,7 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://190.149.66.90:4000/play/a056/index.m3u8
+http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.postimg.cc/bvP9NncZ/UNIVERSAL-CRIME.png" group-title="Películas" tvg-name="UNIVERSAL CRIME",UNIVERSAL CRIME
 http://138.59.177.34:8000/play/a05v/index.m3u8
