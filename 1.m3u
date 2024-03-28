@@ -927,9 +927,6 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321225.ts
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321224.ts
 
-#EXTINF:-1 tvg-id="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230712T021352SQUARE.png_20230712021353.png" group-title="Motor" tvg-name="Top Gear en Español",Top Gear en Español
-https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8
-
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321440.ts
 
@@ -950,6 +947,9 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/in
 
 #EXTINF:-1 tvg-id="C33 Madrid" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="Generalistas" tvg-name="C33 Madrid",C33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230712T021352SQUARE.png_20230712021353.png" group-title="Motor" tvg-name="Top Gear en Español",Top Gear en Español
+https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas" tvg-name="Tastemade Español",Tastemade Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
