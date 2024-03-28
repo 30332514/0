@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RTV Mogán" tvg-logo="https://i.postimg.cc/mZ6Hqzxz/RTV-Mog-n.jpg" group-title="Generalistas" tvg-name="RTV Mogán",RTV Mogán
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://i.postimg.cc/ncjfXVL4/HBO-MUNDI.jpg" group-title="Películas" tvg-name="HBO MUNDI",HBO MUNDI
 http://45.71.252.67:8000/play/a0l7/index.m3u8
 
