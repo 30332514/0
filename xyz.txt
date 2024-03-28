@@ -23,8 +23,6 @@ Delete: http://iptvh.it/oErzulvt9m
 https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=es
 
 // Fuentes
-https://gist.github.com/elfenderes/797781909c162ebfb619f9d8b04f92fb
-
 
 http://38.56.220.254:8000/playlist.m3u8    -  Perú (Chiclayo)
 http://201.218.150.34:8000/playlist.m3u8    -  Perú (Arequipa)
