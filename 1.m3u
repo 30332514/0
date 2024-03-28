@@ -129,9 +129,6 @@ http://191.97.60.193:10000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 http://191.97.60.193:10000/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
-
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 http://191.97.60.193:10000/play/a00d/index.m3u8
 
