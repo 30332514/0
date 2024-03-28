@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
+http://38.43.140.97:8000/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
 #EXTINF:-1 tvg-id="RTV Mogán" tvg-logo="https://i.postimg.cc/mZ6Hqzxz/RTV-Mog-n.jpg" group-title="Generalistas" tvg-name="RTV Mogán",RTV Mogán
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 
