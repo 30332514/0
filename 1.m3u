@@ -895,7 +895,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manif
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="Generalistas" tvg-name="Canal Sur",Canal Sur
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/680011.ts
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
