@@ -141,6 +141,15 @@ https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 http://191.97.60.193:10000/play/a00d/index.m3u8
 
+#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
+http://38.56.220.254:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
+http://38.56.220.254:8000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
+http://38.56.220.254:8000/play/a05x/index.m3u8
+
 #EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 
@@ -498,9 +507,6 @@ http://190.149.66.90:4000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="Globovisión" tvg-logo="https://i.postimg.cc/Px5NnyYh/Globovisi-n.jpg" group-title="Películas" tvg-name="Globovisión",Globovisión
 http://200.59.188.3:8000/play/a093
 
-#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
-http://181.78.64.71:16123/play/ch36
-
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
 http://8.242.175.221:8000/play/a03a/index.m3u8
 
@@ -757,16 +763,16 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
-http://38.43.140.97:8000/play/a01j/index.m3u8
+http://8.242.175.221:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/758378.ts
+http://8.242.175.221:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
 http://204.199.119.6:1012/play/a04d
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://38.43.140.97:8000/play/a03w/index.m3u8
+http://8.242.175.221:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://8.242.175.221:8000/play/a04h/index.m3u8
