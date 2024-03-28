@@ -1122,9 +1122,6 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="NORTEvisión" tvg-logo="https://i.postimg.cc/TPqbHtGf/NORTEvisi-n.jpg" group-title="Generalistas" tvg-name="NORTEvisión",NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
 
-#EXTINF:-1 tvg-id="RTV Mogán" tvg-logo="https://i.postimg.cc/mZ6Hqzxz/RTV-Mog-n.jpg" group-title="Generalistas" tvg-name="RTV Mogán",RTV Mogán
-https://cloudvideo.servers10.com:8081/8028/index.m3u8
-
 #EXTINF:-1 tvg-id="Lancelot TV" tvg-logo="https://i.postimg.cc/XqTXv53s/Lancelot-TV.jpg" group-title="Generalistas" tvg-name="Lancelot TV",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
