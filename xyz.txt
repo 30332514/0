@@ -69,6 +69,7 @@ http://190.149.66.90:4000/playlist.m3u8    -  Guatemala (Guatemala)
 http://45.4.85.213:58001/playlist.m3u8    -  Honduras (Sula)
 http://190.83.2.239:8000/playlist.m3u8    -  Honduras (La Sabana)
 http://168.181.122.234:8000/playlist.m3u8    -  Honduras (Puerto Castilla)
+http://138.59.177.34:8000/playlist.m3u8    -  Honduras (San Pedro Sula)
 
 http://204.157.251.250:8000/playlist.m3u8    -  Republica Dominicana (Nagua)
 http://204.157.251.250:8001/playlist.m3u8    -  Republica Dominicana (Nagua)
