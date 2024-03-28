@@ -939,6 +939,9 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321215.ts
 
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Cocina",Canal Cocina
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321148.ts
+
 #EXTINF:-1 tvg-id="Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name="Nortevision",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
