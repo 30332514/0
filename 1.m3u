@@ -979,7 +979,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321286.ts
 http://45.5.117.182:8000/play/a0id/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
