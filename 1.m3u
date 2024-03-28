@@ -388,7 +388,7 @@ http://45.5.117.182:8000/play/a0if/index.m3u8
 http://45.228.234.210:4000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
-http://45.5.117.182:8000/play/a0f1/index.m3u8
+http://138.59.177.34:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://138.59.177.34:8000/play/a05q/index.m3u8
