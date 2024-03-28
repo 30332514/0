@@ -562,7 +562,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 http://138.121.15.228:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://181.78.27.128:8000/play/a040/index.m3u8
+http://181.205.130.194:4000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://138.59.177.34:8000/play/a079/index.m3u8
