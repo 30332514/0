@@ -546,9 +546,6 @@ http://bantel.iptvperu.tv:1935/transcoderip/Univision_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UNIMÁS" tvg-logo="https://i.postimg.cc/63xLS4TL/UNIM-S.jpg" group-title="Películas" tvg-name="UNIMÁS",UNIMÁS
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
-
 #EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Generalistas" tvg-name="glitz*",glitz*
 http://181.78.64.71:16123/play/ch34
 
