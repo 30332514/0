@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 01" tvg-logo="" group-title=":::XXX:::",XXX | 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/529
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 02" tvg-logo="" group-title=":::XXX:::",XXX | 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/530
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 03" tvg-logo="" group-title=":::XXX:::",XXX | 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/531
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 04" tvg-logo="" group-title=":::XXX:::",XXX | 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/532
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 05" tvg-logo="" group-title=":::XXX:::",XXX | 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/533
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 06" tvg-logo="" group-title=":::XXX:::",XXX | 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/534
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 07" tvg-logo="" group-title=":::XXX:::",XXX | 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/535
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 08" tvg-logo="" group-title=":::XXX:::",XXX | 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/536
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 09" tvg-logo="" group-title=":::XXX:::",XXX | 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/537
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 10" tvg-logo="" group-title=":::XXX:::",XXX | 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/538
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | SEXMEX" tvg-logo="" group-title=":::XXX:::",XXX | SEXMEX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/539
+
 #EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
 http://161.132.194.88:7076/play/a0vt/index.m3u8
 
