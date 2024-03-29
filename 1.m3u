@@ -972,6 +972,9 @@ https://cdn7.lqsa.es/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240313T073218SQUARE.png" group-title="Comedia" tvg-name="Comedia Made in Spain",Comedia Made in Spain
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800005C5.m3u8
+
 #EXTINF:-1 tvg-id="La Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Comedia" tvg-name="La Resistencia",La Resistencia
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321286.ts
 
