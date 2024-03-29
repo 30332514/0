@@ -732,9 +732,6 @@ https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="Trace Sportstars" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300035DP_20220323T081930SQUARE.png_20220323081932.png" group-title="Deportivos" tvg-name="Trace Sportstars",Trace Sportstars
-https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
-
 #EXTINF:-1 tvg-id="TITAN" tvg-logo="https://i.postimg.cc/qRmG03LM/TITAN.jpg" group-title="Deportivos" tvg-name="TITAN",TITAN
 http://191.97.60.193:10000/play/a04d/index.m3u8
 
@@ -899,9 +896,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manif
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
-
-#EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png" group-title="Generalistas" tvg-name="Canal Sur",Canal Sur
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/680011.ts
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
