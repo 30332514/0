@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/qvx7t2MY/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
+http://191.97.60.193:10000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="animotion" tvg-logo="https://i.postimg.cc/HkwXdh4k/animotion.jpg" group-title="Infantiles" tvg-name="animotion",animotion
+http://191.97.60.193:10000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="FMH KIDS" tvg-logo="https://i.postimg.cc/mrbJV7pm/FMH-Kids.jpg" group-title="Infantiles" tvg-name="FMH KIDS",FMH KIDS
+http://191.97.60.193:10000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="FMH MOVIES" tvg-logo="https://i.postimg.cc/X7P9sW2m/FMH-Movies.jpg" group-title="Películas" tvg-name="FMH MOVIES",FMH MOVIES
+http://191.97.60.193:10000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="FMH FAMILY" tvg-logo="https://i.postimg.cc/76qz5Z6G/FMH-Family.jpg" group-title="Películas" tvg-name="FMH FAMILY",FMH FAMILY
+http://191.97.60.193:10000/play/a02p/index.m3u8
+
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 
