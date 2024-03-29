@@ -498,6 +498,15 @@ http://190.61.43.117:45000/play/a01m
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="Generalistas" tvg-name="RCN Xtra",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
+http://181.205.130.194:4000/play/a07v/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN Nuestra Tele Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/320px-RCN_Nuestra_Tele_logo.svg.png" group-title="Generalistas" tvg-name="RCN Nuestra Tele Internacional",RCN Nuestra Tele Internacional
+http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://i.postimg.cc/3JwfvcmQ/CanalTRO.jpg" group-title="Generalistas" tvg-name="Canal TRO",Canal TRO
 http://45.177.53.7:8000/play/a04q/index.m3u8
 
@@ -560,12 +569,6 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-id="SONY NOVELAS" tvg-logo="https://i.postimg.cc/3JcHQZMJ/Tele-Novelas.jpg" group-title="Películas" tvg-name="SONY NOVELAS",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
-http://138.121.15.228:8000/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://181.205.130.194:4000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://138.59.177.34:8000/play/a079/index.m3u8
