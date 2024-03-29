@@ -505,7 +505,7 @@ http://190.149.66.90:4000/play/a03c/index.m3u8
 http://200.59.188.3:8000/play/a093
 
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
-http://8.242.175.221:8000/play/a03a/index.m3u8
+http://204.199.119.6:1012/play/a0a4
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 http://200.116.199.180:8000/play/a04y
@@ -772,7 +772,7 @@ http://204.199.119.6:1012/play/a04d
 http://8.242.175.221:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
-http://8.242.175.221:8000/play/a04h/index.m3u8
+http://204.199.119.6:1012/play/a09n
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
 http://200.115.120.1:8000/play/ca014/index.m3u8
@@ -783,6 +783,12 @@ http://190.121.153.89:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 http://190.121.153.89:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
+https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
+
+#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
+http://204.199.119.6:1012/play/a0c2
+
 #EXTINF:-1 tvg-id="Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="Infantiles" tvg-name="Dos Kids",Dos Kids
 http://190.110.109.104:52321/play/a00w/index.m3u8
 
@@ -791,12 +797,6 @@ http://191.97.60.193:10000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-
-#EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
-https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
-
-#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
-http://8.242.175.221:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
@@ -1447,7 +1447,7 @@ http://45.5.117.182:8000/play/a0fr/index.m3u8
 http://138.59.177.34:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://190.149.66.90:4000/play/a02m/index.m3u8
+http://204.199.119.6:1012/play/a04j
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
