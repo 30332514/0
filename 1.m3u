@@ -543,6 +543,9 @@ http://138.59.177.34:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
 http://138.121.15.228:8000/play/a02q/index.m3u8
 
+#EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/2ynkf80r/am-rica.png" group-title="Generalistas" tvg-name="América TV Internacional",América TV Internacional
+http://181.205.130.194:4000/play/a089/index.m3u8
+
 #EXTINF:-1 tvg-id="Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="Generalistas" tvg-name="Argentinísima Satelital",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
