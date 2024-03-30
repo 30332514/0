@@ -912,7 +912,7 @@ https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3
 #EXTINF:-1 tvg-id="La 7" tvg-logo="https://i.postimg.cc/1zys0YTy/La7.png" group-title="Generalistas"" tvg-name="La 7",La 7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gol Play" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="Gol Play",Gol Play
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="GOL PLAY",GOL PLAY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
