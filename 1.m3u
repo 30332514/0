@@ -892,7 +892,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/775862.ts
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
@@ -913,7 +913,7 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
