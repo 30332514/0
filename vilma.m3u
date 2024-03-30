@@ -37,10 +37,10 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/775862.ts
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
@@ -119,9 +119,6 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
 https://video2.lhdserver.es/cableperu/live.m3u8
-
-#EXTINF:-1 tvg-id="Latin CABLE" tvg-logo="https://i.postimg.cc/Z5SY4ZSB/Latin-CABLE.png" group-title="Generalistas" tvg-name="Latin CABLE",Latin CABLE
-https://mserver.latincable.net/LatinTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
