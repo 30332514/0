@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.postimg.cc/7LF42d7W/la2.png" group-title="Generalistas"" tvg-name="La 2",La 2
-https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
 http://45.5.117.182:8000/play/a0fu/index.m3u8
@@ -19,10 +19,10 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321086.ts
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
-https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
-https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/550861.ts
@@ -46,7 +46,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321374.ts
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321383.ts
@@ -79,7 +79,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321152.ts
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://i.mjh.nz/SamsungTVPlus/ESBD3000002GP.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Andalucia Cocina" tvg-logo="https://i.postimg.cc/ryNqVKDs/Canal-Andalucia-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Andalucia Cocina",Canal Andalucia Cocina
 http://200.59.188.3:8000/play/a0eh
@@ -88,19 +88,28 @@ http://200.59.188.3:8000/play/a0eh
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
-https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
+https://ott1.hdlatam.tv/live/nacionaltvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
+http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Generalistas" tvg-name="Justicia TV",Justicia TV
+http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://190.116.90.43:8000/play/a004
@@ -108,14 +117,26 @@ http://190.116.90.43:8000/play/a004
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
 http://190.116.90.43:8000/play/a00a
 
+#EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
+http://bantel.iptvperu.tv:1935/astralocal/PBO/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
 http://191.97.60.193:10000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
+http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
+https://www.chasquirouter.com/salida/trivu.m3u8
+
+#EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
+http://191.97.60.193:10000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
