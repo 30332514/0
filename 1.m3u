@@ -762,9 +762,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 #EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://i.postimg.cc/T1FFPWtr/Adult-Swim.jpg" group-title="Infantiles" tvg-name="Adult Swim",Adult Swim
 http://206.62.161.251:22000/play/ADULT_SWIM/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Infantiles" tvg-name="AnimeStation",AnimeStation
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
