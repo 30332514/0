@@ -885,6 +885,9 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/550861.ts
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
 
+#EXTINF:-1 tvg-id="Boing" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Generalistas" tvg-name="Boing",Boing
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
+
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
