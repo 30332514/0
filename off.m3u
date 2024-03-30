@@ -15,6 +15,9 @@ http://191.97.60.193:10000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="FMH FAMILY" tvg-logo="https://i.postimg.cc/76qz5Z6G/FMH-Family.jpg" group-title="Películas" tvg-name="FMH FAMILY",FMH FAMILY
 http://191.97.60.193:10000/play/a02p/index.m3u8
 
+#EXTINF:-1 tvg-id="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Infantiles" tvg-name="AnimeStation",AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 
