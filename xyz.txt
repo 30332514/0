@@ -147,3 +147,23 @@ https://tgstat.com/uz/channel/@EXM3U
 
 // Fuentes......
 https://github.com/issues?q=
+
+___________________________________________________________________________________________________________________________________________________________________
+Estos parámetros pueden ayudar a mejorar la estabilidad y calidad de la reproducción del enlace m3u8. Puedes ajustar los valores según tus necesidades específicas.
+
+    https://example.com/video_playlist.m3u8?bw=5000&segment_size=10&max_bitrate=4000&min_bitrate=1000&frame_rate=30
+
+* bw=5000: Establece un ancho de banda máximo de 5000 Kbps.
+* segment_size=10: Especifica un tamaño máximo de segmento de 10 segundos.
+* max_bitrate=4000: Define una velocidad de bits máxima de 4000 Kbps.
+* min_bitrate=1000: Establece una velocidad de bits mínima de 1000 Kbps.
+* frame_rate=30: Indica una velocidad de fotogramas de 30 fotogramas por segundo.
+
+___________________________________________________________________________________________________________________________________________________________________
+Este parámetro es específico del servidor HLS y se utiliza para filtrar los segmentos de video basados en la tasa de bits del video.
+En este caso, indica que se incluirán segmentos de video con tasas de bits comprendidas entre 1 y 4194304 (en bits por segundo).
+En resumen, el enlace proporcionado apunta a un archivo m3u8 que contiene segmentos de video con tasas de bits entre 1 y 4194304.
+
+    https://example.com/video_playlist.m3u8?manifestfilter=video_bitrate:1-4194304
+
+* manifestfilter=video_bitrate:1-4194304
