@@ -93,8 +93,11 @@ http://200.59.188.3:8000/play/a0eh
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="Gol Play" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="Gol Play",Gol Play
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="GOL PLAY",GOL PLAY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SOLIDARIA TV" tvg-logo="http://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="Generalistas" tvg-name="SOLIDARIA TV",SOLIDARIA TV
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/785723.ts
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
