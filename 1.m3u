@@ -306,14 +306,17 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20230712T021349SQUARE.png_20230712021349.png" group-title="Musicales" tvg-name="Sol Música",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
+#EXTINF:-1 tvg-id="La Bocina Latina" tvg-logo="https://i.postimg.cc/05S0PNx5/La-Bocina-Latina.jpg" group-title="Musicales" tvg-name="La Bocina Latina",La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+
 #EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20230614T005923SQUARE.png_20230614005923.png" group-title="Musicales" tvg-name="Trace Latina",Trace Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20230614T005924SQUARE.png_20230614005925.png" group-title="Musicales" tvg-name="Trace Urban",Trace Urban
 https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La Bocina Latina" tvg-logo="https://i.postimg.cc/05S0PNx5/La-Bocina-Latina.jpg" group-title="Musicales" tvg-name="La Bocina Latina",La Bocina Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+#EXTINF:-1 tvg-id="TRACE Brasil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Musicales" tvg-name="TRACE Brasil",TRACE Brasil
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-6329474265c8569187176338.m3u8
 
 #EXTINF:-1 tvg-id="The Grid" tvg-logo="https://i.postimg.cc/DyVnDxfp/theGrid.jpg" group-title="Musicales" tvg-name="The Grid",The Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-grid/playlist.m3u8
