@@ -262,7 +262,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/playlist.m3u8
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio San Borja TV" tvg-logo="https://i.postimg.cc/d1D3J1xx/radiosanborja.png" group-title="Musicales" tvg-name="Radio San Borja TV",Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 
 #EXTINF:-1 tvg-id="Activa TV" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
