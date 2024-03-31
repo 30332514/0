@@ -23,6 +23,7 @@ Delete: http://iptvh.it/oErzulvt9m
 https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=es
 
 // Fuente Samsung Plus TV
+https://i.mjh.nz/SamsungTVPlus/
 https://i.mjh.nz/SamsungTVPlus/es.m3u8
 https://i.mjh.nz/SamsungTVPlus/all.m3u8
 
