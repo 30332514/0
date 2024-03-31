@@ -585,6 +585,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.postimg.cc/28r3nyrn/NOVELISIMA.png" group-title="Novelas" tvg-name="NOVELISIMA",NOVELISIMA
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-64d4e82ac5d4668c9cb7b5df.m3u8
 
+#EXTINF:-1 tvg-id="Oro TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc1bc8ab-32db-4b42-ae66-d4e07eaa0a9f/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="Novelas" tvg-name="Oro TV",Oro TV
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa.m3u8
+
 #EXTINF:-1 tvg-id="Tlnovelas Europa" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Europa",Tlnovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
