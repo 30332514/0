@@ -873,8 +873,11 @@ http://177.234.230.226:8010/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
 http://177.234.230.226:8010/play/a041/index.m3u8
 
-#EXTINF:-1 tvg-id="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240214T035652SQUARE.png_20240214035653.png" group-title="Generalistas"" tvg-name="Acacias 38",Acacias 38
+#EXTINF:-1 tvg-id="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240214T035652SQUARE.png_20240214035653.png" group-title="Drama"" tvg-name="Acacias 38",Acacias 38
 https://i.mjh.nz/SamsungTVPlus/ES4000016U.m3u8
+
+#EXTINF:-1 tvg-id="Cuentame como Paso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240313T073233SQUARE.png" group-title="Drama"" tvg-name="Cuentame como Paso",Cuentame como Paso
+https://i.mjh.nz/SamsungTVPlus/ES400002P5.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
