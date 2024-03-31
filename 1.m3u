@@ -583,12 +583,12 @@ http://181.78.208.237:8000/play/a03d/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.postimg.cc/28r3nyrn/NOVELISIMA.png" group-title="Novelas" tvg-name="NOVELISIMA",NOVELISIMA
-http://200.59.188.3:8000/play/a0ef
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-64d4e82ac5d4668c9cb7b5df.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas Europa" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Europa",Tlnovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas",Tlnovelas
+#EXTINF:-1 tvg-id="Tlnovelas Latinoamerica" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Latinoamerica",Tlnovelas Latinoamerica
 http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
