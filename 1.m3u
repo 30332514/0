@@ -1185,6 +1185,9 @@ http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
 http://45.5.117.182:8000/play/a0fj/index.m3u8
 
+#EXTINF:-1 tvg-id="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20240319T052636SQUARE.png" group-title="Documentales" tvg-name="NatureTime",NatureTime
+https://i.mjh.nz/SamsungTVPlus/ESBA22000102A.m3u8
+
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
 http://45.5.117.182:8000/play/a0ey/index.m3u8
 
@@ -1283,6 +1286,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
 
 #EXTINF:-1 tvg-id="Dark Matter TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20221109T010705SQUARE.png_20221109010706.png" group-title="Películas" tvg-name="Dark Matter TV",Dark Matter TV
 https://i.mjh.nz/SamsungTVPlus/ESBC40000248.m3u8
+
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png" group-title="Películas" tvg-name="MyTime Movie Network",MyTime Movie Network
+https://i.mjh.nz/SamsungTVPlus/ESBA2200004G5.m3u8
 
 #EXTINF:-1 tvg-id="Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Películas" tvg-name="Cinelife",Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
