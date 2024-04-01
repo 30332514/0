@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="Generalistas" tvg-name="Argentinísima Satelital",Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
 #EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
 http://177.234.230.226:8010/play/a00e/index.m3u8
 
