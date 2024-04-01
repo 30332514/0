@@ -462,9 +462,6 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-id="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Generalistas" tvg-name="Agrotendencia TV",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TU UNIVERSO TV" tvg-logo="https://i.postimg.cc/76CtRM5Q/TU-UNIVERSO-CHANNEL.jpg" group-title="Generalistas" tvg-name="TU UNIVERSO TV",TU UNIVERSO TV
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM" group-title="Generalistas" tvg-name="Extrema TV",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
