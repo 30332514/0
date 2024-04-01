@@ -790,10 +790,10 @@ http://204.199.119.6:1012/play/a09n
 http://200.115.120.1:8000/play/ca014/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-http://190.121.153.89:8000/play/a03e/index.m3u8
+http://204.199.119.6:1012/play/a018
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
-http://190.121.153.89:8000/play/a00t/index.m3u8
+http://204.199.119.6:1012/play/a042
 
 #EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
 https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
