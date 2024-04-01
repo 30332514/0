@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Locomotion TV" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Infantiles" tvg-name="Locomotion TV",Locomotion TV
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+
 #EXTINF:-1 tvg-id="ATLAS" tvg-logo="https://i.postimg.cc/qvx7t2MY/ATLAS.jpg" group-title="Generalistas" tvg-name="ATLAS",ATLAS
 http://191.97.60.193:10000/play/a02o/index.m3u8
 
