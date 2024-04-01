@@ -147,9 +147,6 @@ http://38.56.220.254:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://i.postimg.cc/2yzsRhp8/TELEVEN.jpg" group-title="Generalistas" tvg-name="TELEVEN",TELEVEN
 http://38.41.8.1:8000/play/a03x
 
-#EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
-https://vdo.grupolimalive.com:3245/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
@@ -197,6 +194,9 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
