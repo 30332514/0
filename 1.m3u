@@ -82,7 +82,7 @@ http://191.97.60.193:10000/play/a020/index.m3u8
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?nimblesessionid=76741069&manifestfilter=video_bitrate:1-4194304&uid=74530
+https://www.ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 http://191.97.60.193:10000/play/a06c/index.m3u8
