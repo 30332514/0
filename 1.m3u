@@ -85,7 +85,7 @@ https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 https://www.ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
-http://191.97.60.193:10000/play/a06c/index.m3u8
+https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
@@ -139,7 +139,7 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 https://servilive.com:3757/live/regiontvlive.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
-http://191.97.60.193:10000/play/a00d/index.m3u8
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
 http://38.56.220.254:8000/play/a06x/index.m3u8
@@ -160,7 +160,7 @@ https://live.obslivestream.com/canal8/index.m3u8
 https://live.obslivestream.com/geniostvmux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
-http://191.97.60.193:10000/play/a046/index.m3u8
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-logo="https://i.postimg.cc/sDCQnVZk/Frecuencia-Musical-TV.jpg" group-title="Generalistas" tvg-name="Frecuencia Musical TV",Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
@@ -178,7 +178,7 @@ https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
-http://191.97.60.193:10000/play/a03g/index.m3u8
+https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CREO MOVIE" tvg-logo="https://i.postimg.cc/PxCt3bpW/CREO-MOVIE.jpg" group-title="Generalistas" tvg-name="CREO MOVIE",CREO MOVIE
 http://191.97.60.193:10000/play/a03h/index.m3u8
@@ -187,7 +187,7 @@ http://191.97.60.193:10000/play/a03h/index.m3u8
 http://191.97.60.193:10000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
-http://191.97.60.193:10000/play/a03f/index.m3u8
+https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
