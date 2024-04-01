@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
+http://177.234.230.226:8010/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-id="Locomotion TV" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Infantiles" tvg-name="Locomotion TV",Locomotion TV
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
