@@ -273,7 +273,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20240214T035646SQUARE.png_20240214035647.png" group-title="Musicales" tvg-name="FreeTV Hits",FreeTV Hits
+#EXTINF:-1 tvg-id="FreeTV HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20240214T035646SQUARE.png_20240214035647.png" group-title="Musicales" tvg-name="FreeTV HITS",FreeTV HITS
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
@@ -1491,13 +1491,13 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeTV 8.2" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.2",FreeTV 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Clásico" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" group-title="Películas" tvg-name="FreeTV Clásico",FreeTV Clásico
+#EXTINF:-1 tvg-id="FreeTV CLÁSICO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" group-title="Películas" tvg-name="FreeTV CLÁSICO",FreeTV CLÁSICO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png" group-title="Películas" tvg-name="FreeTV Estelar",FreeTV Estelar
+#EXTINF:-1 tvg-id="FreeTV ESTELAR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png" group-title="Películas" tvg-name="FreeTV ESTELAR",FreeTV ESTELAR
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Live" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="Películas" tvg-name="FreeTV Live",FreeTV Live
+#EXTINF:-1 tvg-id="FreeTV LIVE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="Películas" tvg-name="FreeTV LIVE",FreeTV LIVE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
