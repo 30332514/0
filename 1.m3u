@@ -114,6 +114,9 @@ https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
+#EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
+https://www.milenial.news/salida/sd/milenial.m3u8
+
 #EXTINF:-1 tvg-id="Canal J" tvg-logo="https://i.postimg.cc/j2hy8rJn/Canal-J.jpg" group-title="Generalistas" tvg-name="Canal J",Canal J
 http://191.97.60.193:10000/play/a04w/index.m3u8
 
