@@ -144,18 +144,6 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
-http://38.56.220.254:8000/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
-http://38.56.220.254:8000/play/a04x/index.m3u8
-
-#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
-http://38.56.220.254:8000/play/a05x/index.m3u8
-
-#EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://i.postimg.cc/2yzsRhp8/TELEVEN.jpg" group-title="Generalistas" tvg-name="TELEVEN",TELEVEN
-http://38.41.8.1:8000/play/a03x
-
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
@@ -503,6 +491,12 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/mgSnB0m1/telesur.jpg" group-title="Generalistas" tvg-name="Telesur",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
+http://38.41.8.1:8000/play/a0a0
+
+#EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://i.postimg.cc/2yzsRhp8/TELEVEN.jpg" group-title="Generalistas" tvg-name="TELEVEN",TELEVEN
+http://38.41.8.1:8000/play/a03x
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
 http://190.61.43.117:45000/play/a01m
