@@ -339,25 +339,28 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 tvg-id="PLANETATV" tvg-logo="https://i.postimg.cc/9fVQ196R/PLANETATV.jpg" group-title="Películas" tvg-name="PLANETATV",PLANETATV
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica PERÚ" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musicales" tvg-name="Mimusica PERÚ",Mimusica PERÚ
+#EXTINF:-1 tvg-id="Mimusica PERÚ" tvg-logo="https://i.postimg.cc/KcnqBjZr/MIMUSICA-PER.jpg" group-title="Musicales" tvg-name="Mimusica PERÚ",Mimusica PERÚ
 http://191.97.60.193:10000/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
-http://181.78.64.71:16123/play/ch55
-
-#EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
-http://181.78.64.71:16123/play/ch54
-
-#EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
+#EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
 http://181.78.64.71:16123/play/ch53
 
-#EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/141fg9Xr/MIMUSICA-POPULAR.png" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
+#EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
+http://181.78.64.71:16123/play/ch54
+
+#EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://i.postimg.cc/SNR9q1t2/MIMUSICA-SALSA.jpg" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
+http://181.78.64.71:16123/play/ch55
+
+#EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
 http://181.78.64.71:16123/play/ch56
 
-#EXTINF:-1 tvg-id="Mimusica HITS" tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Musicales" tvg-name="Mimusica HITS",Mimusica HITS
+#EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
+http://177.234.230.226:8010/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="Mimusica HITS" tvg-logo="https://i.postimg.cc/vTg67cn7/MIMUSICA-HITS.jpg" group-title="Musicales" tvg-name="Mimusica HITS",Mimusica HITS
 http://191.97.60.193:10000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://pbs.twimg.com/media/GBfFnzsWIAANRaR?format=png&name=900x900" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
+#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://i.postimg.cc/jqmfx4VM/MIMUSICA-K-POP.jpg" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
 http://191.97.60.193:10000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
