@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
+http://38.56.220.254:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
+http://38.56.220.254:8000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
+http://38.56.220.254:8000/play/a05x/index.m3u8
+
 #EXTINF:-1 tvg-id="TU UNIVERSO TV" tvg-logo="https://i.postimg.cc/76CtRM5Q/TU-UNIVERSO-CHANNEL.jpg" group-title="Generalistas" tvg-name="TU UNIVERSO TV",TU UNIVERSO TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
@@ -612,12 +621,6 @@ http://170.81.240.10:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="NAZARENAS TV" tvg-logo="https://i.postimg.cc/K8McG2CF/NAZARENAS-TV.png" group-title="Generalistas" tvg-name="NAZARENAS TV",NAZARENAS TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VeneTv" tvg-logo="https://i.postimg.cc/FsNh86NP/VeneTV.jpg" group-title="Generalistas" tvg-name="VeneTv",VeneTv
-http://170.81.240.10:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
-http://170.81.240.10:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="QUASSAR TELEVISIÓN" tvg-logo="https://i.postimg.cc/nh3vKq00/QUASSAR-TELEVISI-N.jpg" group-title="Generalistas" tvg-name="QUASSAR TELEVISIÓN",QUASSAR TELEVISIÓN
 https://gnstreammedia.com:19360/4000/4000.m3u8
