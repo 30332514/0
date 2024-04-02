@@ -343,7 +343,7 @@ https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 http://191.97.60.193:10000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
-http://191.97.60.193:10000/play/a02z/index.m3u8
+http://181.78.64.71:16123/play/ch55
 
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
 http://181.78.64.71:16123/play/ch54
