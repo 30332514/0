@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
-https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://jireh-1-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
@@ -61,13 +61,13 @@ http://190.116.90.43:8000/play/a00a
 http://bantel.iptvperu.tv:1935/astralocal/PBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
-https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
 http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
