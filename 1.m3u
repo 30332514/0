@@ -340,7 +340,7 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica PERÚ" tvg-logo="https://i.postimg.cc/KcnqBjZr/MIMUSICA-PER.jpg" group-title="Musicales" tvg-name="Mimusica PERÚ",Mimusica PERÚ
-http://191.97.60.193:10000/play/a030/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
 http://181.78.64.71:16123/play/ch53
