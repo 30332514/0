@@ -46,10 +46,10 @@ http://117.55.203.48:37500/972483615538/185177820594/115928
 http://117.55.203.48:37500/972483615538/185177820594/115931
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://117.55.203.48:37500/972483615538/185177820594/116707
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/775862.ts
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-http://117.55.203.48:37500/972483615538/185177820594/116686
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
 http://117.55.203.48:37500/972483615538/185177820594/116040
@@ -100,7 +100,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manife
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/540948.ts
 
 #EXTINF:-1 tvg-id="SOLIDARIA TV" tvg-logo="http://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="Generalistas" tvg-name="SOLIDARIA TV",SOLIDARIA TV
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/785723.ts
+http://117.55.203.48:37500/972483615538/185177820594/45423
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
@@ -109,7 +109,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321215.ts
+http://117.55.203.48:37500/972483615538/185177820594/116206
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
 http://bantel.iptvperu.tv:1935/transcoderip/latina_t1/playlist.m3u8
