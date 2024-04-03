@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
+http://190.116.90.43:8000/play/a004
+
+#EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
+http://190.116.90.43:8000/play/a00a
+
 #EXTINF:-1 tvg-id="SazonTV" tvg-logo="https://i.postimg.cc/C1S8zNbm/SazonTV.jpg" group-title="Generalistas" tvg-name="SazonTV",SazonTV
 http://38.56.220.254:8000/play/a06x/index.m3u8
 
