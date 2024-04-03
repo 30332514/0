@@ -123,9 +123,6 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
 https://www.milenial.news/salida/sd/milenial.m3u8
 
-#EXTINF:-1 tvg-id="Canal J" tvg-logo="https://i.postimg.cc/j2hy8rJn/Canal-J.jpg" group-title="Generalistas" tvg-name="Canal J",Canal J
-http://191.97.60.193:10000/play/a04w/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal B" tvg-logo="https://i.postimg.cc/SR6gskRG/CanalB.jpg" group-title="Generalistas" tvg-name="Canal B",Canal B
 http://bantel.iptvperu.tv:1935/Server_OTT/CanalB/playlist.m3u8
 
@@ -176,12 +173,6 @@ https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
 https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CREO MOVIE" tvg-logo="https://i.postimg.cc/PxCt3bpW/CREO-MOVIE.jpg" group-title="Generalistas" tvg-name="CREO MOVIE",CREO MOVIE
-http://191.97.60.193:10000/play/a03h/index.m3u8
-
-#EXTINF:-1 tvg-id="URBANO TV" tvg-logo="https://i.postimg.cc/fW1CC8HZ/URBANO-TV.png" group-title="Generalistas" tvg-name="URBANO TV",URBANO TV
-http://191.97.60.193:10000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
