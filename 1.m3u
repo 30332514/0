@@ -408,14 +408,54 @@ http://138.59.177.34:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://138.59.177.34:8000/play/a05q/index.m3u8
 
+
+#EXTINF:-1 tvg-id="MTV Women" tvg-logo="https://images.pluto.tv/channels/63c169cfd3485c0007670e91/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Women",MTV Women
+https://r.mjh.nz/PlutoTV/63c169cfd3485c0007670e91-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Vergüenza ajena",MTV Vergüenza ajena
+https://r.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
+
+#EXTINF:-1 tvg-id=" MTV Catfish TV Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" group-title="Entretenimiento" tvg-name=" MTV Catfish TV Show", MTV Catfish TV Show
+https://r.mjh.nz/PlutoTV/5f1ab3c7778230000735cf41-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Jerseys",MTV Jerseys
+https://r.mjh.nz/PlutoTV/62ac3d7dc23b400008ae5b5a-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Geordies",MTV Geordies
+https://r.mjh.nz/PlutoTV/627d3176d7dfa500077042f1-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Realities",MTV Realities
+https://r.mjh.nz/PlutoTV/6130d8dc943001000708548d-alt.m3u8
+
 #EXTINF:-1 tvg-id="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20221026T004458SQUARE.png_20221026004458.png" group-title="Entretenimiento" tvg-name="MTV Originals",MTV Originals
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+https://r.mjh.nz/PlutoTV/5f1aadf373bed3000794d1d7-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Teen Mom",MTV Teen Mom
+https://r.mjh.nz/PlutoTV/604f81a49ef73300070e554f-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Embarazada a los 16",MTV Embarazada a los 16
+https://r.mjh.nz/PlutoTV/5f98537a5a4341000733aefe-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Tattoo a dos",MTV Tattoo a dos
+https://r.mjh.nz/PlutoTV/611b87946b7f420007c22361-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Party Music",MTV Party Music
+https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Music Made in Spain",MTV Music Made in Spain
+https://r.mjh.nz/PlutoTV/60a26a056d55b30007918d5a-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Urban Music" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Urban Music",MTV Urban Music
+https://r.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
+
+#EXTINF:-1 tvg-id="Yo! MTV Raps Classic" tvg-logo="https://images.pluto.tv/channels/64db35b44c5ed80008f6a3ed/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="Yo! MTV Raps Classic",Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
+
+#EXTINF:-1 tvg-id="MTV Movie Hits" tvg-logo="https://images.pluto.tv/channels/656de9944261ca0008390942/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Movie Hits",MTV Movie Hits
+https://r.mjh.nz/PlutoTV/656de9944261ca0008390942-alt.m3u8
 
 #EXTINF:-1 tvg-id="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20221026T004507SQUARE.png_20221026004507.png" group-title="Entretenimiento" tvg-name="MTV Cribs",MTV Cribs
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-
-#EXTINF:-1 tvg-id="MTV Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" group-title="Entretenimiento" tvg-name="MTV Catfish",MTV Catfish
-https://i.mjh.nz/SamsungTVPlus/ESAJ3800003LX.m3u8
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8
 
 #EXTINF:-1 tvg-id="Clubbing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="Musicales" tvg-name="Clubbing TV",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
