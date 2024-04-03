@@ -52,10 +52,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
-http://190.116.90.43:8000/play/a004
+http://117.55.203.48:37500/972483615538/185177820594/104656
 
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
-http://190.116.90.43:8000/play/a00a
+http://117.55.203.48:37500/972483615538/185177820594/104652
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 http://bantel.iptvperu.tv:1935/astralocal/PBO/playlist.m3u8
@@ -86,6 +86,12 @@ https://www.ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
+http://117.55.203.48:37500/972483615538/185177820594/104659
+
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
+http://117.55.203.48:37500/972483615538/185177820594/104642
 
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
