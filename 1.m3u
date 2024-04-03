@@ -36,9 +36,6 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
 https://ott1.hdlatam.tv/live/nacionaltvlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CTV Perú" tvg-logo="https://i.postimg.cc/HWS78G7K/CTV-Per.jpg" group-title="Generalistas" tvg-name="CTV Perú",CTV Perú
-https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-
 #EXTINF:-1 tvg-id="RCR TV" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="Generalistas" tvg-name="RCR TV",RCR TV
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 
