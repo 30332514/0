@@ -10,10 +10,10 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321105.ts
+http://117.55.203.48:37500/972483615538/185177820594/115922
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321086.ts
+http://117.55.203.48:37500/972483615538/185177820594/116703
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
@@ -46,10 +46,10 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/775862.ts
+http://117.55.203.48:37500/972483615538/185177820594/116707
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
+http://117.55.203.48:37500/972483615538/185177820594/116686
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
