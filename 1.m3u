@@ -408,14 +408,13 @@ http://138.59.177.34:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://138.59.177.34:8000/play/a05q/index.m3u8
 
-
 #EXTINF:-1 tvg-id="MTV Women" tvg-logo="https://images.pluto.tv/channels/63c169cfd3485c0007670e91/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Women",MTV Women
 https://r.mjh.nz/PlutoTV/63c169cfd3485c0007670e91-alt.m3u8
 
 #EXTINF:-1 tvg-id="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Vergüenza ajena",MTV Vergüenza ajena
 https://r.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
 
-#EXTINF:-1 tvg-id=" MTV Catfish TV Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" group-title="Entretenimiento" tvg-name=" MTV Catfish TV Show", MTV Catfish TV Show
+#EXTINF:-1 tvg-id="MTV Catfish TV Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" group-title="Entretenimiento" tvg-name=" MTV Catfish TV Show", MTV Catfish TV Show
 https://r.mjh.nz/PlutoTV/5f1ab3c7778230000735cf41-alt.m3u8
 
 #EXTINF:-1 tvg-id="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Jerseys",MTV Jerseys
