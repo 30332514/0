@@ -52,13 +52,13 @@ http://117.55.203.48:37500/972483615538/185177820594/116707
 http://117.55.203.48:37500/972483615538/185177820594/116686
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
+http://117.55.203.48:37500/972483615538/185177820594/116040
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321374.ts
+http://117.55.203.48:37500/972483615538/185177820594/115968
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321383.ts
+http://117.55.203.48:37500/972483615538/185177820594/116688
 
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
