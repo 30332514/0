@@ -549,12 +549,6 @@ http://138.59.177.34:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
 http://170.81.241.222:1/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/2ynkf80r/am-rica.png" group-title="Generalistas" tvg-name="América TV Internacional",América TV Internacional
-http://181.78.27.128:8000/play/a04f/index.m3u8
-
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/HkFvM9r2/telefe.jpg" group-title="Generalistas" tvg-name="Telefe",Telefe
-http://200.115.120.1:8000/play/ca063/index.m3u8
-
 #EXTINF:-1 tvg-id="SONY CINE" tvg-logo="https://i.postimg.cc/SRGCzshD/SonyCine.jpg" group-title="Películas" tvg-name="SONY CINE",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
@@ -889,7 +883,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manife
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
+http://117.55.203.48:37500/972483615538/185177820594/116040
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
 http://117.55.203.48:37500/972483615538/185177820594/115968
