@@ -859,7 +859,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/775862.ts
+http://117.55.203.48:37500/972483615538/185177820594/115967
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
