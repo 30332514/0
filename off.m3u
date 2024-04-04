@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Mimusica HITS" tvg-logo="https://i.postimg.cc/vTg67cn7/MIMUSICA-HITS.jpg" group-title="Musicales" tvg-name="Mimusica HITS",Mimusica HITS
+http://191.97.60.193:10000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://i.postimg.cc/jqmfx4VM/MIMUSICA-K-POP.jpg" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
+http://191.97.60.193:10000/play/a031/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal J" tvg-logo="https://i.postimg.cc/j2hy8rJn/Canal-J.jpg" group-title="Generalistas" tvg-name="Canal J",Canal J
 http://191.97.60.193:10000/play/a04w/index.m3u8
 
