@@ -780,9 +780,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
 http://204.199.119.6:1012/play/a0c2
 
-#EXTINF:-1 tvg-id="Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="Infantiles" tvg-name="Dos Kids",Dos Kids
-http://190.110.109.104:52321/play/a00w/index.m3u8
-
 #EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
@@ -794,9 +791,6 @@ http://204.157.251.250:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://138.59.177.34:8000/play/a03y/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
-http://191.97.60.193:10000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="KIDS TV" tvg-logo="https://i.postimg.cc/Zn9ZRmhs/Kids-TV.png" group-title="Infantiles" tvg-name="KIDS TV",KIDS TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
@@ -898,13 +892,13 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321374.ts
+http://117.55.203.48:37500/972483615538/185177820594/115968
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
 http://117.55.203.48:37500/972483615538/185177820594/116688
 
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
+http://117.55.203.48:37500/972483615538/185177820594/115954
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
