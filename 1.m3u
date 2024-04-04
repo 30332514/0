@@ -523,7 +523,7 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
-http://bantel.iptvperu.tv:1935/transcoderip/telemundo_t4/playlist.m3u8
+http://170.81.241.222:1/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
@@ -547,7 +547,7 @@ http://181.78.64.71:16123/play/ch34
 http://138.59.177.34:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
-http://138.121.15.228:8000/play/a02q/index.m3u8
+http://170.81.241.222:1/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/2ynkf80r/am-rica.png" group-title="Generalistas" tvg-name="América TV Internacional",América TV Internacional
 http://181.78.27.128:8000/play/a04f/index.m3u8
@@ -757,16 +757,16 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
-http://8.242.175.221:8000/play/a016/index.m3u8
+http://170.81.241.222:1/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://8.242.175.221:8000/play/a00x/index.m3u8
+http://170.81.241.222:1/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
 http://204.199.119.6:1012/play/a04d
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://8.242.175.221:8000/play/a03w/index.m3u8
+http://170.81.241.222:1/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://204.199.119.6:1012/play/a09n
@@ -812,12 +812,6 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="Infantiles" tvg-name="Teen Vee",Teen Vee
 https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bob Esponja TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" group-title="Infantiles" tvg-name="Bob Esponja TV",Bob Esponja TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-
-#EXTINF:-1 tvg-id="Rugrats TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" group-title="Infantiles" tvg-name="Rugrats TV",Rugrats TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/633da78e9213e30008004743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-id="Pitufo TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230712T021341SQUARE.png_20230712021341.png" group-title="Infantiles" tvg-name="Pitufo TV",Pitufo TV
 https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
