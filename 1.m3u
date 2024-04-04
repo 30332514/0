@@ -1447,7 +1447,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
-http://138.59.177.34:8000/play/a02c/index.m3u8
+http://181.78.208.237:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
 http://204.199.119.6:1012/play/a04j
