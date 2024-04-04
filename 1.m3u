@@ -351,12 +351,6 @@ http://181.78.64.71:16123/play/ch56
 #EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
 http://177.234.230.226:8010/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica HITS" tvg-logo="https://i.postimg.cc/vTg67cn7/MIMUSICA-HITS.jpg" group-title="Musicales" tvg-name="Mimusica HITS",Mimusica HITS
-http://191.97.60.193:10000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://i.postimg.cc/jqmfx4VM/MIMUSICA-K-POP.jpg" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
-http://191.97.60.193:10000/play/a031/index.m3u8
-
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
@@ -401,51 +395,6 @@ http://138.59.177.34:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://138.59.177.34:8000/play/a05q/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV Women" tvg-logo="https://images.pluto.tv/channels/63c169cfd3485c0007670e91/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Women",MTV Women
-https://r.mjh.nz/PlutoTV/63c169cfd3485c0007670e91-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Vergüenza ajena",MTV Vergüenza ajena
-https://r.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Catfish TV Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" group-title="Entretenimiento" tvg-name=" MTV Catfish TV Show", MTV Catfish TV Show
-https://r.mjh.nz/PlutoTV/5f1ab3c7778230000735cf41-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Jerseys",MTV Jerseys
-https://r.mjh.nz/PlutoTV/62ac3d7dc23b400008ae5b5a-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Geordies",MTV Geordies
-https://r.mjh.nz/PlutoTV/627d3176d7dfa500077042f1-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Realities",MTV Realities
-https://r.mjh.nz/PlutoTV/6130d8dc943001000708548d-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20221026T004458SQUARE.png_20221026004458.png" group-title="Entretenimiento" tvg-name="MTV Originals",MTV Originals
-https://r.mjh.nz/PlutoTV/5f1aadf373bed3000794d1d7-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Teen Mom",MTV Teen Mom
-https://r.mjh.nz/PlutoTV/604f81a49ef73300070e554f-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Embarazada a los 16",MTV Embarazada a los 16
-https://r.mjh.nz/PlutoTV/5f98537a5a4341000733aefe-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Tattoo a dos",MTV Tattoo a dos
-https://r.mjh.nz/PlutoTV/611b87946b7f420007c22361-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Party Music",MTV Party Music
-https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Music Made in Spain",MTV Music Made in Spain
-https://r.mjh.nz/PlutoTV/60a26a056d55b30007918d5a-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Urban Music" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Urban Music",MTV Urban Music
-https://r.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
-
-#EXTINF:-1 tvg-id="Yo! MTV Raps Classic" tvg-logo="https://images.pluto.tv/channels/64db35b44c5ed80008f6a3ed/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="Yo! MTV Raps Classic",Yo! MTV Raps Classic
-https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
-
-#EXTINF:-1 tvg-id="MTV Movie Hits" tvg-logo="https://images.pluto.tv/channels/656de9944261ca0008390942/colorLogoPNG.png" group-title="Entretenimiento" tvg-name="MTV Movie Hits",MTV Movie Hits
-https://r.mjh.nz/PlutoTV/656de9944261ca0008390942-alt.m3u8
 
 #EXTINF:-1 tvg-id="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20221026T004507SQUARE.png_20221026004507.png" group-title="Entretenimiento" tvg-name="MTV Cribs",MTV Cribs
 https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8
@@ -795,9 +744,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 #EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://i.postimg.cc/T1FFPWtr/Adult-Swim.jpg" group-title="Infantiles" tvg-name="Adult Swim",Adult Swim
 http://206.62.161.251:22000/play/ADULT_SWIM/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion TV" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Infantiles" tvg-name="Locomotion TV",Locomotion TV
-http://8.242.175.221:8000/play/a048/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
@@ -964,7 +910,7 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321138.ts
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321374.ts
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321383.ts
+http://117.55.203.48:37500/972483615538/185177820594/116688
 
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
@@ -979,19 +925,19 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
+http://117.55.203.48:37500/972483615538/185177820594/115974
 
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/787635.ts
+http://117.55.203.48:37500/972483615538/185177820594/116255
 
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/795998.ts
+http://117.55.203.48:37500/972483615538/185177820594/116701
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Generalistas" tvg-name="Boing",Boing
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/802723.ts
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321215.ts
