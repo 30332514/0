@@ -1350,6 +1350,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
 #EXTINF:-1 tvg-id="CINE ROMANTICO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20240319T021858SQUARE.png" group-title="Películas" tvg-name="CINE ROMANTICO",CINE ROMANTICO
 https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
 
+#EXTINF:-1 tvg-id="CINE DE ORO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240319T021846SQUARE.png" group-title="Películas" tvg-name="CINE DE ORO",CINE DE ORO
+https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
+
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 
