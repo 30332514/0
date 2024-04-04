@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Locomotion TV" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Infantiles" tvg-name="Locomotion TV",Locomotion TV
+http://8.242.175.221:8000/play/a048/index.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica HITS" tvg-logo="https://i.postimg.cc/vTg67cn7/MIMUSICA-HITS.jpg" group-title="Musicales" tvg-name="Mimusica HITS",Mimusica HITS
 http://191.97.60.193:10000/play/a032/index.m3u8
 
