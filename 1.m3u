@@ -16,7 +16,7 @@ http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Generalistas" tvg-name="La Tele",La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
@@ -748,19 +748,19 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 http://170.81.241.222:1/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://170.81.241.222:1/play/a00y/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/disneychannel_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://204.199.119.6:1012/play/a04d
+http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://170.81.241.222:1/play/a00m/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/nick_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
-http://204.199.119.6:1012/play/a09n
+http://bantel.iptvperu.tv:1935/transcoderip/nickjr_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
-http://200.115.120.1:8000/play/ca014/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/nickteen_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://204.199.119.6:1012/play/a018
@@ -1429,10 +1429,10 @@ http://190.149.66.90:4000/play/a03v/index.m3u8
 http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://45.5.117.182:8000/play/a0fr/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://138.59.177.34:8000/play/a02c/index.m3u8
