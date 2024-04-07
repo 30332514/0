@@ -748,7 +748,7 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 http://170.81.241.222:1/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
-http://bantel.iptvperu.tv:1935/transcoderip/disneychannel_t2.stream/playlist.m3u8
+http://190.108.85.20:9999/play/a00d
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
 http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
