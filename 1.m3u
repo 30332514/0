@@ -751,16 +751,16 @@ http://170.81.241.222:1/play/a01b/index.m3u8
 http://190.108.85.20:9999/play/a00d
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
+http://38.41.8.1:8000/play/a05l
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://bantel.iptvperu.tv:1935/transcoderip/nick_t4/playlist.m3u8
+http://38.41.8.1:8000/play/a04n
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
-http://bantel.iptvperu.tv:1935/transcoderip/nickjr_t4/playlist.m3u8
+http://38.41.8.1:8000/play/a067
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
-http://bantel.iptvperu.tv:1935/transcoderip/nickteen_t4/playlist.m3u8
+http://204.199.119.6:1012/play/a046
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://204.199.119.6:1012/play/a018
