@@ -46,7 +46,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8?manifestfilter=vide
 http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Generalistas" tvg-name="Justicia TV",Justicia TV
-http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
@@ -76,7 +76,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
 https://www.chasquirouter.com/salida/trivu.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
-http://38.56.109.19/play/a01s/index.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/TeleLima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
