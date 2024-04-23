@@ -511,7 +511,7 @@ http://138.59.177.34:8000/play/a05a/index.m3u8
 http://200.59.188.3:8000/play/a093
 
 #EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
-http://204.199.119.6:1012/play/a0a4
+http://45.177.53.7:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
@@ -535,7 +535,7 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
-http://bantel.iptvperu.tv:1935/transcoderip/Univision_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
