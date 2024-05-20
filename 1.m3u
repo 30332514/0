@@ -94,7 +94,7 @@ http://117.55.203.48:37500/972483615538/185177820594/104659
 http://117.55.203.48:37500/972483615538/185177820594/104642
 
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
-https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
+https://srv1.mediastreamperu.com:19360/taurustv/taurustv.m3u8
 
 #EXTINF:-1 tvg-id="La Tierra del Toro TV" tvg-logo="https://i.postimg.cc/k47FvYcp/La-Tierra-del-Toro.jpg" group-title="Tauromaquia" tvg-name="La Tierra del Toro TV",La Tierra del Toro TV
 https://media1.ultrik.com/live/torole1.m3u8
