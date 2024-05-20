@@ -196,7 +196,7 @@ https://vdo.grupolimalive.com:3245/stream/play.m3u8
 https://live.obslivestream.com/uraniotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://i.postimg.cc/85WhySn1/Ribere-a.jpg" group-title="Generalistas" tvg-name="Ribereña",Ribereña
-https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
+http://bantel.iptvperu.tv:1935/Server_OTT/Riberenatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMJ Televisión" tvg-logo="https://i.postimg.cc/3xFQGtbh/dmj.png" group-title="Generalistas" tvg-name="DMJ Televisión",DMJ Televisión
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
@@ -217,10 +217,10 @@ https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias classic" tvg-logo="https://i.postimg.cc/zv30sRV1/Memoriasclassic.jpg" group-title="Musicales" tvg-name="Memorias classic",Memorias classic
-https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias film" tvg-logo="https://i.postimg.cc/J0y56V2r/Memoriasfilm.jpg" group-title="Musicales" tvg-name="Memorias film",Memorias film
-https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
+https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
