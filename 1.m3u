@@ -163,7 +163,7 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
-https://ott1.hdlatam.tv/live_abr/cadenaTV/playlist.m3u8
+https://servilive.com:3079/live/cdnatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Unicentro TV" tvg-logo="https://i.postimg.cc/T123TFfP/Unicentro-TV.jpg" group-title="Generalistas" tvg-name="Unicentro TV",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
