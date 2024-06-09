@@ -79,7 +79,7 @@ https://www.chasquirouter.com/salida/trivu.m3u8
 http://bantel.iptvperu.tv:1935/astralocal/TeleLima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
-https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/index.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 https://ntv.pe/salida/sd/nativa.m3u8
