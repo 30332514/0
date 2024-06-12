@@ -325,7 +325,7 @@ https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 
 #EXTINF:-1 tvg-id="Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="Musicales" tvg-name="Concert Channel",Concert Channel
-http://138.59.177.34:8000/play/a06l/index.m3u8
+http://45.5.117.182:8000/play/a0ci/index.m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
 https://musichls.persiana.live/hls/stream.m3u8
@@ -391,13 +391,13 @@ http://45.5.117.182:8000/play/a0fd/index.m3u8
 http://45.5.117.182:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
-http://45.228.234.210:4000/play/a03e/index.m3u8
+http://45.5.117.182:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
-http://138.59.177.34:8000/play/a02i/index.m3u8
+http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
-http://138.59.177.34:8000/play/a05q/index.m3u8
+http://181.205.77.118:4849/play/CH94
 
 #EXTINF:-1 tvg-id="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20221026T004507SQUARE.png_20221026004507.png" group-title="Entretenimiento" tvg-name="MTV Cribs",MTV Cribs
 https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8
@@ -451,7 +451,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/bethelmovil_t6.stream/playlist.m3u8
 https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
 
 #EXTINF:-1 tvg-id="enlace" tvg-logo="https://i.postimg.cc/RZtwF99n/enlace.jpg" group-title="Generalistas" tvg-name="enlace",enlace
-http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+http://45.5.117.182:8000/play/a0kp/index.m3u8
 
 #EXTINF:-1 tvg-id="SOPHIA TV" tvg-logo="https://i.postimg.cc/Gm2T8yDN/SOPHIA-TV.jpg" group-title="Generalistas" tvg-name="SOPHIA TV",SOPHIA TV
 https://ott2.hdlatam.tv/live_abr/Stream53/playlist.m3u8
@@ -505,7 +505,7 @@ http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
 http://45.177.53.7:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
-http://138.59.177.34:8000/play/a05a/index.m3u8
+http://45.5.117.182:8000/play/a0hz/index.m3u8
 
 #EXTINF:-1 tvg-id="Globovisión" tvg-logo="https://i.postimg.cc/Px5NnyYh/Globovisi-n.jpg" group-title="Películas" tvg-name="Globovisión",Globovisión
 http://200.59.188.3:8000/play/a093
@@ -559,7 +559,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
-http://45.238.21.131:6570/play/a03j/index.m3u8
+http://45.5.117.182:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
 http://181.78.208.237:8000/play/a03d/index.m3u8
