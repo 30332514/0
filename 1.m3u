@@ -655,16 +655,16 @@ http://190.108.85.20:9999/play/a00n
 http://190.108.85.20:9999/play/a01o
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://190.108.85.20:9999/play/a00a
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
-http://190.108.85.20:9999/play/a018
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://190.108.85.20:9999/play/a00f
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
-http://190.108.85.20:9999/play/a029
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://i.postimg.cc/MKJD1QjD/ESPNEXTRA.jpg" group-title="Deportivos" tvg-name="ESPN EXTRA",ESPN EXTRA
 http://190.108.85.20:9999/play/a00x
@@ -742,7 +742,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="Latino Kids",Latino Kids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
 http://170.81.241.222:1/play/a01b/index.m3u8
