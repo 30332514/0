@@ -271,7 +271,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20240214T035646SQUARE.png_20240214035647.png" group-title="Musicales" tvg-name="FreeTV HITS",FreeTV HITS
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
+https://goo.su/PysiOE
 
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -310,7 +310,7 @@ https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg0
 https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRACE Brasil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Musicales" tvg-name="TRACE Brasil",TRACE Brasil
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-6329474265c8569187176338.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/dd8612d0-fbac-4d45-89dc-85d209513f0a/3.m3u8
 
 #EXTINF:-1 tvg-id="The Grid" tvg-logo="https://i.postimg.cc/DyVnDxfp/theGrid.jpg" group-title="Musicales" tvg-name="The Grid",The Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-grid/playlist.m3u8
