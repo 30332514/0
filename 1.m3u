@@ -52,7 +52,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
-http://117.55.203.48:37500/972483615538/185177820594/104656
+http://200.60.124.19:29000/play/a0ba/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
 http://cincotv.org:25461/Fermand693/Toapa475/186830
