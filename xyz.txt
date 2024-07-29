@@ -31,6 +31,7 @@ https://i.mjh.nz/SamsungTVPlus/es.m3u8
 https://i.mjh.nz/SamsungTVPlus/all.m3u8
 
 // Fuentes
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
 http://38.56.109.19/playlist.m3u8    -  Estados Unidos (Del Mar)
 
@@ -40,10 +41,6 @@ http://177.234.230.226:8010/playlist.m3u8    -  Ecuador (Pasaje)
 http://45.71.252.67:8000/playlist.m3u8    -  Ecuador (Boca Suno)
 http://190.95.220.212:8000/playlist.m3u8    -  Ecuador (Loja)
 
-http://181.205.77.118:4849/playlist.m3u8    -  Colombia (Medellin)
-http://204.199.122.4:8000/playlist.m3u8    -  Colombia (Bogota)
-http://8.242.175.221:8000/playlist.m3u8    -  Colombia (Bogota)
-http://138.121.15.228:8000/playlist.m3u8    -  Colombia (Bogota)
 http://181.78.208.237:8000/playlist.m3u8    -  Colombia (Bogota)
 http://204.199.119.6:1012/playlist.m3u8    -  Colombia (Bogota)
 http://181.205.130.194:4000/playlist.m3u8    -  Colombia (Bogota)
