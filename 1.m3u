@@ -559,7 +559,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 http://45.5.117.182:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
-http://181.78.208.237:8000/play/a03d/index.m3u8
+http://181.78.208.237:8000/play/a0b6/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -577,7 +577,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
-http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
+http://200.60.124.19:29000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
 http://45.5.117.182:8000/play/a0st/index.m3u8
@@ -613,10 +613,10 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
-http://181.205.77.118:4849/play/CH32
+http://200.60.124.19:29000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
-http://181.205.77.118:4849/play/CH30
+http://200.60.124.19:29000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
 http://200.60.124.19:29000/play/a06p/index.m3u8
@@ -625,7 +625,7 @@ http://200.60.124.19:29000/play/a06p/index.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.postimg.cc/026fz34V/Claro-Sports.jpg" group-title="Deportivos" tvg-name="Claro Sports",Claro Sports
-http://138.59.177.34:8000/play/a01i/index.m3u8
+http://200.60.124.19:29000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="Deportivos" tvg-name="Claro Sports 2",Claro Sports 2
 http://138.59.177.34:8000/play/a01j/index.m3u8
@@ -676,7 +676,7 @@ http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102235
 http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102236
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.postimg.cc/d0m1v5rj/Ty-C-Sports.jpg" group-title="Deportivos" tvg-name="TyC Sports",TyC Sports
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+http://200.60.124.19:29000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.postimg.cc/65sbgdzD/TUDN.jpg" group-title="Deportivos" tvg-name="TUDN",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
