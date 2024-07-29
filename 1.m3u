@@ -493,7 +493,7 @@ https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://181.205.130.194:4000/play/a07v/index.m3u8
+http://200.60.124.19:29000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN Nuestra Tele Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/320px-RCN_Nuestra_Tele_logo.svg.png" group-title="Generalistas" tvg-name="RCN Nuestra Tele Internacional",RCN Nuestra Tele Internacional
 http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
