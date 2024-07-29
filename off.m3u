@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.postimg.cc/3Nwc3cfV/Memoriastv.jpg" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Memorias classic" tvg-logo="https://i.postimg.cc/zv30sRV1/Memoriasclassic.jpg" group-title="Musicales" tvg-name="Memorias classic",Memorias classic
+https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Memorias film" tvg-logo="https://i.postimg.cc/J0y56V2r/Memoriasfilm.jpg" group-title="Musicales" tvg-name="Memorias film",Memorias film
+https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="Deportivos" tvg-name="ESPN 5",ESPN 5
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8
 
