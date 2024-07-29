@@ -310,7 +310,7 @@ https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg0
 https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRACE Brasil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Musicales" tvg-name="TRACE Brasil",TRACE Brasil
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/dd8612d0-fbac-4d45-89dc-85d209513f0a/3.m3u8
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The Grid" tvg-logo="https://i.postimg.cc/DyVnDxfp/theGrid.jpg" group-title="Musicales" tvg-name="The Grid",The Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-grid/playlist.m3u8
