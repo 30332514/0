@@ -622,7 +622,7 @@ http://181.205.77.118:4849/play/CH32
 http://181.205.77.118:4849/play/CH30
 
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
-http://181.205.77.118:4849/play/CH149
+http://200.60.124.19:29000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
