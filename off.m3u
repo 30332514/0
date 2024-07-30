@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="VIVO play" tvg-logo="https://i.postimg.cc/G38W2Ycj/VIVO-play.jpgg" group-title="Musicales" tvg-name="VIVO play",VIVO play
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="Musicales" tvg-name="Telehit",Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
