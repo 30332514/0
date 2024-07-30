@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="VIVA RUSSIA" tvg-logo="https://i.postimg.cc/J0MP1LrX/VIVA-RUSSIA.png" group-title="Musicales" tvg-name="VIVA RUSSIA",VIVA RUSSIA
+https://glb.bozztv.com/glb/ssh101/vivarussia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Oro TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc1bc8ab-32db-4b42-ae66-d4e07eaa0a9f/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="Novelas" tvg-name="Oro TV",Oro TV
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa.m3u8
 
