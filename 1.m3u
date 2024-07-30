@@ -868,7 +868,7 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LQSA 24h" tvg-logo="https://i.postimg.cc/LsCqsbdr/LQSA24h.jpg" group-title="Comedia" tvg-name="LQSA 24h",LQSA 24h
-https://cdn7.lqsa.es/hls/1/stream.m3u8
+https://cdn15.lqsa.es/hls/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
 https://cdn5.lqsa.es/hls/0/stream.m3u8
