@@ -406,7 +406,7 @@ http://38.41.8.1:8000/play/a03x
 http://45.177.53.7:8000/play/a0jl/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
-https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="Generalistas" tvg-name="RCN Xtra",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
