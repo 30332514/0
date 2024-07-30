@@ -111,17 +111,11 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
-#EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
-https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
 https://www.milenial.news/salida/sd/milenial.m3u8
-
-#EXTINF:-1 tvg-id="Canal B" tvg-logo="https://i.postimg.cc/SR6gskRG/CanalB.jpg" group-title="Generalistas" tvg-name="Canal B",Canal B
-http://bantel.iptvperu.tv:1935/Server_OTT/CanalB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
