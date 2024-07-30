@@ -456,9 +456,6 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
-#EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Generalistas" tvg-name="glitz*",glitz*
-http://181.78.64.71:16123/play/ch34
-
 #EXTINF:-1 tvg-id="Mas Chic" tvg-logo="" group-title="Generalistas" tvg-name="Mas Chic",Mas Chic
 http://177.234.230.226:8010/play/a01x/index.m3u8
 
