@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="glitz*" tvg-logo="https://i.postimg.cc/3NJHghxj/Glitz.png" group-title="Generalistas" tvg-name="glitz*",glitz*
+http://181.78.64.71:16123/play/ch34
+
 #EXTINF:-1 tvg-id="BELARUS 5" tvg-logo="https://i.postimg.cc/Ghw0r2Cv/BELARUS-5.png" group-title="Deportivos" tvg-name="BELARUS 5",BELARUS 5
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
