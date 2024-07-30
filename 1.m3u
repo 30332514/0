@@ -261,9 +261,6 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 #EXTINF:-1 tvg-id="The Grid" tvg-logo="https://i.postimg.cc/DyVnDxfp/theGrid.jpg" group-title="Musicales" tvg-name="The Grid",The Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-grid/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Real Musica TV" tvg-logo="https://i.postimg.cc/QN0D0j9m/Real-Music-TV.jpg" group-title="Musicales" tvg-name="Real Musica TV",Real Musica TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/manifest.m3u8
-
 #EXTINF:-1 tvg-id="Ditty TV" tvg-logo="https://i.postimg.cc/pVshg9jb/dittytv.png" group-title="Musicales" tvg-name="Ditty TV",Ditty TV
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
@@ -279,23 +276,20 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
-#EXTINF:-1 tvg-id="PLANETATV" tvg-logo="https://i.postimg.cc/9fVQ196R/PLANETATV.jpg" group-title="Películas" tvg-name="PLANETATV",PLANETATV
-https://scl.edge.grupoz.cl/music/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Mimusica PERÚ" tvg-logo="https://i.postimg.cc/KcnqBjZr/MIMUSICA-PER.jpg" group-title="Musicales" tvg-name="Mimusica PERÚ",Mimusica PERÚ
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
-http://181.78.64.71:16123/play/ch53
+http://177.234.230.226:8010/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
 http://181.78.64.71:16123/play/ch54
 
 #EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://i.postimg.cc/SNR9q1t2/MIMUSICA-SALSA.jpg" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
-http://181.78.64.71:16123/play/ch55
+http://177.234.230.226:8010/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
-http://181.78.64.71:16123/play/ch56
+http://177.234.230.226:8010/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
 http://177.234.230.226:8010/play/a023/index.m3u8
