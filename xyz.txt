@@ -25,6 +25,8 @@ http://urlxray.com/
 // Sacador de m3u8 - Live Stream Downloader
 https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=es
 
+https://github.com/HelmerLuzo/SamsungTVPlus_HL/blob/main/tv/m3u/SamsungTVPlus_tv_ES.m3u
+https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8
 https://github.com/matthuisman/i.mjh.nz
 
 // Fuente Samsung Plus TV
