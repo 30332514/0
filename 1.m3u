@@ -615,9 +615,6 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://i.postimg.cc/vZJHjQN2/ALL-SPORTS.jpg" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BELARUS 5" tvg-logo="https://i.postimg.cc/Ghw0r2Cv/BELARUS-5.png" group-title="Deportivos" tvg-name="BELARUS 5",BELARUS 5
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-
 #EXTINF:-1 tvg-id="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Drama" tvg-name="Surf Channel",Surf Channel
 https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8
 
