@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="BELARUS 5" tvg-logo="https://i.postimg.cc/Ghw0r2Cv/BELARUS-5.png" group-title="Deportivos" tvg-name="BELARUS 5",BELARUS 5
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://i.postimg.cc/T1FFPWtr/Adult-Swim.jpg" group-title="Infantiles" tvg-name="Adult Swim",Adult Swim
+http://206.62.161.251:22000/play/ADULT_SWIM/index.m3u8
+
 #EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
 https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
 
