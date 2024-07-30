@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
+http://cincotv.org:25461/Fermand693/Toapa475/186830
+
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://i.postimg.cc/3Nwc3cfV/Memoriastv.jpg" group-title="Musicales" tvg-name="Memorias TV",Memorias TV
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 
