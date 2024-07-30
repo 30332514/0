@@ -280,7 +280,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
 http://177.234.230.226:8010/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
-http://181.78.64.71:16123/play/ch54
+http://181.78.8.90:16123/play/ch54
 
 #EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://i.postimg.cc/SNR9q1t2/MIMUSICA-SALSA.jpg" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
 http://177.234.230.226:8010/play/a021/index.m3u8
@@ -397,7 +397,7 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
-http://38.41.8.1:8000/play/a0a0
+http://181.78.8.90:16123/play/ch36
 
 #EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://i.postimg.cc/2yzsRhp8/TELEVEN.jpg" group-title="Generalistas" tvg-name="TELEVEN",TELEVEN
 http://38.41.8.1:8000/play/a03x
