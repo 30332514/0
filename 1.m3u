@@ -1204,7 +1204,7 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 http://138.59.177.34:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
-http://181.78.208.237:8000/play/a02c/index.m3u8
+http://200.60.124.19:29000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
 http://45.5.117.182:8000/play/a0fq/index.m3u8
@@ -1228,10 +1228,10 @@ http://45.5.117.182:8000/play/a0xn/index.m3u8
 http://177.234.230.226:8010/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
-http://45.5.117.182:8000/play/a0e6/index.m3u8
+http://200.60.124.19:29000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
-http://190.149.66.90:4000/play/a03d/index.m3u8
+http://200.60.124.19:29000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE RETRO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20240319T021837SQUARE.png" group-title="Películas" tvg-name="CINE RETRO,CINE RETRO
 https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
