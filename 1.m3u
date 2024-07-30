@@ -333,9 +333,6 @@ http://45.5.117.182:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://181.78.208.237:8000/play/a0an/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20221026T004507SQUARE.png_20221026004507.png" group-title="Entretenimiento" tvg-name="MTV Cribs",MTV Cribs
-https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8
-
 #EXTINF:-1 tvg-id="Clubbing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="Musicales" tvg-name="Clubbing TV",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
 
@@ -344,9 +341,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTPHA FM" tvg-logo="https://i.postimg.cc/x1XZc9QD/CTPHA-FM.png" group-title="Musicales" tvg-name="CTPHA FM",CTPHA FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VIVA RUSSIA" tvg-logo="https://i.postimg.cc/J0MP1LrX/VIVA-RUSSIA.png" group-title="Musicales" tvg-name="VIVA RUSSIA",VIVA RUSSIA
-https://glb.bozztv.com/glb/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVM3" tvg-logo="https://i.postimg.cc/gjTkGMYV/TVM3.jpg" group-title="Musicales" tvg-name="TVM3",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
