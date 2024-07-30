@@ -639,9 +639,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" group-title="Factual" tvg-name="INFAST",INFAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://i.postimg.cc/T1FFPWtr/Adult-Swim.jpg" group-title="Infantiles" tvg-name="Adult Swim",Adult Swim
-http://206.62.161.251:22000/play/ADULT_SWIM/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Generalistas" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
