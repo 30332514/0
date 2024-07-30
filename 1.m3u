@@ -751,7 +751,7 @@ https://i.mjh.nz/SamsungTVPlus/ES400002P5.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
-https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/550861.ts
@@ -1084,7 +1084,7 @@ http://45.5.117.182:8000/play/a0iw/index.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2_principal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png" group-title="Drama" tvg-name="Baywatch – Los Vigilantes de la Playa",Baywatch – Los Vigilantes de la Playa
-https://d1fbbm0iugalh3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-61f2xc1h8wyl5/master.m3u8
+https://d10kuipa6llbff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zevnsu5c7olob/Baywatch_ES.m3u8
 
 #EXTINF:-1 tvg-id="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20230614T005905SQUARE.png_20230614005905.png" group-title="Drama" tvg-name="BBC Drama",BBC Drama
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
