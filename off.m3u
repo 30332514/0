@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tastemade Español" tvg-logo="https://i.postimg.cc/28c50fNY/Tastemade-Espa-ol.jpg" group-title="Generalistas" tvg-name="Tastemade Español",Tastemade Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
