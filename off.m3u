@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Unicentro TV" tvg-logo="https://i.postimg.cc/T123TFfP/Unicentro-TV.jpg" group-title="Generalistas" tvg-name="Unicentro TV",Unicentro TV
+https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
+https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PERÚ CHANNEL" tvg-logo="https://i.postimg.cc/mZFvTfvF/peruchannel.jpg" group-title="Generalistas" tvg-name="PERÚ CHANNEL",PERÚ CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 
