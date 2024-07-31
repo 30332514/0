@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CINE REAL" tvg-logo="https://i.postimg.cc/ZnpX95CR/CINE-REAL.jpg" group-title="Películas" tvg-name="CINE REAL",CINE REAL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOP CINE" tvg-logo="https://i.postimg.cc/6prpvC8r/TOP-CINE.jpg" group-title="Películas" tvg-name="TOP CINE",TOP CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JUNTOS" tvg-logo="https://i.postimg.cc/52bZTYmg/JUNTOS.jpg" group-title="Películas" tvg-name="JUNTOS",JUNTOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
 https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
 
