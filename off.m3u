@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="101TV Málaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Generalistas" tvg-name="101TV Málaga",101TV Málaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+#EXTINF:-1 tvg-id="Bailén TV" tvg-logo="https://i.postimg.cc/jdPSXLRr/Bail-nTV.jpg" group-title="Generalistas" tvg-name="Bailén TV",Bailén TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CINE REAL" tvg-logo="https://i.postimg.cc/ZnpX95CR/CINE-REAL.jpg" group-title="Películas" tvg-name="CINE REAL",CINE REAL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
 
