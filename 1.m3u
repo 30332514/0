@@ -1117,7 +1117,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700012RP.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700011AZ.m3u8
 
 #EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20230308T021500SQUARE.png_20230308021500.png" group-title="Películas" tvg-name="Cine Friki",Cine Friki
-https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="Dark Matter TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20221109T010705SQUARE.png_20221109010706.png" group-title="Películas" tvg-name="Dark Matter TV",Dark Matter TV
 https://i.mjh.nz/SamsungTVPlus/ESBC40000248.m3u8
