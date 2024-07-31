@@ -538,7 +538,7 @@ http://200.60.124.19:29000/play/a01v/index.m3u8
 http://138.59.177.34:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guatemala",Tigo Sports Guatemala
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+http://45.5.117.182:8000/play/ljt0/index.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportivos" tvg-name="Tigo Sports Costa Rica",Tigo Sports Costa Rica
 http://138.59.177.34:8000/play/a05i/index.m3u8
