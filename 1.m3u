@@ -889,7 +889,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
-http://177.234.230.226:8010/play/a03l/index.m3u8
+https://rumble.com/live-hls-dvr/53c59p/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.postimg.cc/8P9SFkV7/CNN-en-Espa-ol.png" group-title="Informativos" tvg-name="CNN en Español",CNN en Español
 http://200.59.188.3:8000/play/a06d
