@@ -787,7 +787,7 @@ http://117.55.203.48:37500/972483615538/185177820594/116255
 http://117.55.203.48:37500/972483615538/185177820594/116701
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Generalistas" tvg-name="Boing",Boing
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
