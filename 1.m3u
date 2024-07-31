@@ -721,7 +721,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="LA OTRA" tvg-logo="https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg" group-title="Generalistas" tvg-name="LA OTRA",LA OTRA
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/788824.ts
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
@@ -1070,15 +1070,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsun
 
 #EXTINF:-1 tvg-id="TU CINE Latinoamerica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Latinoamerica",TU CINE Latinoamerica
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINE REAL" tvg-logo="https://i.postimg.cc/ZnpX95CR/CINE-REAL.jpg" group-title="Películas" tvg-name="CINE REAL",CINE REAL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TOP CINE" tvg-logo="https://i.postimg.cc/6prpvC8r/TOP-CINE.jpg" group-title="Películas" tvg-name="TOP CINE",TOP CINE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JUNTOS" tvg-logo="https://i.postimg.cc/52bZTYmg/JUNTOS.jpg" group-title="Películas" tvg-name="JUNTOS",JUNTOS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINE SUREÑO" tvg-logo="https://i.postimg.cc/qqXzB66w/CINE-SURE-O.jpg" group-title="Películas" tvg-name="CINE SUREÑO",CINE SUREÑO
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
