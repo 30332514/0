@@ -1291,7 +1291,7 @@ http://45.5.117.182:8000/play/a0eP/index.m3u8
 http://45.5.117.182:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
-http://138.59.177.34:8000/play/a01q/index.m3u8
+http://38.41.8.1:8000/play/a032
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
 http://45.5.117.182:8000/play/a0ep/index.m3u8
@@ -1306,7 +1306,7 @@ http://201.222.44.220:4227/play/a050/index.m3u8
 http://45.5.117.182:8000/play/a0j7/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+http://38.41.8.1:8000/play/a04r
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
 http://45.5.117.182:8000/play/a0jz/index.m3u8
@@ -1315,7 +1315,7 @@ http://45.5.117.182:8000/play/a0jz/index.m3u8
 http://138.59.177.34:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://i.postimg.cc/SR9Gxfsz/UNIVERSAL-COMEDY.png" group-title="Películas" tvg-name="UNIVERSAL COMEDY",UNIVERSAL COMEDY
-http://190.149.66.90:4000/play/a03x/index.m3u8
+http://38.41.8.1:8000/play/a05r
 
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/WpSW3PW2/UNIVERSAL-REALITY.png" group-title="Películas" tvg-name="UNIVERSAL REALITY",UNIVERSAL REALITY
 http://190.149.66.90:4000/play/a03v/index.m3u8
