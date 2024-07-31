@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240313T073218SQUARE.png" group-title="Comedia" tvg-name="Comedia Made in Spain",Comedia Made in Spain
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800005C5.m3u8
+
+#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Comedia" tvg-name="La Resistencia",La Resistencia
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321286.ts
+
 #EXTINF:-1 tvg-id="101TV Málaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Generalistas" tvg-name="101TV Málaga",101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
