@@ -525,9 +525,6 @@ http://200.60.124.19:29000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
 http://200.60.124.19:29000/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://i.postimg.cc/Cdy4BPQF/DEPORTV.jpg" group-title="Deportivos" tvg-name="DEPORTV",DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.postimg.cc/026fz34V/Claro-Sports.jpg" group-title="Deportivos" tvg-name="Claro Sports",Claro Sports
 http://200.60.124.19:29000/play/a01v/index.m3u8
 
