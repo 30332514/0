@@ -1111,10 +1111,10 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
 
 #EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
-https://i.mjh.nz/SamsungTVPlus/ESBC2700012RP.m3u8
+https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8
 
 #EXTINF:-1 tvg-id="Cines Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20230208T013048SQUARE.png_20230208013048.png" group-title="Películas" tvg-name="Cines Verdi TV",Cines Verdi TV
-https://i.mjh.nz/SamsungTVPlus/ESBC2700011AZ.m3u8
+https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8
 
 #EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20230308T021500SQUARE.png_20230308021500.png" group-title="Películas" tvg-name="Cine Friki",Cine Friki
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
