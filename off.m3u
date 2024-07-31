@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="La Tierra del Toro TV" tvg-logo="https://i.postimg.cc/k47FvYcp/La-Tierra-del-Toro.jpg" group-title="Tauromaquia" tvg-name="La Tierra del Toro TV",La Tierra del Toro TV
+https://media1.ultrik.com/live/torole1.m3u8
+
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://i.postimg.cc/q7ws9sRD/telemax.jpg" group-title="Novelas" tvg-name="Telemax",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
