@@ -919,7 +919,7 @@ http://45.5.117.182:8000/play/a0hs/index.m3u8
 http://45.5.117.182:8000/play/a0hQ/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://45.5.117.182:8000/play/a0ez/index.m3u8
+http://38.41.8.1:8000/play/a056
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://i.postimg.cc/PJK8rJJc/negociostv.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -1033,7 +1033,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanete
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
-http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+http://38.41.8.1:8000/play/a030
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
 http://45.5.117.182:8000/play/a0fj/index.m3u8
@@ -1333,7 +1333,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8
 http://45.5.117.182:8000/play/a0ev/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://204.199.119.6:1012/play/a04j
+http://38.41.8.1:8000/play/a04x
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
 http://45.5.117.182:8000/play/a0i9/index.m3u8
