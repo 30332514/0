@@ -948,9 +948,6 @@ https://streamer.zapitv.com/ptv_almeria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="101TV Málaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Generalistas" tvg-name="101TV Málaga",101TV Málaga
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-
 #EXTINF:-1 tvg-id="Canal 4 Mallorca" tvg-logo="https://i.postimg.cc/wBJfWHPb/Canal-4-Mallorca.png" group-title="Generalistas" tvg-name="Canal 4 Mallorca",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
@@ -965,9 +962,6 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
 #EXTINF:-1 tvg-id="CostadelSol TV" tvg-logo="https://i.postimg.cc/dDMg3sf2/Costadel-Sol-TV.jpg" group-title="Generalistas" tvg-name="CostadelSol TV",CostadelSol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-
-#EXTINF:-1 tvg-id="Bailén TV" tvg-logo="https://i.postimg.cc/jdPSXLRr/Bail-nTV.jpg" group-title="Generalistas" tvg-name="Bailén TV",Bailén TV
-http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://i.postimg.cc/V6Q7XGgw/Arag-n-TV.png" group-title="Generalistas" tvg-name="Aragón TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -1183,7 +1177,7 @@ http://45.5.117.182:8000/play/a0fn/index.m3u8
 http://45.5.117.182:8000/play/a0xn/index.m3u8
 
 #EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
-http://177.234.230.226:8010/play/a00a/index.m3u8
+http://200.59.188.3:8000/play/a00o
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://200.60.124.19:29000/play/a04w/index.m3u8
