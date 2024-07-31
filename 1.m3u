@@ -694,7 +694,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321105.ts
+http://200.59.188.3:8000/play/a0f3
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321086.ts
@@ -833,12 +833,6 @@ https://cdn15.lqsa.es/hls/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-id="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240313T073218SQUARE.png" group-title="Comedia" tvg-name="Comedia Made in Spain",Comedia Made in Spain
-https://i.mjh.nz/SamsungTVPlus/ESAJ3800005C5.m3u8
-
-#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Comedia" tvg-name="La Resistencia",La Resistencia
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321286.ts
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
 http://45.5.117.182:8000/play/a0id/index.m3u8
