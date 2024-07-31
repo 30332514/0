@@ -1164,12 +1164,6 @@ https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20230308T021514SQUARE.png_20230308021515.png" group-title="Películas" tvg-name="Runtime Romance",Runtime Romance
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8
 
-#EXTINF:-1 tvg-id="PLANETATV MOVIE" tvg-logo="https://i.postimg.cc/768bFcJ6/PLANETATV-MOVIE.jpg" group-title="Películas" tvg-name="PLANETATV MOVIE",PLANETATV MOVIE
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PLANETATV FAMILY" tvg-logo="https://i.postimg.cc/PxRrQRbK/PLANETATV-FAMILY.jpg" group-title="Películas" tvg-name="PLANETATV FAMILY",PLANETATV FAMILY
-https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
