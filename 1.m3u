@@ -417,9 +417,6 @@ http://181.78.208.237:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://i.postimg.cc/3JwfvcmQ/CanalTRO.jpg" group-title="Generalistas" tvg-name="Canal TRO",Canal TRO
 http://45.177.53.7:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
-http://45.5.117.182:8000/play/a0hz/index.m3u8
-
 #EXTINF:-1 tvg-id="Globovisión" tvg-logo="https://i.postimg.cc/Px5NnyYh/Globovisi-n.jpg" group-title="Películas" tvg-name="Globovisión",Globovisión
 http://200.59.188.3:8000/play/a093
 
