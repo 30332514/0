@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TERROR TV" tvg-logo="https://i.postimg.cc/k524HRnY/TERROR-TV.png" group-title="Películas" tvg-name="TERROR TV",TERROR TV
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
+
 #EXTINF:-1 tvg-id="La Tierra del Toro TV" tvg-logo="https://i.postimg.cc/k47FvYcp/La-Tierra-del-Toro.jpg" group-title="Tauromaquia" tvg-name="La Tierra del Toro TV",La Tierra del Toro TV
 https://media1.ultrik.com/live/torole1.m3u8
 
