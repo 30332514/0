@@ -658,7 +658,7 @@ http://200.60.124.19:29000/play/a01i/index.m3u8
 http://200.60.124.19:29000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name=TeenNick",TeenNick
-http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
+http://45.5.117.182:8000/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://200.60.124.19:29000/play/a00j/index.m3u8
