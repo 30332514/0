@@ -510,9 +510,6 @@ https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Todo Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas" tvg-name="Todo Novelas",Todo Novelas
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemax" tvg-logo="https://i.postimg.cc/q7ws9sRD/telemax.jpg" group-title="Novelas" tvg-name="Telemax",Telemax
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
 #EXTINF:-1 tvg-id="CASO CERRADO" tvg-logo="https://i.postimg.cc/T2HvFvHy/CASO-CERRADO.jpg" group-title="Generalistas" tvg-name="CASO CERRADO",CASO CERRADO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=corgol
 
