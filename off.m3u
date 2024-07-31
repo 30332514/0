@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
+https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
+
+#EXTINF:-1 tvg-id="Retro Mágico" tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="Infantiles" tvg-name="Retro Mágico",Retro Mágico
+https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.postimg.cc/Pr9QcVxp/ZooMoo.png" group-title="Infantiles" tvg-name="ZooMoo",ZooMoo
+http://138.59.177.34:8000/play/a00q/index.m3u8
+
 #EXTINF:-1 tvg-id="exa TV" tvg-logo="https://i.postimg.cc/ydsP8ZRf/Exa-TV.jpg" group-title="Películas" tvg-name="exa TV",exa TV
 http://45.5.117.182:8000/play/a0hz/index.m3u8
 
