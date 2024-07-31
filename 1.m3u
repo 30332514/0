@@ -277,16 +277,16 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
-http://177.234.230.226:8010/play/a020/index.m3u8
+http://181.78.8.90:16123/play/ch53
 
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
 http://181.78.8.90:16123/play/ch54
 
 #EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://i.postimg.cc/SNR9q1t2/MIMUSICA-SALSA.jpg" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
-http://177.234.230.226:8010/play/a021/index.m3u8
+http://181.78.8.90:16123/play/ch55
 
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
-http://177.234.230.226:8010/play/a022/index.m3u8
+http://181.78.8.90:16123/play/ch56
 
 #EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
 http://177.234.230.226:8010/play/a023/index.m3u8
@@ -457,7 +457,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="Mas Chic" tvg-logo="" group-title="Generalistas" tvg-name="Mas Chic",Mas Chic
-http://177.234.230.226:8010/play/a01x/index.m3u8
+http://181.78.8.90:16123/play/ch33
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
 http://181.78.208.237:8000/play/a0c2/index.m3u8
@@ -667,13 +667,13 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 http://200.60.124.19:29000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
-http://204.199.119.6:1012/play/a042
+http://45.5.117.182:8000/play/ari9/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="Infantiles" tvg-name="SuperToons TV",SuperToons TV
 https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
-http://204.199.119.6:1012/play/a0c2
+http://181.78.8.90:16123/play/a068
 
 #EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
@@ -913,7 +913,7 @@ http://45.5.117.182:8000/play/a0ic/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
 
 #EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
-http://190.108.85.20:9999/play/a00h
+http://181.78.8.90:16123/play/ch27
 
 #EXTINF:-1 tvg-id="Cocina TV" tvg-logo="https://i.postimg.cc/3rtkNB0v/CocinaTV.jpg" group-title="Generalistas" tvg-name="Cocina TV",Cocina TV
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
@@ -1072,7 +1072,7 @@ http://45.5.117.182:8000/play/a0jv/index.m3u8
 http://45.5.117.182:8000/play/a0iw/index.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.postimg.cc/0QHq1zrr/Love-Nature.jpg" group-title="Generalistas" tvg-name="Love Nature",Love Nature
-http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2_principal/playlist.m3u8
+http://181.78.8.90:16123/play/ch50
 
 #EXTINF:-1 tvg-id="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png" group-title="Drama" tvg-name="Baywatch – Los Vigilantes de la Playa",Baywatch – Los Vigilantes de la Playa
 https://d10kuipa6llbff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zevnsu5c7olob/Baywatch_ES.m3u8
@@ -1189,7 +1189,7 @@ http://138.59.177.34:8000/play/a00u/index.m3u8
 http://200.59.188.3:8000/play/a05b
 
 #EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+http://181.78.8.90:16123/play/ch57
 
 #EXTINF:-1 tvg-id="D película Plus" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="Películas" tvg-name="D película Plus",D película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
@@ -1246,13 +1246,13 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE HISPANO " tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="Películas" tvg-name="CINE HISPANO ",CINE HISPANO 
-http://191.97.60.193:10000/play/a02x/index.m3u8
+http://181.78.8.90:16123/play/ch51
 
 #EXTINF:-1 tvg-id="CINE FAMILIAR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="Películas" tvg-name="CINE FAMILIAR",CINE FAMILIAR
-http://191.97.60.193:10000/play/a02w/index.m3u8
+http://181.78.8.90:16123/play/ch52
 
 #EXTINF:-1 tvg-id="CINE PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Películas" tvg-name="CINE PREMIUM",CINE PREMIUM
-http://191.97.60.193:10000/play/a02k/index.m3u8
+http://181.78.8.90:16123/play/ch49
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
 http://45.5.117.182:8000/play/a0i4/index.m3u8
