@@ -51,6 +51,12 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="PLANETATV" tvg-logo="https://i.postimg.cc/9fVQ196R/PLANETATV.jpg" group-title="Películas" tvg-name="PLANETATV",PLANETATV
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PLANETATV MOVIE" tvg-logo="https://i.postimg.cc/768bFcJ6/PLANETATV-MOVIE.jpg" group-title="Películas" tvg-name="PLANETATV MOVIE",PLANETATV MOVIE
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLANETATV FAMILY" tvg-logo="https://i.postimg.cc/PxRrQRbK/PLANETATV-FAMILY.jpg" group-title="Películas" tvg-name="PLANETATV FAMILY",PLANETATV FAMILY
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Real Music TV" tvg-logo="https://i.postimg.cc/QN0D0j9m/Real-Music-TV.jpg" group-title="Musicales" tvg-name="Real Music TV",Real Music TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/manifest.m3u8
 
