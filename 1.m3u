@@ -1005,6 +1005,9 @@ http://45.5.117.182:8000/play/a0jv/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://45.5.117.182:8000/play/a0iw/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
+http://45.228.234.167:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.postimg.cc/0QHq1zrr/Love-Nature.jpg" group-title="Generalistas" tvg-name="Love Nature",Love Nature
 http://181.78.8.90:16123/play/ch50
 
