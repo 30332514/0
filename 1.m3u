@@ -1138,10 +1138,10 @@ http://181.78.8.90:16123/play/ch57
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
-http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+http://45.175.139.194:8000/play/a00c
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://i.postimg.cc/VvW25J6Y/DREAMWORKS.png" group-title="Películas" tvg-name="DREAMWORKS",DREAMWORKS
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+http://45.175.139.194:8000/play/a00s
 
 #EXTINF:-1 tvg-id="EURO CHANNEL" tvg-logo="https://i.postimg.cc/nrHKRwtQ/EURO-Channel.jpg" group-title="Películas" tvg-name="EURO CHANNEL",EURO CHANNEL
 http://45.175.139.194:8000/play/a005
