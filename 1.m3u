@@ -1144,7 +1144,7 @@ http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EURO CHANNEL" tvg-logo="https://i.postimg.cc/nrHKRwtQ/EURO-Channel.jpg" group-title="Películas" tvg-name="EURO CHANNEL",EURO CHANNEL
-http://138.59.177.34:8000/play/a041/index.m3u8
+http://45.175.139.194:8000/play/a005
 
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
 http://200.60.124.19:29000/play/a0al/index.m3u8
