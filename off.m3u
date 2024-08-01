@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
+http://190.108.85.20:9999/play/a011
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
+http://190.108.85.20:9999/play/a00n
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
+http://190.108.85.20:9999/play/a01o
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
+http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102234
+
+#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/DwbWPb2B/TNT-Sports2.png" group-title="Deportivos" tvg-name="TNT SPORTS 2",TNT SPORTS 2
+http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102235
+
+#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-logo="https://i.postimg.cc/N0qKJfFY/TNT-Sports3.png" group-title="Deportivos" tvg-name="TNT SPORTS 3",TNT SPORTS 3
+http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102236
+
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
