@@ -693,14 +693,8 @@ http://45.5.117.182:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
 http://200.59.188.3:8000/play/a0f3
 
-#EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321086.ts
-
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
-http://177.234.230.226:8010/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
-http://177.234.230.226:8010/play/a041/index.m3u8
+http://200.59.188.3:8000/play/a015
 
 #EXTINF:-1 tvg-id="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240214T035652SQUARE.png_20240214035653.png" group-title="Drama"" tvg-name="Acacias 38",Acacias 38
 https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8
@@ -720,18 +714,6 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="LA OTRA" tvg-logo="https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg" group-title="Generalistas" tvg-name="LA OTRA",LA OTRA
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
-
-#EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
-
-#EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://117.55.203.48:37500/972483615538/185177820594/115967
-
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
@@ -746,6 +728,18 @@ https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3
 
 #EXTINF:-1 tvg-id="La 7" tvg-logo="https://i.postimg.cc/1zys0YTy/La7.png" group-title="Generalistas"" tvg-name="La 7",La 7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321429.ts
+
+#EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
+http://185.233.16.110:80/play/vi428027/hdFucGwknR/321288.ts
+
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
+http://117.55.203.48:37500/972483615538/185177820594/115967
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="GOL PLAY",GOL PLAY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
