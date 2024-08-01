@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
+http://138.59.177.34:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="CINE RETRO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20240319T021837SQUARE.png" group-title="Películas" tvg-name="CINE RETRO,CINE RETRO
+https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
+
+#EXTINF:-1 tvg-id="CINE ROMANTICO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20240319T021858SQUARE.png" group-title="Películas" tvg-name="CINE ROMANTICO",CINE ROMANTICO
+https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
+
+#EXTINF:-1 tvg-id="CINE DE ORO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240319T021846SQUARE.png" group-title="Películas" tvg-name="CINE DE ORO",CINE DE ORO
+https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
+
 #EXTINF:-1 tvg-id="Paka Paka" tvg-logo="https://i.postimg.cc/dQryL6yC/Paka-Paka.jpg" group-title="Generalistas" tvg-name="Paka Paka",Paka Paka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
