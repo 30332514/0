@@ -528,15 +528,6 @@ http://181.78.208.237:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
 http://181.78.208.237:8000/play/a0bc/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
-http://190.108.85.20:9999/play/a011
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/jjQDdcBB/FOX-SPORTS2.png" group-title="Deportivos" tvg-name="FOX SPORTS 2",FOX SPORTS 2
-http://190.108.85.20:9999/play/a00n
-
-#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.postimg.cc/RFGn57y9/FOX-SPORTS3.jpg" group-title="Deportivos" tvg-name="FOX SPORTS 3",FOX SPORTS 3
-http://190.108.85.20:9999/play/a01o
-
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 
@@ -548,15 +539,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
 http://200.60.124.19:29000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://i.postimg.cc/vZ1n2Nv7/TNT-Sports.png" group-title="Deportivos" tvg-name="TNT SPORTS",TNT SPORTS
-http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102234
-
-#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/DwbWPb2B/TNT-Sports2.png" group-title="Deportivos" tvg-name="TNT SPORTS 2",TNT SPORTS 2
-http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102235
-
-#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-logo="https://i.postimg.cc/N0qKJfFY/TNT-Sports3.png" group-title="Deportivos" tvg-name="TNT SPORTS 3",TNT SPORTS 3
-http://sansat.net:88/OPalUdoZyhgu234/BcHX4CXvrclsxZq/102236
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.postimg.cc/d0m1v5rj/Ty-C-Sports.jpg" group-title="Deportivos" tvg-name="TyC Sports",TyC Sports
 http://200.60.124.19:29000/play/a0am/index.m3u8
