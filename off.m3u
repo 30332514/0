@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="MX Prime",MX Prime
+https://marine2.miplay.cl/mxprime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
+http://bantel.iptvperu.tv:1935/astralocal/Classic/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE.AR" tvg-logo="https://i.postimg.cc/NjB13HhP/CINE-AR.jpg" group-title="Películas" tvg-name="CINE.AR",CINE.AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multicinema" tvg-logo="https://i.postimg.cc/GprNgyRk/MC.jpg" group-title="Películas" tvg-name="Multicinema",Multicinema
+http://138.59.177.34:8000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.postimg.cc/y8b3JZy1/HGTV.jpg" group-title="Generalistas" tvg-name="HGTV",HGTV
+http://138.59.177.34:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="https://i.postimg.cc/nr1b5qhq/I-Sat.png" group-title="Generalistas" tvg-name="I.Sat",I.Sat
+http://200.59.188.3:8000/play/a05b
+
+#EXTINF:-1 tvg-id="D película Plus" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="Películas" tvg-name="D película Plus",D película Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HORRORFY" tvg-logo="https://i.postimg.cc/fbrwmCfr/HORRORFY.jpg" group-title="Películas" tvg-name="HORRORFY",HORRORFY
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
 
