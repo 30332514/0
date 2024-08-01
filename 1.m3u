@@ -795,12 +795,6 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/321215.ts
 #EXTINF:-1 tvg-id="Kidz" tvg-logo="https://i.postimg.cc/T1MGmRgV/Kidz.png" group-title="Generalistas" tvg-name="Kidz",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
-#EXTINF:-1 tvg-id="Paka Paka" tvg-logo="https://i.postimg.cc/dQryL6yC/Paka-Paka.jpg" group-title="Generalistas" tvg-name="Paka Paka",Paka Paka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://i.postimg.cc/QCQS93Yh/Canal-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Cocina",Canal Cocina
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321148.ts
-
 #EXTINF:-1 tvg-id="Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name="Nortevision",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
