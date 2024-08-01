@@ -273,9 +273,6 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica PERÚ" tvg-logo="https://i.postimg.cc/KcnqBjZr/MIMUSICA-PER.jpg" group-title="Musicales" tvg-name="Mimusica PERÚ",Mimusica PERÚ
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
 http://181.78.8.90:16123/play/ch53
 
@@ -287,9 +284,6 @@ http://181.78.8.90:16123/play/ch55
 
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
 http://181.78.8.90:16123/play/ch56
-
-#EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
-http://177.234.230.226:8010/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
