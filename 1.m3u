@@ -1071,12 +1071,6 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="MX Classic",MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="MX Prime",MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
-http://bantel.iptvperu.tv:1935/astralocal/Classic/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Mi TV Clasica" tvg-logo="https://i.postimg.cc/2y6TG8vZ/MI-TV.png" group-title="Películas" tvg-name="Mi TV Clasica",Mi TV Clasica 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
