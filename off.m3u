@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Cocina TV" tvg-logo="https://i.postimg.cc/3rtkNB0v/CocinaTV.jpg" group-title="Generalistas" tvg-name="Cocina TV",Cocina TV
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="MX Prime",MX Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 
