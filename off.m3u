@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="+CINE" tvg-logo="https://i.postimg.cc/JzQcd84G/CINE.jpg" group-title="Películas" tvg-name="+CINE",+CINE
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
+#EXTINF:-1 tvg-id="ARTFLIX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" group-title="Películas" tvg-name="ARTFLIX",ARTFLIX
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
+
 #EXTINF:-1 tvg-id="Cocina TV" tvg-logo="https://i.postimg.cc/3rtkNB0v/CocinaTV.jpg" group-title="Generalistas" tvg-name="Cocina TV",Cocina TV
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
