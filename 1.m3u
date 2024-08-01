@@ -378,9 +378,6 @@ https://ott2.hdlatam.tv/live_abr/Stream53/playlist.m3u8
 #EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="https://i.postimg.cc/NFSS6TM4/ALIENTO-VISION.png" group-title="Generalistas" tvg-name="ALIENTO VISION",ALIENTO VISION
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UNIFE" tvg-logo="https://i.postimg.cc/PqwB76fQ/UNIFE.png" group-title="Religiosos" tvg-name="UNIFE",UNIFE
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 
