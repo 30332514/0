@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="HORRORFY" tvg-logo="https://i.postimg.cc/fbrwmCfr/HORRORFY.jpg" group-title="Películas" tvg-name="HORRORFY",HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SABER MAS" tvg-logo="https://i.postimg.cc/bY9yJtvX/SABER-MAS.jpg" group-title="Películas" tvg-name="SABER MAS",SABER MAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240313T073218SQUARE.png" group-title="Comedia" tvg-name="Comedia Made in Spain",Comedia Made in Spain
 https://i.mjh.nz/SamsungTVPlus/ESAJ3800005C5.m3u8
 
