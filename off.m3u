@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="La Rosa de Guadalupe TV" tvg-logo="https://i.postimg.cc/52MQdGWw/La-Rosade-Guadalupe.jpg" group-title="Novelas" tvg-name="La Rosa de Guadalupe TV",La Rosa de Guadalupe TV
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://i.postimg.cc/2yzsRhp8/TELEVEN.jpg" group-title="Generalistas" tvg-name="TELEVEN",TELEVEN
 http://38.41.8.1:8000/play/a03x
 
