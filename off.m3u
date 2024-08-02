@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://i.postimg.cc/2yzsRhp8/TELEVEN.jpg" group-title="Generalistas" tvg-name="TELEVEN",TELEVEN
+http://38.41.8.1:8000/play/a03x
+
 #EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/x80yLTDj/FOX-SPORTS.png" group-title="Deportivos" tvg-name="FOX SPORTS 1",FOX SPORTS 1
 http://190.108.85.20:9999/play/a011
 
