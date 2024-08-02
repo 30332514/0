@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
+http://38.41.8.1:8000/play/a030
+
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://i.postimg.cc/SR9Gxfsz/UNIVERSAL-COMEDY.png" group-title="Películas" tvg-name="UNIVERSAL COMEDY",UNIVERSAL COMEDY
+http://38.41.8.1:8000/play/a05r
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
+http://38.41.8.1:8000/play/a04x
+
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe TV" tvg-logo="https://i.postimg.cc/52MQdGWw/La-Rosade-Guadalupe.jpg" group-title="Novelas" tvg-name="La Rosa de Guadalupe TV",La Rosa de Guadalupe TV
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
