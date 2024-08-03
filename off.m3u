@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
+http://45.228.234.167:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.postimg.cc/bvP9NncZ/UNIVERSAL-CRIME.png" group-title="Películas" tvg-name="UNIVERSAL CRIME",UNIVERSAL CRIME
+http://45.228.234.167:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/WpSW3PW2/UNIVERSAL-REALITY.png" group-title="Películas" tvg-name="UNIVERSAL REALITY",UNIVERSAL REALITY
+http://45.228.234.167:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
+http://45.228.234.167:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
 http://38.41.8.1:8000/play/a030
 
