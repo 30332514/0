@@ -105,6 +105,12 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
+#EXTINF:-1 tvg-id="Plus TV Life" tvg-logo="https://i.postimg.cc/j5Ykb5kc/Plus-TV-Life.jpg" group-title="Generalistas" tvg-name="Plus TV Life",Plus TV Life
+http://186.148.195.206:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
+http://186.148.195.206:8000/play/a05r/index.m3u8
+
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
 https://www.milenial.news/salida/sd/milenial.m3u8
 
