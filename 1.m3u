@@ -12,9 +12,6 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfi
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATVSUR/playlist.m3u8
 
