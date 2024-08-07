@@ -63,31 +63,15 @@ https://iptv-org.github.io/iptv/countries/pe.m3u
 https://iptv-org.github.io/iptv/index.nsfw.m3u
 https://github.com/iptv-org/iptv
 
-
-http://742753447110561137.of3805.xyz:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
-http://185.233.16.110:80/get.php?username=vi428027&password=hdFucGwknR&type=m3u_plus
-
-http://cincotv.org:25461/get.php?username=Fermand693&password=Toapa475&type=m3u_plus
-
-http://117.55.203.48:37500/get.php?username=972483615538&password=185177820594&type=m3u_plus
-http://177.128.115.21:8080/get.php?username=Binet&password=6UkGawEA4z&type=m3u_plus
-http://23.175.48.252:25461/get.php?username=ligatv&password=eTnAN837tX&type=m3u_plus
-
-http://sansat.net:88/get.php?username=OPalUdoZyhgu234&password=BcHX4CXvrclsxZq&type=m3u_plus
-http://185.63.252.11:88/get.php?username=OPalUdoZyhgu234&password=BcHX4CXvrclsxZq&type=m3u_plus
-
 http://www.onlinetv365.xyz:8080/get.php?username=57tyjhg65ljouni7yu711&password=thjhg3468ihj&type=m3u
-http://sport.xphost19.xyz:2082/get.php?username=Jvyct679999967DDDF4477&password=Xpluxxx3333ggghy5t57&type=m3u
 
 https://github.com/jsosao/m3u/blob/main/mylist.m3u8
-
 https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md
 https://github.com/ARIEL0202
 https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt
 https://github.com/jsosao/m3u/blob/main/mylist.m3u8
 https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST
 https://www.distro.tv/
-https://github.com/bodegaacuenta/Moyobambaastral             -   Congreso TV, QUVO, DREAMWORKS
 https://github.com/mxxtv/lista/blob/main/vit
 https://github.com/mxxtv/m3u8/blob/main/iptv
 https://github.com/antholyber1a/lista-iptv-peru/tree/main
