@@ -35,25 +35,14 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/man
 
 https://freenote.biz/raw/hxmbypr52v
 
-http://38.56.109.19/playlist.m3u8    -  Estados Unidos (Del Mar)
 
 http://200.60.124.19:29000/playlist.m3u8    -  Perú (Lima)
 
-http://177.234.230.226:8010/playlist.m3u8    -  Ecuador (Pasaje)
-http://45.71.252.67:8000/playlist.m3u8    -  Ecuador (Boca Suno)
 http://190.95.220.212:8000/playlist.m3u8    -  Ecuador (Loja)
 
 http://181.78.208.237:8000/playlist.m3u8    -  Colombia (Bogota)
-http://204.199.119.6:1012/playlist.m3u8    -  Colombia (Bogota)
 http://181.205.130.194:4000/playlist.m3u8    -  Colombia (Bogota)
-http://181.78.64.71:16123/playlist.m3u8    -  Colombia (Bogota)
-http://200.116.199.180:8000/playlist.m3u8    -  Colombia (Medellin)
-http://190.61.43.117:45000/playlist.m3u8    -  Colombia (Barranquilla)
-http://190.61.43.118:45000/playlist.m3u8    -  Colombia (Barranquilla)
-http://45.65.137.206:8000/playlist.m3u8    -  Colombia (Tibu)
-http://206.62.161.251:22000/playlist.m3u8    -  Colombia (Maicao)
 http://190.121.153.89:8000/playlist.m3u8    -  Colombia (Yopal)
-http://186.148.163.18:8000/playlist.m3u8    -  Colombia (Cota)
 http://179.189.222.226:8000/playlist.m3u8    -  Colombia (Pasto)
 
 http://38.41.8.1:8000/playlist.m3u8    -  Venezuela (Caracas)
