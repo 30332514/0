@@ -45,28 +45,15 @@ http://181.205.130.194:4000/playlist.m3u8    -  Colombia (Bogota)
 http://190.121.153.89:8000/playlist.m3u8    -  Colombia (Yopal)
 http://179.189.222.226:8000/playlist.m3u8    -  Colombia (Pasto)
 
-http://181.78.27.128:8000/playlist.m3u8    -  Paraguay (Asuncion)
-
-http://45.5.117.3:4000/playlist.m3u8    -  Guatemala (Guatemala)
-http://45.228.234.167:8000/playlist.m3u8    -  Guatemala (Guatemala)
-http://45.228.234.210:4000/playlist.m3u8    -  Guatemala (Guatemala)
-http://201.159.113.219:49000/playlist.m3u8    -  Guatemala (Guatemala)
-http://200.115.120.1:8000/playlist.m3u8    -  Guatemala (Guatemala)
 http://45.5.117.182:8000/playlist.m3u8    -  Guatemala (Guatemala)
 http://190.149.66.90:4000/playlist.m3u8    -  Guatemala (Guatemala)
 
 http://45.4.85.213:58001/playlist.m3u8    -  Honduras (Sula)
 http://190.83.2.239:8000/playlist.m3u8    -  Honduras (La Sabana)
 http://168.181.122.234:8000/playlist.m3u8    -  Honduras (Puerto Castilla)
-http://138.59.177.34:8000/playlist.m3u8    -  Honduras (San Pedro Sula)
 
 http://204.157.251.250:8000/playlist.m3u8    -  Republica Dominicana (Nagua)
 http://204.157.251.250:8001/playlist.m3u8    -  Republica Dominicana (Nagua)
-
-http://45.235.37.254:8370/playlist.m3u8    -  Chile (Santiago)
-http://190.110.109.104:52321/playlist.m3u8    -  Chile (Santiago)
-
-http://190.94.186.158:9981/playlist.m3u8    - Argentina (Esperanza)
 
 http://179.189.222.226:8000/playlist.m3u8    -  Brasil (Catalao)
 
