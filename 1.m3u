@@ -486,6 +486,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.postimg.cc/28r3nyrn/NOVELISIMA.png" group-title="Novelas" tvg-name="NOVELISIMA",NOVELISIMA
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+
 #EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
 http://45.5.117.182:8000/play/a0st/index.m3u8
 
