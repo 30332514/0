@@ -78,7 +78,6 @@ https://github.com/jesaro15/iptv
 https://github.com/jsosao/m3u/tree/main
 https://github.com/la22lo/sports/tree/main
 https://github.com/PABLOPOM/m3u ---- Mucha Fuente ----
-https://github.com/twixzera/m3u/tree/main
 https://github.com/TonnyMCH/TonnyMCH-Canales-CR.m3u/tree/main/TonnyMCH
 https://github.com/mxxtv/m3u
 https://github.com/mxxtv/m3u8
