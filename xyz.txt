@@ -65,6 +65,7 @@ https://github.com/iptv-org/iptv
 
 http://www.onlinetv365.xyz:8080/get.php?username=57tyjhg65ljouni7yu711&password=thjhg3468ihj&type=m3u
 
+https://github.com/search?q=m3u&type=repositories&s=updated&o=desc&p=5
 https://github.com/jsosao/m3u/blob/main/mylist.m3u8
 https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md
 https://github.com/ARIEL0202
@@ -83,16 +84,12 @@ https://github.com/TonnyMCH/TonnyMCH-Canales-CR.m3u/tree/main/TonnyMCH
 https://github.com/mxxtv/m3u
 https://github.com/mxxtv/m3u8
 https://github.com/Mxitv/m3u8/blob/main/m3u
-https://github.com/MAXIMAONE/IPTV.m3u
 https://github.com/BrianRVP/lista.m3u
 https://github.com/BrianRVP/lista.m3u/blob/main/IPTV
-https://github.com/search?q=m3u&type=repositories&s=updated&o=desc&p=5
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
 https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt
 https://freenote.biz/index.php/raw/xlo5yDXuCv
-https://paste.anasor.com/paste.php?raw&id=341633
 
-https://gist.github.com/ezersky/02dd60d60d7e1e3507fedf8187ce3718
 https://gist.github.com/Willonidas/965a21a978d77986c78cb83f85d32d6d
 https://gist.github.com/elfenderes
 https://github.com/la22lo/sports/tree/main
