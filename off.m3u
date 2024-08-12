@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ=w240-h480-rw" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
+http://gzrqxpw.mexamo.xyz:900/live/1002378585/7057806128/18391.m3u8
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://i.postimg.cc/X722yRPW/onetoro.png" group-title="Tauromaquia" tvg-name="Onetoro",Onetoro
+http://gzrqxpw.mexamo.xyz:900/live/1002378585/7057806128/32096.m3u8
+
 #EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/CLjqfcdx/TV-Per-Noticias.png" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
