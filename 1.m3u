@@ -201,6 +201,9 @@ https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8?manifestfilter=video_bitrate
 #EXTINF:-1 tvg-id="TVone" tvg-logo="https://i.postimg.cc/KjVs24yf/TVone.jpg" group-title="Musicales" tvg-name="TVone",TVone
 https://streamtv.onliv3.online:1936/karibtv/ngrp:tvone/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ONE TV" tvg-logo="https://i.postimg.cc/4y3c8HV3/ONE-TV.jpg" group-title="Musicales" tvg-name="ONE TV",ONE TV
+https://eu1.servers10.com:19360/onetv-1/onetv-1.m3u8
+
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
