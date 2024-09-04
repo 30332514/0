@@ -31,7 +31,7 @@ https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTV Perú" tvg-logo="https://i.postimg.cc/HWS78G7K/CTV-Per.jpg" group-title="Generalistas" tvg-name="CTV Perú",CTV Perú
-https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="Generalistas" tvg-name="Congreso TV",Congreso TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/canaldelcongreso.stream/playlist.m3u8
@@ -52,13 +52,13 @@ http://186.148.195.206:8000/play/a05x/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/PBO.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
-https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
