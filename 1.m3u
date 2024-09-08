@@ -697,7 +697,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 http://200.59.188.3:8000/play/a0eh
 
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
-https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_pt32qqg4/protocol/https/format/applehttp/flavorIds/1_guv0vn2k,1_bhyj2nh1,1_msnjjmr8,1_e14c4xt6/a.m3u8?uiConfId=53662072&playSessionId=e70dd526-6124-7582-8458-1513c333022f:7da6dac1-ec60-bfcc-5fb8-ddfe6d22edc2&referrer=aHR0cHM6Ly93d3cuY2FuYWxleHRyZW1hZHVyYS5lcy8=&clientTag=html5:v3.17.21
 
 #EXTINF:-1 tvg-id="La 7" tvg-logo="https://i.postimg.cc/1zys0YTy/La7.png" group-title="Generalistas"" tvg-name="La 7",La 7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
