@@ -151,7 +151,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MASTER TV" tvg-logo="https://i.postimg.cc/bvWq7rF3/MASTER-TV.jpg" group-title="Generalistas" tvg-name="MASTER TV",MASTER TV
-https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
+https://live.obslivestream.com/mastertv/index.m3u8
 
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
