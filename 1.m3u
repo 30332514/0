@@ -424,7 +424,7 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
-http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
