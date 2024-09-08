@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
+https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://i.postimg.cc/vZJHjQN2/ALL-SPORTS.jpg" group-title="Deportivos" tvg-name="ALL SPORTS",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
