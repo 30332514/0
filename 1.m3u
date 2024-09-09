@@ -162,9 +162,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tu Canal Musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Tu Canal Musical",Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USMPTV MÚSICA" tvg-logo="https://i.postimg.cc/CK7B2K5Z/USMPTV-M-SICA.png" group-title="Musicales" tvg-name="USMPTV MÚSICA",USMPTV MÚSICA
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMPmusica/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 
@@ -224,9 +221,6 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lolly Kids" tvg-logo="https://i.postimg.cc/50LxjC61/Lolly-Kids.png" group-title="Musicales" tvg-name="Lolly Kids",Lolly Kids
 http://200.59.188.3:8000/play/a02s
-
-#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png" group-title="Musicales" tvg-name="Bandamax",Bandamax
-http://45.5.117.182:8000/play/98ui/index.m3u8
 
 #EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20230712T021349SQUARE.png_20230712021349.png" group-title="Musicales" tvg-name="Sol Música",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
