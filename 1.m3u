@@ -15,9 +15,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?manifestfilter=vid
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Generalistas" tvg-name="La Tele",La Tele
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
@@ -54,9 +51,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
 
@@ -74,9 +68,6 @@ https://ntv.pe/salida/sd/nativa.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
-
-#EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
-https://srv1.mediastreamperu.com:19360/taurustv/taurustv.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
