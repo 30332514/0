@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
+https://srv1.mediastreamperu.com:19360/taurustv/taurustv.m3u8
+
+#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Generalistas" tvg-name="La Tele",La Tele
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tropical Moon" tvg-logo="https://i.postimg.cc/DZ5pYpWm/Tropical-Moon.jpg" group-title="Musicales" tvg-name="Tropical Moon",Tropical Moon
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 
