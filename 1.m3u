@@ -490,19 +490,19 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783f
 http://45.5.117.182:8000/play/ljt0/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
-http://181.78.208.237:8000/play/a09t/index.m3u8
+http://45.177.53.7:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports+" tvg-logo="https://i.postimg.cc/9XbhfZDs/Win-Sports.png" group-title="Deportivos" tvg-name="Win Sports+",Win Sports+
-http://181.78.208.237:8000/play/a0bc/index.m3u8
+http://45.177.53.7:8000/play/a0l8/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
+http://45.177.53.7:8000/play/a0hy/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
 http://200.60.124.19:29000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
+http://45.177.53.7:8000/play/a0ik/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
 http://200.60.124.19:29000/play/a00h/index.m3u8
@@ -658,7 +658,7 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://cflive.kaltura.com/scf/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_ski67o97/tl/main/st/0/t/4aTx-HXVFT5UnFxYVHSPmg/index-s44.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9jbHVzdGVyLTEtZC5saXZlLm52cDEvbGl2ZS9obHMvcC8yMjg4NjkxL2UvMV9za2k2N285Ny90bC9tYWluL3N0LzAvdC80YVR4LUhYVkZUNVVuRnhZVkhTUG1nLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjU4ODgxMDd9fX1dfQ__&Signature=oQKJEegbjrQ4exkjywoaj7q2osGiDwFaeGXxDYXHMl-j3Ajbjf2NyT3Kzz0Ecfb7ov53TVMbBevDtJTpQgCAda31m-LY4njzYRdJRongub~5mt-D-YwOJWB23f44WInsEy0EziQtGvoH4r6tS1xBBMw0IdS-ro8hPPiu4x6XYAz-maYWKvO9JUfP1NPeaoJJSgBBNNoQO2BBcNtEsaVHs5L8eyRFZ78vEogHOoN8VwTrxOuQ9wEUZO02CWquDcFY9xghLSB1aCKzIBHC2aSx3dAlUbs2I7icrXWKqNnkkGI~hC2K0AgavZOQixi12BMl9~XdKQJ7W0T7eYjZui-Peg__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_sqa9madm/tl/main/st/0/t/Bba1JqojmUp65kPqfyhpUA/index-s44.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9jbHVzdGVyLTEtZC5saXZlLm52cDEvbGl2ZS9obHMvcC8yMjg4NjkxL2UvMV9zcWE5bWFkbS90bC9tYWluL3N0LzAvdC9CYmExSnFvam1VcDY1a1BxZnlocFVBLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjY5NjUxODF9fX1dfQ__&Signature=PaIOIrN84yyB6XjmmSfjy3bRyHFXBA2hqYlAFMwhwFlVUiON8wZD-7WpzaMk8NRGzduHt~m4uveqYyp9GJ-PfzwAxg0SfUz4jO5uGlcNN6i28~6b58OX6nPpHOM6VXsLgB-ffOg8FjJVs9hTjF3N8xwlJaZYRKlBdh0gHuFYF9LNipThVGdaEX8Rb69XQIg9k23lgc5GPxA~CjI0vEGjG1~JRNy~R1XG2ElTQwJcE0Iepy5-ZhYwlX2HpNCaXG6qb3V0SqLy-RDWeOlVC7ocVjuWnRt63EYBSph56xskh0opsBLI7-yJcmHGarNkmzxf3mQpKCByP7yHzOt35OwMRg__&Key-Pair-Id=K31ANTJBLNVBEC
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
