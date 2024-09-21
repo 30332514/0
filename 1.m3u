@@ -415,7 +415,7 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 http://181.78.8.90:16123/play/ch33
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
-http://181.78.208.237:8000/play/a0c2/index.m3u8
+http://45.177.53.7:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CINE" tvg-logo="https://i.postimg.cc/SRGCzshD/SonyCine.jpg" group-title="Películas" tvg-name="SONY CINE",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -430,7 +430,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 http://45.5.117.182:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
-http://181.78.208.237:8000/play/a0b6/index.m3u8
+http://45.177.53.7:8000/play/a0kn/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -439,7 +439,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas Latinoamerica" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Latinoamerica",Tlnovelas Latinoamerica
-http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+http://45.177.53.7:8000/play/a0lc/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
