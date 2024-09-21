@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.postimg.cc/DyWHbcqM/Univision.jpg" group-title="Generalistas"" tvg-name="Univision",Univision
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCN Nuestra Tele Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/320px-RCN_Nuestra_Tele_logo.svg.png" group-title="Generalistas" tvg-name="RCN Nuestra Tele Internacional",RCN Nuestra Tele Internacional
+http://181.78.208.237:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
+http://181.78.208.237:8000/play/a0an/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE TV" tvg-logo="https://i.postimg.cc/4y3c8HV3/ONE-TV.jpg" group-title="Musicales" tvg-name="ONE TV",ONE TV
+https://eu1.servers10.com:19360/onetv-1/onetv-1.m3u8
+
 #EXTINF:-1 tvg-id="Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="Tauromaquia" tvg-name="Taurus TV",Taurus TV
 https://srv1.mediastreamperu.com:19360/taurustv/taurustv.m3u8
 
