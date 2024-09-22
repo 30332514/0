@@ -915,12 +915,6 @@ https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist
 #EXTINF:-1 tvg-id="TU CINE Europa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Europa",TU CINE Europa
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TU CINE Latinoamerica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Latinoamerica",TU CINE Latinoamerica
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINE SUREÑO" tvg-logo="https://i.postimg.cc/qqXzB66w/CINE-SURE-O.jpg" group-title="Películas" tvg-name="CINE SUREÑO",CINE SUREÑO
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="MX Family",MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
