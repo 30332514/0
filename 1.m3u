@@ -121,7 +121,7 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-logo="https://i.postimg.cc/sDCQnVZk/Frecuencia-Musical-TV.jpg" group-title="Generalistas" tvg-name="Frecuencia Musical TV",Frecuencia Musical TV
-https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
