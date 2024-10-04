@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
+http://45.5.117.182:8000/play/a0f2/index.m3u8
+
+#EXTINF:-1 tvg-id="htv" tvg-logo="https://i.postimg.cc/0jYHjxgv/htv.jpg" group-title="Musicales" tvg-name="htv",htv
+http://45.177.53.7:8000/play/a0jo/index.m3u8
+
+#EXTINF:-1 tvg-id="Lolly Kids" tvg-logo="https://i.postimg.cc/50LxjC61/Lolly-Kids.png" group-title="Musicales" tvg-name="Lolly Kids",Lolly Kids
+http://200.59.188.3:8000/play/a02s
+
 #EXTINF:-1 tvg-id="TU CINE Latinoamerica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Latinoamerica",TU CINE Latinoamerica
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
