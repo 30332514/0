@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="PTV Málaga" tvg-logo="https://i.postimg.cc/xTrZKdsH/ptvmalaga.jpg" group-title="Generalistas" tvg-name="PTV Málaga",PTV Málaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV Sevilla" tvg-logo="https://i.postimg.cc/ydMLXfTB/ptvsevilla.png" group-title="Generalistas" tvg-name="PTV Sevilla",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV Córdoba" tvg-logo="https://i.postimg.cc/DwvBg41W/ptvcordoba.jpg" group-title="Generalistas" tvg-name="PTV Córdoba",PTV Córdoba
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV Granada" tvg-logo="https://i.postimg.cc/DzD6nCHs/ptvgranada.jpg" group-title="Generalistas" tvg-name="PTV Granada",PTV Granada
+https://streamer.zapitv.com/PTV-granada/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV Linares" tvg-logo="https://i.postimg.cc/kGNvN74F/ptvlinares.jpg" group-title="Generalistas" tvg-name="PTV Linares",PTV Linares
+https://streamer.zapitv.com/ptv-linarez/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV Almería" tvg-logo="https://i.postimg.cc/hPjX1SfD/ptvalmeria.png" group-title="Generalistas" tvg-name="PTV Almería",PTV Almería
+https://streamer.zapitv.com/ptv_almeria/index.m3u8
+
 #EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
 http://45.177.53.7:8000/play/a0hn/index.m3u8
 
