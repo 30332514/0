@@ -777,24 +777,6 @@ https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 #EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://i.postimg.cc/sxL08jyF/canalmalaga.jpg" group-title="Generalistas" tvg-name="Canal Málaga",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PTV Málaga" tvg-logo="https://i.postimg.cc/xTrZKdsH/ptvmalaga.jpg" group-title="Generalistas" tvg-name="PTV Málaga",PTV Málaga
-https://streamer.zapitv.com/PTV-malaga/index.m3u8
-
-#EXTINF:-1 tvg-id="PTV Sevilla" tvg-logo="https://i.postimg.cc/ydMLXfTB/ptvsevilla.png" group-title="Generalistas" tvg-name="PTV Sevilla",PTV Sevilla
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
-
-#EXTINF:-1 tvg-id="PTV Córdoba" tvg-logo="https://i.postimg.cc/DwvBg41W/ptvcordoba.jpg" group-title="Generalistas" tvg-name="PTV Córdoba",PTV Córdoba
-https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
-
-#EXTINF:-1 tvg-id="PTV Granada" tvg-logo="https://i.postimg.cc/DzD6nCHs/ptvgranada.jpg" group-title="Generalistas" tvg-name="PTV Granada",PTV Granada
-https://streamer.zapitv.com/PTV-granada/index.m3u8
-
-#EXTINF:-1 tvg-id="PTV Linares" tvg-logo="https://i.postimg.cc/kGNvN74F/ptvlinares.jpg" group-title="Generalistas" tvg-name="PTV Linares",PTV Linares
-https://streamer.zapitv.com/ptv-linarez/index.m3u8
-
-#EXTINF:-1 tvg-id="PTV Almería" tvg-logo="https://i.postimg.cc/hPjX1SfD/ptvalmeria.png" group-title="Generalistas" tvg-name="PTV Almería",PTV Almería
-https://streamer.zapitv.com/ptv_almeria/index.m3u8
-
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 
