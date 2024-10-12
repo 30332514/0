@@ -22,7 +22,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
-https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+https://play.agenciastreaming.com:8081/nacionaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCR TV" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="Generalistas" tvg-name="RCR TV",RCR TV
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
