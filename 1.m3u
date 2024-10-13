@@ -55,7 +55,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8
 https://www.chasquirouter.com/salida/trivu.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
-http://38.44.237.132:2080/TeleLima/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A uno" tvg-logo="https://i.postimg.cc/pTQMZ84M/Antena-Uno-TV.jpg" group-title="Generalistas" tvg-name="A uno",A uno
 https://servilive.com:3604/live/antenaunotvlivelive.m3u8
