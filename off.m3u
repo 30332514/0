@@ -1,5 +1,59 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
+http://181.78.8.90:16123/play/ch36
+
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
+http://45.177.53.7:8000/play/a0jl/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://i.postimg.cc/3JwfvcmQ/CanalTRO.jpg" group-title="Generalistas" tvg-name="Canal TRO",Canal TRO
+http://45.177.53.7:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-id="City tv" tvg-logo="https://i.postimg.cc/Fs3rq883/City-tv.jpg" group-title="Películas" tvg-name="City tv",City tv
+http://45.177.53.7:8000/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-id="CABLENOTICIAS" tvg-logo="https://i.postimg.cc/gr9VNQ5N/CABLENOTICIAS.jpg" group-title="Generalistas" tvg-name="CABLENOTICIAS",CABLENOTICIAS
+http://45.177.53.7:8000/play/a0jp/index.m3u8
+
+#EXTINF:-1 tvg-id="Mas Chic" tvg-logo="" group-title="Generalistas" tvg-name="Mas Chic",Mas Chic
+http://181.78.8.90:16123/play/ch33
+
+#EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
+http://45.177.53.7:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://i.postimg.cc/tCNVdr6G/BabyTV.jpg" group-title="Infantiles" tvg-name="BabyTV",BabyTV
+http://204.157.251.250:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-id="el Gourmet" tvg-logo="https://i.postimg.cc/Dw7wB9pN/el-Gourmet.jpg" group-title="Generalistas" tvg-name="el Gourmet",el Gourmet
+http://181.78.8.90:16123/play/ch27
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.postimg.cc/0QHq1zrr/Love-Nature.jpg" group-title="Generalistas" tvg-name="Love Nature",Love Nature
+http://181.78.8.90:16123/play/ch50
+
+#EXTINF:-1 tvg-id="D película" tvg-logo="https://i.postimg.cc/nzHpKkfM/D-pel-cula.png" group-title="Películas" tvg-name="D película",D película
+http://181.78.8.90:16123/play/ch57
+
+#EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
+http://200.59.188.3:8000/play/a00o
+
+#EXTINF:-1 tvg-id="CINE HISPANO " tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="Películas" tvg-name="CINE HISPANO ",CINE HISPANO 
+http://181.78.8.90:16123/play/ch51
+
+#EXTINF:-1 tvg-id="CINE FAMILIAR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="Películas" tvg-name="CINE FAMILIAR",CINE FAMILIAR
+http://181.78.8.90:16123/play/ch52
+
+#EXTINF:-1 tvg-id="CINE PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Películas" tvg-name="CINE PREMIUM",CINE PREMIUM
+http://181.78.8.90:16123/play/ch49
+
+#EXTINF:-1 tvg-id="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20230614T005905SQUARE.png_20230614005905.png" group-title="Drama" tvg-name="BBC Drama",BBC Drama
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FLOU CINE" tvg-logo="https://i.postimg.cc/yN76s2pc/FLOU-CINE.png" group-title="Películas" tvg-name="FLOU CINE",FLOU CINE
+https://amg01365-spanglishmovies-floucinedistro-distrotv-uh2q7.amagi.tv/playlist/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV LIVE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="Películas" tvg-name="FreeTV LIVE",FreeTV LIVE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Doctor Who" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png" group-title="Drama" tvg-name="Doctor Who",Doctor Who
 https://24e45240eb464bb795218803d6c61cc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_DoctorWho/playlist.m3u8
 
