@@ -66,6 +66,9 @@ https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/index.m3u8
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 https://ntv.pe/salida/sd/nativa.m3u8
 
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://i.postimg.cc/qM27NPHx/RTV.jpg" group-title="Generalistas" tvg-name="RTV",RTV
+https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
