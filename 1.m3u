@@ -114,6 +114,9 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 
+#EXTINF:-1 tvg-id="CTC" tvg-logo="https://i.postimg.cc/QMJytGDP/CTC.jpg" group-title="Generalistas" tvg-name="CTC",CTC
+https://live-evg25.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
