@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ShowVen" tvg-logo="https://i.postimg.cc/wjMryxmV/ShowVen.png" group-title="Musicales" tvg-name="ShowVen",ShowVen
+http://200.59.188.3:8000/play/a090
+
 #EXTINF:-1 tvg-id="Ve PLUS" tvg-logo="https://i.postimg.cc/SQcjF0bk/Ve-PLUS.jpg" group-title="Generalistas" tvg-name="Ve PLUS",Ve PLUS
 http://181.78.8.90:16123/play/ch36
 
