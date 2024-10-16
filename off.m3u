@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="AnimeStation" tvg-logo="https://i.postimg.cc/9fyfYnLb/Anime-Station.jpg" group-title="Infantiles" tvg-name="AnimeStation",AnimeStation
+https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
 http://181.78.8.90:16123/play/ch53
 
