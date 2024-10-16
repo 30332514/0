@@ -466,13 +466,13 @@ http://181.205.77.118:4849/play/CH16
 http://181.205.77.118:4849/play/CH14
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
-http://45.177.53.7:8000/play/a0hy/index.m3u8
+http://181.205.77.118:4849/play/a0a9
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Deportivos" tvg-name="ESPN 2",ESPN 2
 http://200.60.124.19:29000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Deportivos" tvg-name="ESPN 3",ESPN 3
-http://45.177.53.7:8000/play/a0ik/index.m3u8
+http://181.205.77.118:4849/play/CH19
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Deportivos" tvg-name="ESPN 4",ESPN 4
 http://200.60.124.19:29000/play/a00h/index.m3u8
@@ -604,7 +604,7 @@ http://45.5.117.182:8000/play/a0fu/index.m3u8
 http://200.59.188.3:8000/play/a0f3
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
-http://200.59.188.3:8000/play/a015
+http://181.205.77.118:4849/play/CH125
 
 #EXTINF:-1 tvg-id="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240214T035652SQUARE.png_20240214035653.png" group-title="Drama"" tvg-name="Acacias 38",Acacias 38
 https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8
