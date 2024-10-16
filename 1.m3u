@@ -504,9 +504,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 #EXTINF:-1 tvg-id="anime onegai" tvg-logo="https://i.postimg.cc/CLTtf0zV/anime-onegai.png" group-title="Infantiles" tvg-name="anime onegai",anime onegai
 https://live-evg1.tv360.bitel.com.pe/bitel/animeOnegai/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-id="AnimeStation" tvg-logo="https://i.postimg.cc/9fyfYnLb/Anime-Station.jpg" group-title="Infantiles" tvg-name="AnimeStation",AnimeStation
-https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Infantiles" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
