@@ -597,9 +597,6 @@ https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
 http://38.43.140.97:8000/play/a03g/index.m3u8
 
-#EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-
 #EXTINF:-1 tvg-id="Trace Sportstars" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300035DP_20220323T081930SQUARE.png_20220323081932.png" group-title="Deportivos" tvg-name="Trace Sportstars",Trace Sportstars
 https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
 
@@ -1194,9 +1191,6 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-
-#EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
-https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 #EXTINF:-1 tvg-id="SEO TV" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Generalistas" tvg-name="SEO TV",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
