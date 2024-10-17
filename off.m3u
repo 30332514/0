@@ -483,12 +483,6 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio San Borja TV" tvg-logo="https://i.postimg.cc/d1D3J1xx/radiosanborja.png" group-title="Musicales" tvg-name="Radio San Borja TV",Radio San Borja TV
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 
-#EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-
-#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
-https://live.obslivestream.com/xtv/index.m3u8
-
 #EXTINF:-1 tvg-id="Unicentro TV" tvg-logo="https://i.postimg.cc/T123TFfP/Unicentro-TV.jpg" group-title="Generalistas" tvg-name="Unicentro TV",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 
