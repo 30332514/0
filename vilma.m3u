@@ -19,7 +19,7 @@ http://181.205.77.118:4849/play/CH125
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
-http://117.55.203.48:37500/972483615538/185177820594/115975
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
