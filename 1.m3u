@@ -517,7 +517,7 @@ http://200.60.124.19:29000/play/a0ap/index.m3u8
 http://200.60.124.19:29000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://181.78.8.90:16123/play/ch05
+http://45.175.139.194:8000/play/21
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
 http://200.60.124.19:29000/play/a01i/index.m3u8
