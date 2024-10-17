@@ -34,9 +34,6 @@ http://181.78.8.90:16123/play/a068
 #EXTINF:-1 tvg-id="RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="Generalistas" tvg-name="RCN Xtra",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://200.60.124.19:29000/play/a06k/index.m3u8
-
 #EXTINF:-1 tvg-id="Globovisión" tvg-logo="https://i.postimg.cc/Px5NnyYh/Globovisi-n.jpg" group-title="Películas" tvg-name="Globovisión",Globovisión
 http://200.59.188.3:8000/play/a093
 
@@ -120,9 +117,6 @@ https://streamer.zapitv.com/ptv_almeria/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://i.postimg.cc/Pxx78d95/CNN-Chile.png" group-title="Informativos" tvg-name="CNN Chile",CNN Chile
 http://45.177.53.7:8000/play/a0hn/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
-http://45.5.117.182:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-id="htv" tvg-logo="https://i.postimg.cc/0jYHjxgv/htv.jpg" group-title="Musicales" tvg-name="htv",htv
 http://45.177.53.7:8000/play/a0jo/index.m3u8
