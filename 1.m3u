@@ -207,6 +207,9 @@ https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
+https://live.obslivestream.com/xtv/index.m3u8
+
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/63n3qHh5/VM-Latino.png" group-title="Musicales" tvg-name="VM Latino",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -218,9 +221,6 @@ https://streamtv.onliv3.online:1936/karibtv/ngrp:tvone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
-
-#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
-https://live.obslivestream.com/xtv/index.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV MÚSICA" tvg-logo="https://i.postimg.cc/CK7B2K5Z/USMPTV-M-SICA.png" group-title="Musicales" tvg-name="USMPTV MÚSICA",USMPTV MÚSICA
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMPmusica/playlist.m3u8
