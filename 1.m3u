@@ -663,6 +663,9 @@ http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
 http://45.5.117.182:8000/play/a0fl/index.m3u8
 
+#EXTINF:-1 tvg-id="Tastemade en español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" group-title="Estilo de Vida" tvg-name="Tastemade en español",Tastemade en español
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
