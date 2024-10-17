@@ -198,6 +198,18 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
+http://45.175.139.194:8000/play/65
+
+#EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://i.postimg.cc/SNR9q1t2/MIMUSICA-SALSA.jpg" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
+http://45.175.139.194:8000/play/66
+
+#EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
+http://45.175.139.194:8000/play/67
+
+#EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
+http://45.175.139.194:8000/play/68
+
 #EXTINF:-1 tvg-id="Activa TV" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
