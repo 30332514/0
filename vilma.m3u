@@ -97,13 +97,13 @@ https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssd
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/540948.ts
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #EXTINF:-1 tvg-id="SOLIDARIA TV" tvg-logo="http://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="Generalistas" tvg-name="SOLIDARIA TV",SOLIDARIA TV
-http://117.55.203.48:37500/972483615538/185177820594/45423
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/341250.ts
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Generalistas" tvg-name="Boing",Boing
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
@@ -147,11 +147,17 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
+https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
 https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="Generalistas" tvg-name="Viva TV",Viva TV
-http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
@@ -173,3 +179,6 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+#EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
