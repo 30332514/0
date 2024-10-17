@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="Generalistas"" tvg-name="La 1",La 1
-http://117.55.203.48:37500/972483615538/185177820594/115916
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://i.postimg.cc/7LF42d7W/la2.png" group-title="Generalistas"" tvg-name="La 2",La 2
-http://117.55.203.48:37500/972483615538/185177820594/115919
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Star tve" tvg-logo="https://i.postimg.cc/Vks5htGm/Star-tve.jpg" group-title="Generalistas"" tvg-name="Star tve",Star tve
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://117.55.203.48:37500/972483615538/185177820594/115922
+http://200.59.188.3:8000/play/a0f3
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://117.55.203.48:37500/972483615538/185177820594/116703
+http://181.205.77.118:4849/play/CH125
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
@@ -22,16 +22,16 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 http://117.55.203.48:37500/972483615538/185177820594/115975
 
 #EXTINF:-1 tvg-id="tdp" tvg-logo="https://i.postimg.cc/QC8tm1fM/tdp.png" group-title="Deportivos" tvg-name="tdp",tdp
-http://117.55.203.48:37500/972483615538/185177820594/116164
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadrid" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid",TeleMadrid
-http://117.55.203.48:37500/972483615538/185177820594/116744
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="LA OTRA" tvg-logo="https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg" group-title="Generalistas" tvg-name="LA OTRA",LA OTRA
-http://117.55.203.48:37500/972483615538/185177820594/116756
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-http://117.55.203.48:37500/972483615538/185177820594/12650
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski67o97/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="Guada TV" tvg-logo="https://i.postimg.cc/sXDwc9SC/guadatv.jpg" group-title="Generalistas" tvg-name="Guada TV",Guada TV
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
@@ -85,13 +85,13 @@ http://117.55.203.48:37500/972483615538/185177820594/116701
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/321152.ts
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-http://117.55.203.48:37500/972483615538/185177820594/115980
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Andalucia Cocina" tvg-logo="https://i.postimg.cc/ryNqVKDs/Canal-Andalucia-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Andalucia Cocina",Canal Andalucia Cocina
-http://200.59.188.3:8000/play/a0eh
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
-https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="GOL PLAY",GOL PLAY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
