@@ -607,16 +607,16 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-https://cflive.kaltura.com/scf/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_sqa9madm/tl/main/st/0/t/Bba1JqojmUp65kPqfyhpUA/index-s44.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9jbHVzdGVyLTEtZC5saXZlLm52cDEvbGl2ZS9obHMvcC8yMjg4NjkxL2UvMV9zcWE5bWFkbS90bC9tYWluL3N0LzAvdC9CYmExSnFvam1VcDY1a1BxZnlocFVBLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjY5NjUxODF9fX1dfQ__&Signature=PaIOIrN84yyB6XjmmSfjy3bRyHFXBA2hqYlAFMwhwFlVUiON8wZD-7WpzaMk8NRGzduHt~m4uveqYyp9GJ-PfzwAxg0SfUz4jO5uGlcNN6i28~6b58OX6nPpHOM6VXsLgB-ffOg8FjJVs9hTjF3N8xwlJaZYRKlBdh0gHuFYF9LNipThVGdaEX8Rb69XQIg9k23lgc5GPxA~CjI0vEGjG1~JRNy~R1XG2ElTQwJcE0Iepy5-ZhYwlX2HpNCaXG6qb3V0SqLy-RDWeOlVC7ocVjuWnRt63EYBSph56xskh0opsBLI7-yJcmHGarNkmzxf3mQpKCByP7yHzOt35OwMRg__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski67o97/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Andalucia Cocina" tvg-logo="https://i.postimg.cc/ryNqVKDs/Canal-Andalucia-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Andalucia Cocina",Canal Andalucia Cocina
-http://200.59.188.3:8000/play/a0eh
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
-https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_pt32qqg4/protocol/https/format/applehttp/flavorIds/1_guv0vn2k,1_bhyj2nh1,1_msnjjmr8,1_e14c4xt6/a.m3u8?uiConfId=53662072&playSessionId=e70dd526-6124-7582-8458-1513c333022f:7da6dac1-ec60-bfcc-5fb8-ddfe6d22edc2&referrer=aHR0cHM6Ly93d3cuY2FuYWxleHRyZW1hZHVyYS5lcy8=&clientTag=html5:v3.17.21
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="La 7" tvg-logo="https://i.postimg.cc/1zys0YTy/La7.png" group-title="Generalistas"" tvg-name="La 7",La 7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
