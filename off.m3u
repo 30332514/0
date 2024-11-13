@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="CTC" tvg-logo="https://i.postimg.cc/QMJytGDP/CTC.jpg" group-title="Generalistas" tvg-name="CTC",CTC
+https://live-evg25.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Generalistas" tvg-name="Justicia TV",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
 
