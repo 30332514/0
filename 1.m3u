@@ -124,10 +124,7 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 https://servilive.com:3757/live/regiontvlive.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
-
-#EXTINF:-1 tvg-id="CTC" tvg-logo="https://i.postimg.cc/QMJytGDP/CTC.jpg" group-title="Generalistas" tvg-name="CTC",CTC
-https://live-evg25.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
@@ -164,9 +161,6 @@ https://live.obslivestream.com/mastertv/index.m3u8
 
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-
-#EXTINF:-1 tvg-id="LIMA LIVE" tvg-logo="https://i.postimg.cc/HL8KCKRB/LIMA-LIVE.png" group-title="Generalistas" tvg-name="LIMA LIVE",LIMA LIVE
-https://vdo.grupolimalive.com:3245/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
