@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Vintage Music TV" tvg-logo="https://i.postimg.cc/qvysSRDb/Vintage-Music.png" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://i.ibb.co/KqswCDN/esport3-logo.png" group-title="Deportivos" tvg-name="Esport 3",Esport 3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
