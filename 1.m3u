@@ -183,9 +183,6 @@ https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vintage Music TV" tvg-logo="https://i.postimg.cc/qvysSRDb/Vintage-Music.png" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
 https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
 
@@ -199,7 +196,7 @@ https://servilive.com:3531/stream/play.m3u8
 https://live.obslivestream.com/xtv/index.m3u8
 
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/63n3qHh5/VM-Latino.png" group-title="Musicales" tvg-name="VM Latino",VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/vmlatino/bitel/vmlatino_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
 https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8
