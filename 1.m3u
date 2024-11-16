@@ -1014,9 +1014,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-cineclassico-
 #EXTINF:-1 tvg-id="FreeTV ESTELAR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png" group-title="Películas" tvg-name="FreeTV ESTELAR",FreeTV ESTELAR
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-estelar-eu/b36fc60e-ede0-4497-8198-dbfdcb9e9d8b/1.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Drama" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Películas" tvg-name="FreeTV Drama",FreeTV Drama
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/480p-vtt/index.m3u8
 
