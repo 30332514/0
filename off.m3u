@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="FreeTV Drama" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Películas" tvg-name="FreeTV Drama",FreeTV Drama
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png" group-title="Musicales" tvg-name="Bandamax",Bandamax
 http://45.5.117.182:8000/play/98ui/index.m3u8
 
