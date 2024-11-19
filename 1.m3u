@@ -375,9 +375,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN MÁS+" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS+",RCN MÁS+
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://200.60.124.19:29000/play/a06k/index.m3u8
-
 #EXTINF:-1 tvg-id="ChileVisión" tvg-logo="https://i.postimg.cc/g0yTRqxC/Chile-Visi-n.png" group-title="Generalistas" tvg-name="ChileVisión",ChileVisión
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 
