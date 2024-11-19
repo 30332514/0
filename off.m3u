@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
+http://186.148.195.206:8000/play/a05x/index.m3u8
+
 #EXTINF:-1 tvg-id="FreeTV Drama" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Películas" tvg-name="FreeTV Drama",FreeTV Drama
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
