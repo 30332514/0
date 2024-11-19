@@ -228,9 +228,6 @@ http://45.175.139.194:8000/play/67
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
 http://45.175.139.194:8000/play/68
 
-#EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Musicales" tvg-name="Sol Música",Sol Música
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-
 #EXTINF:-1 tvg-id="Activa TV" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
@@ -255,7 +252,7 @@ https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20230712T021349SQUARE.png_20230712021349.png" group-title="Musicales" tvg-name="Sol Música",Sol Música
+#EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Musicales" tvg-name="Sol Música",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-id="La Bocina Latina" tvg-logo="https://i.postimg.cc/05S0PNx5/La-Bocina-Latina.jpg" group-title="Musicales" tvg-name="La Bocina Latina",La Bocina Latina
