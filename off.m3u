@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
+http://200.60.124.19:29000/play/a06k/index.m3u8
+
 #EXTINF:-1 tvg-id="Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="Musicales" tvg-name="Concert Channel",Concert Channel
 http://45.5.117.182:8000/play/a0ci/index.m3u8
 
