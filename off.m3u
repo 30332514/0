@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Plus TV Life" tvg-logo="https://i.postimg.cc/j5Ykb5kc/Plus-TV-Life.jpg" group-title="Generalistas" tvg-name="Plus TV Life",Plus TV Life
+http://186.148.195.206:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
+http://186.148.195.206:8000/play/a05r/index.m3u8
+
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
 http://200.60.124.19:29000/play/a06k/index.m3u8
 
