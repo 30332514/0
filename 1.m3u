@@ -126,6 +126,9 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Santa Rosa Radio/TV" tvg-logo="https://i.postimg.cc/6qq1Mrx5/Santa-Rosa-Radio-TV.jpg" group-title="Generalistas" tvg-name="Santa Rosa Radio/TV",Santa Rosa Radio/TV
+https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
