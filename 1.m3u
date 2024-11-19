@@ -228,6 +228,9 @@ http://45.175.139.194:8000/play/67
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
 http://45.175.139.194:8000/play/68
 
+#EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Musicales" tvg-name="Sol Música",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
 #EXTINF:-1 tvg-id="Activa TV" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
@@ -546,6 +549,9 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.postimg.cc/nVTkLc47/r.jpg" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 
+#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Deportivos" tvg-name="FIFA+",FIFA+
+https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Latin America Sport" tvg-logo="https://i.postimg.cc/CLnSNBZr/Latin-America-Sport.png" group-title="Deportivos" tvg-name="Latin America Sport",Latin America Sport
 http://45.228.234.210:8000/play/a02h/index.m3u8
 
@@ -743,6 +749,9 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW Español" tvg-logo="https://i.postimg.cc/vBYv5k2v/dwespa-ol.png" group-title="Informativos" tvg-name="DW Español",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Informativos" tvg-name="CNN en Español",CNN en Español
+https://amg00803-amg00803c3-samsung-es-4975.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-samsunges/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png" group-title="Informativos" tvg-name="Euronews",Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
