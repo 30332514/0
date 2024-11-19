@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="Musicales" tvg-name="Concert Channel",Concert Channel
+http://45.5.117.182:8000/play/a0ci/index.m3u8
+
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
 http://186.148.195.206:8000/play/a05x/index.m3u8
 
