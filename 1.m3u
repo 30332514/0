@@ -138,6 +138,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 #EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
 https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/chunks.m3u8
 
+#EXTINF:-1 tvg-id="CANAL M" tvg-logo="https://i.postimg.cc/J7Kb3BDm/CANAL-M.jpg" group-title="Generalistas" tvg-name="CANAL M",CANAL M
+https://live-evg25.tv360.bitel.com.pe/bitel/canalm/chunks.m3u8
+
 #EXTINF:-1 tvg-id="CANAL 25" tvg-logo="https://i.postimg.cc/66fRj6SH/CANAL-25.jpg" group-title="Generalistas" tvg-name="CANAL 25",CANAL 25
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
 
