@@ -138,6 +138,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 #EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
 https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/chunks.m3u8
 
+#EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
+https://live-evg25.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
+
 #EXTINF:-1 tvg-id="CANAL M" tvg-logo="https://i.postimg.cc/J7Kb3BDm/CANAL-M.jpg" group-title="Generalistas" tvg-name="CANAL M",CANAL M
 https://live-evg25.tv360.bitel.com.pe/bitel/canalm/chunks.m3u8
 
