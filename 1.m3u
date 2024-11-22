@@ -129,6 +129,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
 #EXTINF:-1 tvg-id="36TV HUACHO" tvg-logo="https://i.postimg.cc/RZZZS4gZ/36-TV-HUACHO.jpg" group-title="Generalistas" tvg-name="36TV HUACHO",36TV HUACHO
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TV+ CHINCHA" tvg-logo="https://i.postimg.cc/Wbm08NNm/TV-CHINCHA.jpg" group-title="Generalistas" tvg-name="TV+ CHINCHA",TV+ CHINCHA
+https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Nzk Tv" tvg-logo="https://i.postimg.cc/dtD1T7ch/Nzk-Tv.jpg" group-title="Generalistas" tvg-name="Nzk Tv",Nzk Tv
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/chunks.m3u8
 
