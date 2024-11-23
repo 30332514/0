@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
+https://musichls.persiana.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Multicinema" tvg-logo="https://i.postimg.cc/GprNgyRk/MC.jpg" group-title="Películas" tvg-name="Multicinema",Multicinema
 http://45.228.234.210:8000/play/a02n/index.m3u8
 
