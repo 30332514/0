@@ -318,9 +318,6 @@ https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="30A Music" tvg-logo="https://i.postimg.cc/76BwH4CG/30-A-TV-MUSIC.jpg" group-title="Musicales" tvg-name="30A Music",30A Music
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 
-#EXTINF:-1 tvg-id="PERSIANA MUSIC" tvg-logo="https://i.postimg.cc/v8NVDCkf/PERSIANA-MUSIC.jpg" group-title="Musicales" tvg-name="PERSIANA MUSIC",PERSIANA MUSIC
-https://musichls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
