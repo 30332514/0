@@ -756,12 +756,6 @@ https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40a
 #EXTINF:-1 tvg-id="El Hormiguero" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="Comedia" tvg-name="El Hormiguero",El Hormiguero
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
-#EXTINF:-1 tvg-id="LQSA 24h" tvg-logo="https://i.postimg.cc/LsCqsbdr/LQSA24h.jpg" group-title="Comedia" tvg-name="LQSA 24h",LQSA 24h
-https://cdn15.lqsa.es/hls/2/stream.m3u8
-
-#EXTINF:-1 tvg-id="ANHQV 24h" tvg-logo="https://i.postimg.cc/rprRttBV/ANHQV.png" group-title="Comedia" tvg-name="ANHQV 24h",ANHQV 24h
-https://cdn5.lqsa.es/hls/0/stream.m3u8
-
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
 http://45.5.117.182:8000/play/a0id/index.m3u8
 
