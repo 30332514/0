@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png" group-title="Musicales" tvg-name="Bandamax",Bandamax
+http://45.175.139.194:8000/play/64
+
 #EXTINF:-1 tvg-id="ONDA TV" tvg-logo="https://i.postimg.cc/gksggq42/ONDA-TV.jpg" group-title="Generalistas" tvg-name="ONDA TV",ONDA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/onda/chunks.m3u8
 
