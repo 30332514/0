@@ -564,9 +564,6 @@ https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA Ñ" tvg-logo="https://i.postimg.cc/qMGvFXxS/BEIN-SPORTS-EXTRA.jpg" group-title="Deportivos" tvg-name="BEIN SPORTS EXTRA Ñ",BEIN SPORTS EXTRA Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Drama" tvg-name="Surf Channel",Surf Channel
-https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
