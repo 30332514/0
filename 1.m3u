@@ -216,9 +216,6 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
 https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
-https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
 
@@ -440,9 +437,6 @@ https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="JN19.2" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19.2",JN19.2
 https://servilive.com:3224/live/jn19tv2live.m3u8
-
-#EXTINF:-1 tvg-id="Hoynet" tvg-logo="https://i.postimg.cc/pT979k3f/Hoynet.png" group-title="Religiosos" tvg-name="Hoynet",Hoynet
-https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3ABN Latino" tvg-logo="https://i.postimg.cc/LXy9mHRY/3-ABN-Latino.jpg" group-title="Religiosos" tvg-name="3ABN Latino",3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
