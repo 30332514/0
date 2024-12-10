@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
+https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hoynet" tvg-logo="https://i.postimg.cc/pT979k3f/Hoynet.png" group-title="Religiosos" tvg-name="Hoynet",Hoynet
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CANAL M" tvg-logo="https://i.postimg.cc/J7Kb3BDm/CANAL-M.jpg" group-title="Generalistas" tvg-name="CANAL M",CANAL M
 https://live-evg25.tv360.bitel.com.pe/bitel/canalm/chunks.m3u8
 
