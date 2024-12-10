@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Drama" tvg-name="Surf Channel",Surf Channel
+https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Radio Rutas del Perú TV" tvg-logo="https://i.postimg.cc/Gp0xMD7r/Radio-Rutas-del-Peru.png" group-title="Musicales" tvg-name="Radio Rutas del Perú TV",Radio Rutas del Perú TV
 https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/playlist.m3u8
 
