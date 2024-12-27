@@ -760,7 +760,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rumble.com/live-hls-dvr/53c59p/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="¡HOLA! PLAY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida" tvg-name="¡HOLA! PLAY",¡HOLA! PLAY
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
 http://45.5.117.182:8000/play/a0ic/index.m3u8
