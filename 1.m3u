@@ -652,7 +652,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://200.59.188.3:8000/play/a0f3
+https://atres-live.atresmedia.com/79d6c9fb878637cbf5f624f4efd97a784b6a236e_ES_1735341015_1735369755/h264/live/antena3/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="A3Series Internacional" tvg-logo="https://i.postimg.cc/vBfwvQVC/A3-Series-Internacional.jpg" group-title="Generalistas"" tvg-name="A3Series Internacional",A3Series Internacional
 http://181.205.77.118:4849/play/CH125
