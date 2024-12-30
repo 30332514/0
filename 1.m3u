@@ -529,7 +529,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 http://200.60.124.19:29000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
-http://200.60.124.19:29000/play/a00b/index.m3u8
+http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
 http://200.60.124.19:29000/play/a06p/index.m3u8
