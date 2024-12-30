@@ -111,6 +111,12 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Iberalia 100% Pesca" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia 100% Pesca",Iberalia 100% Pesca
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Iberalia 100% Caza" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia 100% Caza",Iberalia 100% Caza
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
