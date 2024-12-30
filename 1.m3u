@@ -1092,6 +1092,9 @@ http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="EROX" tvg-logo="https://i.postimg.cc/Vvsj0Hz4/EROX.jpg" group-title="Adultos" tvg-name="EROX",EROX
 http://178.219.128.68:64888/EROXHD
 
+#EXTINF:-1 tvg-id="BRAZZERS TV EUROPE" tvg-logo="https://i.postimg.cc/Gtyf3jkZ/BRAZZERS-TV-EUROPE.jpg" group-title="Adultos" tvg-name="BRAZZERS TV EUROPE",BRAZZERS TV EUROPE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
+
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
