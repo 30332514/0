@@ -45,6 +45,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3330
+
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3331
 
