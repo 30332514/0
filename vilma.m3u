@@ -10,13 +10,13 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://200.59.188.3:8000/play/a0f3
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/7080
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
-http://181.205.77.118:4849/play/CH125
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126171
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.postimg.cc/PqG3Qt5h/a3cine.jpg" group-title="Generalistas"" tvg-name="A3Cine",A3Cine
-http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/135875
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
@@ -37,16 +37,16 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski6
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-http://117.55.203.48:37500/972483615538/185177820594/115925
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126215
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://117.55.203.48:37500/972483615538/185177820594/115928
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126260
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-http://117.55.203.48:37500/972483615538/185177820594/115931
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126216
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://117.55.203.48:37500/972483615538/185177820594/115967
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126199
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
 http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
@@ -55,25 +55,25 @@ http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
 http://117.55.203.48:37500/972483615538/185177820594/116040
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-http://117.55.203.48:37500/972483615538/185177820594/115968
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126256
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
 http://117.55.203.48:37500/972483615538/185177820594/116688
 
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
-http://117.55.203.48:37500/972483615538/185177820594/115954
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126201
 
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="Generalistas" tvg-name="ENERGY",ENERGY
-http://117.55.203.48:37500/972483615538/185177820594/115941
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126257
 
 #EXTINF:-1 tvg-id="BeMad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="Generalistas" tvg-name="BeMad",BeMad
-http://117.55.203.48:37500/972483615538/185177820594/115952
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126431
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Generalistas" tvg-name="DMAX",DMAX
-http://117.55.203.48:37500/972483615538/185177820594/116712
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126432
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
-http://117.55.203.48:37500/972483615538/185177820594/115974
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126200
 
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
@@ -106,7 +106,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Generalistas" tvg-name="Boing",Boing
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/798002.ts
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126408
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
