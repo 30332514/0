@@ -877,7 +877,7 @@ http://45.5.117.182:8000/play/a0fj/index.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=27629c93-4f5a-11ef-a20f-d65337b8a07c
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
-http://45.5.117.182:8000/play/a0ey/index.m3u8
+http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 http://45.5.117.182:8000/play/a0ju/index.m3u8
@@ -1021,7 +1021,7 @@ http://45.5.117.182:8000/play/a0eP/index.m3u8
 http://45.5.117.182:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
-http://45.5.117.182:8000/play/a0ep/index.m3u8
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
 http://45.5.117.182:8000/play/a0j7/index.m3u8
