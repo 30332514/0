@@ -1062,42 +1062,6 @@ https://moviesphereuk-samsunguk.amagi.tv/480p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Miami Tv" tvg-logo="https://i.postimg.cc/qMhjm6TC/miamitv.png" group-title="Entretenimiento" tvg-name="Miami Tv",Miami Tv
-https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20220323T081606SQUARE.png_20220323081609.png" group-title="Estilo de Vida" tvg-name="Fashion TV",Fashion TV
-https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fashion TV Midnight Haute" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV Midnight Haute",Fashion TV Midnight Haute
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionTV Midnite Secrets" tvg-logo="https://i.postimg.cc/HsVJNgvj/Fashion-TV-Midnite-Secrets.png" group-title="Entretenimiento" tvg-name="FashionTV Midnite Secrets",FashionTV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Babestation" tvg-logo="https://i.postimg.cc/BbCd5kH0/Babestation.jpg" group-title="Entretenimiento" tvg-name="Babestation",Babestation
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-id="VIISIT-X-TV" tvg-logo="https://i.postimg.cc/kg3DjhVb/VIISIT-X-TV.jpg" group-title="Entretenimiento" tvg-name="VIISIT-X-TV",VIISIT-X-TV
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="EXXXOTICA" tvg-logo="https://i.postimg.cc/4y2NbBDm/exxxotica.png" group-title="Adultos" tvg-name="EXXXOTICA",EXXXOTICA
-http://31.148.48.15/O-la-la/index.m3u8
-
-#EXTINF:-1 tvg-id="EROX" tvg-logo="https://i.postimg.cc/Vvsj0Hz4/EROX.jpg" group-title="Adultos" tvg-name="EROX",EROX
-http://178.219.128.68:64888/EROXHD
-
-#EXTINF:-1 tvg-id="BRAZZERS TV EUROPE" tvg-logo="https://i.postimg.cc/Gtyf3jkZ/BRAZZERS-TV-EUROPE.jpg" group-title="Adultos" tvg-name="BRAZZERS TV EUROPE",BRAZZERS TV EUROPE
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LIFE FIT" tvg-logo="https://i.postimg.cc/DwKBBr7L/LIFEFIT.jpg" group-title="Estilo de Vida" tvg-name="LIFE FIT",LIFE FIT
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
 
