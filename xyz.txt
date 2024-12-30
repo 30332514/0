@@ -36,6 +36,8 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/man
 https://github.com/darknebular/IPTV_ES/blob/main/es.m3u
 https://iptv-org.github.io/iptv/index.m3u
 
+https://github.com/ASAMBRINI/ROCSTAR/raw/671db9e144152a2d102a7b90a57163702afa0190/IPTVLISTA2024.m3u
+
 https://github.com/matthuisman/i.mjh.nz/issues/127#issuecomment-2313298496
 
 https://gist.github.com/elfenderes/beb629d245e6a0dc1f2f9a9c5aa101cc
