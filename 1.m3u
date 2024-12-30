@@ -1035,6 +1035,9 @@ http://45.5.117.182:8000/play/a0ig/index.m3u8
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
 http://45.5.117.182:8000/play/a0ho/index.m3u8
 
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
+
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://45.5.117.182:8000/play/a0ev/index.m3u8
 
