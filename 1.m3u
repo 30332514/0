@@ -1080,6 +1080,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:-1 tvg-id="Babestation" tvg-logo="https://i.postimg.cc/BbCd5kH0/Babestation.jpg" group-title="Entretenimiento" tvg-name="Babestation",Babestation
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 
+#EXTINF:-1 tvg-id="VIISIT-X-TV" tvg-logo="https://i.postimg.cc/kg3DjhVb/VIISIT-X-TV.jpg" group-title="Entretenimiento" tvg-name="VIISIT-X-TV",VIISIT-X-TV
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.m3u8
 
