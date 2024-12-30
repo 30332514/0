@@ -1089,6 +1089,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/ma
 #EXTINF:-1 tvg-id="EXXXOTICA" tvg-logo="https://i.postimg.cc/4y2NbBDm/exxxotica.png" group-title="Adultos" tvg-name="EXXXOTICA",EXXXOTICA
 http://31.148.48.15/O-la-la/index.m3u8
 
+#EXTINF:-1 tvg-id="EROX" tvg-logo="https://i.postimg.cc/Vvsj0Hz4/EROX.jpg" group-title="Adultos" tvg-name="EROX",EROX
+http://178.219.128.68:64888/EROXHD
+
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
