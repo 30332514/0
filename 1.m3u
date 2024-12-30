@@ -1083,6 +1083,12 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3
 #EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="EXXXOTICA" tvg-logo="https://i.postimg.cc/4y2NbBDm/exxxotica.png" group-title="Adultos" tvg-name="EXXXOTICA",EXXXOTICA
+http://31.148.48.15/O-la-la/index.m3u8
+
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LIFE FIT" tvg-logo="https://i.postimg.cc/DwKBBr7L/LIFEFIT.jpg" group-title="Estilo de Vida" tvg-name="LIFE FIT",LIFE FIT
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
 
