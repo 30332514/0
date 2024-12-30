@@ -1149,9 +1149,14 @@ http://178.219.128.68:64888/EROXHD
 #EXTINF:-1 tvg-id="BRAZZERS TV EUROPE" tvg-logo="https://i.postimg.cc/Gtyf3jkZ/BRAZZERS-TV-EUROPE.jpg" group-title="Adultos" tvg-name="BRAZZERS TV EUROPE",BRAZZERS TV EUROPE
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 
+#EXTINF:-1 tvg-id="PLAYBOY EUROPE" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY EUROPE",PLAYBOY EUROPE
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4262
+
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
 http://45.5.117.182:8000/play/a0gf/index.m3u8
 
+#EXTINF:-1 tvg-id="PRIVATE" tvg-logo="https://i.postimg.cc/QCtwjmKK/PRIVATE.png" group-title="Adultos" tvg-name="PRIVATE",PRIVATE
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4263
