@@ -1062,6 +1062,9 @@ https://moviesphereuk-samsunguk.amagi.tv/480p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="TRAILERS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png" group-title="Entretenimiento" tvg-name="TRAILERS",TRAILERS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="LIFE FIT" tvg-logo="https://i.postimg.cc/DwKBBr7L/LIFEFIT.jpg" group-title="Estilo de Vida" tvg-name="LIFE FIT",LIFE FIT
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
 
