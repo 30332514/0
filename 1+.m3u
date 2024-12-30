@@ -1160,3 +1160,6 @@ http://45.5.117.182:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-id="PRIVATE" tvg-logo="https://i.postimg.cc/QCtwjmKK/PRIVATE.png" group-title="Adultos" tvg-name="PRIVATE",PRIVATE
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4263
+
+#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4183
