@@ -918,6 +918,9 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="Mi TV Clasica" tvg-logo="https://i.postimg.cc/2y6TG8vZ/MI-TV.png" group-title="Películas" tvg-name="Mi TV Clasica",Mi TV Clasica 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Classic/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8
 
