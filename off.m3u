@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
+http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MIX MUSIC CHANNEL" tvg-logo="https://i.postimg.cc/YqxPnwFT/MIX-MUSIC-CHANNEL.png" group-title="Musicales" tvg-name="MIX MUSIC CHANNEL",MIX MUSIC CHANNEL
+http://bantel.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV WANKA" tvg-logo="https://i.postimg.cc/s2B6RGS9/TV-WANKA.jpg" group-title="Generalistas" tvg-name="TV WANKA",TV WANKA
 https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
 
