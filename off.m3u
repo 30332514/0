@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3328
+
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-logo="https://i.postimg.cc/mg74SXwZ/PERU-MAGICO.png" group-title="Generalistas" tvg-name="PERU MAGICO",PERU MAGICO
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3330
+
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3331
+
+#EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3352
+
 #EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Classic/playlist.m3u8
 
