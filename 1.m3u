@@ -936,9 +936,6 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="Mi TV Clasica" tvg-logo="https://i.postimg.cc/2y6TG8vZ/MI-TV.png" group-title="Películas" tvg-name="Mi TV Clasica",Mi TV Clasica 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
-http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Classic/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8
 
@@ -1012,7 +1009,7 @@ http://200.60.124.19:29000/play/a02b/index.m3u8
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
+http://45.175.139.194:8000/play/36
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
 http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
