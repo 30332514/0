@@ -189,9 +189,6 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 
-#EXTINF:-1 tvg-id="TV WANKA" tvg-logo="https://i.postimg.cc/s2B6RGS9/TV-WANKA.jpg" group-title="Generalistas" tvg-name="TV WANKA",TV WANKA
-https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
 
