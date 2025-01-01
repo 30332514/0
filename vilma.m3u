@@ -37,22 +37,22 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/240080
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126215
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126309
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126260
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126312
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126216
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126313
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126385
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/554775.ts
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126518
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126211
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126358
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126256
@@ -81,8 +81,8 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
 http://117.55.203.48:37500/972483615538/185177820594/116701
 
-#EXTINF:-1 tvg-id="CANAL DARK " tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="Generalistas" tvg-name="CANAL DARK ",CANAL DARK 
-http://185.233.16.110:80/play/vi428027/hdFucGwknR/321152.ts
+#EXTINF:-1 tvg-id="DARK" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="Generalistas" tvg-name="DARK",DARK 
+http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126342
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
