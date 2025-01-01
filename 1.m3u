@@ -886,10 +886,10 @@ https://cloudvideo.servers10.com:8081/stztelebista/tracks-v1a1/mono.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://i.postimg.cc/tT01N6Xp/History-Channel.jpg" group-title="Documentales" tvg-name="History Channel",History Channel
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
+http://45.175.139.194:8000/play/a00u
 
 #EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
+http://45.175.139.194:8000/play/a00t
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
 http://45.5.117.182:8000/play/a0fj/index.m3u8
