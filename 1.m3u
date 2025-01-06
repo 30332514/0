@@ -538,7 +538,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 http://200.60.124.19:29000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
-http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
+http://200.60.124.19:29000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="L1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="L1 MAX",L1 MAX
 http://200.60.124.19:29000/play/a07k/index.m3u8
@@ -748,7 +748,7 @@ https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40a
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
+http://200.60.124.19:29000/play/a0d5/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
@@ -1006,7 +1006,7 @@ http://45.5.117.182:8000/play/a0j5/index.m3u8
 http://45.175.139.194:8000/play/36
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
-http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
+http://200.60.124.19:29000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
 http://45.5.117.182:8000/play/a0fs/index.m3u8
