@@ -45,9 +45,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
-#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
-http://200.60.124.19:29000/play/a0ba/index.m3u8
-
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
 
