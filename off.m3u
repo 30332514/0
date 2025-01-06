@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Mundo de la Música TV" tvg-logo="https://i.postimg.cc/vT7W8Z7z/mundodelamusica.jpg" group-title="Musicales" tvg-name="Mundo de la Música TV",Mundo de la Música TV
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://i.postimg.cc/kGK1dPVr/Movistar-Plus.png" group-title="Generalistas" tvg-name="Movistar Plus",Movistar Plus
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3328
 
