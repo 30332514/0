@@ -760,7 +760,7 @@ http://45.5.117.182:8000/play/a0fl/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
-https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="DW Español" tvg-logo="https://i.postimg.cc/vBYv5k2v/dwespa-ol.png" group-title="Informativos" tvg-name="DW Español",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
