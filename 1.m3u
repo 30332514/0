@@ -151,7 +151,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COSITEL PERÚ" tvg-logo="https://i.postimg.cc/X7LBn2k4/COSITEL-PER.jpg" group-title="Generalistas" tvg-name="COSITEL PERÚ",COSITEL PERÚ
-https://live-evg25.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8
+https://radiomelody.com.ar/hls/58204630.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/playlist.m3u8
