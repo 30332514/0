@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="USMPTV MÚSICA" tvg-logo="https://i.postimg.cc/CK7B2K5Z/USMPTV-M-SICA.png" group-title="Musicales" tvg-name="USMPTV MÚSICA",USMPTV MÚSICA
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMPmusica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SONY COMPETENCIAS" tvg-logo="https://i.postimg.cc/k46T8W1w/Sony-Competencias.jpg" group-title="Películas" tvg-name="SONY COMPETENCIAS",SONY COMPETENCIAS
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
