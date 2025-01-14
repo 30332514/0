@@ -40,7 +40,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio TV Perú" tvg-logo="https://i.postimg.cc/B6ywnPft/Radio-TV-Per.png" group-title="Generalistas" tvg-name="Radio TV Perú",Radio TV Perú
-https://live-evg25.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
@@ -55,13 +55,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa_ori_source/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/willax_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
-https://live.obslivestream.com/conecta2/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
 
 #EXTINF:-1 tvg-id="Bitt Channel" tvg-logo="https://i.postimg.cc/63wshLjr/Bitt-Channel.jpg" group-title="Generalistas" tvg-name="Bitt Channel",Bitt Channel
-https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
@@ -139,22 +139,22 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="INKA VISIÓN" tvg-logo="https://i.postimg.cc/d1JCdChW/INKA-VISI-N.jpg" group-title="Generalistas" tvg-name="INKA VISIÓN",INKA VISIÓN
-https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
 https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/chunks.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
-https://live-evg25.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 25" tvg-logo="https://i.postimg.cc/66fRj6SH/CANAL-25.jpg" group-title="Generalistas" tvg-name="CANAL 25",CANAL 25
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COSITEL PERÚ" tvg-logo="https://i.postimg.cc/X7LBn2k4/COSITEL-PER.jpg" group-title="Generalistas" tvg-name="COSITEL PERÚ",COSITEL PERÚ
-https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
-https://live.obslivestream.com/canal8/index.m3u8
+https://live.obslivestream.com/canal8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
 https://live.obslivestream.com/geniostvmux/index.m3u8
