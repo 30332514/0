@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SONY COMPETENCIAS" tvg-logo="https://i.postimg.cc/k46T8W1w/Sony-Competencias.jpg" group-title="Películas" tvg-name="SONY COMPETENCIAS",SONY COMPETENCIAS
+https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
+
 #EXTINF:-1 tvg-id="FUN BOX" tvg-logo="https://i.postimg.cc/QMdsVLDN/FUN-BOX.jpg" group-title="Infantiles" tvg-name="FUN BOX",FUN BOX
 https://live-evg25.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
