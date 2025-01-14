@@ -886,7 +886,7 @@ http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://45.5.117.182:8000/play/a0ia/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
-http://45.5.117.182:8000/play/tdr9/index.m3u8
+http://200.60.124.19:29000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
 http://45.5.117.182:8000/play/a0jv/index.m3u8
