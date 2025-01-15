@@ -588,6 +588,9 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
 http://45.175.139.194:8000/play/26
 
+#EXTINF:-1 tvg-id="FMH KIDS" tvg-logo="https://i.postimg.cc/mrbJV7pm/FMH-Kids.jpg" group-title="Infantiles" tvg-name="FMH KIDS",FMH KIDS
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
@@ -894,8 +897,8 @@ https://d10kuipa6llbff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="Old",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FMH KIDS" tvg-logo="https://i.postimg.cc/mrbJV7pm/FMH-Kids.jpg" group-title="Infantiles" tvg-name="FMH KIDS",FMH KIDS
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
+#EXTINF:-1 tvg-id="Artflix" tvg-logo="https://i.postimg.cc/h4Zjt9G0/Artflix.jpg" group-title="Películas" tvg-name="Artflix",Artflix
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FMH MOVIES" tvg-logo="https://i.postimg.cc/X7P9sW2m/FMH-Movies.jpg" group-title="Películas" tvg-name="FMH MOVIES",FMH MOVIES
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
