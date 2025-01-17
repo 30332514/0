@@ -45,6 +45,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
+#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/9fnTXgR6/latele.jpg" group-title="Generalistas" tvg-name="La Tele",La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
 
