@@ -72,6 +72,12 @@ https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
+#EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-id="BhTv" tvg-logo="https://i.postimg.cc/4y33y2Fx/BhTv.jpg" group-title="Generalistas" tvg-name="BhTv",BhTv
+https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A uno" tvg-logo="https://i.postimg.cc/pTQMZ84M/Antena-Uno-TV.jpg" group-title="Generalistas" tvg-name="A uno",A uno
 https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 
@@ -104,9 +110,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL M" tvg-logo="https://i.postimg.cc/J7Kb3BDm/CANAL-M.jpg" group-title="Generalistas" tvg-name="CANAL M",CANAL M
 https://live-evg25.tv360.bitel.com.pe/bitel/canalm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cable Perú TV" tvg-logo="https://i.postimg.cc/CxzR83J2/Cable-Per-TV.jpg" group-title="Generalistas" tvg-name="Cable Perú TV",Cable Perú TV
-https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
 https://milenial.news/salida/milenial.m3u8
