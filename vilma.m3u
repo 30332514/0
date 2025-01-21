@@ -31,16 +31,16 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="cmm" tvg-logo="https://i.postimg.cc/c4nPFvTT/cmm.jpg" group-title="Generalistas" tvg-name="cmm",cmm
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/240080
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="Guada TV" tvg-logo="https://i.postimg.cc/sXDwc9SC/guadatv.jpg" group-title="Generalistas" tvg-name="Guada TV",Guada TV
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:9_HD.smil/manifest.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:9_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
 http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:11_HD.smil/manifest.m3u8
