@@ -685,7 +685,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/131130
+http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
 http://200.60.124.19:29000/play/a0d4/index.m3u8
