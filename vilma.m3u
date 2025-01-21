@@ -117,6 +117,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/man
 #EXTINF:-1 tvg-id="Iberalia 100% Caza" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia 100% Caza",Iberalia 100% Caza
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
+http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina_ori_source/playlist.m3u8
 
