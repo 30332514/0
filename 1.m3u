@@ -390,6 +390,9 @@ https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="VEVO Schlager Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Musicales" tvg-name="VEVO Schlager Pop",VEVO Schlager Pop
 https://d3adb9tbhoq5j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2kpqrzfxhh0ys/playlist.m3u8
 
+#EXTINF:-1 tvg-id="STINGRAY KARAOKE" tvg-logo="https://i.postimg.cc/0Q5bfRws/STINGRAY-KARAOKE.jpg" group-title="Musicales" tvg-name="STINGRAY KARAOKE",STINGRAY KARAOKE
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
 http://45.5.117.182:8000/play/a0fd/index.m3u8
 
