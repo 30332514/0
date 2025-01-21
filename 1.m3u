@@ -165,23 +165,8 @@ https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="COSITEL PERÚ" tvg-logo="https://i.postimg.cc/X7LBn2k4/COSITEL-PER.jpg" group-title="Generalistas" tvg-name="COSITEL PERÚ",COSITEL PERÚ
 https://live-evg25.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
-https://live.obslivestream.com/canal8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
-https://live.obslivestream.com/geniostvmux/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SUPER CANAL" tvg-logo="https://i.postimg.cc/QCHNsb8x/SUPER-CANAL.jpg" group-title="Generalistas" tvg-name="SUPER CANAL",SUPER CANAL
 https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
-https://live.obslivestream.com/autenticatvmux/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-logo="https://i.postimg.cc/sDCQnVZk/Frecuencia-Musical-TV.jpg" group-title="Generalistas" tvg-name="Frecuencia Musical TV",Frecuencia Musical TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
-https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://live-evg25.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
@@ -191,6 +176,24 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GF TV" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="Generalistas" tvg-name="GF TV",GF TV
+https://live.obslivestream.com/regionaltv/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
+https://live.obslivestream.com/canal8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
+https://live.obslivestream.com/geniostvmux/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
+https://live.obslivestream.com/autenticatvmux/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-logo="https://i.postimg.cc/sDCQnVZk/Frecuencia-Musical-TV.jpg" group-title="Generalistas" tvg-name="Frecuencia Musical TV",Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
+https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
