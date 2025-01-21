@@ -978,12 +978,6 @@ https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20230308T021514SQUARE.png_20230308021515.png" group-title="Películas" tvg-name="Runtime Romance",Runtime Romance
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8
 
-#EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
-http://45.175.139.194:8000/play/a00c
-
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://i.postimg.cc/VvW25J6Y/DREAMWORKS.png" group-title="Películas" tvg-name="DREAMWORKS",DREAMWORKS
-http://45.175.139.194:8000/play/a00s
-
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
 http://200.60.124.19:29000/play/a0e6/index.m3u8
 
