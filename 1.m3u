@@ -252,6 +252,9 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
+http://8.242.176.45:1013/play/a0es/index.m3u8
+
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
 http://160.20.165.246:8000/play/a018/index.m3u8
 
