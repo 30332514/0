@@ -1020,8 +1020,8 @@ http://45.5.117.182:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://45.5.117.182:8000/play/a0fk/index.m3u8
 
-#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/fydKcdXQ/GOLDEN.png" group-title="Películas" tvg-name="GOLDEN PLUS",GOLDEN PLUS
-http://200.60.124.19:29000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Películas" tvg-name="GOLDEN",GOLDEN
+http://45.5.117.182:8000/play/a0lz/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://45.5.117.182:8000/play/a0e3/index.m3u8
