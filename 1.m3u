@@ -79,7 +79,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A uno" tvg-logo="https://i.postimg.cc/pTQMZ84M/Antena-Uno-TV.jpg" group-title="Generalistas" tvg-name="A uno",A uno
-https://servilive.com:3604/live/antenaunotvlivelive.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/auno/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
