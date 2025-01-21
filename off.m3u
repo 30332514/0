@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D DRAMA",KANAL D DRAMA
+http://200.60.124.19:29000/play/a0d3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
+https://live-evg25.tv360.bitel.com.pe/bitel/viatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
+http://200.60.124.19:29000/play/a0ak/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://i.postimg.cc/Jz06rGsf/GOL-PERU.jpg" group-title="Deportivos" tvg-name="GOLPERU",GOLPERU
+http://200.60.124.19:29000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://i.postimg.cc/kGCYqsSs/Movistar-Deportes.png" group-title="Deportivos" tvg-name="Movistar Deportes",Movistar Deportes
+http://200.60.124.19:29000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1590323284_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzM3NDg5MjQ5JnR2dG9rZW5lbmR0aW1lPTE3Mzc0OTEwNDkmdHZ0b2tlbmhhc2g9bk8zYnBfU3dzc3JvdVBuclhaMF91Y1NMcWwzMzFLdUpWVGI5R21sUEtVYz0=.m3u8
+
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ=w240-h480-rw" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126192
 
