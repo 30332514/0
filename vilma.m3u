@@ -10,7 +10,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.postimg.cc/rmQF4pbM/A3-Series.jpg" group-title="Generalistas"" tvg-name="A3Series",A3Series
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/150641
@@ -118,7 +118,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/man
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
-http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina_ori_source/playlist.m3u8
