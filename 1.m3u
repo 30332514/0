@@ -85,7 +85,7 @@ https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
-https://ntv.pe/salida/nativa.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
