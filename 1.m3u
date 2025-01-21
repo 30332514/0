@@ -598,7 +598,7 @@ https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 https://marine2.miplay.cl/sportext/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sports Grid" tvg-logo="https://i.postimg.cc/653qqmrf/Sports-Grid.png" group-title="Deportivos" tvg-name="Sports Grid",Sports Grid
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" group-title="Factual" tvg-name="INFAST",INFAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8
