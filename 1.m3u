@@ -622,7 +622,7 @@ http://160.20.165.246:8000/play/a016/index.m3u8
 http://200.60.124.19:29000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://i.postimg.cc/mZpyszDy/Disney-JR.png" group-title="Infantiles" tvg-name="Disney JR",Disney JR
-http://45.5.117.182:8000/play/a0eq/index.m3u8
+http://181.205.130.194:4000/play/a0ao
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
 http://200.60.124.19:29000/play/a01i/index.m3u8
@@ -634,7 +634,7 @@ http://200.60.124.19:29000/play/a02c/index.m3u8
 http://45.5.117.182:8000/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-http://45.5.117.182:8000/play/a0e7/index.m3u8
+http://181.205.130.194:4000/play/a0ed
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 http://45.5.117.182:8000/play/ari9/index.m3u8
@@ -754,7 +754,7 @@ https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40a
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
-http://200.60.124.19:29000/play/a0d5/index.m3u8
+http://181.205.130.194:4000/play/a0en
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
 http://45.175.139.194:8000/play/28
@@ -1009,7 +1009,7 @@ http://200.60.124.19:29000/play/a02b/index.m3u8
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
-http://160.20.165.246:8000/play/a02b/index.m3u8
+http://181.205.130.194:4000/play/a0er
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
 http://45.5.117.182:8000/play/a02p/index.m3u8
@@ -1045,7 +1045,7 @@ http://45.5.117.182:8000/play/a0ep/index.m3u8
 http://45.5.117.182:8000/play/a0j7/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
-http://45.175.139.194:8000/play/a010
+http://181.205.130.194:4000/play/a06f
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
 http://45.5.117.182:8000/play/a0jz/index.m3u8
