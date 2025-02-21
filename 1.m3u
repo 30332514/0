@@ -42,6 +42,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctv_ori_source/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio TV Perú" tvg-logo="https://i.postimg.cc/B6ywnPft/Radio-TV-Per.png" group-title="Generalistas" tvg-name="Radio TV Perú",Radio TV Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Radio Vital FM" tvg-logo="https://i.postimg.cc/xTffMszR/Radio-Vital-FM.jpg" group-title="Generalistas" tvg-name="Radio Vital FM",Radio Vital FM
+https://media.mediacorp.pe/srt/1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Identidad TV" tvg-logo="https://i.postimg.cc/J0Pn8XgD/identidadtv.png" group-title="Generalistas" tvg-name="Identidad TV",Identidad TV
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
