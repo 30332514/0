@@ -705,6 +705,9 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9
 #EXTINF:-1 tvg-id="Flamenco Auditorio" tvg-logo="https://i.postimg.cc/sgNJZmQK/Flamenco-Auditorio.jpg" group-title="Generalistas" tvg-name="Flamenco Auditorio",Flamenco Auditorio
 https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8
 
+#EXTINF:-1 tvg-id="TV Centro Andalucía" tvg-logo="https://i.postimg.cc/JhhftD9d/TV-Centro-Andaluc-a.jpg" group-title="Generalistas" tvg-name="TV Centro Andalucía",TV Centro Andalucía
+https://video0.rogohosting.com:19360/8050/8050.m3u8
+
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
