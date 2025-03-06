@@ -20,8 +20,7 @@ Created: http://iptvh.it/sprintel
 Delete: http://iptvh.it/oErzulvt9m
 
 // Alargador de m3u8 
-https://checkshorturl.com/
-http://urlxray.com/
+https://expandir.link/
 
 // Sacador de m3u8 - Live Stream Downloader
 https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=es
