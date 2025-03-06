@@ -33,11 +33,11 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
 https://play.agenciastreaming.com:8081/nacionaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCR TV" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="Generalistas" tvg-name="RCR TV",RCR TV
-https://live-evg25.tv360.bitel.com.pe/bitel/rcr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CTV Perú" tvg-logo="https://i.postimg.cc/HWS78G7K/CTV-Per.jpg" group-title="Generalistas" tvg-name="CTV Perú",CTV Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv_ori_source/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCR TV" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="Generalistas" tvg-name="RCR TV",RCR TV
+https://live-evg25.tv360.bitel.com.pe/bitel/rcr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio TV Perú" tvg-logo="https://i.postimg.cc/B6ywnPft/Radio-TV-Per.png" group-title="Generalistas" tvg-name="Radio TV Perú",Radio TV Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
