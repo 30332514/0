@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
+https://live.obslivestream.com/geniostvmux/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nzk Tv" tvg-logo="https://i.postimg.cc/dtD1T7ch/Nzk-Tv.jpg" group-title="Generalistas" tvg-name="Nzk Tv",Nzk Tv
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 
