@@ -778,7 +778,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/RTESPANOL.stream/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! PLAY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida" tvg-name="¡HOLA! PLAY",¡HOLA! PLAY
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
