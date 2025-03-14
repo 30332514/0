@@ -189,9 +189,6 @@ https://live.obslivestream.com/regionaltv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Genios HD" tvg-logo="https://i.postimg.cc/d1Trvrtb/genioshd.jpg" group-title="Generalistas" tvg-name="Genios HD",Genios HD
-https://live.obslivestream.com/geniostvmux/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Autentica TV" tvg-logo="https://i.postimg.cc/90xWsbWc/autentica.png" group-title="Generalistas" tvg-name="Autentica TV",Autentica TV
 https://live.obslivestream.com/autenticatvmux/playlist.m3u8
 
