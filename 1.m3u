@@ -114,9 +114,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctc_ori_source/playlist.m3u8
 #EXTINF:-1 tvg-id="ONDA TV" tvg-logo="https://i.postimg.cc/gksggq42/ONDA-TV.jpg" group-title="Generalistas" tvg-name="ONDA TV",ONDA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL M" tvg-logo="https://i.postimg.cc/J7Kb3BDm/CANAL-M.jpg" group-title="Generalistas" tvg-name="CANAL M",CANAL M
-https://live-evg25.tv360.bitel.com.pe/bitel/canalm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
 https://milenial.news/salida/milenial.m3u8
 
@@ -155,9 +152,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV+ CHINCHA" tvg-logo="https://i.postimg.cc/Wbm08NNm/TV-CHINCHA.jpg" group-title="Generalistas" tvg-name="TV+ CHINCHA",TV+ CHINCHA
 https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nzk Tv" tvg-logo="https://i.postimg.cc/dtD1T7ch/Nzk-Tv.jpg" group-title="Generalistas" tvg-name="Nzk Tv",Nzk Tv
-https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INKA VISIÓN" tvg-logo="https://i.postimg.cc/d1JCdChW/INKA-VISI-N.jpg" group-title="Generalistas" tvg-name="INKA VISIÓN",INKA VISIÓN
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
@@ -245,9 +239,6 @@ https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="XTV" tvg-logo="https://i.postimg.cc/fyMcHMPT/xtv.png" group-title="Musicales" tvg-name="XTV",XTV
-https://live.obslivestream.com/xtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/63n3qHh5/VM-Latino.png" group-title="Musicales" tvg-name="VM Latino",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
