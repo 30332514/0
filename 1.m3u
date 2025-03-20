@@ -201,7 +201,7 @@ https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SELVA TV" tvg-logo="https://i.postimg.cc/Nj7x9PcG/SELVA-TV.jpg" group-title="Generalistas" tvg-name="SELVA TV",SELVA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_source/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Tarapoto" tvg-logo="https://i.postimg.cc/MKKMWVsd/tvtarapoto.jpg" group-title="Generalistas" tvg-name="TV Tarapoto",TV Tarapoto
+#EXTINF:-1 tvg-id="Tarapoto TV" tvg-logo="https://i.postimg.cc/MKKMWVsd/tvtarapoto.jpg" group-title="Generalistas" tvg-name="Tarapoto TV",Tarapoto TV
 https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MASTER TV" tvg-logo="https://i.postimg.cc/bvWq7rF3/MASTER-TV.jpg" group-title="Generalistas" tvg-name="MASTER TV",MASTER TV
