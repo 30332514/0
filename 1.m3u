@@ -442,7 +442,7 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bethel" tvg-logo="https://i.postimg.cc/y8TBqH26/Bethel.png" group-title="Religiosos" tvg-name="Bethel",Bethel
-https://live-evg1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN",EWTN
 https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
