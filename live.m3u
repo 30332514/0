@@ -1,5 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="JADY_LOVELY" tvg-logo="https://static-cdn.strpst.com/avatars/1/2/e/12e63815026406006cc2cd93da8a8a9e-full" group-title="Generalistas"" tvg-name="JADY_LOVELY",JADY_LOVELY
+#EXTINF:-1 tvg-id="JADY_LOVELY" tvg-logo="" group-title="Generalistas"" tvg-name="JADY_LOVELY",JADY_LOVELY
 https://media-hls.doppiocdn.net/b-hls-03/165975736/165975736_720p.m3u8
+
+#EXTINF:-1 tvg-id="Hot_Rose83" tvg-logo="" group-title="Generalistas"" tvg-name="Hot_Rose83",Hot_Rose83
+https://media-hls.doppiocdn.net/b-hls-01/173144248/173144248_480p.m3u8
+
+#EXTINF:-1 tvg-id="YesyHills" tvg-logo="" group-title="Generalistas"" tvg-name="YesyHills",YesyHills
+https://media-hls.doppiocdn.net/b-hls-05/190097968/190097968_720p.m3u8
+
 
