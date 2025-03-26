@@ -9,4 +9,5 @@ https://media-hls.doppiocdn.net/b-hls-01/173144248/173144248_480p.m3u8
 #EXTINF:-1 tvg-id="YesyHills" tvg-logo="" group-title="Generalistas"" tvg-name="YesyHills",YesyHills
 https://media-hls.doppiocdn.net/b-hls-05/190097968/190097968_720p.m3u8
 
-
+#EXTINF:-1 tvg-id="DAELAA" tvg-logo="" group-title="Generalistas"" tvg-name="DAELAA",YDAELAA
+https://media-hls.doppiocdn.com/b-hls-26/41772924/41772924_960p.m3u8
