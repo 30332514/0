@@ -43,7 +43,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/rcr/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Vital FM" tvg-logo="https://i.postimg.cc/xTffMszR/Radio-Vital-FM.jpg" group-title="Generalistas" tvg-name="Radio Vital FM",Radio Vital FM
-https://media.mediacorp.pe/srt/1/playlist.m3u8
+https://stream.mediacorp.pe/srt/2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/9fnTXgR6/latele.jpg" group-title="Generalistas" tvg-name="La Tele",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
