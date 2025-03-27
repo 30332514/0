@@ -11,3 +11,6 @@ https://media-hls.doppiocdn.com/b-hls-06/41772924/41772924.m3u8
 
 #EXTINF:-1 tvg-id="YesyHills" tvg-logo="" group-title="Generalistas"" tvg-name="YesyHills",YesyHills
 https://media-hls.doppiocdn.net/b-hls-05/190097968/190097968_720p.m3u8
+
+#EXTINF:-1 tvg-id="SZucaT" tvg-logo="" group-title="Generalistas"" tvg-name="SZucaT",SZucaT
+https://media-hls.doppiocdn.net/b-hls-13/129910118/129910118_480p.m3u8
