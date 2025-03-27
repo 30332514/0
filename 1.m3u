@@ -742,7 +742,7 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 http://181.205.130.194:4000/play/a0en
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+http://45.68.35.218:4001/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
 http://45.5.117.182:8000/play/a0fl/index.m3u8
@@ -986,6 +986,9 @@ http://200.60.124.19:29000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
 http://45.5.117.182:8000/play/a0j5/index.m3u8
+
+#EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://i.postimg.cc/Y0xXmWHj/cine-mexicano.jpg" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
+http://45.68.35.218:4001/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
 http://181.205.130.194:4000/play/a0er
