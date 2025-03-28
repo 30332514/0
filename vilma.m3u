@@ -75,6 +75,9 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126432
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Generalistas" tvg-name="DKISS",DKISS
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126200
 
+#EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Generalistas" tvg-name="Odisea",Odisea
+http://185.189.225.150:85/odisea/index.m3u8
+
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 
