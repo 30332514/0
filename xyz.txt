@@ -57,6 +57,9 @@ https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md?plain=1
 https://freenote.biz/raw/hxmbypr52v
 
 
+http://181.78.74.69:8000/playlist.m3u8
+http://45.68.35.218:4001/playlist.m3u8
+
 
 http://200.60.124.19:29000/playlist.m3u8    -  Perú (Lima)
 
