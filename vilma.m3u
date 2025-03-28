@@ -55,10 +55,10 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126518
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126358
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126256
+http://185.189.225.150:85/neox/index.m3u8
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126237
+http://185.189.225.150:85/nova/index.m3u8
 
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126201
@@ -107,6 +107,9 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Generalistas" tvg-name="Boing",Boing
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126408
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
