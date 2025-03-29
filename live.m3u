@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="mia-reeves" tvg-logo="" group-title="Generalistas"" tvg-name="mia-reeves",mia-reeves
 https://media-hls.doppiocdn.net/b-hls-23/72862226/72862226_720p.m3u8
 
+#EXTINF:-1 tvg-id="YesyHills" tvg-logo="" group-title="Generalistas"" tvg-name="YesyHills",YesyHills
+https://media-hls.doppiocdn.net/b-hls-05/190097968/190097968_720p.m3u8
+
 #EXTINF:-1 tvg-id="JADY_LOVELY" tvg-logo="" group-title="Generalistas"" tvg-name="JADY_LOVELY",JADY_LOVELY
 https://media-hls.doppiocdn.net/b-hls-03/165975736/165975736_720p.m3u8
 
@@ -11,9 +14,6 @@ https://media-hls.doppiocdn.net/b-hls-01/173144248/173144248_480p.m3u8
 
 #EXTINF:-1 tvg-id="DAELAA" tvg-logo="" group-title="Generalistas"" tvg-name="DAELAA",DAELAA
 https://media-hls.doppiocdn.com/b-hls-06/41772924/41772924.m3u8
-
-#EXTINF:-1 tvg-id="YesyHills" tvg-logo="" group-title="Generalistas"" tvg-name="YesyHills",YesyHills
-https://media-hls.doppiocdn.net/b-hls-05/190097968/190097968_720p.m3u8
 
 #EXTINF:-1 tvg-id="SZucaT" tvg-logo="" group-title="Generalistas"" tvg-name="SZucaT",SZucaT
 https://media-hls.doppiocdn.net/b-hls-13/129910118/129910118_480p.m3u8
