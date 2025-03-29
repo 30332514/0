@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DAELAA" tvg-logo="" group-title="Generalistas"" tvg-name="DAELAA",DAELAA
+https://media-hls.doppiocdn.net/b-hls-23/72862226/72862226_720p.m3u8
+
 #EXTINF:-1 tvg-id="JADY_LOVELY" tvg-logo="" group-title="Generalistas"" tvg-name="JADY_LOVELY",JADY_LOVELY
 https://media-hls.doppiocdn.net/b-hls-03/165975736/165975736_720p.m3u8
 
@@ -23,3 +26,4 @@ https://media-hls.doppiocdn.net/b-hls-26/71352432/71352432_480p.m3u8
 
 #EXTINF:-1 tvg-id="gatitasumisex" tvg-logo="" group-title="Generalistas"" tvg-name="gatitasumisex",gatitasumisex
 https://media-hls.doppiocdn.net/b-hls-12/195868621/195868621.m3u8
+
