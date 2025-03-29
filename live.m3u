@@ -20,3 +20,6 @@ https://media-hls.doppiocdn.net/b-hls-02/195786457/195786457_480p.m3u8
 
 #EXTINF:-1 tvg-id="sexi_noemi" tvg-logo="" group-title="Generalistas"" tvg-name="sexi_noemi",sexi_noemi
 https://media-hls.doppiocdn.net/b-hls-26/71352432/71352432_480p.m3u8
+
+#EXTINF:-1 tvg-id="gatitasumisex" tvg-logo="" group-title="Generalistas"" tvg-name="gatitasumisex",gatitasumisex
+https://media-hls.doppiocdn.net/b-hls-12/195868621/195868621.m3u8
