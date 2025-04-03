@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Radio Vital FM" tvg-logo="https://i.postimg.cc/xTffMszR/Radio-Vital-FM.jpg" group-title="Generalistas" tvg-name="Radio Vital FM",Radio Vital FM
+https://stream.mediacorp.pe/srt/2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChileVisión" tvg-logo="https://i.postimg.cc/g0yTRqxC/Chile-Visi-n.png" group-title="Generalistas" tvg-name="ChileVisión",ChileVisión
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 
