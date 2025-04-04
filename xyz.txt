@@ -62,19 +62,11 @@ https://freenote.biz/raw/hxmbypr52v
 
 http://45.68.35.218:4001/playlist.m3u8    -  Honduras (Pena Blanca)
 
-http://181.78.74.69:8000/playlist.m3u8    -  Colombia (Bogota)
-
 http://181.205.130.194:4000/playlist.m3u8    -  Colombia (Bogota)
 
 http://170.244.209.135:8000/playlist.m3u8    -  Ecuador (Ambato)
 
 http://200.60.124.19:29000/playlist.m3u8    -  Perú (Lima)
-
-http://179.189.222.226:8000/playlist.m3u8    -  Colombia (Pasto)
-
-http://45.5.117.182:8000/playlist.m3u8    -  Guatemala (Guatemala)
-
-http://179.189.222.226:8000/playlist.m3u8    -  Brasil (Catalao)
 
 
 https://github.com/willdevs/tutvapp/blob/a10e85639a9df7a5d9dcef09efeb933bc7bc6abb/tutvapp.m3u#L272
