@@ -1009,16 +1009,22 @@ http://45.5.117.182:8000/play/a0e3/index.m3u8
 http://45.5.117.182:8000/play/a0i2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
-http://45.5.117.182:8000/play/a0e8/index.m3u8
+http://170.244.209.135:8000/play/a0cn/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png" group-title="Películas" tvg-name="HBO2",HBO2
-http://45.5.117.182:8000/play/a0eP/index.m3u8
+http://170.244.209.135:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-logo="https://i.postimg.cc/4dTxGhf8/HBO-plus.png" group-title="Películas" tvg-name="HBO+",HBO+
-http://45.5.117.182:8000/play/a0ea/index.m3u8
+http://170.244.209.135:8000/play/a07r/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
-http://45.5.117.182:8000/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
+http://170.244.209.135:8000/play/a0f2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
+http://170.244.209.135:8000/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/mg3LrZdd/HBO-SIGNATURE.png" group-title="Películas" tvg-name="HBO SIGNATURE",HBO SIGNATURE
+http://170.244.209.135:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
 http://170.244.209.135:8000/play/a0e6/index.m3u8
@@ -1033,16 +1039,19 @@ http://45.5.117.182:8000/play/a0jz/index.m3u8
 http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://45.5.117.182:8000/play/a0ho/index.m3u8
+http://170.244.209.135:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
+http://170.244.209.135:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
-http://45.5.117.182:8000/play/a0ev/index.m3u8
+http://170.244.209.135:8000/play/a0d9/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/pLPSvP3Y/TNT.jpg" group-title="Películas" tvg-name="TNT",TNT
-http://45.5.117.182:8000/play/a0i9/index.m3u8
+http://170.244.209.135:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT SERIES",TNT SERIES
-http://45.5.117.182:8000/play/a0jt/index.m3u8
+http://170.244.209.135:8000/play/a0dt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
 http://45.5.117.182:8000/play/a0ku/index.m3u8
