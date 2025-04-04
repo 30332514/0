@@ -1021,7 +1021,7 @@ http://45.5.117.182:8000/play/a0ea/index.m3u8
 http://45.5.117.182:8000/play/a0ep/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
-http://45.5.117.182:8000/play/a0j7/index.m3u8
+http://170.244.209.135:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
 http://181.205.130.194:4000/play/a06f
