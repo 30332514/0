@@ -1002,6 +1002,9 @@ http://45.5.117.182:8000/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Películas" tvg-name="GOLDEN",GOLDEN
 http://170.244.209.135:8000/play/a0e0/index.m3u8
 
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
+http://170.244.209.135:8000/play/a087/index.m3u8
+
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://170.244.209.135:8000/play/a0cx/index.m3u8
 
