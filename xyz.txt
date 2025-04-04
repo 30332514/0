@@ -60,7 +60,7 @@ https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md?plain=1
 https://freenote.biz/raw/hxmbypr52v
 
 
-http://45.68.35.218:4001/playlist.m3u8    -  Honduras (	Pena Blanca)
+http://45.68.35.218:4001/playlist.m3u8    -  Honduras (Pena Blanca)
 
 http://181.78.74.69:8000/playlist.m3u8    -  Colombia (Bogota)
 
