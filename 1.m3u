@@ -394,10 +394,10 @@ https://d3adb9tbhoq5j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
-http://45.5.117.182:8000/play/a0fd/index.m3u8
+http://181.205.130.194:4000/play/a0f0
 
 #EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/KcLwdWbD/MTV-00s.png" group-title="Musicales" tvg-name="MTV 00s",MTV 00s
-http://45.5.117.182:8000/play/a0if/index.m3u8
+http://170.244.209.135:8000/play/a0e3/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
 http://45.5.117.182:8000/play/a0f2/index.m3u8
