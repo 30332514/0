@@ -112,7 +112,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
-https://milenial.news/salida/milenial.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/milenial/playlist.m3u8?uid=1048715
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
 https://tv.ondadigital.pe/ondadigital/playlist.m3u8
