@@ -705,7 +705,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Andalucia Cocina" tvg-logo="https://i.postimg.cc/ryNqVKDs/Canal-Andalucia-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Andalucia Cocina",Canal Andalucia Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name="Canal Extremadura",Canal Extremadura
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="La 7" tvg-logo="https://i.postimg.cc/1zys0YTy/La7.png" group-title="Generalistas"" tvg-name="La 7",La 7
