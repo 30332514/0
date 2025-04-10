@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
+https://live-evg25.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ=w240-h480-rw" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
