@@ -165,6 +165,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 25" tvg-logo="https://i.postimg.cc/66fRj6SH/CANAL-25.jpg" group-title="Generalistas" tvg-name="CANAL 25",CANAL 25
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV WANKA" tvg-logo="https://i.postimg.cc/s2B6RGS9/TV-WANKA.jpg" group-title="Generalistas" tvg-name="TV WANKA",TV WANKA
+https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
+
 #EXTINF:-1 tvg-id="COSITEL PERÚ" tvg-logo="https://i.postimg.cc/X7LBn2k4/COSITEL-PER.jpg" group-title="Generalistas" tvg-name="COSITEL PERÚ",COSITEL PERÚ
 https://live-evg25.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8
 
