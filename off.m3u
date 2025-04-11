@@ -27,9 +27,6 @@ http://200.60.124.19:29000/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
-https://live-evg25.tv360.bitel.com.pe/bitel/viatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.postimg.cc/NFJRDKS6/GOLTV.jpg" group-title="Deportivos" tvg-name="GOLTV",GOLTV
 http://200.60.124.19:29000/play/a0ak/index.m3u8
 
