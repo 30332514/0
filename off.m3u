@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CostadelSol TV" tvg-logo="https://i.postimg.cc/dDMg3sf2/Costadel-Sol-TV.jpg" group-title="Generalistas" tvg-name="CostadelSol TV",CostadelSol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+
+#EXTINF:-1 tvg-id="Alacantí TV" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Generalistas" tvg-name="Alacantí TV",Alacantí TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
 #EXTINF:-1 tvg-id="CASO CERRADO" tvg-logo="https://i.postimg.cc/T2HvFvHy/CASO-CERRADO.jpg" group-title="Generalistas" tvg-name="CASO CERRADO",CASO CERRADO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=corgol
 
