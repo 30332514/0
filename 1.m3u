@@ -487,7 +487,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo",Telemundo
-http://45.68.35.218:4001/play/a00y/index.m3u8
+http://200.60.124.19:29000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
