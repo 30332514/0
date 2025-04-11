@@ -918,6 +918,9 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.postimg.cc/W1s7p6K4/Cine-Estrella.jpg" group-title="Películas" tvg-name="Cine Estrella",Cine Estrella
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cine Club" tvg-logo="https://i.postimg.cc/8kYcZhsQ/CineClub.jpg" group-title="Películas" tvg-name="Cine Club",Cine Club
+https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8
 
