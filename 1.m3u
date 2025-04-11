@@ -547,13 +547,13 @@ https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
 
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="https://i.postimg.cc/JzvW2VG5/SYFY.jpg" group-title="Generalistas" tvg-name="SYFY",SYFY
-http://45.5.117.182:8000/play/a0hs/index.m3u8
+http://200.60.124.19:29000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
-http://45.5.117.182:8000/play/a0hQ/index.m3u8
+http://200.60.124.19:29000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://170.244.209.135:8000/play/a07p/index.m3u8
+http://200.60.124.19:29000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="CASO CERRADO" tvg-logo="https://i.postimg.cc/T2HvFvHy/CASO-CERRADO.jpg" group-title="Generalistas" tvg-name="CASO CERRADO",CASO CERRADO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=corgol
