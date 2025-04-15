@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://i.postimg.cc/Dfb4vCRy/Golf-Channel.jpg" group-title="Deportivos" tvg-name="Golf Channel",Golf Channel
+http://45.5.117.182:8000/play/a0fv/index.m3u8
+
 #EXTINF:-1 tvg-id="CostadelSol TV" tvg-logo="https://i.postimg.cc/dDMg3sf2/Costadel-Sol-TV.jpg" group-title="Generalistas" tvg-name="CostadelSol TV",CostadelSol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 
