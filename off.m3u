@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Latino Kids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="Latino Kids",Latino Kids
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Sports Grid" tvg-logo="https://i.postimg.cc/653qqmrf/Sports-Grid.png" group-title="Deportivos" tvg-name="Sports Grid",Sports Grid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
