@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
+http://45.5.117.182:8000/play/a0f2/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
+http://45.5.117.182:8000/play/a0f1/index.m3u8
+
 #EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
 http://45.5.117.182:8000/play/a0ic/index.m3u8
 
