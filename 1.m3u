@@ -591,9 +591,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://i.postimg.cc/Dfb4vCRy/Golf-Channel.jpg" group-title="Deportivos" tvg-name="Golf Channel",Golf Channel
-http://45.5.117.182:8000/play/a0fv/index.m3u8
-
 #EXTINF:-1 tvg-id="Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Deportivos" tvg-name="Fitmaxx TV",Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 
