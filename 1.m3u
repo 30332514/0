@@ -495,9 +495,6 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-logo="https://i.postimg.cc/htpS68JK/Telemundo-Puerto-Rico.png" group-title="Generalistas"" tvg-name="Telemundo Puerto Rico",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Universo" tvg-logo="https://i.postimg.cc/hPfMG5s6/UNIVERSO.jpg" group-title="Generalistas"" tvg-name="Universo",Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
 http://45.68.35.218:4001/play/a014/index.m3u8
 
