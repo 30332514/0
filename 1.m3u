@@ -84,7 +84,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/bwDm8J7D/asiritv.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
+#EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/fLRXs4rs/AsiriTV.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
