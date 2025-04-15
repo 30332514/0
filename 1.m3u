@@ -615,9 +615,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 #EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="Latino Kids" tvg-logo="https://i.postimg.cc/g2PMQBRT/latinokids.png" group-title="Infantiles" tvg-name="Latino Kids",Latino Kids
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
 http://160.20.165.246:8000/play/a016/index.m3u8
 
