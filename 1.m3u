@@ -558,6 +558,9 @@ http://200.60.124.19:29000/play/a07k/index.m3u8
 #EXTINF:-1 tvg-id="Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guatemala",Tigo Sports Guatemala
 http://45.68.35.218:4001/play/a01t/index.m3u8
 
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.postimg.cc/hG1twrfc/Win-Sports.jpg" group-title="Deportivos" tvg-name="Win Sports",Win Sports
+https://1569023982.rsc.cdn77.org/lkAx1wcaJKE9HIlLP9xISA==,1744769840/1569023982/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Deportivos" tvg-name="ESPN",ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
 
