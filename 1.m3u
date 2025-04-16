@@ -841,13 +841,13 @@ https://cloudvideo.servers10.com:8081/stztelebista/tracks-v1a1/mono.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://i.postimg.cc/tT01N6Xp/History-Channel.jpg" group-title="Documentales" tvg-name="History Channel",History Channel
-http://170.244.209.135:8000/play/a0ef/index.m3u8
+http://181.78.109.48:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
 http://170.244.209.135:8000/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
-http://170.244.209.135:8000/play/a0ed/index.m3u8
+http://181.78.109.48:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20240319T052636SQUARE.png" group-title="Documentales" tvg-name="NatureTime",NatureTime
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
@@ -943,7 +943,7 @@ https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://200.60.124.19:29000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://45.5.117.182:8000/play/a0fq/index.m3u8
+http://181.78.109.48:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
 http://170.244.209.135:8000/play/a0dc/index.m3u8
@@ -952,10 +952,10 @@ http://170.244.209.135:8000/play/a0dc/index.m3u8
 http://170.244.209.135:8000/play/a0cq/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
-http://170.244.209.135:8000/play/a0eq/index.m3u8
+http://181.78.109.48:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
-http://170.244.209.135:8000/play/a0er/index.m3u8
+http://181.78.109.48:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
 http://200.60.124.19:29000/play/a027/index.m3u8
@@ -967,7 +967,7 @@ http://200.60.124.19:29000/play/a04w/index.m3u8
 http://200.60.124.19:29000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
-http://45.5.117.182:8000/play/a0j5/index.m3u8
+http://181.78.109.48:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://i.postimg.cc/Y0xXmWHj/cine-mexicano.jpg" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
 http://45.68.35.218:4001/play/a01x/index.m3u8
@@ -976,13 +976,13 @@ http://45.68.35.218:4001/play/a01x/index.m3u8
 http://170.244.209.135:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
-http://170.244.209.135:8000/play/a0ei/index.m3u8
+http://181.78.109.48:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://38.41.8.1:8000/play/a04x
+http://181.78.109.48:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://45.5.117.182:8000/play/a0fs/index.m3u8
+http://181.78.109.48:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://200.60.124.19:29000/play/a014/index.m3u8
@@ -1006,13 +1006,16 @@ http://170.244.209.135:8000/play/a0dd/index.m3u8
 http://170.244.209.135:8000/play/a0cn/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png" group-title="Películas" tvg-name="HBO2",HBO2
-http://170.244.209.135:8000/play/a07s/index.m3u8
+http://181.78.109.48:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-logo="https://i.postimg.cc/4dTxGhf8/HBO-plus.png" group-title="Películas" tvg-name="HBO+",HBO+
-http://170.244.209.135:8000/play/a07r/index.m3u8
+http://181.78.109.48:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
-http://170.244.209.135:8000/play/a0f2/index.m3u8
+http://181.78.109.48:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
+http://181.78.109.48:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
 http://170.244.209.135:8000/play/a0co/index.m3u8
