@@ -6,12 +6,6 @@ https://stream-us-east-1.getpublica.com/cl/250411cvsg3e0ch1a6pou661ig/1920x1080_
 #EXTINF:-1 tvg-id="Universo" tvg-logo="https://i.postimg.cc/hPfMG5s6/UNIVERSO.jpg" group-title="Generalistas"" tvg-name="Universo",Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
-http://45.5.117.182:8000/play/a0f2/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
-http://45.5.117.182:8000/play/a0f1/index.m3u8
-
 #EXTINF:-1 tvg-id="¡HOLA! TV" tvg-logo="https://i.postimg.cc/HxMNWKzB/hola.png" group-title="Generalistas" tvg-name="¡HOLA! TV",¡HOLA! TV
 http://45.5.117.182:8000/play/a0ic/index.m3u8
 
