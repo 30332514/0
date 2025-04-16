@@ -625,13 +625,13 @@ http://200.60.124.19:29000/play/a01i/index.m3u8
 http://200.60.124.19:29000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name="TeenNick",TeenNick
-http://45.5.117.182:8000/play/a0fg/index.m3u8
+http://181.78.109.48:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://181.205.130.194:4000/play/a0ed
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
-http://45.5.117.182:8000/play/ari9/index.m3u8
+http://181.78.109.48:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://200.60.124.19:29000/play/a020/index.m3u8
@@ -745,7 +745,7 @@ http://181.205.130.194:4000/play/a0en
 http://45.68.35.218:4001/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
-http://45.5.117.182:8000/play/a0fl/index.m3u8
+http://181.78.109.48:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade en español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" group-title="Estilo de Vida" tvg-name="Tastemade en español",Tastemade en español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
