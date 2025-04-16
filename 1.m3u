@@ -469,7 +469,7 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN MÁS" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS",RCN MÁS
-https://1632122577.rsc.cdn77.org/4EK7RCE_7qWfVqMv07IQUw==,1744769632/1632122577/index.m3u8
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
 http://200.60.124.19:29000/play/a06k/index.m3u8
