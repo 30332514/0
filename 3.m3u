@@ -36,6 +36,9 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
+http://45.71.37.194:8010/play/a0m4/index.m3u8
+
 
 #EXTINF:-1,XXX:SEXTREME_LA6
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4159
