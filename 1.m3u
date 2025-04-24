@@ -409,7 +409,7 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 http://181.205.130.194:4000/play/a0f0
 
 #EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/KcLwdWbD/MTV-00s.png" group-title="Musicales" tvg-name="MTV 00s",MTV 00s
-http://170.244.209.135:8000/play/a0e3/index.m3u8
+http://181.78.109.48:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
 http://181.78.109.48:8000/play/a022/index.m3u8
