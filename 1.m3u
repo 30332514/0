@@ -453,6 +453,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Bethel" tvg-logo="https://i.postimg.cc/y8TBqH26/Bethel.png" group-title="Religiosos" tvg-name="Bethel",Bethel
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Creo Fe" tvg-logo="https://i.postimg.cc/wMBwSzFn/CreoFe.jpg" group-title="Religiosos" tvg-name="Creo Fe",Creo Fe
+https://live-evg25.tv360.bitel.com.pe/bitel/creofe/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN",EWTN
 https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
 
@@ -602,6 +605,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_72
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Infantiles" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-id="Creo Kids" tvg-logo="https://i.postimg.cc/vBxKBb59/CreoKids.jpg" group-title="Infantiles" tvg-name="Creo Kids",Creo Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/creokids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
 http://160.20.165.246:8000/play/a01y/index.m3u8
@@ -878,6 +884,9 @@ https://d10kuipa6llbff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Películas" tvg-name="Old",Old
 https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Creo Latino" tvg-logo="https://i.postimg.cc/G2zW8d2m/Creo-Latino.jpg" group-title="Películas" tvg-name="Creo Latino",Creo Latino
+https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Artflix" tvg-logo="https://i.postimg.cc/h4Zjt9G0/Artflix.jpg" group-title="Películas" tvg-name="Artflix",Artflix
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
