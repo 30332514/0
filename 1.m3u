@@ -183,6 +183,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bonita TV" tvg-logo="https://i.postimg.cc/8510R9JX/BonitaTV.jpg" group-title="Generalistas" tvg-name=""Bonita TV","Bonita TV
+https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/viatv/playlist.m3u8
 
