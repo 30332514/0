@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="JN19.2" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19.2",JN19.2
+https://servilive.com:3224/live/jn19tv2live.m3u8
+
 #EXTINF:-1 tvg-id="Molahits TV" tvg-logo="https://i.postimg.cc/FsrhjGC0/Molahits-TV.jpg" group-title="Musicales" tvg-name="Molahits TV",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
