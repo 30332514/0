@@ -853,13 +853,13 @@ http://181.78.109.48:8000/play/a02h/index.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
-http://170.244.209.135:8000/play/a0ee/index.m3u8
+http://181.78.109.48:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 http://170.244.209.135:8000/play/a0dm/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name="Discovery ID",Discovery ID
-http://170.244.209.135:8000/play/a07v/index.m3u8
+http://181.78.109.48:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery THEATHER" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name="Discovery THEATHER",Discovery THEATHER
 http://181.205.130.194:4000/play/a0f3
