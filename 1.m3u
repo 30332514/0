@@ -31,7 +31,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 #EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
-https://play.agenciastreaming.com:8081/nacionaltv/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/nacionaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTV Perú" tvg-logo="https://i.postimg.cc/HWS78G7K/CTV-Per.jpg" group-title="Generalistas" tvg-name="CTV Perú",CTV Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv_ori_source/playlist.m3u8
