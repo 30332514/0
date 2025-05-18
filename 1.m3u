@@ -877,7 +877,7 @@ http://181.205.130.194:4000/play/a0f3
 http://170.244.209.135:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
-http://170.244.209.135:8000/play/a0cl/index.m3u8
+http://181.78.109.48:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://170.244.209.135:8000/play/a0ct/index.m3u8
