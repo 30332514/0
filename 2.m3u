@@ -49,13 +49,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa_ori_source/playlist.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-https://live-evg25.tv360.bitel.com.pe/bitel/willax_ori_source/playlist.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(NK1bvsZvmHGe3zuQFPVd8cwBhJLqaam7EHsoxdRv1LqLTlUSOByK6OsXyT3i-Dx9jLICf2PjhBMCOaVJCSc9rZ7d9SZwB23lzj03nUSNBWzDA5IRxO7w-X4gVsTn9XbS)/cloud/3/x7x4dgx/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
-https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/playlist.m3u8
+https://live.obslivestream.com/conecta2/index.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://chasquirouter.com/salida/trivu.m3u8
@@ -88,10 +88,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
-https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Malu TV" tvg-logo="https://i.postimg.cc/sgzdLh3D/Malu-TV.jpg" group-title="Generalistas" tvg-name="Malu TV",Malu TV
 https://live-evg25.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8
@@ -121,10 +121,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 https://tv.ondadigital.pe/ondadigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
-https://live-evg25.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8
+https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV2" tvg-logo="https://i.postimg.cc/vB9LyfYJ/ondadigitaltv2.png" group-title="Generalistas" tvg-name="Onda Digital TV2",Onda Digital TV2
-https://live-evg25.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8
+https://v4.tustreaming.cl/odtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SEÑAL PERÚ" tvg-logo="https://i.postimg.cc/t7Qhb01M/SE-AL-PER.jpg" group-title="Generalistas" tvg-name="SEÑAL PERÚ",SEÑAL PERÚ
 https://livestream.perucast.com/low/stream_low/index.m3u8
@@ -133,7 +133,7 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
-https://live-evg25.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/playlist.m3u8
