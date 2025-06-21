@@ -73,16 +73,16 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="BhTv" tvg-logo="https://i.postimg.cc/4y33y2Fx/BhTv.jpg" group-title="Generalistas" tvg-name="BhTv",BhTv
-https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
+https://sc1.wasidata.com/Bhtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A uno" tvg-logo="https://i.postimg.cc/pTQMZ84M/Antena-Uno-TV.jpg" group-title="Generalistas" tvg-name="A uno",A uno
-https://live-evg25.tv360.bitel.com.pe/bitel/auno/playlist.m3u8
+https://play.agenciastreaming.com:8081/antena1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
-https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV" tvg-logo="https://i.postimg.cc/fLRXs4rs/AsiriTV.jpg" group-title="Generalistas" tvg-name="AsiriTV",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
