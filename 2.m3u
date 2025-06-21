@@ -7,7 +7,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-
+https://euw33.playlist.ttvnw.net/v1/playlist/CqEGi4QNdheRIt9TeiYYw4zXF51ruwap2JLnn1okW0t-Q6ZXjVSQqE-jIpxUyg5hNCQkkM93Z4pnVAoslzjavqJ1L6FnYkZfdH_6lXZMARszUjT5h2bSux367reFszFYC6xZGPCgoUOqSg9ASpA7K0rsRs_S_iHFXNi2khAmNZgYbjXCZ2-1ZhFGbqCWditcXum0YZ7RhLYXC78URCARUBgQupSG7Im11tJkeT8FVe7cUU3p59-NqOsdp8BNXUBNXs9wz3cicD9WFtOF4omr2Zu8EiXv3iPZdLP1hBqzkb2jPgK4mHyVSF7fS68eHIbdmg_j3g0NcMpNHIRIB5mDiQmw8Vira2it-eysLUIbZE-oLp_iXAgjwI2jKkJqlGN0bZIT790w_VjMt5JErUxivpKJp-SzRrzxS0bNGTctYKcStx_0e6QgZ1a5mJRUB_x2KlXQFwgcReScs3VnsHT24xrSFOk1kj-ilqKR5RGNvMsaJBNCmvsIJdd2I6cfSi7i5WBZV-YKVbaPQnPYPo07Ahf47oXKNN2LAgxDfxhAn7hqmZA7hguJStfrIa23cG5vrq7ZP_ra6HgO76xIIggwK2eC4J4DO_64__0Fd3ZeFD8YJO8hcevKeoEoo_HpNZutMBSVg05HqDoTDkE2PFEv7r_Qyw4KDWdq-jNTmM6cEHdri9lLBDuafmJm9Z_6qjldhZgulShAzXQhrgoE-tDLkLtirMaL2FeGIVKWWDmlpc6c3pzN-TNexpY5L9AyPJWITzV5ZEReHXZMmysuXQbCgKWAJY948-MFcD7KuQSArfG7YKEMax5NavvRa69-pVSfBM-duRKgfudMuiNlVKA1DPWByNDhKoCbZYJB1vF3wgXZj5pvuYiyKHsK11v76uJa2GmntIRHPhlAQgdv_4aW55FQ0_CqwkkP93BXdlT5L9_uejgMK5bxCIMls0r5etoxGKUmRo6uyyzaEuKXyIfSj6XTL-msWU-SknaF-MefZKAibiNeA2cIDEQhjpz4yMED3defsoq0Y-alhR1rUSzqxGaVvF9DAaCNqsDiSBJrLaR0XENfGgwjbtDhZHZg8l8P7bwgASoJZXUtd2VzdC0yMMkM.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
 
@@ -250,7 +250,7 @@ https://servilive.com:3531/stream/play.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
-https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w739737404_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzUwNTM4MDE0Jndvd3phdG9rZW5lbmR0aW1lPTE3NTA1MzkwMTQmd293emF0b2tlbmhhc2g9d3Jjbll1QnM3OW1VQmN5ZFlwaXNfdzlESUl4UVBqeW04WldNM3FfOGhSND0=.m3u8
 
 #EXTINF:-1 tvg-id="TVone" tvg-logo="https://i.postimg.cc/KjVs24yf/TVone.jpg" group-title="Musicales" tvg-name="TVone",TVone
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -259,7 +259,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
