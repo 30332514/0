@@ -178,7 +178,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
-https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8
@@ -187,7 +187,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
-https://live-evg25.tv360.bitel.com.pe/bitel/viatv/playlist.m3u8
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-id="GF TV" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="Generalistas" tvg-name="GF TV",GF TV
 https://live.obslivestream.com/regionaltv/tracks-v1a1/playlist.m3u8
@@ -208,10 +208,10 @@ https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tarapoto TV" tvg-logo="https://i.postimg.cc/MKKMWVsd/tvtarapoto.jpg" group-title="Generalistas" tvg-name="Tarapoto TV",Tarapoto TV
-https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/playlist.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MASTER TV" tvg-logo="https://i.postimg.cc/bvWq7rF3/MASTER-TV.jpg" group-title="Generalistas" tvg-name="MASTER TV",MASTER TV
-https://live-evg25.tv360.bitel.com.pe/bitel/mastertv/playlist.m3u8
+https://live.obslivestream.com/mastertv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
 https://live.obslivestream.com/uraniotv/playlist.m3u8
