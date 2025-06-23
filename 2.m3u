@@ -148,7 +148,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="36TV HUACHO" tvg-logo="https://i.postimg.cc/RZZZS4gZ/36-TV-HUACHO.jpg" group-title="Generalistas" tvg-name="36TV HUACHO",36TV HUACHO
-https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
+https://tv.huachotv.com/livelan/stream.m3u8
 
 #EXTINF:-1 tvg-id="TV+ CHINCHA" tvg-logo="https://i.postimg.cc/Wbm08NNm/TV-CHINCHA.jpg" group-title="Generalistas" tvg-name="TV+ CHINCHA",TV+ CHINCHA
 https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
@@ -157,10 +157,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
-https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
-https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 25" tvg-logo="https://i.postimg.cc/66fRj6SH/CANAL-25.jpg" group-title="Generalistas" tvg-name="CANAL 25",CANAL 25
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
@@ -172,10 +172,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SUPER CANAL" tvg-logo="https://i.postimg.cc/QCHNsb8x/SUPER-CANAL.jpg" group-title="Generalistas" tvg-name="SUPER CANAL",SUPER CANAL
-https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/playlist.m3u8
+https://live.obslivestream.com/supercanal/index.m3u8
 
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
-https://live-evg25.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
