@@ -126,8 +126,11 @@ http://185.189.225.150:85/Iberalia/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 http://185.189.225.150:85/Discovery/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-logo="" group-title="Generalistas" tvg-name="AMC",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/x1JKSqZv/AMC.jpg" group-title="Generalistas" tvg-name="AMC",AMC
 http://185.189.225.150:85/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.postimg.cc/nzSpnSyP/TCM.png" group-title="Generalistas" tvg-name="TCM",TCM
+http://185.189.225.150:85/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
