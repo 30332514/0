@@ -130,19 +130,19 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:54_HD.smil/man
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latina_ori_source/playlist.m3u8
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana_ori_source/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-https://live-evg25.tv360.bitel.com.pe/bitel/atv_ori_source/playlist.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu_ori_source/playlist.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
 https://play.agenciastreaming.com:8081/nacionaltv/playlist.m3u8
@@ -157,10 +157,10 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3331
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa_ori_source/playlist.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-https://live-evg25.tv360.bitel.com.pe/bitel/willax_ori_source/playlist.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(NK1bvsZvmHGe3zuQFPVd8cwBhJLqaam7EHsoxdRv1LqLTlUSOByK6OsXyT3i-Dx9jLICf2PjhBMCOaVJCSc9rZ7d9SZwB23lzj03nUSNBWzDA5IRxO7w-X4gVsTn9XbS)/cloud/3/x7x4dgx/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/global_ori_source/playlist.m3u8
@@ -172,7 +172,7 @@ https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
-https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/playlist.m3u8
+https://live.obslivestream.com/conecta2/index.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/trivu.m3u8
@@ -187,10 +187,10 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
-https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
