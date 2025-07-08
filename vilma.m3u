@@ -117,11 +117,8 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Iberalia 100% Pesca" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia 100% Pesca",Iberalia 100% Pesca
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Iberalia 100% Caza" tvg-logo="https://i.postimg.cc/L6dkgpmx/Iberalia-GO.jpg" group-title="Generalistas" tvg-name="Iberalia 100% Caza",Iberalia 100% Caza
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Iberalia" tvg-logo="https://i.postimg.cc/hGSYw5WH/Iberalia.jpg" group-title="Generalistas" tvg-name="Iberalia",Iberalia
+http://185.189.225.150:85/Iberalia/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8
