@@ -82,7 +82,7 @@ http://185.189.225.150:85/odisea/index.m3u8
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
-http://117.55.203.48:37500/972483615538/185177820594/116701
+http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="DARK" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="Generalistas" tvg-name="DARK",DARK 
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126342
