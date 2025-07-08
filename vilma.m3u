@@ -30,6 +30,15 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9
 #EXTINF:-1 tvg-id="Guada TV" tvg-logo="https://i.postimg.cc/sXDwc9SC/guadatv.jpg" group-title="Generalistas" tvg-name="Guada TV",Guada TV
 https://cloud.fastchannel.es/app_dai/master_playlists/guadatv.m3u8
 
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Andalucia Cocina" tvg-logo="https://i.postimg.cc/ryNqVKDs/Canal-Andalucia-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Andalucia Cocina",Canal Andalucia Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
@@ -84,6 +93,21 @@ http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="GOL PLAY",GOL PLAY
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1 tvg-id="SOLIDARIA TV" tvg-logo="http://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="Generalistas" tvg-name="SOLIDARIA TV",SOLIDARIA TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generalistas" tvg-name="Divinity",Divinity
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126201
 
@@ -101,30 +125,6 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126200
 
 #EXTINF:-1 tvg-id="teN" tvg-logo="https://i.postimg.cc/tR5zncmP/teN.png" group-title="Generalistas"" tvg-name="teN",teN
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Andalucia Cocina" tvg-logo="https://i.postimg.cc/ryNqVKDs/Canal-Andalucia-Cocina.jpg" group-title="Generalistas" tvg-name="Canal Andalucia Cocina",Canal Andalucia Cocina
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name=Canal Extremadura",Canal Extremadura
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png" group-title="Generalistas" tvg-name="GOL PLAY",GOL PLAY
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
-https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-
-#EXTINF:-1 tvg-id="SOLIDARIA TV" tvg-logo="http://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="Generalistas" tvg-name="SOLIDARIA TV",SOLIDARIA TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-
-#EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Generalistas" tvg-name="Disney Channel",Disney Channel
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
