@@ -34,6 +34,9 @@ https://github.com/matthuisman/i.mjh.nz
 
 // Fuentes
 
+https://forgejo.plainrock127.xyz/Mystique-Play/Mystique/src/branch/main/countries/latin_america.m3u
+https://forgejo.plainrock127.xyz/Mystique-Play/Mystique/src/branch/main/countries/spain.m3u
+
 https://github.com/alex4528/m3u/blob/main/samsungtv.m3u
 https://github.com/PlanixPlus15/peruregionales.m3u8/blob/main/peruregionales.m3u8
 
