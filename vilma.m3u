@@ -130,13 +130,13 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv_ori_source/playlist.m3u8
+http://200.60.124.19:29000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-
+http://200.60.124.19:29000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -151,7 +151,7 @@ https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3331
 
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
-https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
+https://euw32.playlist.ttvnw.net/v1/playlist/Cp8GKM2qKXYp7lMKZu-ioGlig8WmVASFMSRzF_woNphEsjdfuxYMSvTI1DzvXrUpv4vTyvaPrzPcSnxDOvKQE2Am3MOTifCSel6xQMLby4xy7dwLlZw5mloqMSwpqWq-3jBim-qQMHMFxagPQPMPh3tNkplmJzfwWXo5PLLAIztBH2uSE9xq6WBFSFJuylKvI8JZsw_Oo33Y25WRvj3CGYw7nHDqnGoB5EqEcvmJvU5MC1NyJLX61dTDiJifxuRXTMsCS5FOyppml24PrDUoDX9j0xAyMOcZL34HOxQVPuiJQa4-0ET1Pq4grTfk3s-58nREm7ylQdEJeGUN4NKMRgmBrjpt3mf7mrkgbX0UKKdTQJJl8-QQxgzXR-x8Dn_cbEaTVOVn43UmTcoi1-je3U8D7lciFYixf83h-KY1-j6c3Gu1WNLYrxO6Ij_-ltKmkSop4wMzhjkeTA0TyaSQPGsWaMu2mgHczzNahrXp8DIDtAYjPX2gG66bydZlpy-JoHuvxfjx2I3_95PF-iPA8fUZ7W_tc57IuTdHfuUN2OkEN9PtzSJsjVoJALkuWh66qhf11Lr97iCCXZMbTisADvQ8Yz50paP6iICs91fuWg6HHZXL5ijaHQ2brXjRh4kIfOXkuply7w0mNhgIR59Wq4H3bUYAEbbIy4XDzz0mI6Qv9vopSpm06Mij-LeM6Sf7nxqXVBF4ZqaIrMT2PpQqy1-kxvbtxoctflaTqDbgOrx030um8W-9WNX9d6wl9HzEbtaMR-RyjrsOIb0BaMKSD1JZ0cH2UPi6BD9xu3a3YFTInF5C9SOPaeehAUhuGdvSePQZwvkaGSz0IEx5xSM2c-eF3LQrwF7EraAk59GaiYN2svAa02H5-4K0iMbJqZjx9VOF1MM7ExNO-Eb7275qVhbdRGHmsBFdN6dLee0XfvQisIGYy-m40Ujw3OCBk0Ib9KFddUmsKDAk8kc9hyVAp4Hz3y5YM_ckul74x2Ek1wqDdpCjJzO5kjkRfyTvgpEecpp7PqXGxqXtrWbkKlFQnhcAU2SfvcysGzF3Vz8-2W0DhRoMPtnjfnxGtfkhDbm0IAEqCWV1LXdlc3QtMjDpDA.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-logo="https://i.postimg.cc/Gm20cgx6/exitosa.jpg" group-title="Generalistas" tvg-name="Exitosa TV",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
