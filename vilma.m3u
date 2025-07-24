@@ -166,7 +166,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(NK1bvsZvmHGe3zuQFPVd8cwBhJLqaam7EHsoxdRv1LqLTlUSOByK6OsXyT3i-Dx9jLICf2PjhBMCOaVJCSc9rZ7d9SZwB23lzj03nUSNBWzDA5IRxO7w-X4gVsTn9XbS)/cloud/3/x7x4dgx/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="Global Televisión" tvg-logo="https://i.postimg.cc/Gh9gshL0/Global-Televisi-n.png" group-title="Generalistas" tvg-name="Global Televisión",Global Televisión
-https://live-evg25.tv360.bitel.com.pe/bitel/global_ori_source/playlist.m3u8
+http://181.78.4.250:8098/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
 https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
