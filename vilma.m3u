@@ -66,6 +66,9 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
 http://185.189.225.150:85/nova/index.m3u8
 
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="" group-title="Generalistas" tvg-name="SYFY",SYFY
+http://185.189.225.150:85/syfy/index.m3u8
+
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Generalistas" tvg-name="Odisea",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
 
