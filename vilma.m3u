@@ -39,6 +39,9 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://miguia.tv/channels/big_44@2x.png" group-title="Generalistas" tvg-name="Canal Extremadura",Canal Extremadura
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="8Madrid" tvg-logo="https://i.postimg.cc/rsHQnpZG/8-Madrid-TV.jpg" group-title="Generalistas" tvg-name="8Madrid",8Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
+
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
