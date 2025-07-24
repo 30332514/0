@@ -412,13 +412,16 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 http://181.205.130.194:4000/play/a0f0
 
 #EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/KcLwdWbD/MTV-00s.png" group-title="Musicales" tvg-name="MTV 00s",MTV 00s
-http://181.78.109.48:8000/play/a03t/index.m3u8
+http://170.239.188.252:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
-http://181.78.109.48:8000/play/a022/index.m3u8
+http://170.239.188.252:8000/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HITS" tvg-logo=https://i.postimg.cc/fyZGH7VN/MTV-HITS.png" group-title="Musicales" tvg-name="MTV HITS",MTV HITS
-http://181.78.109.48:8000/play/a021/index.m3u8
+http://170.239.188.252:8000/play/a0eh/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
+http://170.239.188.252:8000/play/a09u/index.m3u8
 
 #EXTINF:-1 tvg-id="Clubbing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="Musicales" tvg-name="Clubbing TV",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
@@ -517,7 +520,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas Latinoamerica" tvg-logo="https://i.postimg.cc/dVyJP7F4/Tlnovelas.png" group-title="Novelas" tvg-name="Tlnovelas Latinoamerica",Tlnovelas Latinoamerica
-http://181.78.109.48:8000/play/a06f/index.m3u8
+http://181.78.4.250:8098/play/a04z/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas Latinoamerica" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas" tvg-name="Las Estrellas Latinoamerica",Las Estrellas Latinoamerica
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -637,13 +640,13 @@ http://200.60.124.19:29000/play/a01i/index.m3u8
 http://200.60.124.19:29000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name="TeenNick",TeenNick
-http://181.78.109.48:8000/play/a02f/index.m3u8
+http://170.239.188.252:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://181.205.130.194:4000/play/a0ed
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
-http://181.78.109.48:8000/play/a01o/index.m3u8
+http://181.78.4.250:8098/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://200.60.124.19:29000/play/a020/index.m3u8
@@ -754,7 +757,7 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 http://181.205.130.194:4000/play/a0en
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.postimg.cc/N0V2nTbK/distrito-comedia.jpg" group-title="Comedia" tvg-name="Distrito Comedia",Distrito Comedia
-http://181.78.109.48:8000/play/a06k/index.m3u8
+http://170.239.188.252:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="film & arts" tvg-logo="https://i.postimg.cc/9M9KSrvW/film-arts.jpg" group-title="Generalistas" tvg-name="film & arts",film & arts
 http://181.78.109.48:8000/play/a02j/index.m3u8
@@ -850,25 +853,25 @@ https://cloudvideo.servers10.com:8081/stztelebista/tracks-v1a1/mono.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://i.postimg.cc/tT01N6Xp/History-Channel.jpg" group-title="Documentales" tvg-name="History Channel",History Channel
-http://181.78.109.48:8000/play/a02b/index.m3u8
+http://170.239.188.252:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
 http://170.244.209.135:8000/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
-http://181.78.109.48:8000/play/a02h/index.m3u8
+http://181.78.4.250:8098/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20240319T052636SQUARE.png" group-title="Documentales" tvg-name="NatureTime",NatureTime
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
-http://181.78.109.48:8000/play/a01y/index.m3u8
+http://170.239.188.252:8000/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 http://170.244.209.135:8000/play/a0dm/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name="Discovery ID",Discovery ID
-http://181.78.109.48:8000/play/a069/index.m3u8
+http://170.239.188.252:8000/play/a09n/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery THEATHER" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name="Discovery THEATHER",Discovery THEATHER
 http://181.205.130.194:4000/play/a0f3
@@ -877,7 +880,7 @@ http://181.205.130.194:4000/play/a0f3
 http://170.244.209.135:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
-http://181.78.109.48:8000/play/a066/index.m3u8
+http://170.239.188.252:8000/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://170.244.209.135:8000/play/a0ct/index.m3u8
@@ -964,10 +967,10 @@ http://170.244.209.135:8000/play/a0dc/index.m3u8
 http://170.244.209.135:8000/play/a0cq/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
-http://181.78.109.48:8000/play/a02k/index.m3u8
+http://181.78.4.250:8098/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
-http://181.78.109.48:8000/play/a02l/index.m3u8
+http://181.78.4.250:8098/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
 http://200.60.124.19:29000/play/a027/index.m3u8
@@ -988,13 +991,13 @@ http://45.68.35.218:4001/play/a01x/index.m3u8
 http://170.244.209.135:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
-http://181.78.109.48:8000/play/a05o/index.m3u8
+http://181.78.4.250:8098/play/a07o/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://181.78.109.48:8000/play/a03w/index.m3u8
+http://181.78.4.250:8098/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://181.78.109.48:8000/play/a02q/index.m3u8
+http://181.78.4.250:8098/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://181.78.109.48:8000/play/a02i/index.m3u8
