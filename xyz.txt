@@ -75,6 +75,12 @@ http://190.217.23.56:1010/playlist.m3u8    -  Colombia (Bogota)
 
 http://181.205.130.194:4000/playlist.m3u8    -  Colombia (Bogota)
 
+http://190.60.56.41:8000/playlist.m3u8    -  Colombia (Bogota)
+
+http://170.244.209.135:8000/playlist.m3u8   -  Ecuador (Ambato)
+
+
+
 
 https://github.com/willdevs/tutvapp/blob/a10e85639a9df7a5d9dcef09efeb933bc7bc6abb/tutvapp.m3u#L272
 
