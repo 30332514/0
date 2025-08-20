@@ -196,7 +196,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+https://play.agenciastreaming.com:8081/oasis/video.m3u8
 
 #EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
