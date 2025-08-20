@@ -181,7 +181,7 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://www.chasquirouter.com/salida/trivu.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
-https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
+https://live.telelima.net/TL_GRUPO-MVCE/index.m3u8
 
 #EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
