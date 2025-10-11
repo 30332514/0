@@ -100,7 +100,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8
 https://play.agenciastreaming.com:8081/oasis/video.m3u8
 
 #EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
-https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTC" tvg-logo="https://i.postimg.cc/QMJytGDP/CTC.jpg" group-title="Generalistas" tvg-name="CTC",CTC
 https://live-evg25.tv360.bitel.com.pe/bitel/ctc_ori_source/playlist.m3u8
