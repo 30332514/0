@@ -118,16 +118,16 @@ https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nzk Tv" tvg-logo="https://i.postimg.cc/dtD1T7ch/Nzk-Tv.jpg" group-title="Generalistas" tvg-name="Nzk Tv",Nzk Tv
-https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
+https://eu1.servers10.com:8081/8258/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
 https://tv.ondadigital.pe/ondadigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
-https://live-evg25.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8
+https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV2" tvg-logo="https://i.postimg.cc/vB9LyfYJ/ondadigitaltv2.png" group-title="Generalistas" tvg-name="Onda Digital TV2",Onda Digital TV2
-https://live-evg25.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8
+https://v4.tustreaming.cl/odtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SEÑAL PERÚ" tvg-logo="https://i.postimg.cc/t7Qhb01M/SE-AL-PER.jpg" group-title="Generalistas" tvg-name="SEÑAL PERÚ",SEÑAL PERÚ
 https://livestream.perucast.com/low/stream_low/index.m3u8
