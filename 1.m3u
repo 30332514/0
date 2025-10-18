@@ -214,7 +214,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SELVA TV" tvg-logo="https://i.postimg.cc/Nj7x9PcG/SELVA-TV.jpg" group-title="Generalistas" tvg-name="SELVA TV",SELVA TV
-https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tarapoto TV" tvg-logo="https://i.postimg.cc/MKKMWVsd/tvtarapoto.jpg" group-title="Generalistas" tvg-name="Tarapoto TV",Tarapoto TV
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
@@ -229,7 +229,7 @@ https://live.obslivestream.com/uraniotv/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://i.postimg.cc/85WhySn1/Ribere-a.jpg" group-title="Generalistas" tvg-name="Ribereña",Ribereña
-https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/playlist.m3u8
+https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 
 #EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
