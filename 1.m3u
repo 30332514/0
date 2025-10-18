@@ -136,7 +136,7 @@ https://v4.tustreaming.cl/odtv2/index.m3u8
 https://livestream.perucast.com/low/stream_low/index.m3u8
 
 #EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
-https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
@@ -148,16 +148,16 @@ https://per01-lim01.servidor.stream/usiltv/playlist.m3u8
 https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8
 
 #EXTINF:-1 tvg-id="Santa Rosa Radio/TV" tvg-logo="https://i.postimg.cc/6qq1Mrx5/Santa-Rosa-Radio-TV.jpg" group-title="Generalistas" tvg-name="Santa Rosa Radio/TV",Santa Rosa Radio/TV
-https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/santarosa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neo TV" tvg-logo="https://i.postimg.cc/0N3CkChK/Neo-TV.jpg" group-title="Generalistas" tvg-name="Neo TV",Neo TV
-https://live-evg25.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="36TV HUACHO" tvg-logo="https://i.postimg.cc/RZZZS4gZ/36-TV-HUACHO.jpg" group-title="Generalistas" tvg-name="36TV HUACHO",36TV HUACHO
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV+ CHINCHA" tvg-logo="https://i.postimg.cc/Wbm08NNm/TV-CHINCHA.jpg" group-title="Generalistas" tvg-name="TV+ CHINCHA",TV+ CHINCHA
-https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INKA VISIÓN" tvg-logo="https://i.postimg.cc/d1JCdChW/INKA-VISI-N.jpg" group-title="Generalistas" tvg-name="INKA VISIÓN",INKA VISIÓN
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
