@@ -247,7 +247,7 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
 https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
@@ -259,7 +259,7 @@ https://servilive.com:3531/stream/play.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOP Latino" tvg-logo="https://i.postimg.cc/P5yf99t9/toplatinotv.jpg" group-title="Musicales" tvg-name="TOP Latino",TOP Latino
-https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVone" tvg-logo="https://i.postimg.cc/KjVs24yf/TVone.jpg" group-title="Musicales" tvg-name="TVone",TVone
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -268,7 +268,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
