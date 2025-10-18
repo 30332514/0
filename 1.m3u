@@ -106,13 +106,13 @@ https://live-evg5.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8
 https://play.agenciastreaming.com:8081/oasis/video.m3u8
 
 #EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
-https://live-evg18.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTC" tvg-logo="https://i.postimg.cc/QMJytGDP/CTC.jpg" group-title="Generalistas" tvg-name="CTC",CTC
-https://live-evg25.tv360.bitel.com.pe/bitel/ctc_ori_source/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ONDA TV" tvg-logo="https://i.postimg.cc/gksggq42/ONDA-TV.jpg" group-title="Generalistas" tvg-name="ONDA TV",ONDA TV
-https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
