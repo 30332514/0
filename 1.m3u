@@ -568,7 +568,7 @@ http://200.60.124.19:29000/play/a0hz/index.m3u8
 http://200.60.124.19:29000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
-https://live-evg25.tv360.bitel.com.pe/bitel/ovaciontv/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/playlist.m3u8
 
 #EXTINF:-1 tvg-id="L1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="L1 MAX",L1 MAX
 http://200.60.124.19:29000/play/a07k/index.m3u8
