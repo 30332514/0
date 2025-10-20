@@ -487,7 +487,7 @@ https://servilive.com:3028/live/jntv19live.m3u8
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/mgSnB0m1/telesur.jpg" group-title="Generalistas" tvg-name="Telesur",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN MÁS" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS",RCN MÁS
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
