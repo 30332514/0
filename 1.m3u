@@ -163,7 +163,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
