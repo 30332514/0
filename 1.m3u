@@ -466,7 +466,7 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bethel" tvg-logo="https://i.postimg.cc/y8TBqH26/Bethel.png" group-title="Religiosos" tvg-name="Bethel",Bethel
-https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/playlist.m3u8
+https://alfa.betheltv.tv/srt/3_abr/srt/3_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Creo Fe" tvg-logo="https://i.postimg.cc/wMBwSzFn/CreoFe.jpg" group-title="Religiosos" tvg-name="Creo Fe",Creo Fe
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/playlist.m3u8
