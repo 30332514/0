@@ -250,7 +250,7 @@ https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
-https://59a564764e2b6.streamlock.net/vallenato/vallenato/playlist.m3u8
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8
