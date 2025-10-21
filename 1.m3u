@@ -94,7 +94,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-id="TV Cosmos" tvg-logo="https://i.postimg.cc/5tcB6Hc8/tvcosmos.jpg" group-title="Generalistas" tvg-name="TV Cosmos",TV Cosmos
-https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
