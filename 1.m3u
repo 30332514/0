@@ -82,10 +82,7 @@ https://sc1.wasidata.com/Bhtv/playlist.m3u8
 https://play.agenciastreaming.com:8081/antena1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fuego TV" tvg-logo="https://i.postimg.cc/xdHL6QFh/Fuego-TV.jpg" group-title="Generalistas" tvg-name="Fuego TV",Fuego TV
-https://play.agenciastreaming.com:8081/Liketv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
-https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nativa" tvg-logo="https://i.postimg.cc/3NX6zxY7/nativa.png" group-title="Generalistas" tvg-name="nativa",nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
