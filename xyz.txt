@@ -34,6 +34,8 @@ https://github.com/matthuisman/i.mjh.nz
 
 // Fuentes
 
+https://streamtest.in/logs - Encontrador de Canales Random
+
 https://forgejo.plainrock127.xyz/Mystique-Play/Mystique/src/branch/main/countries/latin_america.m3u
 https://forgejo.plainrock127.xyz/Mystique-Play/Mystique/src/branch/main/countries/spain.m3u
 
