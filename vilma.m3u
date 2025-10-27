@@ -10,7 +10,7 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
+http://176.65.146.237:8401/play/a0ae/index.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
@@ -43,28 +43,28 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 http://185.189.225.150:85/8madrid/index.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://i.postimg.cc/x8vTxvWG/Cuatro.jpg" group-title="Generalistas"" tvg-name="Cuatro",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
+http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://i.postimg.cc/Dzg4CT3p/Telecinco.jpg" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+http://176.65.146.237:8401/play/a09r/index.m3u8
 
 #EXTINF:-1 tvg-id="la Sexta" tvg-logo="https://i.postimg.cc/mgbKJvc1/laSexta.jpg" group-title="Generalistas" tvg-name="la Sexta",la Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
+http://176.65.146.237:8401/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://185.189.225.150:85/fdf/index.m3u8
+http://176.65.146.237:8401/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-name="MEGA",MEGA
-http://185.189.225.150:85/mega/index.m3u8
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 
 #EXTINF:-1 tvg-id="CALLE 13" tvg-logo="https://i.postimg.cc/4xF8fKgV/CALLE-13.png" group-title="Generalistas" tvg-name="CALLE 13",CALLE 13
 http://185.189.225.150:85/calle13/index.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="Generalistas" tvg-name="Neox",Neox
-http://185.189.225.150:85/neox/index.m3u8
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="Generalistas" tvg-name="Nova",Nova
-http://185.189.225.150:85/nova/index.m3u8
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="" group-title="Generalistas" tvg-name="SYFY",SYFY
 http://185.189.225.150:85/syfy/index.m3u8
@@ -94,7 +94,7 @@ http://185.189.225.150:85/AMC/index.m3u8
 http://185.189.225.150:85/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Generalistas" tvg-name="Boing",Boing
-http://185.189.225.150:85/boing/index.m3u8
+http://176.65.146.237:8401/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="Generalistas" tvg-name="Nickelodeon",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
