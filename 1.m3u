@@ -694,7 +694,7 @@ http://185.189.225.150:85/Antena3HD/tracks-v1a1/mono.m3u8
 https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8
 
 #EXTINF:-1 tvg-id="Cuentame como Paso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240313T073233SQUARE.png" group-title="Drama"" tvg-name="Cuentame como Paso",Cuentame como Paso
-https://d3lym88u8n1a2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t3b15ehnw7chp/index.m3u8
+https://ztnr.rtve.es/ztnr/6909843.m3u8
 
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://i.postimg.cc/QN5t0kd7/24h.jpg" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
