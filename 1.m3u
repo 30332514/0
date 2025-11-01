@@ -490,7 +490,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.postimg.cc/mkTYb1fY/RCN-Novelas.png" group-title="Novelas" tvg-name="RCN Novelas",RCN Novelas
-http://200.60.124.19:29000/play/a06k/index.m3u8
+http://170.231.55.178:9001/play/a00y
 
 #EXTINF:-1 tvg-id="América TV Internacional" tvg-logo="https://i.postimg.cc/6QDp2KGj/Am-rica-TV-Internacional.png" group-title="Generalistas" tvg-name="América TV Internacional",América TV Internacional
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
