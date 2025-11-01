@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1mus" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus",1mus 
+http://rtmp.one.by:2200/
+
+#EXTINF:-1 tvg-id="1mus 2" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 2
+http://rtmp.one.by:1300/
+
+#EXTINF:-1 tvg-id="1mus 3" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 3
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Old Music" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Musicales" tvg-name="Old Music",Old Music
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
+https://marine2.miplay.cl/karavanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
+https://servilive.com:3531/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 25" tvg-logo="https://i.postimg.cc/66fRj6SH/CANAL-25.jpg" group-title="Generalistas" tvg-name="CANAL 25",CANAL 25
+https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36TV HUACHO" tvg-logo="https://i.postimg.cc/RZZZS4gZ/36-TV-HUACHO.jpg" group-title="Generalistas" tvg-name="36TV HUACHO",36TV HUACHO
+https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV+ CHINCHA" tvg-logo="https://i.postimg.cc/Wbm08NNm/TV-CHINCHA.jpg" group-title="Generalistas" tvg-name="TV+ CHINCHA",TV+ CHINCHA
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Like TV" tvg-logo="https://i.postimg.cc/cLynY2YK/Like-TV.png" group-title="Generalistas" tvg-name="Like TV",Like TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 
