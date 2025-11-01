@@ -274,13 +274,13 @@ https://marine2.miplay.cl/karavanatv/playlist.m3u8
 http://181.78.12.119:16123/play/ch54/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica REGGAETON" tvg-logo="https://i.postimg.cc/9XpPc7mS/MIMUSICA-REGGAETON.jpg" group-title="Musicales" tvg-name="Mimusica REGGAETON",Mimusica REGGAETON
-http://160.20.165.246:8000/play/a018/index.m3u8
+http://181.78.12.119:16123/play/ch53/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica SALSA" tvg-logo="https://i.postimg.cc/SNR9q1t2/MIMUSICA-SALSA.jpg" group-title="Musicales" tvg-name="Mimusica SALSA",Mimusica SALSA
-http://160.20.165.246:8000/play/a01a/index.m3u8
+http://181.78.12.119:16123/play/ch55/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
-http://160.20.165.246:8000/play/a01b/index.m3u8
+http://181.78.12.119:16123/play/ch56/index.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
 http://160.20.165.246:8000/play/a019/index.m3u8
