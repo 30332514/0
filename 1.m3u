@@ -745,7 +745,7 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/in
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230712T021352SQUARE.png_20230712021353.png" group-title="Motor" tvg-name="Top Gear en Español",Top Gear en Español
-https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8
+https://amg00793-amg00793c50-samsung-es-6971.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearspain-samsunges/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Televisión Consciente" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" group-title="Estilo de Vida" tvg-name="Televisión Consciente",Televisión Consciente
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8
