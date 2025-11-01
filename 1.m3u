@@ -150,12 +150,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/santarosa/playlist.m3u8
 #EXTINF:-1 tvg-id="Neo TV" tvg-logo="https://i.postimg.cc/0N3CkChK/Neo-TV.jpg" group-title="Generalistas" tvg-name="Neo TV",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="36TV HUACHO" tvg-logo="https://i.postimg.cc/RZZZS4gZ/36-TV-HUACHO.jpg" group-title="Generalistas" tvg-name="36TV HUACHO",36TV HUACHO
-https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV+ CHINCHA" tvg-logo="https://i.postimg.cc/Wbm08NNm/TV-CHINCHA.jpg" group-title="Generalistas" tvg-name="TV+ CHINCHA",TV+ CHINCHA
-https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
-
 #EXTINF:-1 tvg-id="INKA VISIÓN" tvg-logo="https://i.postimg.cc/d1JCdChW/INKA-VISI-N.jpg" group-title="Generalistas" tvg-name="INKA VISIÓN",INKA VISIÓN
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 
@@ -164,9 +158,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CANAL 25" tvg-logo="https://i.postimg.cc/66fRj6SH/CANAL-25.jpg" group-title="Generalistas" tvg-name="CANAL 25",CANAL 25
-https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV WANKA" tvg-logo="https://i.postimg.cc/s2B6RGS9/TV-WANKA.jpg" group-title="Generalistas" tvg-name="TV WANKA",TV WANKA
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
@@ -249,9 +240,6 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tropical MusicTV" tvg-logo="https://i.postimg.cc/5NQWvPZt/Tropical-Music-TV.jpg" group-title="Musicales" tvg-name="Tropical MusicTV",Tropical MusicTV
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tumpis TV" tvg-logo="https://i.postimg.cc/zf4p2HfC/Tumpis-TV.jpg" group-title="Musicales" tvg-name="Tumpis TV",Tumpis TV
-https://servilive.com:3531/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/63n3qHh5/VM-Latino.png" group-title="Musicales" tvg-name="VM Latino",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -266,9 +254,6 @@ https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Karavana Perú" tvg-logo="https://i.postimg.cc/mD6hCp8S/Karavana-Per.jpg" group-title="Musicales" tvg-name="Karavana Perú",La Karavana Perú
-https://marine2.miplay.cl/karavanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
 http://181.78.12.119:16123/play/ch54/index.m3u8
@@ -309,9 +294,6 @@ https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Musicales" tvg-name="Teleritmo",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="Old Music" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Musicales" tvg-name="Old Music",Old Music
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Musicales" tvg-name="Afrobeats",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/playlist.m3u8
 
@@ -338,9 +320,6 @@ https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="30A Music" tvg-logo="https://i.postimg.cc/76BwH4CG/30-A-TV-MUSIC.jpg" group-title="Musicales" tvg-name="30A Music",30A Music
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-
-#EXTINF:-1 tvg-id="Verbena TV" tvg-logo="https://i.postimg.cc/tT9wvHW7/Verbena-TV.jpg" group-title="Musicales" tvg-name="Verbena TV",Verbena TV
-https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
@@ -440,15 +419,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVM3" tvg-logo="https://i.postimg.cc/gjTkGMYV/TVM3.jpg" group-title="Musicales" tvg-name="TVM3",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1mus" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus",1mus 
-http://rtmp.one.by:2200/
-
-#EXTINF:-1 tvg-id="1mus 2" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 2
-http://rtmp.one.by:1300/
-
-#EXTINF:-1 tvg-id="1mus 3" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus 2",1mus 3
-http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="Ocko Expres" tvg-logo="https://i.postimg.cc/26m9crNJ/Ocko-Expres.jpg" group-title="Musicales" tvg-name="Ocko Expres",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
