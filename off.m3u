@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Deportivos" tvg-name="Fitmaxx TV",Fitmaxx TV
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="Deportivos" tvg-name="Sport Ext",Sport Ext
+https://marine2.miplay.cl/sportext/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1mus" tvg-logo="https://i.postimg.cc/c4RSLZF4/1mus.jpg" group-title="Musicales" tvg-name="1mus",1mus 
 http://rtmp.one.by:2200/
 
