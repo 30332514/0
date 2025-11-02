@@ -573,12 +573,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Deportivos" tvg-name="Red Bull TV",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Deportivos" tvg-name="Fitmaxx TV",Fitmaxx TV
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="Deportivos" tvg-name="Sport Ext",Sport Ext
-https://marine2.miplay.cl/sportext/playlist.m3u8
-
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" group-title="Factual" tvg-name="INFAST",INFAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8
 
