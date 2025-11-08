@@ -339,17 +339,8 @@ https://d1arw6t6ng0tkh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="VEVO '80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20240910T003241SQUARE.png" group-title="Musicales" tvg-name="VEVO '80s",VEVO '80s
 https://dmex978i3k0ic.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a64nni2c3yk8d/Vevo_80s.m3u8
 
-#EXTINF:-1 tvg-id="VEVO '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20241022T051142SQUARE.png" group-title="Musicales" tvg-name="VEVO '70s & '80s",VEVO '70s & '80s
-https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VEVO '90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" group-title="Musicales" tvg-name="VEVO '90s",VEVO '90s
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VEVO 90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png" group-title="Musicales" tvg-name="VEVO 90s & '00s",VEVO 90s & '00s
-https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VEVO 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" group-title="Musicales" tvg-name="VEVO 2010s",VEVO 2010s
-https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8
 
 #EXTINF:-1 tvg-id="VEVO 2k" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="Musicales" tvg-name="VEVO 2k",VEVO 2k
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
@@ -359,12 +350,6 @@ https://d2iwbme1fhlm5y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="VEVO Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20241112T001851SQUARE.png" group-title="Musicales" tvg-name="VEVO Country",VEVO Country
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VEVO Hip Hop & R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="Musicales" tvg-name="VEVO Hip Hop & R&B",VEVO Hip Hop & R&B
-https://d2x6xe7mb8n9mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h594lykjer9r4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VEVO Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20241112T001853SQUARE.png" group-title="Musicales" tvg-name="VEVO Hip-Hop",VEVO Hip-Hop
-https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8
 
 #EXTINF:-1 tvg-id="VEVO Holiday" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241112T000837SQUARE.png" group-title="Musicales" tvg-name="VEVO Holiday",VEVO Holiday
 https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8
@@ -381,14 +366,8 @@ https://d3gvsgk1wzcus5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="VEVO Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Musicales" tvg-name="VEVO Pop",VEVO Pop
 https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VEVO R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20241112T001901SQUARE.png" group-title="Musicales" tvg-name="VEVO R&B",VEVO R&B
-https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8
-
 #EXTINF:-1 tvg-id="VEVO Retro Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20241112T001904SQUARE.png" group-title="Musicales" tvg-name="VEVO Retro Rock",VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-
-#EXTINF:-1 tvg-id="VEVO Schlager Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Musicales" tvg-name="VEVO Schlager Pop",VEVO Schlager Pop
-https://d3adb9tbhoq5j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2kpqrzfxhh0ys/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STINGRAY KARAOKE" tvg-logo="https://i.postimg.cc/0Q5bfRws/STINGRAY-KARAOKE.jpg" group-title="Musicales" tvg-name="STINGRAY KARAOKE",STINGRAY KARAOKE
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
