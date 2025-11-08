@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
+http://160.20.165.246:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://i.postimg.cc/jqmfx4VM/MIMUSICA-K-POP.jpg" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
+http://191.52.214.5:8000/play/a06d/index.m3u8
+
 #EXTINF:-1 tvg-id="Bonita TV" tvg-logo="https://i.postimg.cc/8510R9JX/BonitaTV.jpg" group-title="Generalistas" tvg-name="Bonita TV",Bonita TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8
 
