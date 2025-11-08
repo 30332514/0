@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV Centro Andalucía" tvg-logo="https://i.postimg.cc/JhhftD9d/TV-Centro-Andaluc-a.jpg" group-title="Generalistas" tvg-name="TV Centro Andalucía",TV Centro Andalucía
+https://video0.rogohosting.com:19360/8050/8050.m3u8
+
+#EXTINF:-1 tvg-id="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240214T035652SQUARE.png_20240214035653.png" group-title="Drama"" tvg-name="Acacias 38",Acacias 38
+https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 4 Mallorca" tvg-logo="https://i.postimg.cc/wBJfWHPb/Canal-4-Mallorca.png" group-title="Generalistas" tvg-name="Canal 4 Mallorca",Canal 4 Mallorca
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
 http://170.231.55.178:9001/play/a02k
 
