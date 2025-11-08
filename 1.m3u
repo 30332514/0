@@ -108,9 +108,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="CTC" tvg-logo="https://i.postimg.cc/QMJytGDP/CTC.jpg" group-title="Generalistas" tvg-name="CTC",CTC
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ONDA TV" tvg-logo="https://i.postimg.cc/gksggq42/ONDA-TV.jpg" group-title="Generalistas" tvg-name="ONDA TV",ONDA TV
-https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Te quiero TV" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Generalistas" tvg-name="Te quiero TV",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
@@ -180,9 +177,6 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="CREO TV" tvg-logo="https://i.postimg.cc/SQgfR8Kc/creotv.jpg" group-title="Generalistas" tvg-name="CREO TV",CREO TV
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bonita TV" tvg-logo="https://i.postimg.cc/8510R9JX/BonitaTV.jpg" group-title="Generalistas" tvg-name="Bonita TV",Bonita TV
-https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/playlist.m3u8
 
@@ -250,7 +244,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Visión TV Música" tvg-logo="https://i.postimg.cc/hjdfksZm/visiontvmusica.png" group-title="Musicales" tvg-name="Visión TV Música",Visión TV Música
-https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8
