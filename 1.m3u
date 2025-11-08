@@ -630,9 +630,6 @@ https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-#EXTINF:-1 tvg-id="Kidz" tvg-logo="https://i.postimg.cc/T1MGmRgV/Kidz.png" group-title="Generalistas" tvg-name="Kidz",Kidz
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-
 #EXTINF:-1 tvg-id="Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name="Nortevision",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
@@ -653,12 +650,6 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" group-title="Drama" tvg-name="FailArmy",FailArmy
 https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="El club de la comedia" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Comedia" tvg-name="El club de la comedia",El club de la comedia
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-
-#EXTINF:-1 tvg-id="El Hormiguero" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="Comedia" tvg-name="El Hormiguero",El Hormiguero
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.postimg.cc/G2sJhxgn/Comedy-Central.jpg" group-title="Comedia" tvg-name="Comedy Central",Comedy Central
 http://181.205.130.194:4000/play/a0en
@@ -805,7 +796,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/p
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Clasica" tvg-logo="https://i.postimg.cc/2y6TG8vZ/MI-TV.png" group-title="Películas" tvg-name="Mi TV Clasica",Mi TV Clasica 
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.postimg.cc/W1s7p6K4/Cine-Estrella.jpg" group-title="Películas" tvg-name="Cine Estrella",Cine Estrella
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
