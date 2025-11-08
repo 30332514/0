@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.postimg.cc/65sbgdzD/TUDN.jpg" group-title="Deportivos" tvg-name="TUDN",TUDN
+http://181.78.109.48:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-id="Unicable" tvg-logo="https://i.postimg.cc/N07RPbLp/Unicable.png" group-title="Generalistas"" tvg-name="Unicable",Unicable
+http://45.68.35.218:4001/play/a014/index.m3u8
+
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.postimg.cc/0QGGC7gD/MTV-LIVE.jpg" group-title="Musicales" tvg-name="MTV LIVE",MTV LIVE
 http://200.60.124.19:29000/play/a0ft/index.m3u8
 
