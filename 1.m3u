@@ -988,7 +988,7 @@ http://170.244.209.135:8000/play/a0es/index.m3u8
 http://170.244.209.135:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
-http://200.60.124.19:29000/play/a0fs/index.m3u8
+http://181.78.4.250:8098/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
 http://38.97.240.11:8000/play/a0i8/index.m3u8
