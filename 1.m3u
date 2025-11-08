@@ -547,7 +547,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/playl
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
-http://38.56.112.128:5000/play/a021/index.m3u8
+http://38.44.109.41:8003/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles" tvg-name="Disney Channel",Disney Channel
 http://181.78.4.250:8098/play/a05f/index.m3u8
@@ -565,7 +565,7 @@ http://181.78.4.250:8098/play/a08y/index.m3u8
 http://38.56.112.128:5000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-http://181.205.130.194:4000/play/a0ed
+http://38.44.109.41:8003/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 http://181.78.4.250:8098/play/a067/index.m3u8
@@ -787,7 +787,7 @@ http://181.78.4.250:8098/play/a08v/index.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
-http://38.56.112.128:5000/play/a02i/index.m3u8
+http://38.44.109.41:8003/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
 http://170.244.209.135:8000/play/a0dm/index.m3u8
@@ -946,7 +946,7 @@ http://38.56.112.128:5000/play/a0a4/index.m3u8
 http://38.56.112.128:5000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
-http://38.56.112.128:5000/play/a03o/index.m3u8
+http://38.44.109.41:8003/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
 http://38.56.112.128:5000/play/a0br/index.m3u8
