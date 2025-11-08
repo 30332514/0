@@ -454,7 +454,7 @@ http://170.231.55.178:9001/play/a01z
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/3c5a1a65-570d-42ff-b4eb-2aefe358c95e/1.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="Generalistas"" tvg-name="Telemundo Florida",Telemundo Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
