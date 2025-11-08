@@ -478,7 +478,7 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 http://200.60.124.19:29000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
-http://200.60.124.19:29000/play/a0hz/index.m3u8
+http://181.78.4.250:8098/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
 http://181.78.4.250:8098/play/a091/index.m3u8
