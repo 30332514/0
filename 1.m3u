@@ -916,7 +916,7 @@ http://181.78.4.250:8098/play/a07f/index.m3u8
 http://181.78.4.250:8098/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
-http://200.60.124.19:29000/play/a027/index.m3u8
+http://181.78.4.250:8098/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
 http://200.60.124.19:29000/play/a04w/index.m3u8
@@ -949,7 +949,7 @@ http://38.97.240.11:8000/play/a03f/index.m3u8
 http://170.244.209.135:8000/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-http://38.56.112.128:5000/play/a09z/index.m3u8
+http://181.78.4.250:8098/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
 http://181.78.109.48:8000/play/a00u/index.m3u8
