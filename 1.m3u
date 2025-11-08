@@ -600,9 +600,6 @@ https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 
-#EXTINF:-1 tvg-id="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240214T035652SQUARE.png_20240214035653.png" group-title="Drama"" tvg-name="Acacias 38",Acacias 38
-https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8
-
 #EXTINF:-1 tvg-id="Cuentame como Paso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240313T073233SQUARE.png" group-title="Drama"" tvg-name="Cuentame como Paso",Cuentame como Paso
 https://ztnr.rtve.es/ztnr/6909843.m3u8
 
@@ -623,9 +620,6 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6
 
 #EXTINF:-1 tvg-id="Flamenco Auditorio" tvg-logo="https://i.postimg.cc/sgNJZmQK/Flamenco-Auditorio.jpg" group-title="Generalistas" tvg-name="Flamenco Auditorio",Flamenco Auditorio
 https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8
-
-#EXTINF:-1 tvg-id="TV Centro Andalucía" tvg-logo="https://i.postimg.cc/JhhftD9d/TV-Centro-Andaluc-a.jpg" group-title="Generalistas" tvg-name="TV Centro Andalucía",TV Centro Andalucía
-https://video0.rogohosting.com:19360/8050/8050.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/ZKdkzVdb/canalsur.jpg" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
@@ -743,9 +737,6 @@ https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
 https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 4 Mallorca" tvg-logo="https://i.postimg.cc/wBJfWHPb/Canal-4-Mallorca.png" group-title="Generalistas" tvg-name="Canal 4 Mallorca",Canal 4 Mallorca
-https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://i.postimg.cc/J0gMqC20/Interalmer-a-TV.jpg" group-title="Generalistas" tvg-name="Interalmería TV",Interalmería TV
 https://interalmeria.tv/directo/live.m3u8
