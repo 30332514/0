@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Bonita TV" tvg-logo="https://i.postimg.cc/8510R9JX/BonitaTV.jpg" group-title="Generalistas" tvg-name="Bonita TV",Bonita TV
+https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONDA TV" tvg-logo="https://i.postimg.cc/gksggq42/ONDA-TV.jpg" group-title="Generalistas" tvg-name="ONDA TV",ONDA TV
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Deportivos" tvg-name="Fitmaxx TV",Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 
