@@ -481,7 +481,7 @@ http://200.60.124.19:29000/play/a022/index.m3u8
 http://200.60.124.19:29000/play/a0hz/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://200.60.124.19:29000/play/a021/index.m3u8
+http://181.78.4.250:8098/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
 https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/playlist.m3u8
