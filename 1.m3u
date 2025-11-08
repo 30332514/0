@@ -1018,7 +1018,7 @@ http://170.244.209.135:8000/play/a0dp/index.m3u8
 http://170.244.209.135:8000/play/a0dt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
-http://200.60.124.19:29000/play/a06r/index.m3u8
+http://181.78.4.250:8098/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV 8.2" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.2",FreeTV 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
