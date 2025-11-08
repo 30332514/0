@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="anime onegai" tvg-logo="https://i.postimg.cc/CLTtf0zV/anime-onegai.png" group-title="Infantiles" tvg-name="anime onegai",anime onegai
+https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anime" tvg-logo="https://i.postimg.cc/vHZ9gmT1/Anime.png" group-title="Infantiles" tvg-name="anime",anime
+http://186.116.5.61:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="TV Centro Andalucía" tvg-logo="https://i.postimg.cc/JhhftD9d/TV-Centro-Andaluc-a.jpg" group-title="Generalistas" tvg-name="TV Centro Andalucía",TV Centro Andalucía
 https://video0.rogohosting.com:19360/8050/8050.m3u8
 
