@@ -115,7 +115,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
-https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/milenial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nzk Tv" tvg-logo="https://i.postimg.cc/dtD1T7ch/Nzk-Tv.jpg" group-title="Generalistas" tvg-name="Nzk Tv",Nzk Tv
 https://eu1.servers10.com:8081/8258/playlist.m3u8
