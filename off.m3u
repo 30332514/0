@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/Y021Lt1K/MTV-80s.jpg" group-title="Musicales" tvg-name="MTV 80s",MTV 80s
+http://170.231.55.178:9001/play/a02k
+
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.postimg.cc/65sbgdzD/TUDN.jpg" group-title="Deportivos" tvg-name="TUDN",TUDN
 http://181.78.109.48:8000/play/a06i/index.m3u8
 
