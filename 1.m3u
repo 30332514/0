@@ -157,7 +157,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV WANKA" tvg-logo="https://i.postimg.cc/s2B6RGS9/TV-WANKA.jpg" group-title="Generalistas" tvg-name="TV WANKA",TV WANKA
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
@@ -205,7 +205,7 @@ https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tarapoto TV" tvg-logo="https://i.postimg.cc/MKKMWVsd/tvtarapoto.jpg" group-title="Generalistas" tvg-name="Tarapoto TV",Tarapoto TV
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MASTER TV" tvg-logo="https://i.postimg.cc/bvWq7rF3/MASTER-TV.jpg" group-title="Generalistas" tvg-name="MASTER TV",MASTER TV
 https://live.obslivestream.com/mastertv/playlist.m3u8
