@@ -22,7 +22,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/playlis
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
-https://live-evg5.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/playlist.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/CLjqfcdx/TV-Per-Noticias.png" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
