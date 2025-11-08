@@ -261,12 +261,6 @@ http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="Mimusica POPULAR" tvg-logo="https://i.postimg.cc/3wYmMrM7/MIMUSICA-POPULAR.jpg" group-title="Musicales" tvg-name="Mimusica POPULAR",Mimusica POPULAR
 http://181.78.12.119:16123/play/ch56/index.m3u8
 
-#EXTINF:-1 tvg-id="Mimusica REGIONAL" tvg-logo="https://i.postimg.cc/nzkCvqMQ/MIMUSICA-REGIONAL.jpg" group-title="Musicales" tvg-name="Mimusica REGIONAL",Mimusica REGIONAL
-http://160.20.165.246:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-id="Mimusica K-POP" tvg-logo="https://i.postimg.cc/jqmfx4VM/MIMUSICA-K-POP.jpg" group-title="Musicales" tvg-name="Mimusica K-POP",Mimusica K-POP
-http://191.52.214.5:8000/play/a06d/index.m3u8
-
 #EXTINF:-1 tvg-id="Baraza MusicTV" tvg-logo="https://i.postimg.cc/XvNs3Qn1/Baraza-Music-TV.jpg" group-title="Musicales" tvg-name="Baraza MusicTV",Baraza MusicTV
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
