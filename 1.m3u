@@ -522,12 +522,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" group-title="Factual" tvg-name="INFAST",INFAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="anime onegai" tvg-logo="https://i.postimg.cc/CLTtf0zV/anime-onegai.png" group-title="Infantiles" tvg-name="anime onegai",anime onegai
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="anime" tvg-logo="https://i.postimg.cc/vHZ9gmT1/Anime.png" group-title="Infantiles" tvg-name="anime",anime
-http://186.116.5.61:8000/play/a00m/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://i.postimg.cc/pVzG2tg9/ipe.png" group-title="Infantiles" tvg-name="Canal Ipe",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
