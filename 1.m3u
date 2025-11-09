@@ -42,9 +42,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 #EXTINF:-1 tvg-id="Radio TV Perú" tvg-logo="https://i.postimg.cc/B6ywnPft/Radio-TV-Per.png" group-title="Generalistas" tvg-name="Radio TV Perú",Radio TV Perú
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/9fnTXgR6/latele.jpg" group-title="Generalistas" tvg-name="La Tele",La Tele
-https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PBO TV" tvg-logo="https://i.postimg.cc/Pxt2fd3R/PBO.jpg" group-title="Generalistas" tvg-name="PBO TV",PBO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/playlist.m3u8
 
@@ -59,9 +56,6 @@ https://live.obslivestream.com/conecta2/index.m3u8
 
 #EXTINF:-1 tvg-id="Trivu" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Generalistas" tvg-name="Trivu",Trivu
 https://chasquirouter.com/salida/trivu.m3u8
-
-#EXTINF:-1 tvg-id="Bitt Channel" tvg-logo="https://i.postimg.cc/63wshLjr/Bitt-Channel.jpg" group-title="Generalistas" tvg-name="Bitt Channel",Bitt Channel
-https://live-evg25.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://i.postimg.cc/wjw3367d/TeleLima.jpg" group-title="Generalistas" tvg-name="TeleLima",TeleLima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
@@ -167,9 +161,6 @@ https://live.obslivestream.com/supercanal/index.m3u8
 
 #EXTINF:-1 tvg-id="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Generalistas" tvg-name="Cadena TV",Cadena TV
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-
-#EXTINF:-1 tvg-id="Zeleve TV" tvg-logo="https://i.postimg.cc/WpDk2gVd/Zeleve-TV.jpg" group-title="Generalistas" tvg-name="Zeleve TV",Zeleve TV
-https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/wvwFy6QH/cajamarcatv.jpg" group-title="Generalistas" tvg-name="Cajamarca TV",Cajamarca TV
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
@@ -377,9 +368,6 @@ https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ocko Expres" tvg-logo="https://i.postimg.cc/26m9crNJ/Ocko-Expres.jpg" group-title="Musicales" tvg-name="Ocko Expres",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SURAM TV" tvg-logo="https://i.postimg.cc/Y2sqgXxJ/SURAMTV.jpg" group-title="Generalistas" tvg-name="SURAM TV",SURAM TV
-https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM" group-title="Generalistas" tvg-name="Extrema TV",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -768,9 +756,6 @@ http://181.205.130.194:4000/play/a0f3
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
 http://170.244.209.135:8000/play/a07k/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
-http://38.56.112.128:5000/play/a02j/index.m3u8
-
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://170.244.209.135:8000/play/a0ct/index.m3u8
 
@@ -794,9 +779,6 @@ https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.postimg.cc/W1s7p6K4/Cine-Estrella.jpg" group-title="Películas" tvg-name="Cine Estrella",Cine Estrella
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cine Club" tvg-logo="https://i.postimg.cc/8kYcZhsQ/CineClub.jpg" group-title="Películas" tvg-name="Cine Club",Cine Club
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8
@@ -837,9 +819,6 @@ https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="food network" tvg-logo="https://i.postimg.cc/7LNMQxdX/food-network.jpg" group-title="Películas" tvg-name="food network",food network
 http://38.44.109.41:8003/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://38.56.112.128:5000/play/a0a2/index.m3u8
-
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.postimg.cc/TYsGHs0r/STAR-CHANNEL.jpg" group-title="Películas" tvg-name="STAR CHANNEL",STAR CHANNEL
 http://170.244.209.135:8000/play/a0dc/index.m3u8
 
@@ -854,18 +833,6 @@ http://181.78.4.250:8098/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
 http://181.78.4.250:8098/play/a08p/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
-http://200.60.124.19:29000/play/a04w/index.m3u8
-
-#EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
-http://200.60.124.19:29000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
-http://181.78.109.48:8000/play/a05n/index.m3u8
-
-#EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://i.postimg.cc/Y0xXmWHj/cine-mexicano.jpg" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
-http://45.68.35.218:4001/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
 http://170.244.209.135:8000/play/a0de/index.m3u8
@@ -888,12 +855,6 @@ http://170.244.209.135:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
 http://181.78.4.250:8098/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
-http://181.78.109.48:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Películas" tvg-name="GOLDEN PREMIER 2",GOLDEN PREMIER 2
-http://181.78.109.48:8000/play/a00v/index.m3u8
-
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://170.244.209.135:8000/play/a0cx/index.m3u8
 
@@ -903,23 +864,8 @@ http://170.244.209.135:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://170.244.209.135:8000/play/a0cn/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png" group-title="Películas" tvg-name="HBO2",HBO2
-http://38.56.112.128:5000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://i.postimg.cc/4dTxGhf8/HBO-plus.png" group-title="Películas" tvg-name="HBO+",HBO+
-http://38.56.112.128:5000/play/a0a4/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
-http://38.56.112.128:5000/play/a03p/index.m3u8
-
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
 http://38.44.109.41:8003/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
-http://38.56.112.128:5000/play/a0br/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/mg3LrZdd/HBO-SIGNATURE.png" group-title="Películas" tvg-name="HBO SIGNATURE",HBO SIGNATURE
-http://170.244.209.135:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
 http://170.244.209.135:8000/play/a0e6/index.m3u8
@@ -950,9 +896,6 @@ http://170.244.209.135:8000/play/a0dt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
 http://181.78.4.250:8098/play/a08m/index.m3u8
-
-#EXTINF:-1 tvg-id="FreeTV 8.2" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.2",FreeTV 8.2
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV CLÁSICO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" group-title="Películas" tvg-name="FreeTV CLÁSICO",FreeTV CLÁSICO
 https://amg00477-samsungelectron-cineclassico-samsungspain-ad-ee.amagi.tv/playlist/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8
