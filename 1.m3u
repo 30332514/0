@@ -408,6 +408,12 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/mgSnB0m1/telesur.jpg" group-title="Generalistas" tvg-name="Telesur",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://i.postimg.cc/mDLnDBKM/Caracol-TV.jpg" group-title="Generalistas" tvg-name="Caracol TV",Caracol TV
+http://138.121.15.230:8081/CARACOL/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.postimg.cc/QCYrWL6Y/RCN.jpg" group-title="Generalistas" tvg-name="RCN",RCN
+http://138.121.15.230:8081/RCN/index.m3u8
+
 #EXTINF:-1 tvg-id="RCN MÁS" tvg-logo="https://i.postimg.cc/NMs8trw1/RCN-M-s.jpg" group-title="Generalistas" tvg-name="RCN MÁS",RCN MÁS
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
