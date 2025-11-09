@@ -141,7 +141,7 @@ https://github.com/MoDz17/IPTV_MoDz-Testing
 https://github.com/Moexin/IPTV/blob/Files/Adult.m3u
 
 // Fuentes...
-https://tgstat.com/uz/channel/@EXM3U
+https://tgstat.com/channel/@EXM3U
 
 // Fuentes......
 https://github.com/issues?q=
