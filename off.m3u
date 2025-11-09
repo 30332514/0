@@ -1,5 +1,62 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/9fnTXgR6/latele.jpg" group-title="Generalistas" tvg-name="La Tele",La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bitt Channel" tvg-logo="https://i.postimg.cc/63wshLjr/Bitt-Channel.jpg" group-title="Generalistas" tvg-name="Bitt Channel",Bitt Channel
+https://live-evg25.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zeleve TV" tvg-logo="https://i.postimg.cc/WpDk2gVd/Zeleve-TV.jpg" group-title="Generalistas" tvg-name="Zeleve TV",Zeleve TV
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine Club" tvg-logo="https://i.postimg.cc/8kYcZhsQ/CineClub.jpg" group-title="Películas" tvg-name="Cine Club",Cine Club
+https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SURAM TV" tvg-logo="https://i.postimg.cc/Y2sqgXxJ/SURAMTV.jpg" group-title="Generalistas" tvg-name="SURAM TV",SURAM TV
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV 8.2" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.2",FreeTV 8.2
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
+http://38.56.112.128:5000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
+http://38.56.112.128:5000/play/a0a2/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
+http://200.60.124.19:29000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
+http://200.60.124.19:29000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
+http://181.78.109.48:8000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://i.postimg.cc/Y0xXmWHj/cine-mexicano.jpg" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
+http://45.68.35.218:4001/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
+http://181.78.109.48:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Películas" tvg-name="GOLDEN PREMIER 2",GOLDEN PREMIER 2
+http://181.78.109.48:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png" group-title="Películas" tvg-name="HBO2",HBO2
+http://38.56.112.128:5000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://i.postimg.cc/4dTxGhf8/HBO-plus.png" group-title="Películas" tvg-name="HBO+",HBO+
+http://38.56.112.128:5000/play/a0a4/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
+http://38.56.112.128:5000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
+http://38.56.112.128:5000/play/a0br/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/mg3LrZdd/HBO-SIGNATURE.png" group-title="Películas" tvg-name="HBO SIGNATURE",HBO SIGNATURE
+http://170.244.209.135:8000/play/a0es/index.m3u8
+
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
 http://200.60.124.19:29000/play/a020/index.m3u8
 
