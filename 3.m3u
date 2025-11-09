@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LEGALPORNO" tvg-logo="" group-title="Entretenimiento" tvg-name="LEGALPORNO",LEGALPORNO
+http://88b9da48.kazmazpaz.ru:80/iptv/WW3PNTDHF52EAP/20090/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Miami Tv" tvg-logo="https://i.postimg.cc/qMhjm6TC/miamitv.png" group-title="Entretenimiento" tvg-name="Miami Tv",Miami Tv
 https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
 
