@@ -453,13 +453,16 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.postimg.cc/28r3nyrn/NOVELISIMA.png" group-title="Novelas" tvg-name="NOVELISIMA",NOVELISIMA
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
-#EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Novelas" tvg-name="tv azteca GUATE",tv azteca GUATE
-https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8
-
-#EXTINF:-1 tvg-id="AZ CLIP" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-title="Novelas" tvg-name="AZ CLIP",AZ CLIP
+#EXTINF:-1 tvg-id="AZ CLIP" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-title="Generalistas" tvg-name="AZ CLIP",AZ CLIP
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20230628T012821SQUARE.png_20230628012821.png" group-title="Novelas" tvg-name="Azteca Internacional",Azteca Internacional
+#EXTINF:-1 tvg-id="tv azteca GUATE" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Generalistas" tvg-name="tv azteca GUATE",tv azteca GUATE
+https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8
+
+#EXTINF:-1 tvg-id="tv azteca HONDURAS" tvg-logo="https://i.postimg.cc/Qx2m5WVZ/tvaztecaguate.png" group-title="Generalistas" tvg-name="tv azteca HONDURAS",tv azteca HONDURAS
+https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20230628T012821SQUARE.png_20230628012821.png" group-title="Generalistas" tvg-name="Azteca Internacional",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 #EXTINF:-1 tvg-id="Corazón" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20230628T012819SQUARE.png_20230628012819.png" group-title="Novelas" tvg-name="Corazón",Corazón
