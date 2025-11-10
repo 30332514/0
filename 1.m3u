@@ -628,7 +628,7 @@ https://amg00793-amg00793c50-samsung-es-6971.playouts.now.amagi.tv/playlist/amg0
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFV en Español" tvg-logo="https://i.postimg.cc/pXc2b7dZ/afvespa-ol.jpg" group-title="Comedia" tvg-name="AFV en Español",AFV en Español
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" group-title="Drama" tvg-name="FailArmy",FailArmy
 https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8
