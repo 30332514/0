@@ -12,6 +12,9 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 #EXTINF:-1 tvg-id="EXXXOTICA" tvg-logo="https://i.postimg.cc/4y2NbBDm/exxxotica.png" group-title="Adultos" tvg-name="EXXXOTICA",EXXXOTICA
 http://31.148.48.15/O-la-la/index.m3u8
 
+#EXTINF:-1 tvg-id="TEEN THAIS" tvg-logo="" group-title="Entretenimiento" tvg-name="TEEN THAIS",TEEN THAIS
+http://185.53.90.98:8080/cht0620/ykt.231223/397523
+
 #EXTINF:-1 tvg-id="LEO tv" tvg-logo="" group-title="Entretenimiento" tvg-name="LEO tv",LEO tv
 http://185.98.209.11:81/leo/index.m3u8?token=test
 
