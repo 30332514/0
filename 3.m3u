@@ -12,6 +12,9 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 #EXTINF:-1 tvg-id="EXXXOTICA" tvg-logo="https://i.postimg.cc/4y2NbBDm/exxxotica.png" group-title="Adultos" tvg-name="EXXXOTICA",EXXXOTICA
 http://31.148.48.15/O-la-la/index.m3u8
 
+#EXTINF:-1 tvg-id="LEO tv" tvg-logo="" group-title="Entretenimiento" tvg-name="LEO tv",LEO tv
+http://185.98.209.11:81/leo/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="Miami Tv" tvg-logo="https://i.postimg.cc/qMhjm6TC/miamitv.png" group-title="Entretenimiento" tvg-name="Miami Tv",Miami Tv
 https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
 
