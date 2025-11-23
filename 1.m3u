@@ -195,8 +195,8 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/playlist.
 #EXTINF:-1 tvg-id="MASTER TV" tvg-logo="https://i.postimg.cc/bvWq7rF3/MASTER-TV.jpg" group-title="Generalistas" tvg-name="MASTER TV",MASTER TV
 https://live.obslivestream.com/mastertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/8cyHzXM0/uraniotv.png" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
-https://live.obslivestream.com/uraniotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Uranio TV" tvg-logo="https://i.postimg.cc/cJvjnzgk/Uranio-TV.jpg" group-title="Generalistas" tvg-name="Uranio TV",Uranio TV
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QOSQO TIMES TV" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="Generalistas" tvg-name="QOSQO TIMES TV",QOSQO TIMES TV
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
