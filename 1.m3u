@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
-https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/playlist.m3u8
