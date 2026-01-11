@@ -411,12 +411,6 @@ http://38.44.109.41:8003/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-logo="https://i.postimg.cc/14xq0vJy/Telemundo-Internacional.png" group-title="Generalistas"" tvg-name="Telemundo Internacional",Telemundo Internacional
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/1ae4c875-9616-4518-9a51-09c14b2f583b/4.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="Generalistas"" tvg-name="Telemundo Florida",Telemundo Florida
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-logo="https://i.postimg.cc/htpS68JK/Telemundo-Puerto-Rico.png" group-title="Generalistas"" tvg-name="Telemundo Puerto Rico",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
