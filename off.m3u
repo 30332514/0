@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://i.postimg.cc/sgQTBCzx/cmc.jpg" group-title="Musicales" tvg-name="California Music Channel",California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVone" tvg-logo="https://i.postimg.cc/KjVs24yf/TVone.jpg" group-title="Musicales" tvg-name="TVone",TVone
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
