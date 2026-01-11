@@ -523,7 +523,7 @@ http://181.78.4.250:8098/play/a03t/index.m3u8
 http://181.78.4.250:8098/play/a08y/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-http://38.44.109.41:8003/play/a03d/index.m3u8
+http://181.78.4.250:8098/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 http://38.44.109.41:8003/play/a03c/index.m3u8
@@ -736,7 +736,7 @@ http://38.97.240.11:8000/play/a03v/index.m3u8
 http://181.205.130.194:4000/play/a0f3
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales" tvg-name="Discovery Turbo",Discovery Turbo
-http://170.244.209.135:8000/play/a07k/index.m3u8
+http://181.78.4.250:8098/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://i.postimg.cc/DfYVDf0x/Discovery-Home-Health.jpg" group-title="Generalistas" tvg-name="Discovery Home & Health",Discovery Home & Health
 http://38.44.109.41:8003/play/a016/index.m3u8
