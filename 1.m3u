@@ -865,10 +865,10 @@ http://38.97.240.11:8000/play/a0i8/index.m3u8
 http://38.97.240.11:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://170.244.209.135:8000/play/a0e6/index.m3u8
+http://181.78.4.250:8098/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
-http://170.244.209.135:8000/play/a07i/index.m3u8
+http://181.78.4.250:8098/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.postimg.cc/0NNS5f6t/SPACE.jpg" group-title="Películas" tvg-name="SPACE",SPACE
 http://38.44.109.41:8003/play/a01y/index.m3u8
