@@ -718,7 +718,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanete
 http://38.44.109.41:8003/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="History Channel 2" tvg-logo="https://i.postimg.cc/jdkShfXm/History-Channel-2.jpg" group-title="Documentales" tvg-name="History Channel 2",History Channel 2
-http://170.244.209.135:8000/play/a07m/index.m3u8
+http://181.78.4.250:8098/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
 http://38.44.109.41:8003/play/a010/index.m3u8
@@ -841,10 +841,10 @@ http://38.44.109.41:8003/play/a001/index.m3u8
 http://181.78.4.250:8098/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
-http://170.244.209.135:8000/play/a0cx/index.m3u8
+http://181.78.4.250:8098/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
-http://170.244.209.135:8000/play/a0dd/index.m3u8
+http://181.78.4.250:8098/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://170.244.209.135:8000/play/a0cn/index.m3u8
