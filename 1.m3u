@@ -88,7 +88,7 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Malu TV" tvg-logo="https://i.postimg.cc/sgzdLh3D/Malu-TV.jpg" group-title="Generalistas" tvg-name="Malu TV",Malu TV
 https://live-evg5.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8
