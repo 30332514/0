@@ -7,13 +7,13 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/playlist
 https://live-evg20.tv360.bitel.com.pe/siWkEDh5ssvW2Zpfb-tQGA/1774876596/bitel/America-udp/bitel/America-udp_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-https://live-evg20.tv360.bitel.com.pe/ft_22OhrGAvQRtHfSfcizA/1774877271/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/playlist.m3u8
+https://sc2.escuela4.com/live/cf8d546e8122f0a62950b056e542b8f346864f65.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
-https://live-evg20.tv360.bitel.com.pe/jvDwUWCv0U3MeiGJxjgBJw/1774216905/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/playlist.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur" tvg-logo="https://i.postimg.cc/1z45XRnw/ATV-Sur.jpg" group-title="Generalistas" tvg-name="ATV Sur",ATV Sur
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/playlist.m3u8
@@ -205,7 +205,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 
 #EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TU UNIVERSO TV" tvg-logo="https://i.postimg.cc/76CtRM5Q/TU-UNIVERSO-CHANNEL.jpg" group-title="Generalistas" tvg-name="TU UNIVERSO TV",TU UNIVERSO TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
