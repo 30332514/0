@@ -115,10 +115,10 @@ https://eu1.servers10.com:8081/8258/playlist.m3u8
 https://tv.ondadigital.pe/ondadigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV" tvg-logo="https://i.postimg.cc/KzJYTWWt/ondadigitaltv.jpg" group-title="Generalistas" tvg-name="Onda Digital TV",Onda Digital TV
-https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
+https://live.ondadigitaltv.com/ODTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onda Digital TV2" tvg-logo="https://i.postimg.cc/vB9LyfYJ/ondadigitaltv2.png" group-title="Generalistas" tvg-name="Onda Digital TV2",Onda Digital TV2
-https://v4.tustreaming.cl/odtv2/index.m3u8
+https://live.ondadigitaltv.com/ODTV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Región TV" tvg-logo="https://i.postimg.cc/6qMM7twM/Regi-n-TV.jpg" group-title="Generalistas" tvg-name="Región TV",Región TV
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
