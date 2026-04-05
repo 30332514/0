@@ -90,6 +90,9 @@ https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
 https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VIRU PARTY TV" tvg-logo="https://i.postimg.cc/prmQ2VJS/VIRU-PARTY-TV.jpg" group-title="Generalistas" tvg-name="VIRU PARTY TV",VIRU PARTY TV
+https://live-evg18.tv360.bitel.com.pe/bitel/virupartytvSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Malu TV" tvg-logo="https://i.postimg.cc/sgzdLh3D/Malu-TV.jpg" group-title="Generalistas" tvg-name="Malu TV",Malu TV
 https://live-evg5.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8
 
