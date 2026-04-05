@@ -601,7 +601,7 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Generalistas" tvg-name="Clan",Clan
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
 
 #EXTINF:-1 tvg-id="Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="Generalistas" tvg-name="Nortevision",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
@@ -679,7 +679,7 @@ https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 https://cloud.fastchannel.es/app_dai/master_playlists/guadatv.m3u8
 
 #EXTINF:-1 tvg-id="TRECE TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE TV",TRECE TV
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 2000" tvg-logo="https://i.postimg.cc/90NJWDsN/Canal-2000.jpg" group-title="Generalistas" tvg-name="Canal 2000",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
