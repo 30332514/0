@@ -375,8 +375,8 @@ https://alfa.betheltv.tv/srt/3_abr/srt/3_source/playlist.m3u8
 #EXTINF:-1 tvg-id="Creo Fe" tvg-logo="https://i.postimg.cc/wMBwSzFn/CreoFe.jpg" group-title="Religiosos" tvg-name="Creo Fe",Creo Fe
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EWTN" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN",EWTN
-https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN España" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN España",EWTN España
+https://1211313014.rsc.cdn77.org/1211313014/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="enlace" tvg-logo="https://i.postimg.cc/RZtwF99n/enlace.jpg" group-title="Generalistas" tvg-name="enlace",enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
