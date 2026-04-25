@@ -541,7 +541,7 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
-http://176.65.146.237:8401/play/a0ae/index.m3u8
+http://38.44.109.41:8003/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Cuentame como Paso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240313T073233SQUARE.png" group-title="Drama"" tvg-name="Cuentame como Paso",Cuentame como Paso
 https://ztnr.rtve.es/ztnr/6909843.m3u8
