@@ -483,9 +483,6 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH KIDS" tvg-logo="https://i.postimg.cc/mrbJV7pm/FMH-Kids.jpg" group-title="Infantiles" tvg-name="FMH KIDS",FMH KIDS
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pequeradio TV" tvg-logo="https://i.postimg.cc/qgHzjr9Q/pequeradiotv.jpg" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/c4PdnmDk/Discovery-Kids.png" group-title="Infantiles" tvg-name="Discovery Kids",Discovery Kids
 http://38.44.109.41:8003/play/a0eg/index.m3u8
 
