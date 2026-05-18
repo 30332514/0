@@ -852,9 +852,6 @@ http://181.78.4.250:8098/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="FreeTV CLÁSICO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" group-title="Películas" tvg-name="FreeTV CLÁSICO",FreeTV CLÁSICO
 https://amg00477-samsungelectron-cineclassico-samsungspain-ad-ee.amagi.tv/playlist/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV ESTELAR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png" group-title="Películas" tvg-name="FreeTV ESTELAR",FreeTV ESTELAR
-https://amg01024-olympusat-tucineeurope-samsungspain-ad-7d.amagi.tv/playlist/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://i.postimg.cc/fy9hXSm1/Movie-Sphere.jpg" group-title="Películas" tvg-name="MovieSphere",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/480p-vtt/index.m3u8
 
