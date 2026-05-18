@@ -796,7 +796,7 @@ http://181.78.4.250:8098/play/a07o/index.m3u8
 http://38.97.240.11:8000/play/a0k4/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://181.78.4.250:8098/play/a037/index.m3u8
+http://38.44.109.41:8003/play/a0hf/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
 http://38.97.240.11:8000/play/a03f/index.m3u8
@@ -811,7 +811,7 @@ http://181.78.4.250:8098/play/a06r/index.m3u8
 http://181.78.4.250:8098/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
-http://181.78.4.250:8098/play/a06d/index.m3u8
+http://38.44.109.41:8003/play/a0hz/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
 http://38.44.109.41:8003/play/a0gn/index.m3u8
@@ -823,7 +823,7 @@ http://38.44.109.41:8003/play/a0hh/index.m3u8
 http://38.44.109.41:8003/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg" group-title="Películas" tvg-name="UNIVERSAL TV",UNIVERSAL TV
-http://181.78.4.250:8098/play/a06e/index.m3u8
+http://38.44.109.41:8003/play/a0gb/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://i.postimg.cc/NjQCdWYg/UNIVERSAL-CINEMA.png" group-title="Películas" tvg-name="UNIVERSAL CINEMA",UNIVERSAL CINEMA
 http://38.97.240.11:8000/play/a0i8/index.m3u8
