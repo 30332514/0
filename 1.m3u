@@ -103,7 +103,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/virupartytvSRT/playlist.m3u8
 https://play.agenciastreaming.com:8081/malutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
-https://play.agenciastreaming.com:8081/oasis/video.m3u8
+https://srt.grupolimalive.com:8081/oasistv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Norte" tvg-logo="https://i.postimg.cc/Jzy54q6L/TV-Norte.png" group-title="Generalistas" tvg-name="TV Norte",TV Norte
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
