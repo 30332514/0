@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina",Latina
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/playlist.m3u8
+
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo California" tvg-logo="https://i.postimg.cc/nr3ybcH3/Telemundo.jpg" group-title="Generalistas"" tvg-name="Telemundo California",Telemundo California
