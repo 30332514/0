@@ -232,7 +232,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-id="La Karibeña" tvg-logo="https://i.postimg.cc/CLPnfR8z/karibe-a.png" group-title="Musicales" tvg-name="La Karibeña",La Karibeña
-https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/playlist.m3u8
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mimusica ROMANTICA" tvg-logo="https://i.postimg.cc/7Zp0K19C/MIMUSICA-ROMANTICA.jpg" group-title="Musicales" tvg-name="Mimusica ROMANTICA",Mimusica ROMANTICA
 http://181.78.12.119:16123/play/ch54/index.m3u8
