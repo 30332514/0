@@ -4,10 +4,10 @@
 https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/00fef77f-8519-4860-936f-389db6727547:GRQ/variant/a2369c38af57cf3b2e7073d04299cf1a/bandwidth/3079441.m3u8
 
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
-http://38.44.109.41:8003/play/a0ca/index.m3u8
+http://181.119.93.83:8000/play/a25s/index.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.postimg.cc/mr3kLkNX/panamericanatv.jpg" group-title="Generalistas" tvg-name="Panamericana TV",Panamericana TV
-http://38.44.109.41:8003/play/a0fo/index.m3u8
+http://181.119.93.83:8000/play/a25r/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -22,7 +22,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://i.postimg.cc/G28B3QZr/TV-Per.png" group-title="Generalistas" tvg-name="TV Perú",TV Perú
-https://live-evg20.tv360.bitel.com.pe/JP1IboENsI4lPbqwvH1LvQ/1777214112/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_360p/chunks.m3u8
+http://181.119.93.83:8000/play/a25t/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/CLjqfcdx/TV-Per-Noticias.png" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
