@@ -67,7 +67,7 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="BhTv" tvg-logo="https://i.postimg.cc/4y33y2Fx/BhTv.jpg" group-title="Generalistas" tvg-name="BhTv",BhTv
-https://sc1.wasidata.com/Bhtv/playlist.m3u8
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A uno" tvg-logo="https://i.postimg.cc/pTQMZ84M/Antena-Uno-TV.jpg" group-title="Generalistas" tvg-name="A uno",A uno
 https://play.agenciastreaming.com:8081/antena1/playlist.m3u8
