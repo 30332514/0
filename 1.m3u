@@ -330,9 +330,6 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1tRkTCRH/MTV.png" group-title="Musicales" tvg-name="MTV",MTV
 http://38.44.109.41:8003/play/a0gr/index.m3u8
 
-#EXTINF:-1 tvg-id="Clubbing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="Musicales" tvg-name="Clubbing TV",Clubbing TV
-https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8
-
 #EXTINF:-1 tvg-id="Kronehit" tvg-logo="https://i.postimg.cc/HLJp2GCb/Kronehit.png" group-title="Musicales" tvg-name="Kronehit",Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
