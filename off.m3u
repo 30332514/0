@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name="Discovery ID",Discovery ID
+http://38.44.109.41:8003/play/a0ck/index.m3u8
+
 #EXTINF:-1 tvg-id="TV Perú Noticias" tvg-logo="https://i.postimg.cc/CLjqfcdx/TV-Per-Noticias.png" group-title="Generalistas" tvg-name="TV Perú Noticias",TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 
