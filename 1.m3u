@@ -498,9 +498,6 @@ https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-id="Pitufo TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230712T021341SQUARE.png_20230712021341.png" group-title="Infantiles" tvg-name="Pitufo TV",Pitufo TV
 https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
 
-#EXTINF:-1 tvg-id="Pocoyó TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230712T021344SQUARE.png_20230712021345.png" group-title="Infantiles" tvg-name="Pocoyó TV",Pocoyó TV
-https://d27hwnian3bu94.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gg6rlkcix1i31/live/fast-channel-pocoyo/fast-channel-pocoyo.m3u8
-
 #EXTINF:-1 tvg-id="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="Infantiles" tvg-name="duckTV",duckTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
 
