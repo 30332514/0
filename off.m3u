@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Flamenco Auditorio" tvg-logo="https://i.postimg.cc/sgNJZmQK/Flamenco-Auditorio.jpg" group-title="Generalistas" tvg-name="Flamenco Auditorio",Flamenco Auditorio
+https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8
+
 #EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://i.postimg.cc/sXhnJhsG/Discovery-Channel-THEATHER.png" group-title="Documentales" tvg-name="Discovery ID",Discovery ID
 http://38.44.109.41:8003/play/a0ck/index.m3u8
 
