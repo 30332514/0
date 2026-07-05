@@ -36,6 +36,8 @@ https://github.com/matthuisman/i.mjh.nz
 
 // Fuentes
 
+https://iblups.com/
+
 https://streamtest.in/logs - Encontrador de Canales Random
 http://176.65.146.237:8401/playlist.m3u8 - España
 
