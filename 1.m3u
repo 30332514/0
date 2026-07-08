@@ -165,7 +165,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_4yptRX0C/playlist.
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COSITEL PERÚ" tvg-logo="https://i.postimg.cc/X7LBn2k4/COSITEL-PER.jpg" group-title="Generalistas" tvg-name="COSITEL PERÚ",COSITEL PERÚ
-https://live-evg18.tv360.bitel.com.pe/bitel/cositel/playlist.m3u8
+https://vod3.qbi.lat:15123/cositel/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SUPER CANAL" tvg-logo="https://i.postimg.cc/QCHNsb8x/SUPER-CANAL.jpg" group-title="Generalistas" tvg-name="SUPER CANAL",SUPER CANAL
 https://live.obslivestream.com/supercanal/index.m3u8
