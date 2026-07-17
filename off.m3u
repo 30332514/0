@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Flamenco Auditorio" tvg-logo="https://i.postimg.cc/sgNJZmQK/Flamenco-Auditorio.jpg" group-title="Generalistas" tvg-name="Flamenco Auditorio",Flamenco Auditorio
 https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8
 
