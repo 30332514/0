@@ -361,9 +361,6 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN España" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN España",EWTN España
 https://1211313014.rsc.cdn77.org/1211313014/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="enlace" tvg-logo="https://i.postimg.cc/RZtwF99n/enlace.jpg" group-title="Generalistas" tvg-name="enlace",enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="https://i.postimg.cc/NFSS6TM4/ALIENTO-VISION.png" group-title="Generalistas" tvg-name="ALIENTO VISION",ALIENTO VISION
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
 
