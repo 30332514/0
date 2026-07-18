@@ -21,7 +21,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.postimg.cc/1XgtjdbK/atv.jpg" group-title="Generalistas" tvg-name="ATV",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.postimg.cc/XYmdGr5n/atv.jpg" group-title="Generalistas" tvg-name="ATV+",ATV+
 https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
