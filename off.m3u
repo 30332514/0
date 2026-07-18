@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
+#EXTINF:-1 tvg-id="Onda Digital Perú" tvg-logo="https://i.postimg.cc/63znYXx1/ondadigitalperu.jpg" group-title="Generalistas" tvg-name="Onda Digital Perú",Onda Digital Perú
+https://tv.ondadigital.pe/ondadigital/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
