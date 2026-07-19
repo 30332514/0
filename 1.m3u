@@ -186,9 +186,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/playlist.m3u8
 #EXTINF:-1 tvg-id="Via Televisión" tvg-logo="https://i.postimg.cc/KcMj90Cr/viatelevision.png" group-title="Generalistas" tvg-name="Via Televisión",Via Televisión
 https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GF TV" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="Generalistas" tvg-name="GF TV",GF TV
-https://live.obslivestream.com/regionaltv/tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal 8 Catacaos" tvg-logo="https://i.postimg.cc/NMn63rnQ/Canal-8-Catacaos.jpg" group-title="Generalistas" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/playlist.m3u8
 
