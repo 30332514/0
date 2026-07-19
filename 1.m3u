@@ -701,9 +701,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Artflix" tvg-logo="https://i.postimg.cc/h4Zjt9G0/Artflix.jpg" group-title="Películas" tvg-name="Artflix",Artflix
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FMH MOVIES" tvg-logo="https://i.postimg.cc/X7P9sW2m/FMH-Movies.jpg" group-title="Películas" tvg-name="FMH MOVIES",FMH MOVIES
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TU CINE Europa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Europa",TU CINE Europa
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 
