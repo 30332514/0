@@ -436,11 +436,10 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.postimg.cc/m2cyjY4F/TLC.jpg" group-title="Generalistas" tvg-name="TLC",TLC
-http://181.78.4.250:8098/play/a08z/index.m3u8
+http://38.44.109.41:8003/play/a0ep/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/lifetime.stream/playlist.m3u8
+http://38.44.109.41:8003/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
 https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/playlist.m3u8
@@ -756,19 +755,19 @@ http://38.44.109.41:8003/play/a012/index.m3u8
 http://38.44.109.41:8003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
-http://181.78.4.250:8098/play/a07f/index.m3u8
+http://38.44.109.41:8003/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
-http://181.78.4.250:8098/play/a07m/index.m3u8
+http://38.44.109.41:8003/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
-http://181.78.4.250:8098/play/a08p/index.m3u8
+http://38.44.109.41:8003/play/a0i0/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
 http://38.44.109.41:8003/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
-http://181.78.4.250:8098/play/a07o/index.m3u8
+http://38.44.109.41:8003/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
 http://38.97.240.11:8000/play/a0k4/index.m3u8
@@ -783,7 +782,7 @@ http://38.97.240.11:8000/play/a03f/index.m3u8
 http://38.44.109.41:8003/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://i.postimg.cc/K831M4mF/GOLDEN-EDGE.jpg" group-title="Películas" tvg-name="GOLDEN EDGE",GOLDEN EDGE
-http://181.78.4.250:8098/play/a06r/index.m3u8
+http://38.44.109.41:8003/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://181.78.4.250:8098/play/a079/index.m3u8
@@ -810,7 +809,7 @@ http://38.97.240.11:8000/play/a0i8/index.m3u8
 http://38.97.240.11:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://181.78.4.250:8098/play/a08q/index.m3u8
+http://38.44.109.41:8003/play/a0hy/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
 http://38.44.109.41:8003/play/a0el/index.m3u8
@@ -825,7 +824,7 @@ http://38.44.109.41:8003/play/a01v/index.m3u8
 http://38.44.109.41:8003/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
-http://181.78.4.250:8098/play/a08m/index.m3u8
+http://38.44.109.41:8003/play/a0gp/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV CLÁSICO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" group-title="Películas" tvg-name="FreeTV CLÁSICO",FreeTV CLÁSICO
 https://amg00477-samsungelectron-cineclassico-samsungspain-ad-ee.amagi.tv/playlist/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8
