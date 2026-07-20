@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
+#EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TU CINE Europa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas" tvg-name="TU CINE Europa",TU CINE Europa
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 
