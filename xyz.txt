@@ -36,6 +36,8 @@ https://github.com/matthuisman/i.mjh.nz
 
 // Fuentes
 
+https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
+
 https://iblups.com/
 
 https://streamtest.in/logs - Encontrador de Canales Random
