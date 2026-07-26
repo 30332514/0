@@ -1133,9 +1133,6 @@ https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-id="Sanjuanera TV" tvg-logo="https://i.postimg.cc/L8hz6ZhS/Sanjuanera-Tv.jpg" group-title="Generalistas" tvg-name="Sanjuanera TV",Sanjuanera TV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
-#EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
-
 #EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 
