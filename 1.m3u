@@ -213,6 +213,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 #EXTINF:-1 tvg-id="QOSQO TIMES TV" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="Generalistas" tvg-name="QOSQO TIMES TV",QOSQO TIMES TV
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="+TV" tvg-logo="https://i.postimg.cc/rpsm5T1c/TV.jpg" group-title="Generalistas" tvg-name="+TV",+TV
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://i.postimg.cc/85WhySn1/Ribere-a.jpg" group-title="Generalistas" tvg-name="Ribereña",Ribereña
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 
