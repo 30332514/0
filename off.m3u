@@ -1046,33 +1046,6 @@ http://bantel.iptvperu.tv:1935/bantel/Canal-B/playlist.m3u8
 #EXTINF:-1 tvg-id="Studio TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png" group-title="Generalistas" tvg-name="Studio TV",Studio TV
 https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Peruanísima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Generalistas" tvg-name="TV Peruanísima",TV Peruanísima
-https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.postimg.cc/brS94F3d/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS",DSPORTS
-http://161.132.243.192:50001/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS 2" tvg-logo="https://i.postimg.cc/g0crxL9K/DIRECTV-SPORTS-2.png" group-title="Deportivos" tvg-name="DSPORTS 2",DSPORTS 2
-http://161.132.243.192:50001/play/a03p/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://i.postimg.cc/bwJKdqCt/DIRECTV-SPORTS.png" group-title="Deportivos" tvg-name="DSPORTS+",DSPORTS+
-http://161.132.243.192:50001/play/a03q/index.m3u8
-
-#EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
-http://45.173.201.50:4000/play/a01t
-
-#EXTINF:-1 tvg-id="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" group-title="Películas" tvg-name="Cine Feel Good – Verdi TV",Cine Feel Good – Verdi TV
-https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="Cines Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20230208T013048SQUARE.png_20230208013048.png" group-title="Películas" tvg-name="Cines Verdi TV",Cines Verdi TV
-https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="TeleMadrid Internacional" tvg-logo="https://i.postimg.cc/QNR7MdHQ/telemadrid.jpg" group-title="Generalistas" tvg-name="TeleMadrid Internacional",TeleMadrid Internacional
-https://new-international-23.secure2.footprint.net/index.m3u8
-
-#EXTINF:-1 tvg-id="Hoguera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20230510T044209SQUARE.png_20230510044209.png" group-title="Estilo de Vida" tvg-name="Hoguera",Hoguera
-https://d1uudxm3vz53s6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h6xg8drfk6hpr/master.m3u8
-
 #EXTINF:-1 tvg-id="Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="Musicales" tvg-name="Best Cable Music",Best Cable Music
 https://tv.godo.net.pe/bestcablemusic/index.m3u8
 
