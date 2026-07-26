@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
+#EXTINF:-1 tvg-id="El Confidencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" group-title="Informativos" tvg-name="El Confidencial",El Confidencial
+https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
 #EXTINF:-1 tvg-id="INKA VISIÓN" tvg-logo="https://i.postimg.cc/d1JCdChW/INKA-VISI-N.jpg" group-title="Generalistas" tvg-name="INKA VISIÓN",INKA VISIÓN
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 
