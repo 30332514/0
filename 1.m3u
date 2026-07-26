@@ -159,6 +159,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/santarosaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Neo TV" tvg-logo="https://i.postimg.cc/0N3CkChK/Neo-TV.jpg" group-title="Generalistas" tvg-name="Neo TV",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TEVESUR" tvg-logo="https://i.postimg.cc/7LMjL65h/TEVESUR.jpg" group-title="Generalistas" tvg-name="TEVESUR",TEVESUR
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VISIÓN SUR" tvg-logo="https://i.postimg.cc/gcLkKx2Q/VISI-N-SUR.jpg" group-title="Generalistas" tvg-name="VISIÓN SUR",VISIÓN SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_4yptRX0C/playlist.m3u8
 
