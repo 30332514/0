@@ -3,11 +3,7 @@
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
-#EXTINF:-1 tvg-id="El Confidencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" group-title="Informativos" tvg-name="El Confidencial",El Confidencial
-https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-id="INKA VISIÓN" tvg-logo="https://i.postimg.cc/d1JCdChW/INKA-VISI-N.jpg" group-title="Generalistas" tvg-name="INKA VISIÓN",INKA VISIÓN
-https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://i.postimg.cc/13XDXGpK/condavision.jpg" group-title="Generalistas" tvg-name="Condavisión",Condavisión
 https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
@@ -17,9 +13,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsun
 
 #EXTINF:-1 tvg-id="Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Películas" tvg-name="Cinelife",Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GF TV" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="Generalistas" tvg-name="GF TV",GF TV
-https://live.obslivestream.com/regionaltv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Creo Fe" tvg-logo="https://i.postimg.cc/wMBwSzFn/CreoFe.jpg" group-title="Religiosos" tvg-name="Creo Fe",Creo Fe
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/playlist.m3u8
@@ -83,63 +76,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SURAM TV" tvg-logo="https://i.postimg.cc/Y2sqgXxJ/SURAMTV.jpg" group-title="Generalistas" tvg-name="SURAM TV",SURAM TV
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-
-#EXTINF:-1 tvg-id="FreeTV 8.2" tvg-logo="https://i.postimg.cc/tR5jCBp9/FreeTV.jpg" group-title="Películas" tvg-name="FreeTV 8.2",FreeTV 8.2
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
-
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Documentales" tvg-name="Discovery World",Discovery World
-http://38.56.112.128:5000/play/a02j/index.m3u8
-
-#EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.postimg.cc/CLrSCCLq/Europa-Europa.jpg" group-title="Películas" tvg-name="Europa Europa",Europa Europa
-http://38.56.112.128:5000/play/a0a2/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="Películas" tvg-name="Canal Claro",Canal Claro
-http://200.60.124.19:29000/play/a04w/index.m3u8
-
-#EXTINF:-1 tvg-id="Claro CINEMA" tvg-logo="https://i.postimg.cc/25Lv1ZZQ/CLARO-CINEMA.jpg" group-title="Películas" tvg-name="Claro CINEMA",Claro CINEMA
-http://200.60.124.19:29000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/cHdQ2zVC/CINE-LATINO.jpg" group-title="Películas" tvg-name="CINE LATINO",CINE LATINO
-http://181.78.109.48:8000/play/a05n/index.m3u8
-
-#EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://i.postimg.cc/Y0xXmWHj/cine-mexicano.jpg" group-title="Películas" tvg-name="CINE MEXICANO",CINE MEXICANO
-http://45.68.35.218:4001/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Películas" tvg-name="GOLDEN PREMIER",GOLDEN PREMIER
-http://181.78.109.48:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Películas" tvg-name="GOLDEN PREMIER 2",GOLDEN PREMIER 2
-http://181.78.109.48:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png" group-title="Películas" tvg-name="HBO2",HBO2
-http://38.56.112.128:5000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://i.postimg.cc/4dTxGhf8/HBO-plus.png" group-title="Películas" tvg-name="HBO+",HBO+
-http://38.56.112.128:5000/play/a0a4/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/KYgdY0vm/HBO-XTREME.png" group-title="Películas" tvg-name="HBO XTREME",HBO XTREME
-http://38.56.112.128:5000/play/a03p/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.postimg.cc/mktq68vK/HBO-POP.png" group-title="Películas" tvg-name="HBO POP",HBO POP
-http://38.56.112.128:5000/play/a0br/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/mg3LrZdd/HBO-SIGNATURE.png" group-title="Películas" tvg-name="HBO SIGNATURE",HBO SIGNATURE
-http://170.244.209.135:8000/play/a0es/index.m3u8
-
-#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.postimg.cc/MKjrv7S5/Baby-First.png" group-title="Infantiles" tvg-name="BabyFirst",BabyFirst
-http://200.60.124.19:29000/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
-http://160.20.165.246:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.postimg.cc/Qxr7bfhz/Teen-Nick.png" group-title="Infantiles" tvg-name="TeenNick",TeenNick
-http://38.56.112.128:5000/play/a09l/index.m3u8
-
-#EXTINF:-1 tvg-id="L1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="L1 MAX",L1 MAX
-http://200.60.124.19:29000/play/a07k/index.m3u8
-
-#EXTINF:-1 tvg-id="Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="Deportivos" tvg-name="Tigo Sports Guatemala",Tigo Sports Guatemala
-http://45.68.35.218:4001/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="El club de la comedia" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Comedia" tvg-name="El club de la comedia",El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
