@@ -402,15 +402,6 @@ http://181.78.8.90:16123/play/ch57
 #EXTINF:-1 tvg-id="clover channel" tvg-logo="https://i.postimg.cc/3RdY3h1m/clover-channel.png" group-title="Películas" tvg-name="clover channel",clover channel
 http://200.59.188.3:8000/play/a00o
 
-#EXTINF:-1 tvg-id="CINE HISPANO " tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="Películas" tvg-name="CINE HISPANO ",CINE HISPANO 
-http://181.78.8.90:16123/play/ch51
-
-#EXTINF:-1 tvg-id="CINE FAMILIAR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="Películas" tvg-name="CINE FAMILIAR",CINE FAMILIAR
-http://181.78.8.90:16123/play/ch52
-
-#EXTINF:-1 tvg-id="CINE PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Películas" tvg-name="CINE PREMIUM",CINE PREMIUM
-http://181.78.8.90:16123/play/ch49
-
 #EXTINF:-1 tvg-id="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20230614T005905SQUARE.png_20230614005905.png" group-title="Drama" tvg-name="BBC Drama",BBC Drama
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
 
