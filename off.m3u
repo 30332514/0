@@ -57,9 +57,6 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="Generalistas"" tvg-name="Telemundo Florida",Telemundo Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVone" tvg-logo="https://i.postimg.cc/KjVs24yf/TVone.jpg" group-title="Musicales" tvg-name="TVone",TVone
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="La Tele" tvg-logo="https://i.postimg.cc/9fnTXgR6/latele.jpg" group-title="Generalistas" tvg-name="La Tele",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 
