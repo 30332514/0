@@ -228,9 +228,6 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3352
 #EXTINF:-1 tvg-id="Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="Películas" tvg-name="Classic +",Classic +
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Classic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.postimg.cc/y8nQGXww/canal-Infantil.png" group-title="Infantiles" tvg-name="Canal Infantil",Canal Infantil
-http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MIX MUSIC CHANNEL" tvg-logo="https://i.postimg.cc/YqxPnwFT/MIX-MUSIC-CHANNEL.png" group-title="Musicales" tvg-name="MIX MUSIC CHANNEL",MIX MUSIC CHANNEL
 http://bantel.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
 
