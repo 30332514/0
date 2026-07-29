@@ -372,14 +372,14 @@ https://alfa.betheltv.tv/srt/3_abr/srt/3_source/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19.2" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19.2",JN19.2
 https://servilive.com:3224/live/jn19tv2live.m3u8
 
+#EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+
 #EXTINF:-1 tvg-id="EWTN España" tvg-logo="https://i.postimg.cc/jj7f7fYY/EWTN.jpg" group-title="Generalistas" tvg-name="EWTN España",EWTN España
 https://1211313014.rsc.cdn77.org/1211313014/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="https://i.postimg.cc/NFSS6TM4/ALIENTO-VISION.png" group-title="Generalistas" tvg-name="ALIENTO VISION",ALIENTO VISION
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="Religiosos" tvg-name="JN19",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="3ABN Latino" tvg-logo="https://i.postimg.cc/LXy9mHRY/3-ABN-Latino.jpg" group-title="Religiosos" tvg-name="3ABN Latino",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
