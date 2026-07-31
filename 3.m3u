@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Amazing TV" tvg-logo="" group-title="Entretenimiento" tvg-name="Amazing TV",Amazing TV
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+
 #EXTINF:-1 tvg-id="LUBED" tvg-logo="" group-title="Entretenimiento" tvg-name="LUBED",LUBED
 http://88b9da48.kazmazpaz.ru:80/iptv/WW3PNTDHF52EAP/20089/manifest.m3u8
 
