@@ -144,6 +144,9 @@ http://62.176.77.22:9781/play/a00n
 #EXTINF:-1 tvg-id="VIVID RED" tvg-logo="" group-title="Adultos" tvg-name="VIVID RED",VIVID RED
 http://62.176.77.22:9781/play/a00m
 
+#EXTINF:-1 tvg-id="VIVID RED" tvg-logo="" group-title="Adultos" tvg-name="VIVID RED",VIVID RED
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/2162/manifest.m3u8
+
 #EXTINF:-1 tvg-id="EVIL ANGEL" tvg-logo="" group-title="Adultos" tvg-name="EVIL ANGEL",EVIL ANGEL
 http://62.176.77.22:9781/play/a00l
 
