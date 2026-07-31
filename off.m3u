@@ -6,6 +6,9 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VIRU PARTY TV" tvg-logo="https://i.postimg.cc/prmQ2VJS/VIRU-PARTY-TV.jpg" group-title="Generalistas" tvg-name="VIRU PARTY TV",VIRU PARTY TV
+https://live-evg18.tv360.bitel.com.pe/bitel/virupartytvSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.postimg.cc/jSLvDSy6/Paramount.jpg" group-title="Películas" tvg-name="Paramount",Paramount
 http://181.78.4.250:8098/play/a079/index.m3u8
 
