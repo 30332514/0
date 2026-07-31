@@ -42,9 +42,11 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/244/manifest.m3u8
+
 #EXTINF:-1 tvg-id="EROX" tvg-logo="https://i.postimg.cc/Vvsj0Hz4/EROX.jpg" group-title="Adultos" tvg-name="EROX",EROX
 http://178.219.128.68:64888/EROXHD
-
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
