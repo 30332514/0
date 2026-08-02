@@ -196,9 +196,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Impacto Televisión" tvg-logo="https://i.postimg.cc/63tdGQ7B/Impacto-Televisi-n.jpg" group-title="Generalistas" tvg-name="Impacto Televisión",Impacto Televisión
 https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SELVA TV" tvg-logo="https://i.postimg.cc/Nj7x9PcG/SELVA-TV.jpg" group-title="Generalistas" tvg-name="SELVA TV",SELVA TV
-https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tarapoto TV" tvg-logo="https://i.postimg.cc/MKKMWVsd/tvtarapoto.jpg" group-title="Generalistas" tvg-name="Tarapoto TV",Tarapoto TV
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/playlist.m3u8
 
