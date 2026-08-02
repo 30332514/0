@@ -9,6 +9,9 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://i.postimg.cc/02D7MYvZ/usiltv.jpg" group-title="Generalistas" tvg-name="USIL TV",USIL TV
 https://per01-lim01.servidor.stream/usiltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SELVA TV" tvg-logo="https://i.postimg.cc/Nj7x9PcG/SELVA-TV.jpg" group-title="Generalistas" tvg-name="SELVA TV",SELVA TV
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/rwq3kNwZ/hispantv.png" group-title="Informativos" tvg-name="HispanTV",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 
