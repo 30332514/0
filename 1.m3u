@@ -504,9 +504,6 @@ http://38.44.109.41:8003/play/a0ef/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 http://38.44.109.41:8003/play/a0cn/index.m3u8
 
-#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.postimg.cc/Y9z8YM12/tooncast.jpg" group-title="Infantiles" tvg-name="tooncast",tooncast
-http://181.78.8.90:16123/play/a068
-
 #EXTINF:-1 tvg-id="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="Infantiles" tvg-name="Teen Vee",Teen Vee
 https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8
 
