@@ -313,16 +313,16 @@ https://d1arw6t6ng0tkh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dmex978i3k0ic.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a64nni2c3yk8d/Vevo_80s.m3u8
 
 #EXTINF:-1 tvg-id="VEVO '90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" group-title="Musicales" tvg-name="VEVO '90s",VEVO '90s
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="VEVO 2k" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="Musicales" tvg-name="VEVO 2k",VEVO 2k
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="VEVO Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20241106T143058SQUARE.png" group-title="Musicales" tvg-name="VEVO Christmas",VEVO Christmas
 https://d2iwbme1fhlm5y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dhh5tap5387o2/VevoChristmas_GB.m3u8
 
 #EXTINF:-1 tvg-id="VEVO Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20241112T001851SQUARE.png" group-title="Musicales" tvg-name="VEVO Country",VEVO Country
-https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="VEVO Holiday" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241112T000837SQUARE.png" group-title="Musicales" tvg-name="VEVO Holiday",VEVO Holiday
 https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8
