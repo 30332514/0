@@ -108,7 +108,7 @@ https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV" tvg-logo="https://i.postimg.cc/vTNP1hCH/soltv.png" group-title="Generalistas" tvg-name="SOL TV",SOL TV
-https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/playlist.m3u8
+https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OZONO TV" tvg-logo="https://i.postimg.cc/9M7TSgmJ/OZONO.jpg" group-title="Generalistas" tvg-name="OZONO TV",OZONO TV
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
