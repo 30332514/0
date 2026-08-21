@@ -12,6 +12,9 @@ https://per01-lim01.servidor.stream/usiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
+#EXTINF:-1 tvg-id="Arabí TV" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Generalistas" tvg-name="Arabí TV",Arabí TV
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+
 #EXTINF:-1 tvg-id="SELVA TV" tvg-logo="https://i.postimg.cc/Nj7x9PcG/SELVA-TV.jpg" group-title="Generalistas" tvg-name="SELVA TV",SELVA TV
 https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8
 
