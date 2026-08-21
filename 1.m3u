@@ -629,9 +629,6 @@ http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 #EXTINF:-1 tvg-id="Distrito TV" tvg-logo="https://i.postimg.cc/x8ZykGRg/dtv.jpg" group-title="Generalistas" tvg-name="Distrito TV",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
 
-#EXTINF:-1 tvg-id="Arabí TV" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Generalistas" tvg-name="Arabí TV",Arabí TV
-https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
-
 #EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://i.postimg.cc/sxL08jyF/canalmalaga.jpg" group-title="Generalistas" tvg-name="Canal Málaga",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
