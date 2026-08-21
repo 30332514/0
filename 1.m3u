@@ -43,9 +43,6 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
-#EXTINF:-1 tvg-id="Cultura 24 TV" tvg-logo="https://i.postimg.cc/c4FgGqy9/cultura24tv.png" group-title="Generalistas" tvg-name="Cultura 24 TV",Cultura 24 TV
-https://cloud.live.opencaster.com/playlist_480/index.m3u8
-
 #EXTINF:-1 tvg-id="Nacional Tv Perú" tvg-logo="https://i.postimg.cc/c1cR2HKd/Nacional-Tv-Per.jpg" group-title="Generalistas" tvg-name="Nacional Tv Perú",Nacional Tv Perú
 https://play.agenciastreaming.com:8081/nacionaltv/playlist.m3u8
 
