@@ -637,9 +637,6 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="Diez TV Úbeda" tvg-logo="https://i.postimg.cc/1z9hDz3M/dieztv.jpg" group-title="Generalistas" tvg-name="Diez TV Úbeda",Diez TV Úbeda
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
-#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://i.postimg.cc/V6Q7XGgw/Arag-n-TV.png" group-title="Generalistas" tvg-name="Aragón TV",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
 #EXTINF:-1 tvg-id="NORTEvisión" tvg-logo="https://i.postimg.cc/TPqbHtGf/NORTEvisi-n.jpg" group-title="Generalistas" tvg-name="NORTEvisión",NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
 
