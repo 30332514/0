@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/G2227QcG/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",América TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
