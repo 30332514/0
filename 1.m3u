@@ -71,7 +71,7 @@ https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-logo="https://i.postimg.cc/cLPpwyz3/GAMARRA-CHANNEL.png" group-title="Generalistas" tvg-name="Gamarra Channel",Gamarra Channel
-https://live-evg7.tv360.bitel.com.pe/bitel/gamarratv/playlist.m3u8
+https://vs20.live.opencaster.com/gamarratv_9c41922a/index.m3u8
 
 #EXTINF:-1 tvg-id="Cable Visión Perú" tvg-logo="https://i.postimg.cc/gj7kSZmJ/vnphd.jpg" group-title="Generalistas" tvg-name="Cable Visión Perú",Cable Visión Perú
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
