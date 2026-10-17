@@ -438,7 +438,7 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 http://181.205.130.194:4000/play/a07p
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://i.postimg.cc/rpJyt6J7/Lifetime.png" group-title="Generalistas" tvg-name="Lifetime",Lifetime
-http://38.44.109.41:8003/play/a0ex/index.m3u8
+http://181.205.130.194:4000/play/a06u
 
 #EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://i.postimg.cc/cHxh06PY/ovacion.jpg" group-title="Deportivos" tvg-name="Ovacion",Ovacion
 https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/playlist.m3u8
