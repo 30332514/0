@@ -487,10 +487,10 @@ http://181.205.130.194:4000/play/a07c
 http://190.93.224.42/DISNEY-JR/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://181.205.130.194:4000/play/a06b
+http://190.93.224.42/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
-http://38.44.109.41:8003/play/a0eo/index.m3u8
+http://190.93.224.42/DISNEY-JR/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
 http://181.205.130.194:4000/play/a06m
