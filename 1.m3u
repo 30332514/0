@@ -490,7 +490,7 @@ http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 http://38.44.109.41:8003/play/a0eo/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/0NY9xmKk/cartoonnetworklatino.png" group-title="Infantiles" tvg-name="Cartoon Network",Cartoon Network
-http://38.44.109.41:8003/play/a0ef/index.m3u8
+http://181.205.130.194:4000/play/a06m
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.postimg.cc/9M6dRq1x/Cartoonito.png" group-title="Infantiles" tvg-name="Cartoonito",Cartoonito
 http://38.44.109.41:8003/play/a0cn/index.m3u8
