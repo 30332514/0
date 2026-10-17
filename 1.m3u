@@ -484,7 +484,7 @@ http://181.205.130.194:4000/play/a07c
 http://38.44.109.41:8003/play/a0em/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.postimg.cc/YCYjq96P/Nick.jpg" group-title="Infantiles" tvg-name="Nickelodeon",Nickelodeon
-http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+http://181.205.130.194:4000/play/a06b
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.postimg.cc/k4B2CyfQ/Nick-Jr.png" group-title="Infantiles" tvg-name="Nick Jr.",Nick Jr.
 http://38.44.109.41:8003/play/a0eo/index.m3u8
