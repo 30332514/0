@@ -781,7 +781,7 @@ http://38.44.109.41:8003/play/a0hz/index.m3u8
 http://38.44.109.41:8003/play/a0gn/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
-http://38.44.109.41:8003/play/a0hh/index.m3u8
+http://190.93.224.42/HBO-FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/jd8BwQXw/STUDIO-UNIVERSAL.jpg" group-title="Películas" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
@@ -796,7 +796,7 @@ http://38.97.240.11:8000/play/a0i8/index.m3u8
 http://38.97.240.11:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas" tvg-name="SONY CHANNEL",SONY CHANNEL
-http://38.44.109.41:8003/play/a0hy/index.m3u8
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.postimg.cc/BbFV5X9K/SONY-MOVIES.png" group-title="Películas" tvg-name="SONY MOVIES",SONY MOVIES
 http://38.44.109.41:8003/play/a0el/index.m3u8
