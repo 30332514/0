@@ -808,10 +808,10 @@ http://190.93.224.42/SPACE/index.m3u8
 http://190.93.224.42/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://i.postimg.cc/zGLgVhmJ/TNT-SERIES.png" group-title="Películas" tvg-name="TNT SERIES",TNT SERIES
-http://38.44.109.41:8003/play/a01x/index.m3u8
+http://190.93.224.42/TNT-SERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://i.postimg.cc/W13gcqtD/TNT-NOVELAS.jpg" group-title="Películas" tvg-name="TNT NOVELAS",TNT NOVELAS
-http://38.44.109.41:8003/play/a0gp/index.m3u8
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV CLÁSICO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" group-title="Películas" tvg-name="FreeTV CLÁSICO",FreeTV CLÁSICO
 https://amg00477-samsungelectron-cineclassico-samsungspain-ad-ee.amagi.tv/playlist/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8
