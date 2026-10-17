@@ -218,9 +218,6 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Tu Canal Musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="Musicales" tvg-name="Tu Canal Musical",Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Musicales" tvg-name="Retro Plus",Retro Plus
-https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Molahits TV" tvg-logo="https://i.postimg.cc/FsrhjGC0/Molahits-TV.jpg" group-title="Musicales" tvg-name="Molahits TV",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
@@ -403,6 +400,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.postimg.cc/rszjG1SM/pasiones.png" group-title="Novelas" tvg-name="Pasiones",Pasiones
 http://190.93.224.42/PASIONES/index.m3u8
+
+#EXTINF:-1 tvg-id="KANAL D Drama" tvg-logo="https://i.postimg.cc/j2hk5LRQ/Kanal-D-Drama.jpg" group-title="Novelas" tvg-name="KANAL D Drama",KANAL D Drama
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVE KANAL D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" group-title="Novelas" tvg-name="VIVE KANAL D Drama",VIVE KANAL D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
