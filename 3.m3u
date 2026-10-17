@@ -27,21 +27,6 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
 #EXTINF:-1 tvg-id="Miami Tv Latino" tvg-logo="https://i.postimg.cc/tgPK8mGW/miamitvlatino.jpg" group-title="Entretenimiento" tvg-name="Miami Tv Latino",Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fashion TV Midnight Haute" tvg-logo="https://i.postimg.cc/dDPv8dGK/ftv.png" group-title="Entretenimiento" tvg-name="Fashion TV Midnight Haute",Fashion TV Midnight Haute
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionTV Midnite Secrets" tvg-logo="https://i.postimg.cc/HsVJNgvj/Fashion-TV-Midnite-Secrets.png" group-title="Entretenimiento" tvg-name="FashionTV Midnite Secrets",FashionTV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20220323T081606SQUARE.png_20220323081609.png" group-title="Estilo de Vida" tvg-name="Fashion TV",Fashion TV
-https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Babestation" tvg-logo="https://i.postimg.cc/BbCd5kH0/Babestation.jpg" group-title="Entretenimiento" tvg-name="Babestation",Babestation
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-id="VIISIT-X-TV" tvg-logo="https://i.postimg.cc/kg3DjhVb/VIISIT-X-TV.jpg" group-title="Entretenimiento" tvg-name="VIISIT-X-TV",VIISIT-X-TV
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
 http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/244/manifest.m3u8
 
