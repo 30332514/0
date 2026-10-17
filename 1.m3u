@@ -662,7 +662,7 @@ http://181.205.130.194:4000/play/a0fd
 http://190.93.224.42/NAT-GEO/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://banner2.cleanpng.com/20180605/ecc/kisspng-discovery-channel-television-channel-television-do-5b16766f6e5735.463717211528198767452.jpg" group-title="Documentales" tvg-name="Discovery",Discovery
-http://38.44.109.41:8003/play/a0hr/index.m3u8
+http://45.171.64.30:6060/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="Documentales" tvg-name="Discovery Science",Discovery Science
 http://38.44.109.41:8003/play/a0eq/index.m3u8
@@ -749,28 +749,28 @@ http://181.205.130.194:4000/play/a06k
 http://190.93.224.42/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.postimg.cc/FRhqVQ9X/A-E.png" group-title="Películas" tvg-name="A&E",A&E
-http://38.44.109.41:8003/play/a0g8/index.m3u8
+http://45.171.64.30:6060/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Películas" tvg-name="AMC",AMC
-http://38.44.109.41:8003/play/a0gj/index.m3u8
+http://45.171.64.30:6060/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/vTQDxy6V/AXN.png" group-title="Películas" tvg-name="AXN",AXN
 http://190.93.224.42/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.postimg.cc/mDgdTMkK/CINECANAL.jpg" group-title="Películas" tvg-name="CINECANAL",CINECANAL
-http://181.205.130.194:4000/play/a06e
+http://45.171.64.30:6060/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.postimg.cc/HnLhSqL0/CINEMAX.jpg" group-title="Películas" tvg-name="CINEMAX",CINEMAX
-http://38.44.109.41:8003/play/a0ek/index.m3u8
+http://45.171.64.30:6060/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas" tvg-name="TCM",TCM
-http://38.97.240.11:8000/play/a0k4/index.m3u8
+http://45.171.64.30:6060/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Películas" tvg-name="DHE",DHE
-http://38.44.109.41:8003/play/a0hf/index.m3u8
+http://45.171.64.30:6060/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.postimg.cc/cLJ5dy7V/E-Entertairment.jpg" group-title="Películas" tvg-name="E! Entertairment",E! Entertairment
-http://38.97.240.11:8000/play/a03f/index.m3u8
+http://45.171.64.30:6060/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Películas" tvg-name="GOLDEN",GOLDEN
 http://190.93.224.42/GOLDEN/index.m3u8
@@ -779,10 +779,10 @@ http://190.93.224.42/GOLDEN/index.m3u8
 http://38.44.109.41:8003/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Películas" tvg-name="Warner Channel",Warner Channel
-http://38.44.109.41:8003/play/a0hz/index.m3u8
+http://45.171.64.30:6060/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/8CvHq3tg/HBO.jpg" group-title="Películas" tvg-name="HBO",HBO
-http://38.44.109.41:8003/play/a0gn/index.m3u8
+http://45.171.64.30:6060/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/xT1bLS0L/HBO-FAMILY.png" group-title="Películas" tvg-name="HBO FAMILY",HBO FAMILY
 http://190.93.224.42/HBO-FAMILY/index.m3u8
