@@ -57,60 +57,6 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:155_HD.smil/ma
 #EXTINF:-1 tvg-id="HUSTLER" tvg-logo="https://i.postimg.cc/LsZN3sG7/HUSTLER.png" group-title="Adultos" tvg-name="HUSTLER",HUSTLER
 http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/244/manifest.m3u8
 
-#EXTINF:-1 tvg-id="EROX" tvg-logo="https://i.postimg.cc/Vvsj0Hz4/EROX.jpg" group-title="Adultos" tvg-name="EROX",EROX
-http://178.219.128.68:64888/EROXHD
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://45.71.37.194:8010/play/a0m4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX | SEXMEX" tvg-logo="" group-title=":::XXX:::",XXX | SEXMEX
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/539
-
-#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
-http://161.132.194.88:7076/play/a0vt/index.m3u8
-
-#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
-http://45.71.252.67:8000/play/a0o6/index.m3u8
-
-#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://i.postimg.cc/2yBdyn25/SEXTREME.png" group-title="Adultos" tvg-name="SEXTREME",SEXTREME
-http://177.53.153.21:8001/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
-http://45.5.117.182:8000/play/a0gu/index.m3u8
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
-http://161.132.194.88:7076/play/a0vs/index.m3u8
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
-http://45.71.252.67:8000/play/a0o5/index.m3u8
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
-http://177.53.153.21:8001/play/a01o/index.m3u8
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://i.postimg.cc/L5qs5g3W/VENUS.jpg" group-title="Adultos" tvg-name="VENUS",VENUS
-http://149.62.177.156:8000/play/a0di
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://45.5.117.182:8000/play/a0ed/index.m3u8
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://177.53.153.21:8001/play/a0bg/index.m3u8
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://194.145.202.71:8087/udp/239.254.4.227:6060
-
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="https://i.postimg.cc/YCBS29GX/PlayBoy.jpg" group-title="Adultos" tvg-name="PLAYBOY",PLAYBOY
-http://149.62.177.156:8000/play/a0gx
-
-#EXTINF:-1 tvg-id="PRIVATE" tvg-logo="https://i.postimg.cc/QCtwjmKK/PRIVATE.png" group-title="Adultos" tvg-name="PRIVATE",PRIVATE
-http://149.62.183.194:9293/play/a07t
-
-#EXTINF:-1 tvg-id="PRIVATE" tvg-logo="https://i.postimg.cc/QCtwjmKK/PRIVATE.png" group-title="Adultos" tvg-name="PRIVATE",PRIVATE
-http://194.145.202.71:8087/udp/239.254.1.38:6060
-
 #EXTINF:-1 tvg-id="PRIVATE" tvg-logo="https://i.postimg.cc/QCtwjmKK/PRIVATE.png" group-title="Adultos" tvg-name="PRIVATE",PRIVATE
 http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/243/manifest.m3u8
 
