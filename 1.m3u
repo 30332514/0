@@ -656,7 +656,7 @@ http://190.93.224.42/HISTORY/index.m3u8
 http://190.93.224.42/HISTORY-2/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/V69YPxSK/Animal-Planet.png" group-title="Documentales" tvg-name="Animal Planet",Animal Planet
-http://181.205.130.194:4000/play/a0fd
+http://45.171.64.30:6060/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.postimg.cc/sgNfhtNP/national-geographic.jpg" group-title="Documentales" tvg-name="National Geographic",National Geographic
 http://190.93.224.42/NAT-GEO/index.m3u8
