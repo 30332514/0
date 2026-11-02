@@ -137,7 +137,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://i.postimg.cc/B6Cf6xpg/usmptv.png" group-title="Generalistas" tvg-name="USMPTV",USMPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/usmptv.stream/playlist.m3u8
+https://stream.usmptvmedia.net.pe/hls/web_hls/index.m3u8
 
 #EXTINF:-1 tvg-id="CAYETANO PLUS" tvg-logo="http://imgfz.com/i/bnEvL7P.jpeg" group-title="Generalistas" tvg-name="CAYETANO PLUS",CAYETANO PLUS
 https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8
