@@ -58,7 +58,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://i.postimg.cc/2yyS7wpM/willaxtv.jpg" group-title="Generalistas" tvg-name="Willax TV",Willax TV
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(2FiDfVv6MGjgzPQ6RM1Jyvsuel7TY1NIFA7d0ut-PYg6cSmul-j6WgF1obSPSeytJh0ULwx6cazL18Az-c-6gNy4sQmIJfdy4SlTT1NlRelOc12XHaTHjwLQ8apedwk3)/cloud/3/xa63dow/s/live-1080.m3u8
+http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV" tvg-logo="https://i.postimg.cc/htyrk3hh/conecta2tv.jpg" group-title="Generalistas" tvg-name="Conecta2TV",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
