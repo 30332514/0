@@ -19,6 +19,9 @@ https://cloud.live.opencaster.com/playlist_480/index.m3u8
 #EXTINF:-1 tvg-id="Antares HD" tvg-logo="https://i.postimg.cc/QVLQ1mKc/antarestv.png" group-title="Generalistas" tvg-name="Antares HD",Antares HD
 https://tvsamgo.com/socios/antares-tv/playlist.m3u8?t=w1.1793632249.OfqcQs-qW1CtCnBFysEkrg3Q1gOIT8eU
 
+#EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://i.postimg.cc/G3sQnqR1/Antena-3.jpg" group-title="Generalistas"" tvg-name="Antena 3",Antena 3
+http://38.44.109.41:8003/play/a0fu/index.m3u8
+
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://i.postimg.cc/V6Q7XGgw/Arag-n-TV.png" group-title="Generalistas" tvg-name="Aragón TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
