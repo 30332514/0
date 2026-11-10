@@ -105,9 +105,6 @@ https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="OZONO TV" tvg-logo="https://i.postimg.cc/9M7TSgmJ/OZONO.jpg" group-title="Generalistas" tvg-name="OZONO TV",OZONO TV
 https://5790d294af2dc.streamlock.net/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Malu TV" tvg-logo="https://i.postimg.cc/sgzdLh3D/Malu-TV.jpg" group-title="Generalistas" tvg-name="Malu TV",Malu TV
-https://play.agenciastreaming.com:8081/malutv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Oasis RTV" tvg-logo="https://i.postimg.cc/fyxRpYkk/Oasis-RTV.jpg" group-title="Generalistas" tvg-name="Oasis RTV",Oasis RTV
 https://srt.grupolimalive.com:8081/oasistv/tracks-v1a1/playlist.m3u8
 
