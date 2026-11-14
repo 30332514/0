@@ -118,7 +118,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MILENIAL TV" tvg-logo="https://i.postimg.cc/RVL6C7Lt/MILENIAL-TV.jpg" group-title="Generalistas" tvg-name="MILENIAL TV",MILENIAL TV
-https://live-evg5.tv360.bitel.com.pe/bitel/milenial/playlist.m3u8
+https://www.milenial.news/salida/milenial.m3u8
 
 #EXTINF:-1 tvg-id="Nzk Tv" tvg-logo="https://i.postimg.cc/dtD1T7ch/Nzk-Tv.jpg" group-title="Generalistas" tvg-name="Nzk Tv",Nzk Tv
 https://eu1.servers10.com:8081/8258/playlist.m3u8
