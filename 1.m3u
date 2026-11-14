@@ -581,7 +581,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://i.postimg.cc/zG7CkY1M/france24.png" group-title="Informativos" tvg-name="FRANCE 24",FRANCE 24
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT Español" tvg-logo="https://i.postimg.cc/xdgffwcm/rt.png" group-title="Informativos" tvg-name="RT Español",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
