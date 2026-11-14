@@ -48,6 +48,9 @@ https://5949aa132c8fb.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 #EXTINF:-1 tvg-id="Radio TV Perú" tvg-logo="https://i.postimg.cc/B6ywnPft/Radio-TV-Per.png" group-title="Generalistas" tvg-name="Radio TV Perú",Radio TV Perú
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://i.postimg.cc/L63qnBQF/canalN.jpg" group-title="Generalistas" tvg-name="CANAL N",CANAL N
+http://190.108.91.206:9050/play/a0bd/index.m3u8
+
 #EXTINF:-1 tvg-id="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Generalistas" tvg-name="RPP TV",RPP TV
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 
