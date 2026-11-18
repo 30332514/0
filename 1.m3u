@@ -442,7 +442,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/playlist.m3u8
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Deportivos" tvg-name="LIGA 1 MAX",LIGA 1 MAX
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Bicolor+" tvg-logo="" group-title="Deportivos" tvg-name="Bicolor+",Bicolor+
+#EXTINF:-1 tvg-id="Bicolor+" tvg-logo="https://i.postimg.cc/k5m3Tcdt/Bicolor.jpg" group-title="Deportivos" tvg-name="Bicolor+",Bicolor+
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bicolor+ Premium" tvg-logo="" group-title="Deportivos" tvg-name="Bicolor+ Premium",Bicolor+ Premium
