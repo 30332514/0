@@ -611,7 +611,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! PLAY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida" tvg-name="¡HOLA! PLAY",¡HOLA! PLAY
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6433-playout/master.m3u8
 
 #EXTINF:-1 tvg-id="WappTV" tvg-logo="https://i.postimg.cc/T1KGhjZK/WappTV.jpg" group-title="Generalistas" tvg-name="WappTV",WappTV
 https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8
