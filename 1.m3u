@@ -445,7 +445,7 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="Bicolor+" tvg-logo="https://i.postimg.cc/k5m3Tcdt/Bicolor.jpg" group-title="Deportivos" tvg-name="Bicolor+",Bicolor+
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bicolor+ Premium" tvg-logo="" group-title="Deportivos" tvg-name="Bicolor+ Premium",Bicolor+ Premium
+#EXTINF:-1 tvg-id="Bicolor+ Premium" tvg-logo="https://i.postimg.cc/mrgDdB42/Bicolor-Premium.jpg" group-title="Deportivos" tvg-name="Bicolor+ Premium",Bicolor+ Premium
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Bicolor+ Premium 2" tvg-logo="" group-title="Deportivos" tvg-name="Bicolor+ Premium 2",Bicolor+ Premium 2
