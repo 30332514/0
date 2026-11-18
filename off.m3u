@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://i.postimg.cc/X722yRPW/onetoro.png" group-title="Tauromaquia" tvg-name="Onetoro",Onetoro
+https://live-festejos.galgo.tv/out/v1/OneToro/OneToro/OneToro/index-hls.m3u8
+
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/G2227QcG/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
@@ -219,9 +222,6 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1590
 
 #EXTINF:-1 tvg-id="Torolé TV" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ=w240-h480-rw" group-title="Tauromaquia" tvg-name="Torolé TV",Torolé TV
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126192
-
-#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://i.postimg.cc/X722yRPW/onetoro.png" group-title="Tauromaquia" tvg-name="Onetoro",Onetoro
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126511
 
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://i.postimg.cc/FR0hTgxr/AZ-Cinema.jpg" group-title="Películas" tvg-name="AZ CINEMA",AZ CINEMA
 http://45.175.139.194:8000/play/a00c
