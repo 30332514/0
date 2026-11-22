@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://i.postimg.cc/X722yRPW/onetoro.png" group-title="Tauromaquia" tvg-name="Onetoro",Onetoro
 https://live-festejos.galgo.tv/out/v1/OneToro/OneToro/OneToro/index-hls.m3u8
 
+#EXTINF:-1 tvg-id="Latina Podcast" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina Podcast",Latina Podcast
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/G2227QcG/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
