@@ -6,6 +6,18 @@ https://live-festejos.galgo.tv/out/v1/OneToro/OneToro/OneToro/index-hls.m3u8
 #EXTINF:-1 tvg-id="Latina Podcast" tvg-logo="https://i.postimg.cc/J055jRLP/latina.jpg" group-title="Generalistas" tvg-name="Latina Podcast",Latina Podcast
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="OK TeVe" tvg-logo="https://i.postimg.cc/WpQ58dfd/okteve.jpg" group-title="Generalistas" tvg-name="OK TeVe",OK TeVe
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
+
+#EXTINF:-1 tvg-id="MASTER TV" tvg-logo="https://i.postimg.cc/bvWq7rF3/MASTER-TV.jpg" group-title="Generalistas" tvg-name="MASTER TV",MASTER TV
+https://live.obslivestream.com/mastertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COSITEL PERÚ" tvg-logo="https://i.postimg.cc/X7LBn2k4/COSITEL-PER.jpg" group-title="Generalistas" tvg-name="COSITEL PERÚ",COSITEL PERÚ
+https://vod3.qbi.lat:15123/cositel/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cadena Elite" tvg-logo="https://i.postimg.cc/NfMZT8QK/cadenaelite.png" group-title="Musicales" tvg-name="Cadena Elite",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-logo="https://i.postimg.cc/G2227QcG/TV-Per-Internacional.png" group-title="Generalistas" tvg-name="TV Perú Internacional",TV Perú Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
